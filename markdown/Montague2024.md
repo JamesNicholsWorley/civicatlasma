@@ -1,0 +1,289 @@
+                 MONTAGUE, MA
+         According to the forgoing warrant, the legal votes of the six precincts of the Town of
+Montague met in their respective polling places and cast votes for the following named offices
+of which the following is the total vote as returned by the Precinct Officers.
+TOTAL NUMBER OF BALLOTS CAST
+  Turnout by precinct
+Precinct  1 189 14.61%
+Precinct  2 99 8.11%
+Precinct  3 160 14.30%
+Precinct  4 123 10.92%
+Precinct  5 58 5.26%
+Precinct  6 89 8.20%  
+ Total 718 10.34%
+                                        SELECTBOARD, for THREE years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+RICHARD J. KUKLEWICZ 160 85 151 111 47 86 640 *
+WRITE INS 2 2 0 3 7
+0
+BLANKS 27 12 9 12 8 3 71
+TOTALS 189 99 160 123 58 89 718
+verify 718
+                                       MODERATOR, for THREE years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+JOHN J. DEMPSEY 7 13 35 19 1 9 84
+ELIZABETH M. IRVING 40 7 7 8 9 11 82
+WRITE INS 5 9 4 6 5 2 31
+BLANKS 137 70 114 90 43 67 521
+TOTALS 189 99 160 123 58 89 718
+verify 718
+                                         ASSESSOR, for THREE years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+ANN M. CENZANO 161 87 150 109 49 83 639 *
+WRITE INS 1 1
+0
+BLANKS 28 11 10 14 9 6 78
+TOTALS 189 99 160 123 58 89 718
+verify 718
+Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+MELANIE K. AMES ZAMOJSKI 156 86 143 105 49 84 623 *
+WRITE INS 1 2 1 0 4
+0
+BLANKS 32 11 17 18 8 5 91
+TOTALS 189 99 160 123 58 89 718
+verify 718
+                                      BOARD OF HEALTH, for THREE years
+TOWN OF MONTAGUE
+Tuesday, May 21, 2024
+ANNUAL TOWN  ELECTION
+Page 1
+
+                            PUBLIC LIBRARY TRUSTEE, for THREE years Vote for THREE
+PRECINCT 1 2 3 4 5 6 TOTAL
+PATRICIA A. PERHAM 152 86 138 99 49 78 602 *
+GRETCHEN W. WETHERBY 28 12 7 11 5 5 68
+PAMELA G. ALLAN 18 3 3 8 9 5 46
+WRITE INS 11 3 3 6 23
+BLANKS 358 193 332 248 105 179 1415  
+TOTALS 567 297 480 369 174 267 2154  
+verify 2154
+                            PUBLIC LIBRARY TRUSTEE, for TWO years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+JAMES G. MARTINEAU 6 6
+PAMELA G. ALLAN 2 6 1 10 5 24
+WRITE INS 2 6 4 2 5 1 20
+BLANKS 179 87 155 111 48 88 668  
+TOTALS 189 99 160 123 58 89 718  
+verify 718
+                   MONTAGUE HOUSING AUTHORITY, for FIVE years                 Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+WILLIAM J. DOYLE IV 3 1 4 8
+SCOTT R. HYMAN 3 3
+WRITE INS 4 1 4 2 4 15
+BLANKS 185 92 155 117 54 89 692
+TOTALS 189 99 160 123 58 89 718
+verify 718
+             PARKS & RECREATION COMMISSION, for THREE years                        Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+BARBARA D. KUKLEWICZ 157 83 148 106 47 82 623 *
+WRITE INS 1 1 0 2
+0
+BLANKS 31 15 12 17 11 7 93
+TOTALS 189 99 160 123 58 89 718
+verify 718
+ 
+    TRUSTEE, SOLDIERS MEM.,  (Non-Veteran) for THREE Years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+SCOTT R. HYMAN 3 3
+JOHN L. REYNOLDS 2 2
+JEFFREY C. SINGLETON 2 2
+WRITE INS 2 4 5 11
+BLANKS 185 92 155 123 56 89 700
+TOTALS 189 99 160 123 58 89 718
+verify 718
+ 
+    TRUSTEE, SOLDIERS MEM.,  (Veteran) for THREE Years Vote for ONE
+PRECINCT 1 2 3 4 5 6 TOTAL
+CHRISTOPHER P. WILLIAMS 1 1 2
+SCOTT R. HYMAN 1 1
+LORI-LEE ADAMS 1 1
+WRITE INS 2 5 5 1 3 1 17
+BLANKS 187 94 155 121 55 88 700
+TOTALS 189 99 160 123 58 89 718
+verify 718
+Page 2
+
+TOWN MEETING MEMBERS, for THREE years               Vote for not more than SEVEN
+PRECINCT  1
+MARLYN REYNOLDS 137 *
+JUDITH LOREI 151 *
+CLIFFORD SPATCHER 130 *
+SUSAN DORAIS 143 *
+LINDA ACKERMAN 147 *
+MALCOM CLARK 119 *
+WILLAM QUALE 131
+WRITE INS 36
+BLANKS 329
+TOTAL 1323   verify
+TOWN MEETING MEMBERS, for TWO years               Vote for not more than ONE
+PRECINCT  1
+SHEREE I. BLOOMBERG 16
+WRITE INS 10
+BLANKS 163
+TOTAL 189   verify
+TOWN MEETING MEMBERS, for THREE years             Vote for not more than SEVEN
+PRECINCT 2
+STEPHEN CONSTANTINE 72 *
+JAMES MARTINEAU 76 *
+DAVID JENSEN 80 *
+GEORGE GAJDA 70
+ALEXIA E. COTA 6
+DEBRA A. BOURBEAU 2
+TAMMY JEAN TOLZDORF 1
+WRITE INS
+BLANKS 386  
+TOTALS 693  verify
+TOWN MEETING MEMBERS, for THREE years               Vote for not more than SEVEN
+PRECINCT 3
+SHANNON MARTINEAU 135 *
+RACHEL STOLER 130 *
+CAROL GLOSKI 134 *
+JOYCE PHILLIPS 136 *
+RAYMOND A. GODIN 5
+LORI-LEE ADAMS 1
+WRITE INS 2
+BLANKS 577
+TOTAL 1120   verify
+Page 3
+
+TOWN MEETING MEMBERS, for two years               Vote for not more than THREE
+PRECINCT 3
+WRITE INS 5
+BLANKS 475
+TOTAL 480   verify
+TOWN MEETING MEMBERS, for ONE year     Vote for not more than FOUR
+PRECINCT 3
+JOHN L. HIRST 1
+ELIZABETH J. FOGLE 2
+WRITE INS 5
+BLANKS 632
+TOTAL 640   verify
+TOWN MEETING MEMBER, for THREE years                Vote for not more than SEVEN
+PRECINCT 4
+DAVID HARMON 98 *  
+MADDOX SPRENGEL 99 *
+JENNIFER WARYAS 99 *
+ELIZABETH M. JOHNSON 1
+JESSICA K. VACHULA-CURTIS 1
+RACHAEL VACHULA 1
+WRITE INS 3
+BLANKS 559
+TOTAL 861   verify
+TOWN MEETING MEMBER, for TWO years                Vote for not more than TWO
+PRECINCT 4
+CARA S. KLEMPNER 2  
+SCOTT A. CURTIS 1
+BRIDGET LICATA 1
+WRITE INS 1
+BLANKS 241
+TOTAL 246   verify
+TOWN MEETING MEMBER, for ONE year                Vote for not more than ONE
+PRECINCT 4
+CARA S. KLEMPNER 1  
+WRITE INS 2
+BLANKS 120
+TOTAL 123   verify
+Page 4
+
+TOWN MEETING MEMBERS, for THREE years     Vote for not more than SEVEN
+PRECINCT 5
+RICHARD RUTH 39 *
+STANLEY DOBOSZ 48 *
+SUZANNE LOMANTO 46 *
+LISA B. DAVOL 1
+DIANA PEDROSA 1
+JAY D. DIPUCCHIO 1
+MARY J. FEENEY 1
+WRITE INS 8
+BLANKS 261
+TOTAL 406  verify
+TOWN MEETING MEMBERS, for TWO years     Vote for not more than ONE
+PRECINCT 5
+WRITE INS 3
+BLANKS 55
+TOTAL 58  verify
+TOWN MEETING MEMBERS, for ONE year     Vote for not more than ONE
+PRECINCT 5
+BLANKS 56
+WRITE INS 2
+TOTAL 58  verify
+TOWN MEETING MEMBERS, for THREE years                 Vote for not more than SEVEN
+PRECINCT 6
+ANNABEL LEVINE 83 *
+BRENT PITCHER 81 *
+LAURA HEISIG 81 *
+MARY MATTIACE 79 *
+JAMES MUSSONI 78 *
+IAN TAPSCOTT 76 *
+WRITE INS 1
+BLANKS 144
+TOTAL 623   verify
+TOWN MEETING MEMBERS, for TWO years                 Vote for not more than ONE
+PRECINCT 6
+WRITE INS 1
+BLANKS 88
+TOTAL 89   verify
+Page 5
+
+TOWN MEETING MEMBERS, for ONE year                 Vote for not more than ONE
+PRECINCT 6
+WRITE INS 1
+BLANKS 88
+TOTAL 89   verify
+ 
+This is a return of the total votes cast in the various precincts and returned to
+the Board of Registrars by the precinct clerks for the Town of Montague.
+BOARD OF REGISTRARS
+Kathern F. Pierce
+Stanley Dobosz
+Elizabeth Irving
+Wendy Bogusz
+                              Voter turnout: 718    of 6947
+Attest:  
+     Kathern F. Pierce, Montague Town Clerk
+Weather:  Rain in the Evening Warm - Cloudy Day
+10.34%
+Page 6
+
+                   GILL-MONTAGUE REGIONAL SCHOOL COMMITTEE
+                  REPRESENTING THE TOWN OF GILL
+       SCHOOL COMMITTEE for THREE years Vote for not more than ONE *
+PRECINCT 1 2 3 4 5 6 TOTAL
+JAMES DELORENZO 132 73 126 100 42 71 544
+Write Ins 0 0 0 1 1
+0
+BLANKS 57 26 34 23 15 18 173
+TOTALS 189 99 160 123 58 89 718
+verify 718
+                  REPRESENTING THE TOWN OF MONTAGUE 
+                SCHOOL COMMITTEE for THREE  years Vote for not more than TWO *
+PRECINCT 1 2 3 4 5 6 TOTAL
+LORI-LEE ADAMS 119 66 122 85 40 73 505
+CAROL JACOBS 120 58 120 82 39 68 487
+SCOTT HYMAN 30 24 35 21 9 12 131
+0
+0
+0
+0
+WRITE INS 1 0 1 0 0 0 2
+0
+BLANKS 108 50 42 58 28 25 311
+TOTALS 378 198 320 246 116 178 1436
+verify 1436
+                  REPRESENTING THE TOWN OF MONTAGUE 
+                SCHOOL COMMITTEE for TWO  years Vote for not more than ONE *
+PRECINCT 1 2 3 4 5 6 TOTAL
+CLIFFORD SPATCHER 140 80 132 103 43 78 576
+0
+0
+0
+WRITE INS 1 2 1 0 1 1 6
+0
+BLANKS 48 17 27 20 14 10 136
+TOTALS 189 99 160 123 58 89 718
+verify 718
+Attest:
+              Montague Town Clerk
+                 Kathern F. Pierce
+Page 7

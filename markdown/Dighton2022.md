@@ -1,0 +1,82 @@
+ 
+ 
+ANNUAL TOWN ELECTION 
+APRIL 10, 2021 
+TOTAL VOTED  
+ 
+ 
+ 
+SELECTMAN PCT. 1 PCT. 2 TOTAL PUBLIC LIBRARY 
+TRUSTEE 
+PCT. 1 PCT. 2 TOTAL 
+JENNIFER L. DUCZKOWSKI 136 227 363 RITA A. ARAUJO 327 379 706 
+LEONARD E. HULL, JR.  338 350 688 ANN ELAINE MEITZEN 59 86 145 
+BLANKS 7 4 11 BLANKS 96 117 213 
+WRITE-INS 1 1 2 WRITE-INS 0 0 0 
+                                                
+                                                
+TOTALS 482 582 1064 TOTALS 482 582 1064 
+TOWN MODERATOR    PARKS AND RECREATION 
+COMMISSIONER 
+   
+GARY SCOTT DINGUS 317 417 734 KEVIN A. SMITH 318 414 732 
+BLANKS 164 160 324 BLANKS 161 164 325 
+WRITE-INS 1 5 6 WRITE-INS 3 4 7 
+                                                
+                                                
+TOTALS 482 582 1064 TOTALS 482 582 1064 
+BOARD OF ASSESSORS    SEWER COMMISSIONER    
+BLANKS 422 489 911 THOMAS C. FERRY    357 446 803 
+WRITE-INS 13 28 41 BLANKS  122 132 254 
+NANCY GOULART 33 47 80 WRITE-INS 3 4 7 
+DAVID ROSA 14 18 32                         
+                                                
+                                                
+TOTALS 482 582 1064 TOTALS 482 582 1064 
+D-R REG. SCHOOL DIST. 
+COMM. 
+   DIGHTON HOUSING  
+AUTHORITY 
+   
+GLENN A. JEFFERSON 290 349 639 EDWARD J. OLNEY 339 412 751 
+THOMAS L. O'CONNOR, III 271 332 603 BLANKS     142 167 309 
+BLANKS 401 477 878 WRITE-INS 1 3 4 
+WRITE-INS 2 6 8                         
+                                                                            
+                                                
+TOTALS 964 1164 2128 TOTALS 482 582 1064 
+PLANNING BOARD    TREE WARDEN    
+CHRISTOPHER E. CUNHA 293 380 673 THOMAS C. FERRY 358 442 800 
+BLANKS 186 197 383 BLANKS 119 138 257 
+WRITE-INS 3 5 8 WRITE-INS 5 2 7 
+                                                
+                                                
+TOTALS 482 582 1064 TOTALS 482 582 1064 
+ 
+ 
+ 
+ 
+ 
+       
+
+QUESTION 1      PCT. 1   QUESTION 1    PCT. 2   
+YES 202       YES 254       
+NO 247       NO 282       
+BLANKS 33       BLANKS 46       
+TOTALS 482       TOTALS 582       
+QUESTION 2     PCT. 1   QUESTION 2    PCT. 2   
+YES 142       YES 227       
+NO 326       NO 340       
+BLANKS 14       BLANKS 15       
+TOTALS 482       TOTALS 582       
+      
+ 
+ 
+YES NO    
+QUESTION 1       456 529    
+QUESTION 2 369 666    
+      
+PRECINCT 1   PRECINCT 2  
+TOTAL BALLOTS     482  TOTAL BALLOTS     582 
+TOTAL  1064    
+ 
