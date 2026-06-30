@@ -1,0 +1,62 @@
+TOWN OF MEDWAY
+May 21, 2024 
+Town Election
+OFFICIAL RESULTS
+Prec. 1 Prec. 2 Prec. 3 Prec. 4 Total
+SELECT BOARD vt. for 2
+Dennis Crowley 76 112 110 132 430
+Frank Rossi 76 111 111 124 422
+David Blackwell 2 5 2 0 9
+Write-ins 9 8 8 6 31
+Blanks 37 44 39 42 162
+200 280 270 304 1054
+BOARD OF HEALTH vt. for 1 0
+Amie Rotondi 77 108 107 119 411
+Write-ins 1 0 1 0 2
+Blanks 22 32 27 33 114
+100 140 135 152 527
+SCHOOL COMMITTEE vt. for 1 
+Cynthia Sullivan 76 99 95 110 380
+Write-ins 4 2 5 4 15
+Blanks 20 39 35 38 132
+100 140 135 152 527
+PARKS COMMISSION vt. for 1 
+Debra Rossi 77 108 109 125 419
+Write-ins 1 3 2 0 6
+Blanks 22 29 24 27 102
+100 140 135 152 527
+LIBRARY TRUSTEES vt. for 1 
+Susan Alessandri 81 113 109 126 429
+Write-ins 1 1 2 1 5
+Blanks 18 26 24 25 93
+100 140 135 152 527
+
+WATER/SEWER ADVISORY BOARD vt. for 1 
+Tracy Stewart 70 94 94 103 361
+Write-ins 6 4 6 4 20
+Blanks 24 42 35 45 146
+100 140 135 152 527
+HOUSING AUTHORITY vt. for 1 
+Carl Rice 76 110 109 130 425
+Write-ins 1 1 1 1 4
+Blanks 23 29 25 21 98
+100 140 135 152 527
+PLANNING AND ECONOMIC DEV. BOARD vt. for 1 
+Alexandra Vinton 74 114 105 119 412
+Write-ins 0 1 2 0 3
+Blanks 26 25 28 33 112
+100 140 135 152 527
+REDEVELOPMENT AUTHORITY vt. for 1 
+Douglas Downing 75 111 109 124 419
+Write-ins 1 1 2 1 5
+Blanks 24 28 24 27 103
+100 140 135 152 527
+MBTA Letter Question
+Yes 67 102 107 129 405
+No 30 34 27 14 105
+Blanks 3 4 1 9 17
+100 140 135 152 527
+Registered Voters 10,801
+Active 10,027
+Inactive 774
+Voter Turnout 4.87%  
