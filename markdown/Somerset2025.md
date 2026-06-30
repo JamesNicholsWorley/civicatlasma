@@ -1,0 +1,119 @@
+I, Caitlin Hadala, hereby certify the results of the Annual Town Election held on April 14, 2025, at the
+Somerset Berkley Regional High School, as called for by the Election Warrant.
+Ballots Cast 552 545 482 377 410 2366
+CANDIDATE PR  1 PR 2 PR 3 PR 4 PR 5 TOTALS
+SELECTMEN - 3 YR VOTE FOR 1
+Todd Costa 249 268 231 166 260 1174
+Thomas J. Mello 298 263 245 206 145 1157
+WRITE INS 0 0 0 0 0 0
+Blanks 5 14 6 5 5 35
+Totals
+ 552
+ 545
+ 482
+ 377
+ 410
+ 2366
+ 2366
+ASSESSOR - 3 YR VOTE FOR 1
+Donald Setters 399 374 371 269 287 1700
+WRITE INS 0 0 0 0 0 0
+W/I James Mello 1 1
+W/I Sharron Furtado 1 1
+W/I Joe Almeida 1 1
+Blanks 151 171 111 108 122 663
+Totals 552 545 482 377 410 2366
+ 2366
+SCHOOL COMMITTEE - 3 YR VOTE FOR 2
+Christine Courville 306 286 278 192 186 1248
+Carlton Medeiros 216 192 178 167 154 907
+John Ventura 232 234 183 137 218 1004
+WRITE INS 0 0 0 0 0 0
+write in 0 0 0 0 0 0
+W/I James McKenna 1 1
+Blanks 350 378 325 257 262 1572
+Totals 1104 1090 964 754 820 4732
+ 4732
+SOMERSET BERKLEY REG SCHOOL COMM 3 YR VOTE FOR 1
+Michael Pasternak 395 380 357 264 288 1684
+WRITE INS - other 0 0 0 0 0 0
+W/I Carole Foley 1 1
+W/I Holly McNamara 1 1
+W/I Theresa Vasques 1 1
+W/I James McKenna 1 1
+W/I Jim Nasto 1 1
+Blanks 157 165 125 108 122 677
+Totals 552 545 482 377 410 2366
+ 2366
+SOMERSET BERKLEY REG SCHOOL COMM 1 YR Unexpired Term VOTE FOR 1
+Kelly O' Brien 290 258 257 208 189 1202
+Theresa Vasques 185 214 168 129 179 875
+WRITE INS - other 0 0 0 0 0 0
+Blanks 77 73 57 40 42 289
+Totals 552 545 482 377 410 0 2366
+ 2366
+
+DIMAN REG. VOC TECH SCHOOL COMM - 3 YR VOTE FOR 1
+Donald Dibiasio 389 378 362 283 293 1705
+WRITE INS 0 0 0 0 0 0
+W/I Russell Marum 1 1
+W/I Derek Carvalho 1 1
+Blanks 163 167 119 93 117 659
+Totals 552 545 482 377 410 2366
+ 2366
+TRUSTEE OF PUBLIC LIBRARY - 3 YR VOTE FOR 2
+Gayle Bradbury 388 368 366 263 298 1683
+Bridget Marcotte 236 227 200 165 182 1010
+WRITE INS 0 0 0 0 0 0
+WRITE INS 0 0 0 0 0 0
+W/I Kaylee McEmery 2 2
+Blanks 478 495 398 326 340 2037
+Totals 1104 1090 964 754 820 4732
+ 4732
+TRUSTEE OF PUBLIC LIBRARY - 1 YR unexpired term VOTE FOR 1
+Jill M. Dyl 405 383 369 279 310 1746
+WRITE INS 0 0 0 0 0 0
+Blanks 147 162 113 98 100 620
+Totals 552 545 482 377 410 2366
+ 2366
+Water & Sewer Comm- 3YR- VOTE FOR 1
+Joseph F. Bednarik, Jr 293 280 264 200 219 1256
+Elizabeth Paskowski 201 197 164 135 155 852
+WRITE INS 0 0 0 0 0 0
+W/I Robert Lima 1 1
+Blanks 58 67 54 42 36 257
+Totals 552 545 482 377 410 2366
+ 2366
+PLANNING BOARD  5 YR - VOTE FOR 1
+William F. Raposa Jr. 293 267 237 186 143 1126
+Edward Souza 214 222 203 156 247 1042
+WRITE INS 0 0 0 0 0 0
+W/I Eva O'Brian 1 1
+W/I Mark Toolin 1 1
+W/I Robert Gaw 1 1
+Blanks 44 56 41 35 19 195
+Totals 552 545 482 377 410 2366
+ 2366
+PLAYGROUND & RECREATION COMM - 5 YR - VOTE FOR 1
+Maryellen Aspeden 405 380 371 279 301 1736
+WRITE INS 0
+W/I Jeff Kardel 1 0 4 1 0 6
+W/I Christine Marum 1 1
+Blanks 146 165 106 97 109 623
+Totals 552 545 482 377 410 2366
+ 2366
+
+HOUSING AUTHORITY - 5 YR VOTE FOR 1
+Christoper Migneault 398 376 380 269 306 1729
+WRITE INS 0 0 0 0 0 0
+Blanks 154 169 102 108 104 637
+Totals 552 545 482 377 410 2366
+ 2366
+Registered Voters 14749
+Ballots Cast 2366
+Percentage 0.16041766
+A true copy attest;
+Caitlin Hadala
+Caitlin Hadala
+Town Clerk - Chief Election Official
+

@@ -1,0 +1,622 @@
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 1
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+SELECT BOARD (2) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 80 159 125 131 146 641
+MARY JO LaFRENIERE 183 281 249 298 370 1381
+JOHN M. COUTINHO 92 224 199 178 206 899
+SHAHIDUL HASAN MANNAN 207 273 274 275 402 1431
+Write In 6 9 15 14 10 54
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+568 946 862 896 1134 4406
+TOWN MODERATOR (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 53 95 109 88 120 465
+ELLEN D'ARCY RUTTER 224 371 318 358 445 1716
+Write In 7 7 4 2 2 22
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+TOWN CLERK (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 44 73 85 80 107 389
+CONNOR B. DEGAN 236 393 342 367 458 1796
+Write In 4 7 4 1 2 18
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+BOARD OF ASSESSORS (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 58 113 121 97 127 516
+PETER M. MIMMO 221 356 306 350 440 1673
+Write In 5 4 4 1 0 14
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 2
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+BOARD OF HEALTH (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 55 114 121 103 132 525
+RICHARD PETER JACOBS 227 354 306 345 433 1665
+Write In 2 5 4 0 2 13
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+BOARD OF LIBRARY TRUSTEES (2) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 165 293 281 243 319 1301
+SUSAN E. PORTER 216 348 300 348 432 1644
+DAVID DOLLENMAYER 185 299 275 305 380 1444
+Write In 2 6 6 0 3 17
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+568 946 862 896 1134 4406
+BOARD OF LIBRARY TRUSTEES (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For two Years
+Blanks 62 113 118 90 139 522
+ANNE BEAUCHAMP 217 356 309 355 425 1662
+Write In 5 4 4 3 3 19
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+CEMETERY COMISSIONER (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 63 116 117 98 137 531
+KYLA BETH McSWEENEY 218 353 310 349 427 1657
+Write In 3 4 4 1 3 15
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 3
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+CEMETERY COMISSIONER (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For two Years
+Blanks 63 107 117 97 127 511
+LYNDA KIMBALL 220 362 310 351 436 1679
+Write In 1 4 4 0 4 13
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+COMMISSIONERS OF PARKS AND 
+RECREATION (1)
+TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 62 116 112 94 139 523
+CYNTHIA S. ESTHIMER 217 353 316 353 428 1667
+Write In 5 4 3 1 0 13
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+COMMISSIONERS OF TRUST FUNDS (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 63 117 124 102 140 546
+SUSAN M. KURYS 216 352 303 345 427 1643
+Write In 5 4 4 1 0 14
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+CONSTABLE (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 71 125 127 110 146 579
+MICHAEL A. HAYES 208 341 296 337 419 1601
+Write In 5 7 8 1 2 23
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 4
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+CONSTABLE (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Two Years
+Blanks 35 53 55 54 59 256
+JOHN D. CARDILLO 56 77 58 76 84 351
+BETH A. MALLOY 136 205 188 224 297 1050
+MICHAEL TOROSIAN, SR. 56 135 126 94 127 538
+Write In 1 3 4 0 0 8
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+HOUSING AUTHORITY (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Five Year
+Blanks 31 48 37 44 59 219
+LINDA A. Di BONA 74 137 157 104 147 619
+NANCY L. DRAWE 179 288 237 300 361 1365
+Write In 0 0 0 0 0 0
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+HOUSING AUTHORITY (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Two Year
+Blanks 68 117 132 101 144 562
+REBEKA HOFFMAN 213 351 296 346 423 1629
+Write In 3 5 3 1 0 12
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 5
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+PLANNING BOARD (2) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Five Years
+Blanks 155 298 308 246 331 1338
+MARIA ELYSE BARRETT MIHAJLOSKI 206 319 276 324 408 1533
+RONNY PRIEFER 199 323 272 321 393 1508
+Write In 8 6 6 5 2 27
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 0 0 0 0 284
+568 946 862 896 1134 4690
+PLANNING BOARD (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For One Year
+Blanks 70 127 122 109 141 569
+FRANCIS J. DEYOUNG 212 341 305 339 424 1621
+Write In 2 5 4 0 2 13
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+SCHOOL COMMITTEE (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Three Years
+Blanks 16 49 39 37 41 182
+NANCY M. RICHARDS-CAVANAUGH 207 302 278 305 402 1494
+CHRISTOPHER D. MELTON 59 118 112 106 122 517
+Write In 2 4 2 0 2 10
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+SCHOOL COMMITTEE (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For Two Years
+Blanks 16 33 39 26 25 139
+ASHLEY A. FOGG 104 211 187 171 221 894
+HOLLY MORAND 163 226 203 251 320 1163
+Write In 1 3 2 0 1 7
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 6
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+SCHOOL COMMITTEE (1) TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+For One Year
+Blanks 19 37 39 32 27 154
+JENNIFER A. DEVLIN 186 271 238 291 341 1327
+JARED WILLIAM PRAY 77 162 153 125 199 716
+Write In 2 3 1 0 0 6
+Scattered 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+284 473 431 448 567 2203
+QUESTION # 1 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed  to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required to 
+pay for  the bond issued in order to purchase a 
+replacement fire engine for Fire Engine 2, 
+including equipment related to the operation and 
+use of said fire engine?
+Blanks 29 20 16 17 19 101
+YES 213 346 298 351 463 1671
+NO 42 107 117 80 85 431
+284 473 431 448 567 2203
+QUESTION # 2 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required to 
+pay for the bond issued in order to pay for 
+upgrades and repairs in the vicinity of Fire 
+Station No. 2 (Woodville)?
+Blanks 27 22 16 21 23 109
+YES 210 348 297 350 430 1635
+NO 47 103 118 77 114 459
+284 473 431 448 567 2203
+QUESTION # 3 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required 
+to pay for the bond issued in order to perform 
+repair work on the Lake Maspenock Dam 
+Area?
+Blanks 29 26 15 28 30 128
+YES 199 326 312 324 417 1578
+NO 56 121 104 96 120 497
+284 473 431 448 567 2203
+
+ANNUAL TOWN ELECTION
+HOPKINTON, MASSACHUSETTS
+MAY 16, 2022
+Page 7
+TOTAL OF ALL PRECINCTS Ballots   {                       }2203 }
+OFFICE NAME
+QUESTION # 4 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required 
+to pay for the bond issued in order to pay for 
+the replacement of air handling units in the 
+Middle School and High School buildings, 
+including any planning, design, engineering, 
+construction or associated costs or expenses 
+related thereto?
+Blanks 25 21 14 20 18 98
+YES 212 339 299 354 458 1662
+NO 47 113 118 74 91 443
+284 473 431 448 567 2203
+QUESTION # 5 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required 
+to pay for the bond issued in order to pay the 
+increased costs related to the Marathon School 
+Addition project, approved by vote of the 2021 
+Annual Town Meeting, pursuant to Article 17 
+of said Town Meeting's warrant, including 
+any planning, design, engineering, 
+construction or associated costs or expenses 
+related thereto?
+Blanks 31 22 15 20 24 112
+YES 174 290 270 311 402 1447
+NO 79 161 146 117 141 644
+284 473 431 448 567 2203
+QUESTION # 6 TOTAL
+P1
+TOTAL
+P2
+TOTAL
+P3
+TOTAL
+P4
+TOTAL
+P5
+TOTAL 
+BALLOT
+Shall the Town of Hopkinton be allowed to 
+exempt from the provisions of proposition two 
+and one-half, so-called, the amounts required 
+to pay for the bond issued in order to replace 
+the Fruit Street Turf Field including any 
+planning, design, engineering, construction or 
+associated costs or expenses related thereto?
+Blanks 24 23 15 20 22 104
+YES 166 253 243 257 350 1269
+NO 94 197 173 171 195 830
+284 473 431 448 567 2203
