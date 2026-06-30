@@ -1,0 +1,224 @@
+# State/Federal Election Results
+
+Voting takes place at the Nahant Town Hall according to the following schedule:
+
+The Town Clerk administers nomination and election processes, registers voters, and conducts the annual municipal census. Voter registration in Nahant has never been easier than it is today. You may visit the Election Office in Nahant Town Hall and complete a voter registration form in person. Or, you may obtain a mail-in voter registration form from the Town Hall lobby.
+
+### State Election Information
+
+- [2022-State-Election-Unofficial-Results](https://nahant.org/wp-content/uploads/2022/11/2022-State-Election-Unofficial-Results.pdf) File extension: pdf File size: 44 kB
+- [Primary-Election-Unofficial-Results-1](https://nahant.org/wp-content/uploads/2022/11/Primary-Election-Unofficial-Results-1.pdf) File extension: pdf File size: 59 kB
+- [EARLY-VOTING-FAQ](https://nahant.org/wp-content/uploads/2022/11/EARLY-VOTING-FAQ.pdf) File extension: pdf File size: 44 kB
+- [VOTING-OPTIONS.docx](https://nahant.org/wp-content/uploads/2022/11/VOTING-OPTIONS.docx.pdf) File extension: pdf File size: 80 kB
+- [Vote-by-Mail-Paper-Application-2022](https://nahant.org/wp-content/uploads/2022/11/Vote-by-Mail-Paper-Application-2022.pdf) File extension: pdf File size: 95 kB
+- [Voter-Registration-INFO](https://nahant.org/wp-content/uploads/2022/11/Voter-Registration-INFO.pdf) File extension: pdf File size: 42 kB
+
+**State Election Archives**
+
+**ELECTION RESULTS: September 6, 2022, UNOFFICIAL RESULTS**
+
+**ELECTION RESULTS: NOVEMBER 3, 2020, - UPDATED NOVEMBER 5TH**
+
+**Federal Election Archives**
+
+**November 3, 2020**
+
+**Nahant Unofficial Election Results**
+
+**March 1, 2016**
+
+**November 6, 2012**
+
+**PRESIDENT OF THE UNITED STATES OF AMERICA**
+
+**STATE COMMITTEEMAN/WOMAN**
+
+- [Home](\)
+- [Bids &amp; RFPs](https://nahant.org/administrator/bids-rfp/)
+- [Committees &amp; Boards](https://nahant.org/committees/)
+    - [Committees &amp; Boards](https://nahant.org/committees/)
+    - [Submit a Committee Notice](\committee-notice-submission)
+    - [Committee &amp; Board Vacancies](https://nahant.org/committee-board-vacancies/)
+- [Community Topics](#)
+    - [Accessory Dwelling Units (ADU's)](https://nahant.org/accessory-dwelling-units-adus/)
+    - [Coyote Information](https://nahant.org/coyote-information/)
+    - [Flash Road Recreation Master Plan](https://nahant.org/flash-road-recreation-master-plan/)
+    - [Logan Airport Noise Complaints](https://nahant.org/logan-airport-noise-complaints/)
+    - [MBTA 3A Multi Family Zoning](https://nahant.org/multi-family-zoning-mbta/)
+    - [Northern Strand Extension Project](https://nahant.org/northern-strand-extension-project/)
+    - [Sumner Tunnel Closure Information](https://nahant.org/sumner-tunnel-closure-information/)
+    - [The History of Nahant](https://nahant.org/the-history-of-nahant/)
+- [Community Calendar](\calendar)
+- [Contact Town Hall](https://nahant.org/contact/)
+- [Departments](#)
+    - [Town Accountant](https://nahant.org/accountant/)
+    - [Town Administrator](https://nahant.org/administrator/)
+    - [Town Assessor](https://nahant.org/assessor/)
+    - [Town Clerk](https://nahant.org/clerk/)
+    - [Animal Control Officer](https://nahant.org/dog-officer/)
+    - [Coastal Resources](https://nahant.org/coastalresources/)
+    - [Constable](https://nahant.org/constable/)
+    - [Council on Aging](https://nahant.org/council-on-aging/)
+    - [Department of Public Works](https://nahant.org/publicworks/)
+    - [Fire Department](https://nahantfire.org/)
+    - [Harbormaster](https://nahant.org/harbormaster/)
+    - [Inspectional Services](https://nahant.org/inspections/)
+    - [Nahant Public Library](https://nahantlibrary.org/)
+    - [Nahant Johnson Elementary School](https://nahant.org/nahant-school-department/)
+    - [Parking Clerk](https://nahant.org/parkingclerk/)
+    - [Police Department](https://nahantpolice.org/)
+    - [Public Health Department](https://nahant.org/public-health-department/)
+    - [Public Safety](https://nahant.org/emergency-management/)
+    - [Town Moderator](https://nahant.org/moderator/)
+    - [Trash and Recycling](https://nahant.org/trashrecycling/)
+    - [Treasurer/Collector](https://nahant.org/treasurer/)
+    - [NAHANT VETERANS SERVICES](https://nahant.org/veterans-services/)
+- [Documents &amp; Forms](\documents)
+- [Employment Opportunities](https://nahant.org/employment/)
+- [NAHANT'S MARKET BY THE SEA](https://nahant.org/farmersmarket/)
+- [News](\news)
+- [Organizations](https://nahant.org/organizations/)
+- [Places Around Town](\directory)
+- [Town Resources](#)
+    - [Event/Activity Registration Request Form](https://nahant.org/event-activity-registration-request-form/)
+    - [FAQs](https://nahant.org/faqs/)
+    - [Nahant Community Garden](https://nahant.org/nahant-community-garden/)
+    - [Scholarships](https://nahant.org/scholarships/)
+
+### Town of Nahant
+
+Nahant Town Hall 334 Nahant Road | Nahant, MA 01908
+
+Main #: [(781) 581-0088](tel:781-581-0088) Fax: (781) 593-0340
+
+Monday - Thursday 7:30am - 4:00pm Friday 7:30am - 12:30pm
+
+### Places Around Town
+
+- [Nahant Country Club Estate](https://nahant.org/directory/nahant-country-club-estate/) 280 Nahant Road Nahant, MA 01908 in [Community](https://nahant.org/directory-category/community/) , [Function Halls](https://nahant.org/directory-category/function-halls/)
+<!-- image -->
+- [Enzo's Nahant Garage](https://nahant.org/directory/enzos-nahant-garage/) 21 Spring Road Nahant, MA 01908 in [Stores](https://nahant.org/directory-category/stores/)
+<!-- image -->
+- [Knights of Columbus](https://nahant.org/directory/knights-of-columbus/) 17 Relay Yard, Nahant MA 01908 in [Function Halls](https://nahant.org/directory-category/function-halls/) , [Public Places](https://nahant.org/directory-category/public-places/)
+<!-- image -->
+- [The Bayside](https://nahant.org/directory/the-bayside/) 1 Range Rd, Nahant MA 01908 in [Function Halls](https://nahant.org/directory-category/function-halls/)
+<!-- image -->
+
+[More Listings](https://nahant.org/directory/)
+
+### ELECTIONS CHIEF CONTACT
+
+**Diane Dunfee |** Town Clerk &amp; Election Chief [ddunfee@nahant.org](mailto:ddunfee@nahant.org) Phone: (781) 581-0018
+
+### Town Clerk's Office Hours
+
+Monday - Thursday - 8 AM - 4 PM Friday - 8 AM - 12:30 PM
+
+### Elections Chief
+
+- [Town Elections](https://nahant.org/town-elections/)
+- [OCPF](https://nahant.org/document-category/ocpf/)
+- [State/Federal Election Results](https://nahant.org/state-federal-elections/)
+
+### Town Clerk
+
+- [Town Clerk](https://nahant.org/clerk/)
+- [Annual Town Meeting - Information](https://nahant.org/clerk/annual-town-meeting/)
+- [Town Meeting Archives](\document-category\town-meeting)
+- [Town Meeting: Frequently Asked Questions](https://nahant.org/townmeeting-faq/)
+- [Committee Documents](https://nahant.org/committee-documents/)
+- [Annual Town Reports](https://nahant.org/annual-town-reports/)
+- [DBA Certificates](https://nahant.org/dba-certificates/)
+- [Licenses (Dog &amp; Fish)](https://nahant.org/licenses/)
+- [Notary Services](https://nahant.org/clerk/notary-services/)
+- [Open Meeting Guide](https://nahant.org/clerk/open-meeting-guide/)
+- [Public Records Request](https://nahant.org/clerk/public-records-request/)
+- [Public Records Request Form](https://nahant.org/clerk/records-request-form/)
+- [Town Census](https://nahant.org/clerk/town-census/)
+- [Federal Census](https://nahant.org/federal-census/)
+- [Town Charter &amp; By-Laws](https://nahant.org/clerk/charter-bylaws/)
+- [Vital Records Request](https://nahant.org/vital-records-request/)
+
+ar
+
+<!-- image -->
+
+[Arabic](#)
+
+zh-CN
+
+<!-- image -->
+
+[Chinese (Simplified)](#)
+
+nl
+
+<!-- image -->
+
+[Dutch](#)
+
+en
+
+<!-- image -->
+
+[English](#)
+
+fr
+
+<!-- image -->
+
+[French](#)
+
+de
+
+<!-- image -->
+
+[German](#)
+
+ht
+
+<!-- image -->
+
+[Haitian Creole](#)
+
+it
+
+<!-- image -->
+
+[Italian](#)
+
+km
+
+<!-- image -->
+
+[Khmer](#)
+
+pt
+
+<!-- image -->
+
+[Portuguese](#)
+
+ru
+
+<!-- image -->
+
+[Russian](#)
+
+es
+
+<!-- image -->
+
+[Spanish](#)
+
+en
+
+<!-- image -->
+
+en
+
+For a full list of upcoming Summer events including the July 4th festivities
+
+[click here](https://nahant.org/summer-events-2026/)
+
+<!-- image -->
