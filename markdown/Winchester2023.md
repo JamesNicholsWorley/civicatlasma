@@ -1,0 +1,250 @@
+REGISTERED VOTERS: 16351
+Total % Turnout:           9.7%
+TOWN OF WINCHESTER
+ANNUAL ELECTION MARCH 18, 2023
+FINAL RESULTS
+Partly Cloudy/Partly Sunny
+48 degrees
+Total Ballots Cast 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+HEATHER R. VON MERING 149 109 211 142 126 113 155 106 1111
+WRITE-INS 00000000 0
+BLANKS 48 48 75 72 70 51 83 22 469
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+VINCENT LAWRENCE DIXON 25 27 36 11 29 22 23 26 199
+MICHELLE PRIOR 153 113 222 190 147 122 186 91 1224
+WRITE-INS 00000000 0
+BLANKS 19 17 28 13 20 20 29 11 157
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+RICHARD MICHIENZI 122 105 184 133 104 109 147 91 995
+WRITE-INS 00000000 0
+BLANKS 75 52 102 81 92 55 91 37 585
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+GEORGE NOWELL, JR. 128 115 195 141 114 117 154 102 1066
+WRITE-INS 00000000 0
+BLANKS 69 42 91 73 82 47 84 26 514
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts Totals
+GREGORY SAWICKI 139 103 185 133 111 98 150 99 1018
+JENNIFER INFURNA 01 591 582 1 1 30 81
+WRITE-INS 00000000 0
+BLANKS 58 39 92 66 77 45 75 29 481
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+NICHOLAS J. ROSSETTOS 116 95 179 122 98 93 133 84 920
+KERI LAYTON 81 65 135 85 60 57 95 38 616
+WRITE-INS 00000000 0
+BLANKS 197 154 258 221 234 178 248 134 1624
+Totals 394 314 572 428 392 328 476 256 3160
+Precincts 12345678 Totals
+MICHELLE D BERGSTROM 134 101 190 127 112 87 137 92 980
+JOHN DOBBINS 3 16 6 19 10 20 13 1 88
+WRITE-INS 00000000 0
+BLANKS 60 40 90 68 74 57 88 35 512
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 12345678 Totals
+MODERATOR  (one to be elected for one year)
+SELECT BOARD (one to be elected for 3 years)
+ASSESSOR (one to be elected for 3 years)
+BOARD OF HEALTH (one to be elected for 3 years)
+PLANNING BOARD (two to be elected for 3 years)
+ASSESSOR (one to be elected for 2 years)
+SCHOOL COMMITTEE  (one to be elected for 3 years)
+LIBRARY BOARD OF TRUSTEE  (two to be elected for 3 years)
+
+REGISTERED VOTERS: 16351
+Total % Turnout:           9.7%
+TOWN OF WINCHESTER
+ANNUAL ELECTION MARCH 18, 2023
+FINAL RESULTS
+Partly Cloudy/Partly Sunny
+48 degrees
+ANGELA Y MURDOUGH 108 94 168 127 102 103 140 85 927
+VICTORIA GARCIA-ALBEA 106 98 135 114 87 85 119 74 818
+WRITE-INS 00000000 0
+BLANKS 180 122 269 187 203 140 217 97 1415
+Totals 394 314 572 428 392 328 476 256 3160
+Precincts 12345678 Totals
+WRITE-INS 00000000 0
+BLANKS 197 157 286 214 196 164 238 128 1580
+Totals 197 157 286 214 196 164 238 128 1580
+Precincts 1 Totals
+AMANDA LEWIS 114 114
+ENZO RASCIONATO 111 111
+MARILYN GAGALIS 95 95
+MEREDITH MASON-CROWLEY 91 91
+JOHN RICHARD 80 80
+GREGORY SAWICKI 92 92
+ROGER WILSON, JR. 107 107
+CHRISTA ANZALONE RUSSO 103 103
+ANN SERA 86 86
+WRITE-INS 0 0
+BLANKS 697 697
+Totals 1576 1576
+Precincts 1 Totals
+JENNIFER RYAN 81 81
+KATHLEEN DUNCAN 50 50
+WRITE-INS 0 0
+BLANKS 66 66
+Totals 197 197
+Precincts 2 Totals
+JAY MELKONIAN 105 105
+RICHARD ROHAN 101 101
+BRIAN SOGOLOFF 91 91
+SOUMYA GANAPATHY 92 92
+DAVID S JUDELSON 89 89
+MICHAEL P GALVIN 97 97
+MICHELLE BLUMSACK 93 93
+BENJAMIN D KEELER 16 16
+Write Ins 00
+BLANKS 572 572
+Totals 1256 1256
+HOUSING AUTHORITY (one to be elected for 5 years)
+Town Meeting Members Precinct 1 ( 8 to be elected for 3 years)
+Town Meeting Members Precinct 2 (8 to be elected for 3 years)
+                                             Town Meeting Members Precinct 1 ( 1 to be elected for 2 years)
+
+REGISTERED VOTERS: 16351
+Total % Turnout:           9.7%
+TOWN OF WINCHESTER
+ANNUAL ELECTION MARCH 18, 2023
+FINAL RESULTS
+Partly Cloudy/Partly Sunny
+48 degrees
+                                 Town Meeting Members Precinct 2 ( 1 to be elected for 1 year)
+Precincts 2 Totals
+MENINA WIDOM 91 91
+WRITE-INS 0 0
+BLANKS 66 66
+Totals 157 157
+           Town Meeting Members Precinct 2 ( 1 to be elected for 2 years)
+Precincts 2 Totals
+SHUKONG OU 107 107
+WRITE-INS 0 0
+BLANKS 50 50
+Totals 157 157
+Precincts 3 Totals
+THEODORE MICHALSKI 92 92
+ELISA JAZAN 143 143
+LANCE R GRENZEBACK 171 171
+HEATHER S MANGO 150 150
+JOAN M GRENZEBACK 170 170
+SUSAN KOPMAN LEWIS 179 179
+VINCENT LAWRENCE DIXON 78 78
+JOHN M LOONEY 117 117
+LAUREN COSTELLO 151 151
+MICHELLE D BERGSTROM 163 163
+WRITE-INS 0 0
+BLANKS 874 874
+Totals 2288 2288
+Precincts 3 Totals
+MEGHAN SHEEHAN 66 66
+LAUREN KUZMAK-HERRMANN 48 48
+SARAH GANNON 85 85
+WRITE-INS 0 0
+BLANKS 87 87
+Totals 286 286
+Precincts 4 Totals
+JARED CUMMING 124 124
+BRIAN MCCARTHY 124 124
+MY LINH TRUONG 122 122
+SUSAN SCHWARTZ 126 126
+STEPHEN ENGEL 124 124
+STEVEN BONNELL 131 131
+BRIAN A VERNAGLIA 146 146
+THOMAS SCHRULE 19 19
+WRITE-INS 00
+BLANKS 796 796
+Totals 1712 1712
+                                                        Town Meeting Members Precinct 3 ( 1 to be elected for 2 years)
+                                                         Town Meeting Members Precinct 3 (8 to be elected for 3 years)
+                                                                       Town Meeting Members Precinct 5 (8 to be elected for 3 years)
+                                         Town Meeting Members Precinct 4 ( 8 to be elected for 3 years)
+
+REGISTERED VOTERS: 16351
+Total % Turnout:           9.7%
+TOWN OF WINCHESTER
+ANNUAL ELECTION MARCH 18, 2023
+FINAL RESULTS
+Partly Cloudy/Partly Sunny
+48 degrees
+Precincts 5 Totals
+DANIEL D MCGURL 70 70
+MARIANO GOLUBOFF 106 106
+KATHRYN HUGHES 81 81
+I-CHING KATIE SCOTT 99 99
+PETER CHEIMETS 91 91
+HEIDI R RUTSTEIN DILEO 74 74
+CHARLENE C BAND 97 97
+JANICE A DOLAN 89 89
+ALAN H FIELD 83 83
+WRITE-INS 00
+BLANKS 778 778
+Totals 1568 1568
+                                                                                 Town Meeting Members Precinct 5 ( 1 to be elected for 1 yr.)
+Precincts 5 Totals
+JASON ROEDER 90 90
+STEFANIE MNAYARJI 62 62
+WRITE-INS 0 0
+BLANKS 44 44
+Total 196 196
+Totals
+Precincts 6
+CATHERINE COTE TOMEY 80 80
+PATRICK MATTESON 83 83
+TAYLOR TINMOUTH 76 76
+RICHARD M MUCCI 73 73
+MICHAEL BETTENCOURT 83 83
+ROBERT E COLT 64 64
+PHILIP FRATTAROLI 101 101
+JAMES A JOHNSON III 75 75
+WRITE-INS 00
+BLANKS 677 677
+Totals 1312 1312
+                                                                    Town Meeting Members Precinct 6 ( 1 to be elected for 1 yr.)
+Precincts 6 Totals
+KRISTOPHER GALLETTA 17 17
+WRITE-INS 00
+BLANKS 147 147
+Totals 164 164
+                                                                                        Town Meeting Members Precinct 6 ( 8 to be elected for 3 years)
+
+REGISTERED VOTERS: 16351
+Total % Turnout:           9.7%
+TOWN OF WINCHESTER
+ANNUAL ELECTION MARCH 18, 2023
+FINAL RESULTS
+Partly Cloudy/Partly Sunny
+48 degrees
+                                                       Town Meeting Members Precinct 7 (8 to be elected for 3 years)
+Precincts 7 Totals
+THOMAS HOPCROFT 103 103
+LAUREN L L'ESPERANCE 97 97
+ISOBEL MAGEE 96 96
+LEIGH HURD 104 104
+STEPHEN P CAMPBELL 104 104
+JEAN S JONES 110 110
+JENNIFER HAEFELI 115 115
+BRIAN ROWAN 99 99
+MEGAN BLACKWELL 112 112
+WRITE-INS 00
+BLANKS 964 964
+Total 1904 1904
+                                                               Town Meeting Members Precinct 8 ( 8 to be elected for 3 years) Totals
+Precincts 8
+REBECCA J SLISZ 92 92
+CATHERINE C BAUER 93 93
+RAEGAN E MCCAIN 89 89
+ALISON H SWALLOW 90 90
+DONALD P BRADFORD 86 86
+WEI CHEN 93 93
+MICHAEL CREANE 71 71
+RUSSELL J GAY 86 86
+WRITE-INS 00
+BLANKS 324 324
+Total 1024 1024
+I hereby certify these are the Official Election Results for the Annual Town Election held on Saturady March 18, 2023. Certified by 
+MaryEllen Lannon, CMC Winchester Town Clerk effective March 21, 2023
