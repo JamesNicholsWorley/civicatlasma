@@ -1,0 +1,1227 @@
+ANNUAL TOWN ELECTION APRIL 2 2024 OFFICIAL RESULTS
+PRECINCT 1
+PRECINCT 2
+PRECINCT 3
+PRECINCT 4
+PRECINCT 5
+PRECINCT 6
+PRECINCT 7
+PRECINCT 8
+PRECINCT 9
+TOTAL
+Registered voters
+ 3209
+ 2340
+ 396
+ 2929
+ 2922
+ 2785
+ 3052
+ 3332
+ 3385
+ 24350
+Voters
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+ 15.6
+TOWN CLERK
+SARAH HASKELL ARRUDA
+ 261
+ 255
+ 31
+ 282
+ 387
+ 264
+ 426
+ 562
+ 509
+ 2977
+Other
+ 1
+ 1
+ 0
+ 2
+ 2
+ 1
+ 4
+ 3
+ 1
+ 23
+Times Blank Voted
+ 66
+ 54
+ 8
+ 99
+ 89
+ 61
+ 123
+ 133
+ 175
+ 808
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+SELECT BOARD LOT #1
+DAVID ALAN TATELBAUM
+ 257
+ 243
+ 31
+ 291
+ 377
+ 257
+ 434
+ 572
+ 524
+ 2986
+Other
+ 4
+ 1
+ 0
+ 4
+ 2
+ 3
+ 7
+ 6
+ 4
+ 41
+Times Blank Voted
+ 67
+ 66
+ 8
+ 88
+ 99
+ 66
+ 112
+ 120
+ 157
+ 760
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+SELECT BOARD LOT #3
+CHRISTOPHER J. O’NEIL
+ 160
+ 163
+ 20
+ 187
+ 277
+ 165
+ 314
+ 422
+ 412
+ 2120
+JOHN V. SOUSA
+ 137
+ 124
+ 17
+ 178
+ 148
+ 142
+ 186
+ 216
+ 215
+ 1363
+Other
+ 0
+ 0
+ 0
+ 0
+ 1
+ 0
+ 3
+ 0
+ 0
+ 8
+Times Blank Voted
+ 31
+ 23
+ 2
+ 18
+ 52
+ 19
+ 50
+ 60
+ 58
+ 313
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+ASSESSOR
+CURTIS CRAIG NUNES
+ 208
+ 222
+ 25
+ 246
+ 306
+ 262
+ 320
+ 425
+ 414
+ 2428
+ALBERT W. LAY
+ 74
+ 52
+ 8
+ 79
+ 111
+ 37
+ 147
+ 143
+ 134
+ 785
+Other
+ 0
+ 0
+ 0
+ 1
+ 0
+ 0
+ 2
+ 1
+ 1
+ 10
+Times Blank Voted
+ 46
+ 36
+ 6
+ 57
+ 61
+ 27
+ 84
+ 129
+ 136
+ 582
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+SCHOOL COMMITTEE MEMBER
+MARY M. BECKWITH
+ 135
+ 154
+ 19
+ 194
+ 226
+ 135
+ 241
+ 410
+ 374
+ 1888
+KYLE ROSS
+ 165
+ 137
+ 20
+ 162
+ 226
+ 186
+ 252
+ 240
+ 255
+ 1643
+Other
+ 0
+ 0
+ 0
+ 1
+ 2
+ 0
+ 46
+ 1
+ 1
+ 51
+Times Blank Voted
+ 28
+ 19
+ 0
+ 26
+ 24
+ 15
+ 48
+ 47
+ 55
+ 262
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 336
+ 553
+ 698
+ 685
+ 3800
+TRUSTEE OF FREE PUBLIC LIBRARIES - 3 YRS
+
+MARY-ANN COLE
+ 183
+ 195
+ 22
+ 236
+ 275
+ 206
+ 305
+ 304
+ 282
+ 2008
+LINDA MARLENE GARIBALDI
+ 193
+ 158
+ 25
+ 196
+ 254
+ 166
+ 307
+ 440
+ 390
+ 2129
+MAYA ANNA MATTHY WOLFSON
+ 107
+ 97
+ 12
+ 124
+ 153
+ 98
+ 142
+ 287
+ 281
+ 1301
+Other
+ 0
+ 2
+ 0
+ 0
+ 0
+ 0
+ 2
+ 0
+ 0
+ 14
+Times Blank Voted
+ 173
+ 168
+ 19
+ 210
+ 274
+ 182
+ 350
+ 365
+ 417
+ 2158
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+TRUSTEE OF FREE PUBLIC LIBRARIES - 1 YR
+LYNNE M. COTTER
+ 252
+ 233
+ 30
+ 259
+ 345
+ 238
+ 367
+ 475
+ 444
+ 2643
+Other
+ 0
+ 0
+ 0
+ 0
+ 2
+ 0
+ 3
+ 4
+ 1
+ 20
+Times Blank Voted
+ 76
+ 77
+ 9
+ 124
+ 131
+ 88
+ 183
+ 219
+ 240
+ 1147
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+MEMBER OF BOARD OF HEALTH
+RICHARD A. ROMERO
+ 245
+ 232
+ 30
+ 266
+ 344
+ 247
+ 375
+ 480
+ 443
+ 2662
+Other
+ 0
+ 0
+ 0
+ 1
+ 1
+ 0
+ 3
+ 2
+ 1
+ 18
+Times Blank Voted
+ 83
+ 78
+ 9
+ 116
+ 133
+ 79
+ 175
+ 216
+ 241
+ 1130
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+MEMBER OF PLANNING BOARD
+MARGARET ANN SWEET
+ 244
+ 242
+ 30
+ 261
+ 336
+ 244
+ 395
+ 478
+ 473
+ 2703
+Other
+ 2
+ 0
+ 0
+ 1
+ 2
+ 0
+ 3
+ 5
+ 4
+ 26
+Times Blank Voted
+ 84
+ 68
+ 9
+ 121
+ 140
+ 82
+ 155
+ 215
+ 208
+ 1082
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+MEMBER OF PARKS AND RECREATION BOARD
+JOAN BRITTO
+ 223
+ 217
+ 28
+ 245
+ 307
+ 240
+ 355
+ 450
+ 443
+ 2508
+SARAH ASHLEY FRESHMAN
+ 217
+ 210
+ 25
+ 228
+ 305
+ 202
+ 298
+ 412
+ 390
+ 2287
+Other
+ 0
+ 0
+ 0
+ 2
+ 1
+ 0
+ 0
+ 1
+ 2
+ 6
+Times Blank Voted
+ 216
+ 193
+ 25
+ 291
+ 343
+ 210
+ 453
+ 533
+ 535
+ 2799
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+MEMBER OF HOUSING AUTHORITY
+ELAINE CAROLYN LANCASTER
+ 244
+ 239
+ 31
+ 259
+ 344
+ 241
+ 377
+ 473
+ 452
+ 2660
+Total number of write-ins
+ 0
+ 0
+ 0
+ 2
+ 0
+ 1
+ 0
+ 2
+ 1
+ 21
+Times Blank Voted
+ 84
+ 71
+ 8
+ 122
+ 134
+ 84
+ 176
+ 223
+ 232
+ 1134
+Total Ballots
+ 328
+ 310
+ 39
+ 383
+ 478
+ 326
+ 553
+ 698
+ 685
+ 3800
+TOWN MEETING MEMBERS PRECINCT 1 3 Years-15
+STEVEN J. SOUZA
+ 217
+
+
+DIANE M. CAMACHO
+ 216
+ARIANA D. SLIGAR
+ 199
+MEAGHAN A. LINCOLN
+ 197
+STANLEY J. BIELUSIAK
+ 194
+RICHARD H. THEG
+ 190
+PETER THOMAS HOWLAND
+ 186
+Daniel Gioiosa
+ 7
+Noah Souza
+ 5
+Evan Garcia
+ 3
+Claire Thibodeau
+ 2
+Russell Wakefield
+ 2
+Elizabeth Souza
+ 2
+Tie Breaker Last Two Seats
+Other
+ 24
+Times Blank Voted
+ 3498
+Total Ballots
+ 328
+TOWN MEETING MEMBERS PRECINCT 2 3 Years-15
+GEORGE E. FERREIRA
+ 210
+ROBERT J. ENOS
+ 207
+JEANNE M. ROBINSON
+ 206
+Scott Doliner
+ 2
+Robert Michaud
+ 2
+Wayne Hawes
+ 2
+Krysten Savoy
+ 1
+Eric Mara
+ 1
+Other
+ 8
+Times Blank Voted
+ 4011
+Total Ballots
+ 310
+TOWN MEETING MEMBERS PRECINCT 3 - 3 YRS 3 Years-15
+Total Ballots
+ 39
+TOWN MEETING MEMBERS PRECINCT 3 - 2 YRS unex.
+Total number of write-ins
+ 0
+Times Blank Voted
+ 342
+Total Ballots
+ 38
+TOWN MEETING MEMBERS PRECINCT 3 - 1 YR unex.
+Total number of write-ins
+ 0
+Times Blank Voted
+ 494
+Total Ballots
+ 38
+
+
+TOWN MEETING MEMBERS PRECINCT 4 3-Years-14
+LUIZ G. LOPES
+ 245
+ELIZABETH A. DIPAOLO
+ 240
+MICHAEL A. GUILMETTE
+ 238
+TERESA MARIE HAMM
+ 235
+ALEXANDRE M. RAPOSO
+ 217
+Daniel Brush
+ 6
+Damon May
+ 2
+Nancy Manley
+ 1
+Michael Woyciechouski
+ 1
+Jeremey Shea
+ 1
+Dustin Cardoza
+ 1
+Mark Santos
+ 1
+Lisa Santos
+ 1
+Thomas Ferreira
+ 1
+Other
+ 9
+Times Blank Voted
+ 3981
+Total Ballots
+ 383
+TOWN MEETING MEMBERS PRECINCT 5 3 Years-14
+CYNTHIA ANN ROCHA
+ 270
+JILL K. BECKWITH
+ 267
+ROBERT FREITAS
+ 267
+JAMES M. COUTO
+ 262
+STEPHEN B. WITZIG
+ 255
+JAMES JACQUART
+ 248
+MEGHAN L. ROGERS
+ 246
+LAUREN ROUXINOL HELLEY
+ 238
+KATHLEEN ANN DELSORDO
+ 237
+Jerald Fishbein
+ 12
+Susan Kramer
+ 3
+Mark Mogayzel
+ 3
+Tie Breaker for Last 2 Seats
+Other
+ 11
+Times Blank Voted
+ 4339
+Total Ballots
+ 478
+TOWN MEETING MEMBERS PRECINCT 6 3 Years-14
+CORA GAUTHIER
+ 236
+HELIO C. ROSA
+ 226
+Peter Knowlton
+ 6
+Nathan Silva
+ 3
+Paula Faria
+ 2
+
+
+Brian Faria
+ 2
+Tyler Oliver
+ 2
+Antonio Medeiros
+ 1
+George Gauthier
+ 1
+Hannah Rosa
+ 1
+Paul Sylvia
+ 1
+Donna Sylvia
+ 1
+Other
+ 4
+Times Blank Voted
+ 4077
+Total Ballots
+ 326
+TOWN MEETING MEMBERS PRECINCT 7 3 Years-15
+PATRICIA A. BURKE
+ 294
+LAUREN E. SAGAR
+ 268
+ALBERT W. LAY
+ 267
+KAREN ELIZABETH McARTHUR
+ 261
+NANCY L. WILKINSON
+ 261
+ANDREA D'AQUILA LANGHAUSER
+ 260
+DOUGLAS DONALD ROSCOE
+ 258
+BRUCE HAROLD WALTER
+ 246
+LINDA MARIE OGGENFUSS
+ 245
+JOHN OGGENFUSS
+ 243
+Kathleen Pappas
+ 8
+Zachary Tavares
+ 4
+Richard Burke
+ 3
+Susan Crosby
+ 3
+Sandra Zekan
+ 3
+Other
+ 27
+Times Blank Voted
+ 5644
+Total Ballots
+ 553
+TOWN MEETING MEMBERS PRECINCT 8 3 Years-14
+DEBORAH P. BROOKE
+ 316
+COURTNEY ELIZABETH COHEN
+ 302
+DIANE M. GILBERT
+ 301
+TIMOTHY J. LANCASTER
+ 299
+LINDA MARLENE GARIBALDI
+ 298
+MARGO J. MOORE
+ 285
+JACQUELINE L. FIGUEIREDO
+ 280
+MATTHEW C. SYLVAIN
+ 278
+GRACE H. WYSS
+ 261
+SUSAN A. PIELECH
+ 259
+KEVIN NORMAND MURPHY
+ 258
+
+
+GAIL FRANCES COSTA
+ 257
+NED "SKIP" STEWART
+ 256
+JAMES A. VIEIRA
+ 255
+STEPHEN S. PIELECH
+ 244
+MICHELLE A. VIEIRA
+ 238
+Other
+ 23
+Times Blank Voted
+ 5362
+Total Ballots
+ 698
+TOWN MEETING MEMBERS PRECINCT 9 3 Years-15
+LUIS HELDER PEREIRA
+ 392
+JOAN MENARD
+ 381
+ROBERT J. GAUVIN
+ 342
+ROSEANNE O'CONNELL
+ 336
+BRADFORD E. ELLIS
+ 328
+ELAINE CAROLYN LANCASTER
+ 318
+BRIAN STEVEN LEACH
+ 316
+GUY ROBERT TINAY
+ 316
+JILL A. LENZ
+ 313
+KIRK HELLMUTH
+ 311
+DESA E. VAN LAARHOVEN
+ 310
+ANNA PEREIRA
+ 304
+PHILIP LENZ
+ 292
+ROBERT STEWART BROWN
+ 280
+LYNNE TURNER
+ 276
+Tie breaker for last seat
+CHRISTOPHER J. FAY
+ 276
+Other
+ 50
+Times Blank Voted
+ 5134
+Total Ballots
+ 685
+
+
+Precinct 9-3 Years-Vote no more than 15
+LUIS HELDER PEREIRA
+ 392
+JOAN MENARD
+ 381
+ROBERT J. GAUVIN
+ 342
+ROSEANNE O'CONNELL
+ 336
+BRADFORD E. ELLIS
+ 328
+ELAINE CAROLYN LANCASTER
+ 318
+BRIAN STEVEN LEACH
+ 316
+GUY ROBERT TINAY
+ 316
+JILL A. LENZ
+ 313
+KIRK HELLMUTH
+ 311
+DESA E. VAN LAARHOVEN
+ 310
+ANNA PEREIRA
+ 304
+PHILIP LENZ
+ 292
+ROBERT STEWART BROWN
+ 280
+LYNNE TURNER
+ 276
+Tie breaker for last seat
+CHRISTOPHER J. FAY
+ 276
+Other
+ 50
+Times Blank Voted
+ 5134
+Total Ballots
+ 685
+
+
+TOWN MEETING MEMBERS PRECINCT 8 3 Years-Vote for not more than 14
+DEBORAH P. BROOKE
+ 316
+COURTNEY ELIZABETH COHEN
+ 302
+DIANE M. GILBERT
+ 301
+TIMOTHY J. LANCASTER
+ 299
+LINDA MARLENE GARIBALDI
+ 298
+MARGO J. MOORE
+ 285
+JACQUELINE L. FIGUEIREDO
+ 280
+MATTHEW C. SYLVAIN
+ 278
+GRACE H. WYSS
+ 261
+SUSAN A. PIELECH
+ 259
+KEVIN NORMAND MURPHY
+ 258
+GAIL FRANCES COSTA
+ 257
+NED "SKIP" STEWART
+ 256
+JAMES A. VIEIRA
+ 255
+STEPHEN S. PIELECH
+ 244
+MICHELLE A. VIEIRA
+ 238
+Other
+ 23
+Times Blank Voted
+ 5362
+Total Ballots
+ 698
+
+
+TOWN MEETING MEMBERS PRECINCT 7
+PATRICIA A. BURKE
+ 294
+LAUREN E. SAGAR
+ 268
+ALBERT W. LAY
+ 267
+KAREN ELIZABETH McARTHUR
+ 261
+NANCY L. WILKINSON
+ 261
+ANDREA D'AQUILA LANGHAUSER
+ 260
+DOUGLAS DONALD ROSCOE
+ 258
+BRUCE HAROLD WALTER
+ 246
+LINDA MARIE OGGENFUSS
+ 245
+JOHN OGGENFUSS
+ 243
+Kathleen Pappas
+ 8
+Zachary Tavares
+ 4
+Richard Burke
+ 3
+Susan Crosby
+ 3
+Sandra Zekan
+ 3
+Other
+ 27
+Times Blank Voted
+ 5644
+Total Ballots
+ 553
+Kathleen Pappas
+575 Elm Street
+Zachary Tavares
+59 George Street
+Richard Burke
+37 Highland Street
+Susan Crosby
+253 Russells Mills Road
+Sandra Zekan
+8 Farmer's Circle
+
+
+TOWN MEETING MEMBERS PRECINCT 6
+ 14
+CORA GAUTHIER
+ 236
+HELIO C. ROSA
+ 226
+Peter Knowlton
+ 6
+Nathan Silva
+ 3
+Paula Faria
+ 2
+Brian Faria
+ 2
+Tyler Oliver
+ 2
+Antonio Medeiros
+ 1
+Roland Emond
+ 1
+George Gauthier
+ 1
+Hannah Rosa
+ 1
+Paul Sylvia
+ 1
+Donna Sylvia
+ 1
+Other
+ 4
+Times Blank Voted
+ 4077
+Total Ballots
+ 326
+Peter Knowlton
+35 Buttonwood Road
+Antonio Medeiros
+42 Russells Mills Road
+Nathan Silva
+8 Norwell Street
+Paula Faria
+41 Oliver Street
+Brian Faria
+41 Oliver Street
+Roland Emond
+551 Dartmouth Street
+George Gauthier
+223 Richard Street
+Hannah Rosa
+10 Elizabeth Court
+Tyler Oliver
+56 Tripp Street
+Paul Sylvia
+22 Elmview Ave
+Donna Sylvia
+22 Elmview Ave
+
+
+TOWN MEETING MEMBERS PRECINCT 5 14
+CYNTHIA ANN ROCHA
+ 270
+JILL K. BECKWITH
+ 267
+ROBERT FREITAS
+ 267
+JAMES M. COUTO
+ 262
+STEPHEN B. WITZIG
+ 255
+JAMES JACQUART
+ 248
+MEGHAN L. ROGERS
+ 246
+LAUREN ROUXINOL HELLEY
+ 238
+KATHLEEN ANN DELSORDO
+ 237
+Jerald Fishbein
+ 12
+Susan Kramer
+ 3
+Mark Mogayzel
+ 3
+Jack Belkin
+ 2
+George Desrosiers
+ 2
+Kyle Ross
+ 2
+Erika Correia
+ 2
+Other
+ 11
+Times Blank Voted
+ 4339
+Total Ballots
+ 478
+ 2327
+Jerald Fishbein
+44 Wilbur Ave
+Susan Kramer
+150 Fairway Dr.
+Mark Mogayzel
+14 Eighth Green Drive
+Jack Belkin
+59 Bayberry Drive
+George Desrosiers
+628 Tucker Road
+Kyle Ross
+5 Strathmore Road
+Erika Correia
+805 Russells Mills Road
+
+
+TOWN MEETING MEMBERS PRECINCT 4
+ 14
+LUIZ G. LOPES
+ 245
+ELIZABETH A. DIPAOLO
+ 240
+MICHAEL A. GUILMETTE
+ 238
+TERESA MARIE HAMM
+ 235
+ALEXANDRE M. RAPOSO
+ 217
+Daniel Brush
+ 6
+Damon May
+ 2
+Nancy Manley
+ 1
+Michael Woyciechouski
+ 1
+Jeremey Shea
+ 1
+Dustin Cardoza
+ 1
+Mark Santos
+ 1
+Lisa Santos
+ 1
+Thomas Ferreira
+ 1
+Other
+ 9
+Times Blank Voted
+ 3981
+Total Ballots
+ 370
+Nancy Manley
+1116 Fisher Road
+Michael Woyciechouski
+1227 Russells Mills Road
+Daniel Brush
+541 Fisher Road
+Jeremey Shea
+455 Old Westport Road
+Dustin Cardoza
+1 East Quarry Street
+Mark Santos
+367 Old Westport Road
+Lisa Santos
+367 Old Westport Road
+Damon May
+931 Fisher Road
+Thomas Ferreira
+595 Old Westport Road
+
+
+TOWN MEETING MEMBERS PRECINCT 2 3 Years-15
+GEORGE E. FERREIRA
+ 210
+ROBERT J. ENOS
+ 207
+JEANNE M. ROBINSON
+ 206
+Scott Doliner
+ 2
+Robert Michaud
+ 2
+Wayne Hawes
+ 2
+Samuel Steen
+ 1
+Krysten Savoy
+ 1
+Eric Mara
+ 1
+Other
+ 7
+Times Blank Voted
+ 4011
+Total Ballots
+ 310
+Scott Doliner
+Robert Michaud
+Wayne Hawes
+Samuel Steen
+Krysten Savoy
+Eric Mara

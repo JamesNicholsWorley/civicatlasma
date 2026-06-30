@@ -1,0 +1,284 @@
+              WESTFIELD
+     CITY BIENNIAL ELECTION NOVEMBER 7, 2023 # of Voters # Voted % Voted
+         OFFICIAL RESULTS 27842 6194 22.25%
+MAYOR - TWO YEAR TERM - VOTE FOR ONE
+1A 1B 2A/A1 2B 3A 3B 4A 4B 5A 5B 6A 6B/B1 TOTAL
+MICHAEL A. McCABE 531 447 123 299 166 460 216 606 541 520 318 303 4530
+KRISTEN L. MELLO 162 147 65 111 77 135 50 156 140 130 122 109 1404
+Stacey Abrams 1 1
+John Beltrandi 1 1 4 6
+Donald Humason, Jr. 2 2 3 2 1 1 1 12
+Matthew Sawyer 1 1 2
+Karen Pighetti 1 1
+Nick Morgannelli 1 1
+James Cloutier, Sr 1 1 2
+Kevin Bard 1 1 1 2 5
+Trump 1 1
+Fred Luna 1 1
+Matthew Sawyer 1 1 2
+Richard K. Sullivan, Jr. 1 1 1 3
+Efrain Luna 4 4
+Dominic Sarno 1 1
+Tara Conant 1 1
+Quinn Humason 2 2
+Emily Kinney 1 1
+Humason 1 1
+Ralph J. Figy 1 1
+Amy Puffer 1 1
+Brian Boldini 1 1
+CJ Czarnecki 1 1
+James Adams 1 1
+Jessica Britton 1 1
+Brian Fanion 1 1
+Dan Allie 1 1
+Brian Sullivan 1 1
+Clifford Larraway I 1 1
+Robert St.Pierre 1 1
+Donald Trump 1 1
+James R. Adams 3 3
+Albert Masciadrelli 2 2
+Ethan Flaherty 1 1
+Blanks 26 19 6 10 3 14 10 32 22 25 14 14 195
+Total 728 618 195 421 255 611 283 799 712 680 458 434 6194
+
+CITY COUNCIL AT-LARGE- TWO YEAR TERM - VOTE FOR NOT MORE THAN SEVEN
+1A 1B 2A/A1 2B 3A 3B 4A 4B 5A 5B 6A 6B/B1 TOTAL
+JAMES R. ADAMS 418 388 95 263 130 347 202 566 477 416 242 242 3786
+DAN ALLIE 371 328 116 198 125 285 139 382 400 357 278 253 3232
+BRENT B. BEAN II 415 370 104 216 115 358 161 464 463 467 248 265 3646
+CINDY C. HARRIS 343 324 106 219 121 309 143 442 391 362 211 203 3174
+KRISTEN L MELLO 311 276 96 181 118 253 115 336 277 297 205 208 2673
+RICHARD K. SULLIVAN, JR 388 329 95 230 117 326 148 468 429 437 229 225 3421
+JESSICA ANN BRITTON 256 251 98 194 106 221 101 312 283 252 167 168 2409
+JASON DARNELL HOSEY 136 135 53 77 64 114 45 162 125 116 98 85 1210
+NICHOLAS J. MORGANELLI, JR. 366 341 93 182 99 270 147 351 371 349 255 254 3078
+ROBERT PARENT 264 247 66 114 81 190 79 258 237 302 198 225 2261
+Matthew VanHeynigen 2 1 2 1 4 6 1 1 4 1 23
+Richard Salois 1 1
+Mark Goodreau 1 1
+Mark Czerniak, Jr. 1 1
+Rudy Musierait 1 1
+Garrett Baker 1 1
+Siddharth Lodaya 1 1
+Matt Talbot 1 1
+Dan Knapik 1 1
+Agma Sweeney 1 2 3 2 2 2 12
+Jill Soller-Mihlek 1 1
+Efrain Luna 1 1
+Kenneth Mendoza 1 1
+Jeffrey Gosselin 1 1
+Carlos Gambino 1 1
+Robert Cree 1 1
+Karen Cree 1 1
+Kyle Miltimore 1 1
+Heather Pighetti 1 1
+Gloria Williams 1 1
+Jill Adams 1 1
+Jeff Beatie 1 1
+William Rodrigues 1 1
+Jefferson Blood 1 1
+Bill Westerland 1 1
+Andrew Hart 1 1 2
+James Fahey 1 1
+Peter Smith 1 1
+Mike Chechile 1 1
+Mary O'Connell 1 1 2 4
+Dawn Thomas 1 1
+Mark Cressotti 1 1
+Gary Hagar 1 1
+Tim Stoops 1 1
+
+Mary Stoops 1 1
+Eden Stoops 1 1
+Alice Stoops 1 1
+Michael Goldblatt 1 1
+Mike Pence 1 1
+Ron Desantis 1 1
+Tucker Carlson 1 1
+John Bowen 1 1
+Brian Fanion 1 1
+Matthew Sawyer 1 1 2
+Michael Joseph 1 1
+Steven Rynick 1 1
+Daniel Lorenzatti 1 1
+Nate Censebella 1 1
+Jesse Ford 1 1
+Fanion 1 1
+Troy Stucenski 1 1
+Joanne Tersavich 1 1
+Blanks 1825 1335 440 1068 699 1587 692 1837 1527 1492 1071 905 14478
+Total 5096 4326 1365 2947 1785 4277 1981 5593 4984 4860 3206 3038 43458
+SCHOOL COMMITTEE -  FOUR YEAR TERM - VOTE FOR NOT MORE THAN THREE
+1A 1B 2A/A1 2B 3A 3B 4A 4B 5A 5B 6A 6B/B1 TOTAL
+BO SULLIVAN 408 351 104 235 119 341 166 478 433 416 241 252 3544
+MICHAEL D. TIRRELL 391 308 80 202 83 294 137 393 403 352 184 205 3032
+JEFFREY L. GOSSELIN 221 199 73 127 94 188 76 192 195 157 168 142 1832
+JEFFREY MICHAEL GUNTHER 206 222 50 136 88 234 128 377 249 303 141 173 2307
+PAMELA J. KOTARSKI 310 284 74 148 91 208 96 284 267 222 166 144 2294
+GABRIELLA E. MICHALISZYN 145 161 61 109 68 134 62 185 217 188 150 120 1600
+Andrew Mullen 1 2 2 1 6
+Mark Czerniak, Jr. 1 1
+Mark Goodreau 1 1
+Ellen Brosnan 1 1
+Nick Morganelli 1 1
+Dan Allie 1 1
+Jeanne Morganelli 1 1
+Karen Cree 1 1
+Kenneth Mendoza 1 1
+William Tatro 1 1
+Rob Fortier 1 1
+Donald Trump 1 1
+Tim Stoops 1 1
+Mary Stoops 1 1
+Nan Dowd 1 1
+Heather Pighetti 1 1
+
+Ray St. Hillare 1 1
+Sheila Ashton 1 1
+Joanne Tersavich 3 3
+Blanks 502 327 140 304 218 432 183 483 372 401 323 262 3947
+Total 2184 1854 585 1263 765 1833 849 2397 2136 2040 1374 1302 18582
+ATHENAEUM TRUSTEE -  SIX YEAR TERM - VOTE FOR ONE
+1A 1B 2A/A1 2B 3A 3B 4A 4B 5A 5B 6A 6B/B1 TOTAL
+JAYNE M. MULLIGAN 498 432 126 255 152 387 194 541 499 452 312 279 4127
+ERIC LEE McDOWELL 132 119 52 128 79 151 58 177 145 141 90 98 1370
+Mark Czerniak, Jr. 2 2
+Paul Thomas 1 1
+Angelo Bruno 1 1
+Daniel Souza 1 1
+John Fahey 1 1
+Nick Montanarro 1 1
+Joanne Tersavich 1 1
+Blanks 98 65 17 37 22 72 31 81 68 86 56 56 689
+Total 728 618 195 421 255 611 283 799 712 680 458 434 6194
+CITY COUNCIL WARD 1 - TWO YEAR TERM - VOTE FOR ONE
+1A 1B TOTAL
+JOHN BOWEN 195 212 407
+KAREN M. FANION 493 378 871
+Mark Czerniak, Jr. 1 1
+Blanks 40 27 67
+Total 728 618 1346
+MUNICIPAL LIGHT BOARD  WARD 1 - TWO YEAR TERM - VOTE FOR ONE
+1A 1B TOTAL
+KEVIN M. KELLEHER 525 463 988
+Tom Edison 1 1
+Mark Czerniak, Jr 2 2
+Mark Goodreau 1 1
+Joe Dekarski 1 1
+Blanks 202 151 353
+Total 728 618 1346
+
+CITY COUNCIL WARD 2 - TWO YEAR TERM - VOTE FOR ONE
+2A/A1 2B TOTAL
+RALPH JAMES FIGY 87 251 338
+JESSICA ANN BRITTON 101 156 257
+Dan Knapik 1 1
+Blanks 7 13 20
+Total 195 421 616
+MUNICIPAL LIGHT BOARD WARD 2 - TWO YEAR TERM - VOTE FOR ONE
+2A/A1 2B TOTAL
+RAY RIVERA 150 319 469
+Richard K. Sullivan, III 1 1
+Blanks 45 101 146
+Total 195 421 616
+CITY COUNCIL WARD 3 - TWO YEAR TERM - VOTE FOR ONE
+3A 3B TOTAL
+BRIDGET MATTHEWS-KANE 193 501 694
+Bob Cree 1 1
+Sandra Loya 1 1
+Kenneth Mendoza 1 1
+Suzanne T. Seguin 1 1
+Corey Poulin 1 1 2
+Samantha Sherman 1 1
+James Fahey 1 1
+Surprise 1 1
+Jason Tatlock 1 1
+Philip McEwan 1 1
+Blanks 57 104 161
+Total 255 611 866
+MUNICIPAL LIGHT BOARD WARD 3 - TWO YEAR TERM - VOTE FOR ONE
+3A 3B TOTAL
+DAWN M. RENAUDETTE 168 465 633
+Kenneth Menodoza 1 1
+Kiki Franco 1 1
+James Fahey 1 1
+Donald Hill 1 1
+Robert Brogle 1 1
+Albert Zlelinski 1 1
+Helen Ryer 1 1
+John Callahan 1 1
+
+Blanks 85 140 225
+Total 255 611 866
+CITY COUNCIL WARD 4 - TWO YEAR TERM - VOTE FOR ONE
+4A 4B TOTAL
+MICHAEL BURNS 216 615 831
+Dan Kozynoski 1 1
+Mary O'Connell 3 3
+Chris Johnson 1 1
+Kristen Mello 2 2
+Tim Casey 1 1
+Monroe H. Benson 2 2
+Scott LaBombard 1 1
+John Michaliszyn 3 3
+Lindsey Asselin 1 1
+Rich Roy 1 1
+Kathleen Talbot 1 1
+Peter Krawczyk 1 1
+Blanks 60 173 233
+Total 283 799 1082
+MUNICIPAL LIGHT BOARD WARD 4 - TWO YEAR TERM - VOTE FOR ONE
+4A 4B TOTAL
+WILLIAM R. PARKS 194 573 767
+Kristen Mello 2 2
+LePetit Souri 1 1
+Donald Trump 1 1
+Blanks 87 224 311
+Total 283 799 1082
+CITY COUNCIL WARD 5 - TWO YEAR TERM - VOTE FOR ONE
+5A 5B TOTAL
+JOHN J. BELTRANDI III 540 526 1066
+Pat Kane 2 2
+Brian Fanion 1 1
+Donald Trump 1 1
+Lester LeFebre 1 1
+Tim O'Connor 2 2
+John Bowen 1 1
+Lisa Sullivan 1 1
+John Basile 1 1
+Tim Stoops 1 1
+
+Mildred East 1 1
+Blanks 165 149 314
+Total 712 680 1392
+MUNICIPAL LIGHT BOARD WARD 5 - TWO YEAR TERM - VOTE FOR ONE
+5A 5B TOTAL
+JOSEPH B. MITCHELL 534 528 1062
+Laura Valigorsky 1 1
+Brian Fanion 1 1
+Paul Ducheney 1 1
+Kevin Bard 1 1
+Ryan Dumphy 1 1
+Andrew Montanaro 1 1
+Jeff Daley 1 1
+Blanks 173 150 323
+Total 712 680 1392
+CITY COUNCIL WARD 6 - TWO YEAR TERM - VOTE FOR ONE
+6A 6B/B1 TOTAL
+WILLIAM J. ONYSKI 364 342 706
+Jill Adams 1 1 2
+Heather Wyman 1 1
+Hilary Clinton 1 1
+Joanne Tersavich 1 1
+Ben Raines 1 1
+Ethan Flaherty 1 1
+Blanks 91 88 179
+Total 458 434 892
+MUNICIPAL LIGHT BOARD WARD 6 - TWO YEAR TERM - VOTE FOR ONE
+6A 6B/B1 TOTAL
+ROBERT SACCO 323 334 657
+Hilary Clinton 1 1
+Brian P. Sullivan 1 1
+Joanne Tersavich 1 1
+Blanks 133 99 232
+Total 458 434 892
