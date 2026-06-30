@@ -1,0 +1,182 @@
+SELECT BOARD - 3 yrs
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+Mark Phillip Gold
+ 141
+ 145
+ 116
+ 175
+ 156
+ 733
+GRAND TOTAL
+ 733
+Dan Zwirko
+ 328
+ 288
+ 208
+ 176
+ 221
+ 1221
+GRAND TOTAL
+ 1221
+Maury Mitchell Garrett, Jr.
+ 156
+ 151
+ 127
+ 125
+ 132
+ 691
+GRAND TOTAL
+ 691
+Shelly Marie Maynard-Dewolf
+ 305
+ 246
+ 200
+ 199
+ 202
+ 1152
+GRAND TOTAL
+ 1152
+Write-ins
+ 2
+ 3
+ 2
+ 2
+ 0
+ 9
+GRAND TOTAL
+ 9
+PLANNING BOARD
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+Cheryl A. Thibodeau
+ 398
+ 341
+ 250
+ 266
+ 274
+ 1529
+GRAND TOTAL
+ 1529
+Write-ins
+ 3
+ 4
+ 6
+ 7
+ 2
+ 22
+GRAND TOTAL
+ 22
+ OFFICIAL RESULTS - JUNE 3, 2025  ANNUAL TOWN ELECTION
+
+
+SCHOOL COMMITTEE - 3 YRS
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+Zachary Verriden
+ 357
+ 316
+ 209
+ 239
+ 256
+ 1377
+GRAND TOTAL
+ 1377
+Emily Hansen
+ 352
+ 305
+ 250
+ 262
+ 260
+ 1429
+GRAND TOTAL
+ 1429
+Joel Illouz
+ 96
+ 98
+ 96
+ 91
+ 102
+ 483
+GRAND TOTAL
+ 483
+Write-ins
+ 3
+ 3
+ 3
+ 3
+ 1
+ 13
+GRAND TOTAL
+ 13
+SCHOOL COMMITTEE - 2 YRS
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+H. Kate Bean
+ 329
+ 274
+ 196
+ 208
+ 224
+ 1231
+GRAND TOTAL
+ 1231
+Gregory C. Macdonald, III
+ 125
+ 136
+ 106
+ 132
+ 128
+ 627
+GRAND TOTAL
+ 627
+Write-ins
+ 1
+ 1
+ 3
+ 0
+ 0
+ 5
+GRAND TOTAL
+ 5
+HOUSING AUTHORITY
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+Sanjiv Nandlal Reejhsinghani
+ 354
+ 322
+ 235
+ 248
+ 252
+ 1411
+GRAND TOTAL
+ 1411
+Write-ins
+ 3
+ 7
+ 3
+ 9
+ 7
+ 29
+GRAND TOTAL
+ 29

@@ -1,0 +1,340 @@
+OFFICIAL ANNUAL TOWN ELECTION
+MAY 20, 2023
+RECOUNT ON 6/7/23 NOTATED IN RED
+The official results are as follows:
+ PR. 1
+PR. 2
+PR. 3
+PR. 4
+TOTAL
+MODERATOR
+THREE YEAR TERM-VOTE FOR ONE
+MICHAEL G. SEELE
+ 225
+ 197
+ 242
+ 231
+ 895
+WRITE INS
+ 3
+ 9
+ 2
+ 1
+ 15
+BLANKS
+ 57
+ 42
+ 46
+ 58
+ 203
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+TOWN TREASURER/COLLECTOR
+THREE YEAR TERM-VOTE FOR ONE
+KENNETH E. LYTLE
+ 230
+ 201
+ 236
+ 220
+ 887
+WRITE INS
+ 2
+ 3
+ 3
+ 2
+ 10
+BLANKS
+ 53
+ 44
+ 51
+ 68
+ 216
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+SELECTMEN
+THREE YEAR TERM-VOTE FOR TWO
+CARL F. KOWALSKI
+ 147
+ 137
+ 149
+ 172
+ 605
+RANDY LAMATTINA
+ 111
+ 100
+ 125
+ 105
+ 441
+ROSEMARY CONNOLLY
+ 110
+ 93
+ 121
+ 113
+ 437
+LAURA HOWE
+ 144
+ 104
+ 125
+ 129
+ 502
+WRITE INS
+ 0
+ 2
+ 3
+ 0
+ 5
+BLANKS
+ 58
+ 60
+ 57
+ 61
+ 236
+TOTAL
+ 570
+ 496
+ 580
+ 580
+ 2226
+ASSESSOR
+THREE YEAR TERM-VOTE FOR ONE
+JOHN J. NOSKA
+ 213
+ 193
+ 234
+ 219
+ 859
+WRITE-INS
+ 0
+ 1
+ 2
+ 2
+ 5
+BLANKS
+ 72
+ 54
+ 54
+ 69
+ 249
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+PK-12 WHITMAN-HANSON REG. SCHOOL COMM.
+THREE YEAR TERM - VOTE FOR TWO
+STEVEN D. BOIS
+ 159
+ 139
+ 145
+ 151
+ 594
+DAVID FORTH, JR.
+ 112
+ 98
+ 139
+ 126
+ 475
+KAITLIN BARTON
+ 81
+ 75
+ 96
+ 101
+ 353
+KEVIN P. MAYER
+ 121
+ 106
+ 105
+ 115
+ 447
+WRITE-INS
+ 0
+ 1
+ 1
+ 2
+ 4
+BLANKS
+ 97
+ 77
+ 94
+ 85
+ 353
+TOTAL
+ 570
+ 496
+ 580
+ 580
+ 2226
+The polls for the Annual Town Election were opened at 9 a.m. and closed at 5 p.m.
+1113 voters or 10% of the 11,213 registered voters cast ballots.  Included in this total were 78 absentee
+ballots and 15 early voting ballots.  Officers on duty were Lieutenant Christine May-Stafford and
+Sergeant Andrew Stafford.  The  unofficial results were announced by Town Clerk Dawn M. Varley at
+5:08 p.m.  The legal  meeting for the election of officers was held under an amended warrant issued by
+Selectmen on 4/24/23 and posted on 4/24/23 in accordance with Town by-laws.
+
+OFFICIAL ANNUAL TOWN ELECTION
+MAY 20, 2023
+RECOUNT ON 6/7/23 NOTATED IN RED
+PR. 1
+PR. 2
+PR. 3
+PR. 4
+TOTAL
+ PR.1
+PR.2
+PR. 3
+PR. 4
+TOTAL
+DEPT. OF PUBLIC WORKS COMM.
+THREE YEAR TERM - VOTE FOR TWO
+DAVID L. COOK
+ 220
+ 192
+ 232
+ 226
+ 870
+KENNETH J. LAILER
+ 230
+ 188
+ 232
+ 224
+ 874
+WRITE-INS
+ 0
+ 2
+ 4
+ 0
+ 6
+BLANKS
+ 120
+ 114
+ 112
+ 130
+ 476
+TOTAL
+ 570
+ 496
+ 580
+ 580
+ 2226
+PUBLIC LIBRARY TRUSTEE
+THREE YEAR TERM - VOTE FOR TWO
+PATRICIA J. EUNICE
+ 227
+ 197
+ 245
+ 224
+ 893
+SYLVIA S. BUBBINS
+ 201
+ 181
+ 217
+ 207
+ 806
+WRITE-INS
+ 0
+ 1
+ 2
+ 1
+ 4
+BLANKS
+ 142
+ 117
+ 116
+ 148
+ 523
+TOTAL
+ 570
+ 496
+ 580
+ 580
+ 2226
+BOARD OF HEALTH
+THREE YEAR TERM - VOTE FOR ONE
+THOMAS J. EVANS
+ 230
+ 190
+ 243
+ 236
+ 899
+WRITE INS
+ 2
+ 4
+ 3
+ 0
+ 9
+BLANKS
+ 53
+ 54
+ 44
+ 54
+ 205
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+QUESTION #1
+DPW BUILDING
+YES
+ 173
+ 166
+ 189
+ 194
+ 722
+NO
+ 101
+ 76
+ 96
+ 93
+ 366
+BLANKS
+ 11
+ 6
+ 5
+ 3
+ 25
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+QUESTION #2
+APPOINTED - TREASURER/COLLECTOR
+YES
+ 141
+ 125
+ 127
+ 134
+ 527
+NO
+ 123
+ 114
+ 152
+ 146
+ 535
+BLANKS
+ 21
+ 9
+ 11
+ 10
+ 51
+TOTAL
+ 285
+ 248
+ 290
+ 290
+ 1113
+ A TRUE RECORD, ATTEST:
+ Dawn M. Varley
+ TOWN CLERK - WHITMAN
