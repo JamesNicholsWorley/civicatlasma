@@ -1,0 +1,33 @@
+ABSENTEE VOTES 23
+VOTED AT POLLS 258
+TOTAL VOTES CAST: 281 # REGISTERED VOTERS: 4,480
+TURNOUT: 6.27%
+OFFICE/CANDIDATE TOTAL
+MODERATOR (1) Q #1  CHARTER AMENDMENT
+William K. Barton 255 Yes 264
+Blanks 24 No 13
+Scatterings 2 Blanks 4
+SELECT BOARD (2)
+Donald E. Ludwig 219
+Charles Oliver 246
+Blanks 89
+Scatterings 8
+LIBRARY TRUSTEE (2)
+Martha N. Green 260
+Stacie Cassat Green 250
+Blanks 48
+Scatterings 4
+SCHOOL COMMITTEE (1)
+Suzanne Clark Allen 252
+Blanks 26
+Scatterings 3
+WARNER FREE (2)
+Sheila R. Simollardes 247
+Marisa Caruccio Khurana 72
+Blanks 240
+Scatterings 3
+TOWN OF HARVARD, MASSACHUSETTS
+May 17, 2022
+QUESTIONS
+FINAL RESULTS
+ANNUAL TOWN ELECTION
