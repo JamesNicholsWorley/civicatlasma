@@ -1,0 +1,354 @@
+3/17/2022
+Precinct 1 Precinct 2 Precinct 3 Precinct 4 Precinct 5 Precinct 6 Precinct 7 Precinct 8 Total
+Registered Voters 2180 2412 2171 1940 2131 2183 2190 2432 17639
+Cards Cast 1229 1164 936 748 953 1115 854 1246 8245
+Percent Turnout 56.38% 48.26% 43.11% 38.56% 44.72% 51.08% 39.00% 51.23% 46.74%
+MODERATOR
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 836 786 628 495 632 745 568 751 5441 100.00%
+Total Blanks & Uncast 393 378 308 253 321 370 286 495 2804
+MICHAEL J WIDMER 834 782 625 493 630 740 568 749 5421 99.63%
+Write-in Votes, All Others 2 4 3 2 2 5 0 2 20 0.37%
+SELECT BOARD MEMBER
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 828 792 629 480 613 724 571 804 5441 100.00%
+Total Blanks & Uncast 401 372 307 268 340 391 283 442 2804
+MARK A PAOLILLO 820 787 626 475 608 716 569 795 5396 99.17%
+Write-in Votes, All Others 8 5 3 5 5 8 2 9 45 0.83%
+BOARD OF ASSESSORS
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 777 697 575 471 560 661 536 684 4961 100.00%
+Total Blanks & Uncast 452 467 361 277 393 454 318 562 3284
+CHARLES L CLARK 775 694 574 470 559 660 534 681 4947 99.72%
+Write-in Votes, All Others 2 3 1 1 1 1 2 3 14 0.28%
+Election Summary Report
+ANNUAL TOWN ELECTION
+BELMONT, MA
+Summary For All Precincts, All Counters, All Races
+Official Election Results
+4/6/2021
+
+3/17/2022
+Precinct 1 Precinct 2 Precinct 3 Precinct 4 Precinct 5 Precinct 6 Precinct 7 Precinct 8 Total
+BOARD OF CEMETERY 
+COMMISSIONERS
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 848 801 635 509 642 749 590 792 5566 100.00%
+Total Blanks & Uncast 381 363 301 239 311 366 264 454 2679
+ELLEN O'BRIEN CUSHMAN 848 796 632 509 640 748 589 791 5553 99.77%
+Write-in Votes, All Others 0 5 3 0 2 1 1 1 13 0.23%
+BOARD OF HEALTH
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 912 818 699 558 688 854 660 855 6044 100.00%
+Total Blanks & Uncast 317 346 237 190 265 261 194 391 2201
+ADRIENNE S ALLEN 444 364 390 310 357 435 350 427 3077 50.91%
+STEPHEN M FIORE 466 453 308 248 331 418 310 427 2961 48.99%
+Write-in Votes, All Others 2 1 1 0 0 1 0 1 6 0.10%
+HOUSING AUTHORITY 5yrs Total
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 987 907 749 635 767 927 684 978 6634 100.00%
+Total Blanks & Uncast 242 257 187 113 186 188 170 268 1611
+ANNE B MAHON 607 457 445 350 420 569 416 526 3790 57.13%
+TOMMASINA A OLSON 379 448 303 285 346 356 268 451 2836 42.75%
+Write-in Votes, All Others 1 2 1 0 1 2 0 1 8 0.12%
+HOUSING AUTHORITY  4yrs Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 723 645 558 454 555 654 527 634 4750 100.00%
+Total Blanks & Uncast 506 519 378 294 398 461 327 612 3495
+SARAH M BILODEAU 720 644 556 454 554 651 525 633 4737 99.73%
+Write-in Votes, All Others 3 1 2 0 1 3 2 1 13 0.27%
+
+3/17/2022
+Precinct 1 Precinct 2 Precinct 3 Precinct 4 Precinct 5 Precinct 6 Precinct 7 Precinct 8 Total
+BOARD OF LIBRARY TRUSTEES
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 1458 1291 1074 861 1069 1305 1047 1285 9390 100.00%
+Total Blanks & Uncast 578 587 462 378 481 520 380 680 4066
+ELAINE C ALLIGOOD 735 661 561 457 564 671 538 656 4843 51.58%
+CORINNE McCUE OLMSTED 721 627 512 403 502 631 509 624 4529 48.23%
+Write-in Votes, All Others 2 3 1 1 3 3 0 5 18 0.19%
+SCHOOL COMMITTEE
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 2036 1852 1464 1144 1483 1821 1372 1969 13141 100.00%
+Total Blanks & Uncast 438 464 384 360 414 421 347 516 3344
+JAMAL SAEH 706 653 421 268 378 503 413 658 4000 30.44%
+MEGHAN A MORIARTY 611 696 433 295 395 452 347 623 3852 29.31%
+EVELYN GARCIA GOMEZ 332 201 292 240 317 383 277 320 2362 17.97%
+TARA DONNER 273 203 227 203 259 366 233 239 2003 15.24%
+TIMOTHY FLOOD 111 99 91 137 132 114 98 129 911 6.93%
+Write-in Votes, All Others 3 0 0 1 2 3 4 0 13 0.10%
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1229
+Total Votes 6837 100.00%
+ANNE MARIE S MAHONEY * 675 9.87%
+JESSICA BENNETT * 605 8.85%
+JOHN J WEIS * 593 8.67%
+DANIEL J O'CONNELL * 581 8.50%
+EMMA L THURSTON * 569 8.32%
+MARY T.W. GAVIN * 562 8.22%
+PETER J DIZIKES * 561 8.21%
+HENRY McFARLAN OGILBY * 555 8.12%
+DAWN MacKERRON * 547 8.00%
+KIMBERLY N HALEY * 535 7.83%
+JENNIFER G AUSROTAS * 529 7.74%
+STEPHEN TOMCZYK * 518 7.58%
+Write-in Votes, All Others 7 0.10%
+PRECINCT 1 TOWN MTG MEMBER  1yr
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1229
+Total Votes 681 100.00%
+CHRISTOPHER GRANDE * 677 99.41%
+Write-in Votes, All Others 4 0.59%
+PRECINCT 1 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1164
+Total Votes 6325 100.00%
+MEGHAN A MORIARTY * 626 9.90%
+THOMAS CAPUTO * 552 8.73%
+BARRY LUBARSKY * 546 8.63%
+W. SUMNER BROWN * 544 8.60%
+LESLIE J AITKEN * 522 8.25%
+SUZANNE H ROBOTHAM * 516 8.16%
+SUSAN E BURGESS-COX * 516 8.16%
+DAVID C HURLEY * 512 8.09%
+LYDIA LW KOGLER * 511 8.08%
+JUDITH A McSWAIN * 506 8.00%
+KARNIG G OSTAYAN * 482 7.62%
+JOHN J BUCKLEY * 481 7.60%
+Write-in Votes, All Others 11 0.17%
+PRECINCT 2 TOWN MTG MEMBER 2yrs
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1164
+Total Votes 656 100.00%
+WILLIAM MUSSERIAN * 656 100.00%
+Write-in Votes, All Others 0 0.00%
+PRECINCT 2 TOWN MTG MEMBER 1yr
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1164
+Total Votes 720 100.00%
+DERAN M MUCKJIAN * 719 99.86%
+Write-in Votes, All Others 1 0.14%
+PRECINCT 2 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 936
+Total Votes 5404 100.00%
+ADESHINA AYODEJI BAPTISTA * 463 8.57%
+VINCENT P STANTON,JR * 454 8.40%
+BONNIE L FRIEDMAN * 452 8.36%
+JULIET BLAU JENKINS * 447 8.27%
+NORAH C PIEHL * 446 8.25%
+JOSEPH JOHN BERNARD * 432 7.99%
+SHAUN A GOHO * 423 7.83%
+MARY K KENNEDY * 419 7.75%
+RICHARD P HARTLEY * 410 7.59%
+CAROLE WILLIAMS * 388 7.18%
+JASON KETOLA * 366 6.77%
+MICHELLE A YOUNG * 355 6.57%
+ROBERT V KENNEDY 346 6.40%
+Write-in Votes, All Others 3 0.06%
+PRECINCT 3 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 748
+Total Votes 4142 100.00%
+SAMI S BAGHDADY * 405 9.78%
+ANNE B MAHON * 373 9.01%
+DEBRA DEUTSCH * 363 8.76%
+MICHAEL A PALOMO * 348 8.40%
+DANA HARRINGTON * 343 8.28%
+DAVID M WEBSTER * 341 8.23%
+LUCIA E GATES * 332 8.02%
+ELIZABETH B SCHMIDT * 332 8.02%
+JIRAIR M HOVESPIAN * 331 7.99%
+GITANJALI REGE * 324 7.82%
+DANIELL G STEVENS * 319 7.70%
+LINDA DeVITO GHILARDI * 308 7.44%
+ERIC PERKINS 17 0.41%
+Write-in Votes, All Others 6 0.14%
+PRECINCT 4 TOWN MTG MEMBER 2yrs
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 748
+Total Votes 75 100.00%
+RONI S. BAGHDADY * 31 41.33%
+ERIC PERKINS 23 30.67%
+Write-in Votes, All Others 21 28.00%
+PRECINCT 4 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 953
+Total Votes 5184 100.00%
+TOMMASINA A OLSON * 419 8.08%
+SARAH M BILODEAU * 362 6.98%
+SUZANNE W BLOORE * 360 6.94%
+ROGER P WRUBEL * 358 6.91%
+CLAUS C BECKER * 353 6.81%
+KATHLEEN M RUSHE * 353 6.81%
+JESSICA J BARNARD * 346 6.67%
+THAYER DONHAM * 342 6.60%
+HOWARD MARK FINE * 342 6.60%
+CASEY C WILLIAMS * 341 6.58%
+NORMA MASSAROTTI * 340 6.56%
+RAYMOND J JOHNSON * 334 6.44%
+TIMOTHY FLOOD 321 6.19%
+DAVID COLEMAN 316 6.10%
+MATTHEW GASBARRO 286 5.52%
+Write-in Votes, All Others 11 0.21%
+PRECINCT 5 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1115
+Total Votes 6594 100.00%
+LAURIE A GRAHAM * 560 8.49%
+GAIL S MANN * 509 7.72%
+JUDITH R SINGLER * 494 7.49%
+PHILIP K THAYER * 478 7.25%
+JOHN JOSEPH BOWE * 474 7.19%
+LINDA N OATES * 467 7.08%
+JUDITH F FEINLEIB * 453 6.87%
+THEODORE DUKAS * 441 6.69%
+ELSHAD G KASUMOV * 430 6.52%
+AARON B PIKCILINGIS * 419 6.35%
+STEPHEN A EVANS * 406 6.16%
+MARIE V WARNER * 401 6.08%
+JOEL M SEMUELS 398 6.04%
+ROBERT P REARDON 352 5.34%
+PETER A WHITMER 309 4.69%
+Write-in Votes, All Others 3 0.05%
+PRECINCT 6 TOWN MTG MEMBERS 3yrs
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 854
+Total Votes 3996 100.00%
+GLENN PATRICK WONG * 453 11.34%
+MARY-ELLEN OBERHAUSER * 448 11.21%
+JOAN A DREVINS * 440 11.01%
+ALEXANDRA E VAN GEEL * 423 10.59%
+STEPHEN R PINKERTON * 414 10.36%
+WILLIAM TRABILCY * 411 10.29%
+ELIZABETH A GOSS * 397 9.93%
+GEOFFREY G LUBIEN * 380 9.51%
+RICHARD A "NICK" CANDEE * 377 9.43%
+CAROL BERBERIAN * 44 1.10%
+EDWARD BERBERIAN * 39 0.98%
+JAMES W. CURTIN, JR * 33 0.83%
+DAVID BOYAJIAN 32 0.80%
+SARAH A FRIEL 21 0.53%
+MARCIA LIFSHITZ-HAINES 17 0.43%
+VITALIY B LVIN 16 0.40%
+GLEN ALEXANDER MOHR 15 0.38%
+Write-in Votes, All Others 36 0.90%
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 854
+Total Votes 91 100.00%
+DAVID B. BOYAJIAN * 61 67.03%
+EDWARD F. JEDREY 4 4.40%
+GLEN ALEXANDER MOHR 4 4.40%
+MARCIA LIFSHITZ-HAINES 3 3.30%
+VITALIY B LVIN 3 3.30%
+Write-in Votes, All Others 16 17.58%
+PRECINCT 7 TOWN MTG MEMBERS 3yrs
+PRECINCT 7 TOWN MTG MEMBER 1yr
+
+3/17/2022
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1246
+Total Votes 6374 100.00%
+LAURA S CAPUTO * 592 9.29%
+SHARON L DeMARCO * 586 9.19%
+DAVID J DeMARCO * 569 8.93%
+PATRICK J MURPHY, IV * 563 8.83%
+ANTHONY A FERRANTE * 551 8.64%
+KATHLEEN M BASKIN * 548 8.60%
+ELLEN J SUGARMAN * 534 8.38%
+LYNN PETERSON READ * 523 8.21%
+DONALD H MERCIER * 498 7.81%
+DAVID T NUSCHER * 487 7.64%
+MARK KAGAN * 461 7.23%
+KEVIN P BROSNAN * 450 7.06%
+Write-in Votes, All Others 12 0.19%
+Total Percent
+Number of Precincts 1
+Precincts Reporting 1 100.00%
+Times Counted 1246
+Total Votes 681 100.00%
+ALLISON V LENK * 677 99.41%
+Write-in Votes, All Others 4 0.59%
+PRECINCT 8 TOWN MTG MEMBERS 3yrs
+PRECINCT 8 TOWN MTG MEMBERS 2yrs
+
+3/17/2022
+Precinct 1 Precinct 2 Precinct 3 Precinct 4 Precinct 5 Precinct 6 Precinct 7 Precinct 8 Total
+QUESTION 1
+Total Total Total Total Total Total Total Total Total Percent
+Number of Precincts 1 1 1 1 1 1 1 1 8
+Precincts Reporting 1 1 1 1 1 1 1 1 8 100.00%
+Times Counted 1229 1164 936 748 953 1115 854 1246 8245
+Total Votes 1211 1147 919 728 930 1089 838 1227 8089 100.00%
+Number of Uncast Votes 18 17 17 20 23 26 16 19 156
+NO * 618 734 493 473 526 481 477 745 4547 56.21%
+YES 593 413 426 255 404 608 361 482 3542 43.79%
+QUESTION 1:  “Shall the Town of Belmont be allowed to assess an additional $6,400,000 in real estate and personal property taxes for the purposes of 
+supplementing the capital budget and the town and school operating budgets for fiscal year beginning on July 1, 2021?
+Yes________     No________"
