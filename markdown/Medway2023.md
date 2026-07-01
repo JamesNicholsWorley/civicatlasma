@@ -1,0 +1,64 @@
+TOWN OF MEDWAY
+May 16, 2023
+TOWN ELECTION
+OFFICIAL RESULTS
+SELECT BOARD Prec. 1 Prec. 2 Prec. 3 Prec. 4 Total
+Glenn D. Trindade 76 95 96 75 342
+Write-ins 3 4 5 8 20
+Blanks 10 31 25 17 83
+Total 89 130 126 100 445
+BOARD OF HEALTH
+Amie Rotondi 33 46 50 37 166
+Crisitina Areti St-Pierre 48 67 65 53 233
+Write-ins 1 2 0 1 4
+Blanks 7 15 11 9 42
+Total 89 130 126 100 445
+SCHOOL COMMITTEE
+Melissa A. Greenfield 73 92 97 75 337
+Preston Gales 69 87 92 72 320
+Write-ins 3 3 9 8 23
+Blanks 33 78 54 45 210
+Total 178 260 252 200 890
+PARK COMMISSION
+John Farrell 68 86 97 74 325
+Write-ins 1 0 2 1 4
+Blanks 20 44 27 25 116
+Total 89 130 126 100 445
+LIBRARY TRUSTEES 
+Lisa A. Sheehan 77 94 102 82 355
+John S. Smith 78 86 101 78 343
+
+Write-ins 2 4 4 2 12
+Blanks 21 76 45 38 180
+Total 178 260 252 200 890
+PLANNING AND ECONOMIC DEV. BOARD 3-yr.
+Charles A. Myers 41 71 72 51 235
+John William Parlee 58 68 73 45 244
+Andrew S. Rodenhiser 57 80 85 73 295
+Write-ins 0 1 0 0 1
+Blanks 22 40 22 31 115
+Total 178 260 252 200 890
+PLANNING AND ECONOMIC DEV. BOARD 2-yr.
+Timothy J. Harris 63 96 103 73 335
+Write-ins 1 3 8 4 16
+Blanks 25 31 15 23 94
+Total 89 130 126 100 445
+HOUSING AUTHORITY 
+Rita S. Larrabee 78 99 110 83 370
+Write -ins 1 2 2 2 7
+Blanks 10 29 14 15 68
+Total 89 130 126 100 445
+REDEVELOPMENT AUTHORITY 
+Michael A. Griffin Jr. 72 96 106 87 361
+Write-ins 0 1 0 1 2
+Blanks 17 33 20 12 82
+Total 89 130 126 100 445
+WATER SEWER ADVISORY BOARD 
+Steven E. Burke 72 96 106 84 358
+Write-ins 0 1 1 0 2
+Blanks 17 33 19 16 85
+
+Total 89 130 126 100 445
+Number of Registered Voters 10,450
+Active Voters 9,737
+Inactive Voters 713
