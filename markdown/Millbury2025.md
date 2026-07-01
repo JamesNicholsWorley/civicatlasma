@@ -1,0 +1,182 @@
+ANNUAL TOWN ELECTION OFFICIAL RESULTS April 29, 2025 PAGE 1
+# Voters divided by Total # of Voters x 100                            (675/10,10,909 =0.06X100 =  6% Voted)
+BOARD OF SELECTMEN 3 YRS
+VOTE FOR TWO
+ 
+ BLANKS Mary Krumsiek Alan F. D'Allesandro, Jr
+Juliette-Marie Isabella 
+Somerset Brian T. Tagg WRITE-INS TOTAL VOTE
+PRECINCT #1 48 103 65 37 73 2 328
+PRECINCT #2 44 159 87 43 127 0 460
+PRECINCT #3 31 106 44 37 70 0 288
+PRECINCT #4 27 102 55 20 80 0 284
+TOTALS 150 470 251 137 350 2 1360
+SCHOOL COMMITTEE 3 YRS
+VOTE FOR TWO
+  
+ BLANKS Sean Michael Cooper Christine A. Pugliese-Savage Michael S. Taber WRITE-INS TOTAL VOTE
+PRECINCT #1 82 66 95 84 1 328
+PRECINCT #2 88 102 115 152 3 460
+PRECINCT #3 42 63 94 89 0 288
+PRECINCT #4 35 73 90 86 0 284
+TOTALS 247 304 394 411 0 4 1360
+BOARD OF ASSESSORS 3 YRS
+VOTE FOR ONE
+  
+ BLANKS Harold F. Proodian WRITE-INS TOTAL VOTE
+PRECINCT #1 42 120 2 164
+PRECINCT #2 61 168 1 230
+PRECINCT #3 27 117 0 144
+PRECINCT #4 12 130 0 142
+TOTALS 142 535 0 0 0 3 680
+
+ANNUAL TOWN ELECTION April 29, 2025 PAGE 2
+PLANNING BOARD 3 YRS
+VOTE FOR ONE
+  
+ BLANKS Bruce M. Devault WRITE-INS TOTAL VOTE
+PRECINCT #1 40 123 1 164
+PRECINCT #2 58 169 3 230
+PRECINCT #3 28 116 0 144
+PRECINCT #4 19 122 1 142
+TOTALS 145 530 0 0 0 5 680
+BOARD OF HEALTH 3 YRS
+VOTE FOR ONE
+  
+ BLANKS Ronald J. Marlborough WRITE-INS TOTAL VOTE
+PRECINCT #1 31 133 164
+PRECINCT #2 58 172 230
+PRECINCT #3 29 115 144
+PRECINCT #4 11 131 142
+TOTALS 129 551 0 0 0 0 680
+LIBRARY TRUSTEES 3 YRS
+VOTE FOR THREE
+ 
+ BLANKS Eric M. Boll Christine A. Brady Christine M. Fintzel WRITE-INS TOTAL VOTE
+PRECINCT #1 163 109 118 101 1 492
+PRECINCT #2 220 156 164 150 690
+PRECINCT #3 83 118 119 112 432
+PRECINCT #4 95 108 117 106 426
+TOTALS 561 491 518 469 0 1 2040
+
+ANNUAL TOWN ELECTION April 29, 2025 PAGE 3
+RE-DEVELOPMENT AUTHORITY 5 YRS
+VOTE FOR ONE
+ BLANKS Leonard F. Mort WRITE-INS TOTAL VOTE
+PRECINCT #1 38 125 1 164
+PRECINCT #2 60 169 1 230
+PRECINCT #3 25 119 0 144
+PRECINCT #4 26 116 0 142
+TOTALS 149 529 0 0 0 2 680
+RE-DEVELOPMENT AUTHORITY 2 YRS
+VOTE FOR ONE
+  
+ BLANKS WRITE-INS TOTAL VOTE
+PRECINCT #1 151 13 164
+PRECINCT #2 224 6 230
+PRECINCT #3 139 5 144
+PRECINCT #4 136 6 142
+TOTALS 650 0 0 0 0 30 680
+HOUSING AUTHORITY 5 YRS
+VOTE FOR ONE
+ BLANKS Michael K. Michalak, Sr. WRITE-INS TOTAL VOTE
+PRECINCT #1 40 123 1 164
+PRECINCT #2 71 158 1 230
+PRECINCT #3 34 110 0 144
+PRECINCT #4 22 120 0 142
+TOTALS 167 511 0 0 0 2 680
+
+BVT SCHOOL COMMITTEE 4-30-25 UNTIL 11-3-2026
+VOTE FOR ONE
+ BLANKS Jan P. Hanratty WRITE-INS TOTAL VOTE
+PRECINCT #1 39 125 0 164
+PRECINCT #2 57 172 1 230
+PRECINCT #3 17 126 1 144
+PRECINCT #4 17 124 1 142
+TOTALS 130 547 0 0 0 3 680
+
+ANNUAL TOWN ELECTION OFFICIAL WRITE-INS APRIL 29,2025
+BOARD OF SELECTMEN    3 YRS                                   
+Vote for not more than Two PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Mark Robinson 1 1
+Dan Adams 1 1
+TOTALS 2 0 0 0 2
+SCHOOL COMMITTEE 3 YRS                                
+Vote for not more than Two PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Bruce Lavigne 1 1
+Darin Haig 2 2
+Charles Cooper 1 1
+TOTALS 1 3 0 0 4
+BOARD OF ASSESSORS 3 YRS                                     
+VOTE FOR NOT MORE THAN TWO PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+John Dufresne 1 1
+Terry Burke Dotson 1 1
+Maria Woodward 1 1
+TOTALS 2 1 0 0 3
+PLANNING BOARD 3 YRS                                         
+Vote for not more than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Terry Burke Dotson 1 1
+Ron Stead 1 1
+Robert Prytko 1 1
+Terry Burke Dotson 1 1
+Matt Dacri 1 1
+TOTALS 1 3 0 1 5
+
+ANNUAL TOWN ELECTION OFFICIAL WRITE-INS APRIL 29,2025
+BOARD OF HEALTH 3 YRS                                         
+Vote for not more than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+No Write-ins For This Race
+TOTALS 0
+LIBRARY TRUSTEES 3 YRS                                             
+Vote for Not More than Three PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Bruce Lavigne 1 1
+TOTALS 1 0 0 0 1
+HOUSING AUTHORITY 5 YRS                                          
+Vote for Not More than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Charles Hamilton 1 1
+Kevin Brady 1 1
+TOTALS 1 1 0 0 2
+RE-DEVELOPMENT 5 YRS                                  
+Vote for Not More than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Jeff Raymond 1 1
+Gail M. Cosky 1 1
+TOTALS 1 1 0 0 2
+BVT SCHOOL COMMITTEE                                           
+4-30/25 UNTIL 11-3-2026                                                              
+Vote for Not More than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Alex Belisle 1 1
+Jim Morrison 1 1
+Jonathan Bennes 1 1
+TOTALS 0 1 1 1 3
+
+ANNUAL TOWN ELECTION OFFICIAL WRITE-INS APRIL 29,2025
+RE-DEVELOPMENT AUTHORITY 2 YRS       Vote 
+for Not More than One PREC. ONE (1) PREC. TWO (2) PREC. THREE (3) PREC. FOUR (4) TOTAL
+Don Rudge 1 1
+Rachel Corei 1 1
+S. Burdon 1 1
+Jeff Raymond 1 1
+Tim Strom 2 2
+Charles Hamilton 2 2
+Sean M. Cooper 1 1
+Eric Vincequere 1 1
+Mike Georges 1 1
+Evan Robinson 1 1
+Paul Smith 1 1
+Derek Paquette 1 1
+Kevin Brady 1 1
+Daniel Girard 1 1
+Eric T. Vigegar 1 1
+Philip H. Miles 1 1
+Veronica Wood 1 1
+Mike Ryan 1 1
+Scott Rudge 1 1
+Andy Warhol 1 1
+Harold Proodian 1 1
+Michelle Ryll 1 1
+John Langling 2 2
+Philip Mossa 1 1
+William Howard 1 1
+Gail Coski 1 1
+Emily Hagan 1 1
+TOTALS 13 6 0 0 19
