@@ -1,0 +1,193 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+A B C D
+ANNUAL TOWN ELECTION - OFFICIAL RESULTS
+Tuesday, May 20, 2025
+Total Orleans Voters - 5695 - Total Ballots Cast - 1615 28.5% Turnout
+OFFICES Precinct 1 Precinct 2 Total
+MODERATOR (1) 0
+John Kanaga 655 646 1301
+Blanks 151 144 295
+Write-Ins 14 5
+Total Votes 820 795 1615
+SELECT BOARD (2)
+Michael Allen Herman 629 586 1215
+Mark William Mathison 634 591 1225
+Blanks 354 395 749
+All Others 23 18 41
+Total Votes 1640 1590 3230
+CONSTABLE (2)
+Blanks 1602 1460 3062
+Scott McFarland 11 106 117
+Kevin Higgins 6 5 11
+All Others 21 19 40
+Total Votes 1640 1590 3230
+BOARD OF HEALTH (1)
+John P. Smith Jr. 652 582 1234
+Blanks 165 212 377
+All Others 3 1 4
+Total Votes 820 795 1615
+NAUSET REG SCHOOL COMMITTEE (1)
+Elizabeth Dawn Paine 621 589 1210
+Blanks 195 203 398
+All Others 4 3 7
+Total Votes 820 795 1615
+ELEMENTARY SCHOOL COMMITTEE (1)
+Virginia E. Stribula 629 584 1213
+Blanks 187 208 395
+Write-Ins 4 3 7
+Total Votes 820 795 1615
+TRUSTEE FOR SNOW LIBRARY (2)
+Tracy O. Murphy 657 601 1258
+William Francis Powers, Jr. 624 546 1170
+Blanks 355 441 796
+Write-Ins 4 2 6
+Total Votes 1640 1590 3230
+HOUSING AUTHORITY (1)
+John Lipman 1 7 8
+Blanks 779 777 1556
+All Others 40 11 51
+Total Votes 820 795 1615
+Ballot Questions Precinct 1 Precinct 2 Total
+1 - Fire Station Design
+YES 505 538 1043
+NO 303 235 538
+BLANK 12 22 34
+Total 820 795 1615
+2- Lakes and Ponds Sewer
+YES 620 589 1209
+NO 190 175 365
+BLANK 10 31 41
+Total 820 795 1615
+3 - Town Cove Bulkhead
+YES 577 554 1131
+NO 225 209 434
+BLANK 18 32 50
+Total 820 795 1615
+4- Municipal Solar Project
+YES 592 529 1121
+NO 212 241 453
+BLANK 16 25 41
+Total 820 795 1615
+5- Meetinghouse Pond Sewer
+YES 585 522 1107
+NO 214 229 443
+BLANK 21 44 65
+Total 820 795 1615
+6-Departmental Expenses
+YES 574 522 1096
+NO 229 242 471
+BLANK 17 31 48
+Total 820 795 1615
+7-Non-Binding Public Advisory
+YES 714 676 1390
+NO 75 80 155
+BLANK 31 39 70
+Total 820 795 1615
+A True Copy, Attest
+Kelly L. Darling,Town Clerk
