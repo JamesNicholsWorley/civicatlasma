@@ -1,0 +1,231 @@
+{
+  "elections": [
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis Reip",
+          "votes": 192
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wesley Fowlks",
+          "votes": 142
+        },
+        {
+          "name_original": "Richard Guzzardi",
+          "votes": 72
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Fowlks",
+          "votes": 176
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 61,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Planning Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark White",
+          "votes": 166
+        },
+        {
+          "name_original": "Kathleen Vorce",
+          "votes": 175
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Library Trustees",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert McNeece",
+          "votes": 203
+        },
+        {
+          "name_original": "Reeves Briggs",
+          "votes": 188
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Comolli",
+          "votes": 197
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 42,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Weiner",
+          "votes": 191
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2022-05-17",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca Harris",
+          "votes": 215
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boxborough2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxborough2022.pdf",
+  "ballots_cast": 239,
+  "ballots_cast_source": "derived_from_contests"
+}

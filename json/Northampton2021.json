@@ -1,0 +1,642 @@
+{
+  "elections": [
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "MAYOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marc G. Warner",
+          "votes": 2517
+        },
+        {
+          "name_original": "Gina Louise Sciarra",
+          "votes": 5866
+        },
+        {
+          "name_original": "Shanna Fishel",
+          "votes": 29
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 144,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR AT LARGE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marissa Elkins",
+          "votes": 3735
+        },
+        {
+          "name_original": "Jamila E. Gore",
+          "votes": 4321
+        },
+        {
+          "name_original": "Michael J. Quinlan, Jr.",
+          "votes": 3710
+        },
+        {
+          "name_original": "David Alan Murphy",
+          "votes": 2258
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3109,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE AT LARGE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gwen Agna",
+          "votes": 5787
+        },
+        {
+          "name_original": "Aline L. Davis",
+          "votes": 4042
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7281,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily L. Coffin",
+          "votes": 526
+        },
+        {
+          "name_original": "Stanley W. Moulton, III",
+          "votes": 616
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen Foster",
+          "votes": 933
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 222,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David J. Kris",
+          "votes": 429
+        },
+        {
+          "name_original": "James B. Nash",
+          "votes": 606
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 81,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerrick M. Perry",
+          "votes": 697
+        },
+        {
+          "name_original": "Jesse Hassinger",
+          "votes": 224
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexander E. Jarrett",
+          "votes": 999
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 266,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marianne L. LaBarge",
+          "votes": 1065
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 274,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD COUNCILOR",
+      "district_original": "Ward 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachel A. Maiore",
+          "votes": 1022
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 385,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Margaret S. Robbins",
+          "votes": 791
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 422,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Remiel Moses Baskin",
+          "votes": 246
+        },
+        {
+          "name_original": "Holly Nelson Ghazey",
+          "votes": 612
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 298,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Serafy-Cox",
+          "votes": 745
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 368,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael K. Stein",
+          "votes": 609
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 387,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dina Levi",
+          "votes": 899
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 368,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edwin C. Burlingame, Jr.",
+          "votes": 306
+        },
+        {
+          "name_original": "Margaret D. Miller",
+          "votes": 656
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 398,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "WARD SCHOOL COMMITTEE MEMBER",
+      "district_original": "Ward 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kaia E. Coleman",
+          "votes": 904
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 532,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "TRUSTEES OF SMITH VOCATIONAL AND AGRICULTURAL HIGH SCHOOL",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard D. Aquadro",
+          "votes": 2341
+        },
+        {
+          "name_original": "Michael T. Cahillane",
+          "votes": 2594
+        },
+        {
+          "name_original": "John E. Cotton",
+          "votes": 1710
+        },
+        {
+          "name_original": "Julie C. Spencer-Robinson",
+          "votes": 3858
+        },
+        {
+          "name_original": "Thomas M. Fitzgerald",
+          "votes": 1718
+        },
+        {
+          "name_original": "Thomas R. Pease",
+          "votes": 1725
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11759,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "TRUSTEES UNDER THE WILL OF CHARLES E. FORBES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah Sue Bruce",
+          "votes": 4032
+        },
+        {
+          "name_original": "Russell W. Carrier",
+          "votes": 2992
+        },
+        {
+          "name_original": "Stanley E. Sherer",
+          "votes": 1935
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8170,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northampton",
+      "date": "2021-11-02",
+      "office_original": "ELECTOR UNDER THE WILL OF OLIVER SMITH WILL",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Odgers",
+          "votes": 3293
+        },
+        {
+          "name_original": "David Alan Murphy",
+          "votes": 2540
+        },
+        {
+          "name_original": "Douglas J. Amy",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2721,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northampton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northampton2021.pdf",
+  "ballots_cast": 8574,
+  "ballots_cast_source": "derived_from_contests"
+}

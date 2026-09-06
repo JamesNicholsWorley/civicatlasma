@@ -1,0 +1,182 @@
+{
+  "elections": [
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "Select Board-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 357,
+          "tally_row": true
+        },
+        {
+          "name_original": "John William Terrio",
+          "votes": 1611
+        },
+        {
+          "name_original": "Wayne Bergeron",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "Town Clerk- 3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 171,
+          "tally_row": true
+        },
+        {
+          "name_original": "Theresa T. Bunce",
+          "votes": 1837
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "D-Y Regional School Committee - 3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 317,
+          "tally_row": true
+        },
+        {
+          "name_original": "John E. New",
+          "votes": 1688
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "Old Kings Highway Regional Historic District Commissioner-4 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 260,
+          "tally_row": true
+        },
+        {
+          "name_original": "William E. Bohlin",
+          "votes": 1036
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "Water District Commissioner - 3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        },
+        {
+          "name_original": "Paul Richard McCormick",
+          "votes": 1102
+        },
+        {
+          "name_original": "Robert G. Mezzadri",
+          "votes": 460
+        },
+        {
+          "name_original": "Kent Morgan Sargent",
+          "votes": 363
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2024-05-14",
+      "office_original": "Water District Moderator-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 288,
+          "tally_row": true
+        },
+        {
+          "name_original": "William Bradford Crowell",
+          "votes": 1723
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dennis2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dennis2024.pdf",
+  "ballots_cast": 2016,
+  "ballots_cast_source": "derived_from_contests"
+}

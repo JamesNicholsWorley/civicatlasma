@@ -1,0 +1,33 @@
+{
+  "elections": [
+    {
+      "municipality": "Littleton",
+      "date": "2023-05-06",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Karen Morrison",
+          "votes": 1202
+        },
+        {
+          "name_original": "Matthew Nordhaus",
+          "votes": 1054
+        },
+        {
+          "name_original": "Cindy Napoli",
+          "votes": 627
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Littleton2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

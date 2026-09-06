@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Canty",
+          "votes": 157
+        },
+        {
+          "name_original": "Robert T. Ronzio",
+          "votes": 31
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Finance Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellen Manley",
+          "votes": 169
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeff Piemont",
+          "votes": 171
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ethan Klepetar",
+          "votes": 177
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Cemetery Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dean Williams",
+          "votes": 171
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Natasha Loeffler",
+          "votes": 138
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 33,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Art Feltman",
+          "votes": 139
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2026-05-09",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robin C. Mathiesen",
+          "votes": 175
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Becket2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Becket2026.pdf",
+  "ballots_cast": 196,
+  "ballots_cast_source": "derived_from_contests"
+}

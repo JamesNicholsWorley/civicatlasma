@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "BRACKETT",
+          "votes": 1562
+        },
+        {
+          "name_original": "MURPHY",
+          "votes": 1515
+        },
+        {
+          "name_original": "FAVALORO",
+          "votes": 964
+        },
+        {
+          "name_original": "PORTER",
+          "votes": 991
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 229,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "ASSESSOR OF TAXES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "TRUPIANO",
+          "votes": 1956
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 661,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "KORSLUND",
+          "votes": 1546
+        },
+        {
+          "name_original": "SIMMONS",
+          "votes": 1518
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2185,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "SHARFSTEIN",
+          "votes": 2040
+        },
+        {
+          "name_original": "Others",
+          "votes": 157,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 436,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "ALTIERI",
+          "votes": 1677
+        },
+        {
+          "name_original": "OAKS",
+          "votes": 1663
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1917,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "RING",
+          "votes": 730
+        },
+        {
+          "name_original": "SOUZA",
+          "votes": 1680
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 216,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2023-05-09",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "BROWN",
+          "votes": 1039
+        },
+        {
+          "name_original": "SULLIVAN",
+          "votes": 1377
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 207,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rockport2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rockport2023.pdf",
+  "ballots_cast": 2633,
+  "ballots_cast_source": "derived_from_contests"
+}

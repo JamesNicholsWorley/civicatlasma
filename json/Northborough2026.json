@@ -1,0 +1,60 @@
+{
+  "elections": [
+    {
+      "municipality": "Northborough",
+      "date": "2026-05-12",
+      "office_original": "SELECT BOARD",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Ostiguy",
+          "votes": 1078
+        },
+        {
+          "name_original": "Leslie S. Rutan",
+          "votes": 1057
+        },
+        {
+          "name_original": "Laura Ziton",
+          "votes": 713
+        },
+        {
+          "name_original": "Jacob C. Jones",
+          "votes": 571
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2026-05-12",
+      "office_original": "MODERATOR",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frederick A. George",
+          "votes": 892
+        },
+        {
+          "name_original": "Aaron Hutchins",
+          "votes": 873
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Northborough2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

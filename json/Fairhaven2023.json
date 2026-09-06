@@ -1,0 +1,157 @@
+{
+  "elections": [
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Stephanie Pickup",
+          "votes": 803
+        },
+        {
+          "name_original": "Brian Monroe",
+          "votes": 780
+        },
+        {
+          "name_original": "Laura Gardner",
+          "votes": 686
+        },
+        {
+          "name_original": "Brendalee Smith",
+          "votes": 325
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Patrick Carr",
+          "votes": 895
+        },
+        {
+          "name_original": "Ruy DaSilva",
+          "votes": 786
+        },
+        {
+          "name_original": "Wayne Hayward",
+          "votes": 722
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Board of Public Works",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Daniel Lopes",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Justine Frezza",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Keith Silvia",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Charles Murphy, Sr.",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Commissioner of Trust",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Louise Ponte",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2023-04-03",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Carol Alfonso",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Fairhaven2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

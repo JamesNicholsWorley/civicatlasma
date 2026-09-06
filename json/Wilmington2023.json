@@ -1,0 +1,109 @@
+{
+  "elections": [
+    {
+      "municipality": "Wilmington",
+      "date": "2023-04-22",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary B DePalma",
+          "votes": 558
+        },
+        {
+          "name_original": "James P DeFeo",
+          "votes": 401
+        },
+        {
+          "name_original": "Frank J West",
+          "votes": 573
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 278,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2023-04-22",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Bryson",
+          "votes": 646
+        },
+        {
+          "name_original": "Michael P Mercaldi",
+          "votes": 646
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 517,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2023-04-22",
+      "office_original": "WILMINGTON HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Louis Cimaglia IV",
+          "votes": 764
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Wilmington2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2023.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2023-04-22",
+      "detail": "https://www.wilmingtonma.gov/sites/g/files/vyhlif5221/f/uploads/official_results_4.22.2023.pdf",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

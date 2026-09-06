@@ -1,0 +1,727 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jill I. Hai",
+          "votes": 2197
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 601,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah J. Brown",
+          "votes": 2250
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 559,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Lenihan",
+          "votes": 2024
+        },
+        {
+          "name_original": "Deepika Sawhney",
+          "votes": 2023
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1546,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melanie A. Thompson",
+          "votes": 1904
+        },
+        {
+          "name_original": "Michael J. Schanbacher",
+          "votes": 1285
+        },
+        {
+          "name_original": "Leonard J. Morse-Fortier",
+          "votes": 1195
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1237,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "LEXINGTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas Santosuosso",
+          "votes": 1826
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 979,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tanya J. Gisolfi-Mccready",
+          "votes": 169
+        },
+        {
+          "name_original": "Judith L. Zabin",
+          "votes": 141
+        },
+        {
+          "name_original": "Yifang Gong",
+          "votes": 139
+        },
+        {
+          "name_original": "Sandhya Beebee",
+          "votes": 126
+        },
+        {
+          "name_original": "Robert William Cunha",
+          "votes": 112
+        },
+        {
+          "name_original": "Janet M. Kern",
+          "votes": 110
+        },
+        {
+          "name_original": "Carol J. Sampson",
+          "votes": 107
+        },
+        {
+          "name_original": "Katherine E. Reynolds",
+          "votes": 95
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 702,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amy Karen Weinstock",
+          "votes": 317
+        },
+        {
+          "name_original": "Syed A. Rizvi",
+          "votes": 302
+        },
+        {
+          "name_original": "Barbara Katzenberg",
+          "votes": 279
+        },
+        {
+          "name_original": "Marian A.O. Cohen",
+          "votes": 264
+        },
+        {
+          "name_original": "Rita Vachani",
+          "votes": 227
+        },
+        {
+          "name_original": "Peter B. Lee",
+          "votes": 198
+        },
+        {
+          "name_original": "Kenneth J. Shine",
+          "votes": 176
+        },
+        {
+          "name_original": "Emilie Rinard Webster",
+          "votes": 173
+        },
+        {
+          "name_original": "Ira Bernstein",
+          "votes": 162
+        },
+        {
+          "name_original": "Charles Hornig",
+          "votes": 140
+        },
+        {
+          "name_original": "Nathan R. Shnidman",
+          "votes": 66
+        },
+        {
+          "name_original": "Liam Andrew Heffernan",
+          "votes": 1
+        },
+        {
+          "name_original": "Ronald U. Pounder",
+          "votes": 1
+        },
+        {
+          "name_original": "Emile Robert",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1143,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Letha Ms Prestbo",
+          "votes": 176
+        },
+        {
+          "name_original": "Michael J. Schanbacher",
+          "votes": 168
+        },
+        {
+          "name_original": "Robert Rotberg",
+          "votes": 167
+        },
+        {
+          "name_original": "Joshua F. Apgar",
+          "votes": 158
+        },
+        {
+          "name_original": "David L. Kaufman",
+          "votes": 157
+        },
+        {
+          "name_original": "Prashant Singh",
+          "votes": 127
+        },
+        {
+          "name_original": "Edward F. Dolan",
+          "votes": 122
+        },
+        {
+          "name_original": "Amelia Snow O'Donnell",
+          "votes": 102
+        },
+        {
+          "name_original": "Delanot Bastien",
+          "votes": 89
+        },
+        {
+          "name_original": "Amit Srivastava",
+          "votes": 67
+        },
+        {
+          "name_original": "Christopher B. Buenrostro",
+          "votes": 50
+        },
+        {
+          "name_original": "Hassan Aldahan",
+          "votes": 49
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 710,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Lenihan",
+          "votes": 232
+        },
+        {
+          "name_original": "Jennifer M. Richlin",
+          "votes": 230
+        },
+        {
+          "name_original": "Eileen S. Jay",
+          "votes": 227
+        },
+        {
+          "name_original": "Charles W. Lamb",
+          "votes": 227
+        },
+        {
+          "name_original": "Gloria J. Bloom",
+          "votes": 200
+        },
+        {
+          "name_original": "Robert N. Cohen",
+          "votes": 175
+        },
+        {
+          "name_original": "Laura Champneys Atlee",
+          "votes": 149
+        },
+        {
+          "name_original": "Mark Connor",
+          "votes": 147
+        },
+        {
+          "name_original": "Heather Lynn Hartshorn",
+          "votes": 3
+        },
+        {
+          "name_original": "Terrell J. Lamb",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 740,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah E. Higginbotham",
+          "votes": 166
+        },
+        {
+          "name_original": "Rita Pandey",
+          "votes": 163
+        },
+        {
+          "name_original": "Anil A. Ahuja",
+          "votes": 154
+        },
+        {
+          "name_original": "Robert Balaban",
+          "votes": 149
+        },
+        {
+          "name_original": "Marc A. Saint Louis",
+          "votes": 148
+        },
+        {
+          "name_original": "Salvador A. Jaramillo",
+          "votes": 137
+        },
+        {
+          "name_original": "Aneesha Karody",
+          "votes": 108
+        },
+        {
+          "name_original": "David G. Williams",
+          "votes": 107
+        },
+        {
+          "name_original": "Richard L. Neumeier",
+          "votes": 105
+        },
+        {
+          "name_original": "Jeremy P. Hayes",
+          "votes": 2
+        },
+        {
+          "name_original": "Stephen Taylor Kaye",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 776,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Taylor Carroll Singh",
+          "votes": 277
+        },
+        {
+          "name_original": "Vinita Verma",
+          "votes": 256
+        },
+        {
+          "name_original": "Deepika Sawhney",
+          "votes": 234
+        },
+        {
+          "name_original": "Jodia L. Finnagan",
+          "votes": 230
+        },
+        {
+          "name_original": "Jyotsna Kakullavarapu",
+          "votes": 228
+        },
+        {
+          "name_original": "Edmund C. Grant",
+          "votes": 222
+        },
+        {
+          "name_original": "Brian P. Kelley",
+          "votes": 197
+        },
+        {
+          "name_original": "Ramesh Nallavolu",
+          "votes": 121
+        },
+        {
+          "name_original": "Ramin Taraz",
+          "votes": 115
+        },
+        {
+          "name_original": "Zachary Arthur Cataldo",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1007,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey A. Hamilton",
+          "votes": 180
+        },
+        {
+          "name_original": "Pamela C. Tames",
+          "votes": 175
+        },
+        {
+          "name_original": "Marsha E. Baker",
+          "votes": 172
+        },
+        {
+          "name_original": "Leonard J. Morse-Fortier",
+          "votes": 171
+        },
+        {
+          "name_original": "Philip K. Hamilton",
+          "votes": 168
+        },
+        {
+          "name_original": "David G. Kanter",
+          "votes": 159
+        },
+        {
+          "name_original": "Ravish Kumar",
+          "votes": 152
+        },
+        {
+          "name_original": "Raul Marques-Pascual",
+          "votes": 129
+        },
+        {
+          "name_original": "Christian L. Boutwell",
+          "votes": 127
+        },
+        {
+          "name_original": "Michael David Barg",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 805,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lin D. Jensen",
+          "votes": 227
+        },
+        {
+          "name_original": "Jessie Steigerwald",
+          "votes": 225
+        },
+        {
+          "name_original": "Weidong Wang",
+          "votes": 218
+        },
+        {
+          "name_original": "Sanjay Padaki",
+          "votes": 214
+        },
+        {
+          "name_original": "Brielle A. Mk. Meade",
+          "votes": 207
+        },
+        {
+          "name_original": "James Arthur Osten",
+          "votes": 206
+        },
+        {
+          "name_original": "Dahua Pan",
+          "votes": 199
+        },
+        {
+          "name_original": "Lisa J. Mazerall",
+          "votes": 186
+        },
+        {
+          "name_original": "Ilene Gelch Benghiat",
+          "votes": 5
+        },
+        {
+          "name_original": "Geetha Padaki",
+          "votes": 4
+        },
+        {
+          "name_original": "Brady Bartlett Gambone",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 751,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Lexington",
+      "date": "2021-03-01",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mollie K. Garberg",
+          "votes": 151
+        },
+        {
+          "name_original": "Thomas R. Shiple",
+          "votes": 132
+        },
+        {
+          "name_original": "Scott A. Bokun",
+          "votes": 129
+        },
+        {
+          "name_original": "Hemaben P. Bhatt",
+          "votes": 127
+        },
+        {
+          "name_original": "Kimberly Ann Hensle-Lowrance",
+          "votes": 125
+        },
+        {
+          "name_original": "Richard L. Canale",
+          "votes": 120
+        },
+        {
+          "name_original": "Philip T. Jackson",
+          "votes": 95
+        },
+        {
+          "name_original": "Scott Foster Burson",
+          "votes": 89
+        },
+        {
+          "name_original": "Daniel Joyner",
+          "votes": 84
+        },
+        {
+          "name_original": "Grace Claybourne",
+          "votes": 75
+        },
+        {
+          "name_original": "Dennahe A. Adley",
+          "votes": 2
+        },
+        {
+          "name_original": "Mark R. Vitunic",
+          "votes": 2
+        },
+        {
+          "name_original": "Joseph J. Schirripa",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 464,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lexington2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lexington2021.pdf",
+  "ballots_cast": 2813,
+  "ballots_cast_source": "derived_from_contests"
+}

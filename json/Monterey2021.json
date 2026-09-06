@@ -1,0 +1,308 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual municipal election document with standard town offices",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-05-04",
+      "detail": "https://www.montereyma.gov/town-clerk/pages/election-ballots-and-results",
+      "quote": "May 4, 2021 Town Election Results",
+      "note": "the town's own election page names the date in the link text for this document"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "MODERATOR—one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mark Makuc",
+          "votes": 246
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "BOARD OF APPEALS—five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Michael Banner",
+          "votes": 232
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 37,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "BOARD OF ASSESSORS—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Teresa Steibel",
+          "votes": 213
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "BOARD OF HEALTH—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Roy Carwile",
+          "votes": 257
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "FINANCE COMMITTEE—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Rebecca Wolin",
+          "votes": 110
+        },
+        {
+          "name_original": "Katrina Fitzpatrick",
+          "votes": 157
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "LIBRARY TRUSTEE—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ann Canning",
+          "votes": 181
+        },
+        {
+          "name_original": "Cheryl Zellman",
+          "votes": 193
+        },
+        {
+          "name_original": "Ronald P. Nelson",
+          "votes": 53
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "PARKS COMMISSION—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Thomas Mensi",
+          "votes": 231
+        },
+        {
+          "name_original": "Tracey Brennan",
+          "votes": 204
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "PARKS COMMISSION—one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Gerard Clarins",
+          "votes": 13
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 248,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "PLANNING BOARD—four years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Justin Makuc",
+          "votes": 268
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "PLANNING BOARD—five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Edward Allen",
+          "votes": 195
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 68,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "SELECT BOARD—three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Susan Cooper",
+          "votes": 177
+        },
+        {
+          "name_original": "Justin Makuc",
+          "votes": 141
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Monterey",
+      "date": "2021-05-04",
+      "office_original": "TREE WARDEN—one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Kevin Fitzpatrick",
+          "votes": 251
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Monterey2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monterey2021.pdf",
+  "ballots_cast": 269,
+  "ballots_cast_source": "derived_from_contests"
+}

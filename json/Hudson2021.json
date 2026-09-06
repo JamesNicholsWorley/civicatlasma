@@ -1,0 +1,507 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "SELECTMAN (TWO for a Three-Yr. Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sina C. Abbott",
+          "votes": 299
+        },
+        {
+          "name_original": "Michael D. Burks, Sr.",
+          "votes": 1324
+        },
+        {
+          "name_original": "Dandrick Papeet Gelin",
+          "votes": 247
+        },
+        {
+          "name_original": "Shawn S. Sadowski",
+          "votes": 984
+        },
+        {
+          "name_original": "Douglas D. Schaeffer",
+          "votes": 686
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 531,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "MODERATOR (ONE for a One-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard T. Harrity",
+          "votes": 1558
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 471,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "SCHOOL COMMITTEE (THREE for a Three-Yr. Term)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn A. Maston",
+          "votes": 997
+        },
+        {
+          "name_original": "Molly E. Mackenzie",
+          "votes": 1037
+        },
+        {
+          "name_original": "Mark Jose Terra-Salomao",
+          "votes": 1048
+        },
+        {
+          "name_original": "Christopher Paul Yates",
+          "votes": 1287
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1732,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "SCHOOL COMMITTEE (ONE for a ONE-Yr. Term (To fill a vacancy))",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ilan Levine",
+          "votes": 1414
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 617,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "HOUSING AUTHORITY (ONE for a Five Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Gustafson",
+          "votes": 7
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2002,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "TRUSTEES of BENEVOLENT FUNDS (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Domenicucci",
+          "votes": 1419
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 617,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "HOUSING AUTHORITY (ONE for 2 Yr. Term (To fill a vacancy))",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah B. Cressy",
+          "votes": 1473
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 558,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "MUNICIPAL LIGHT BOARD (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey David Supernor",
+          "votes": 863
+        },
+        {
+          "name_original": "Frank V. Arbour",
+          "votes": 848
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "PARK COMMISSION (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James D. Roan",
+          "votes": 1451
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 584,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "BOARD of HEALTH (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Anthony Delfino",
+          "votes": 1426
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 610,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "LIBRARY TRUSTEE (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Capobianco",
+          "votes": 1453
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 584,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "PLANNING BOARD (TWO for a Three-Yr. Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert L. D'Amelio",
+          "votes": 1291
+        },
+        {
+          "name_original": "Rodney G. Frias",
+          "votes": 1412
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1368,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "PLANNING BOARD (One for One-Yr. Term (To fill a vacancy))",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darryl T. Filippi",
+          "votes": 1421
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 615,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "CEMETERY COMMISSION (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary L. Collins",
+          "votes": 1475
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 561,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "CONSTABLE (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael D. Schreiner",
+          "votes": 1437
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 598,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "CONSTABLE (ONE for a One-Yr. Term (To Fill A Vacancy))",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Dana Bruce",
+          "votes": 1378
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 659,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Hudson",
+      "date": "2021-05-10",
+      "office_original": "BOARD of ASSESSORS (ONE for a Three-Yr. Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne F. McIntyre",
+          "votes": 957
+        },
+        {
+          "name_original": "David Daigneault",
+          "votes": 759
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 321,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hudson2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hudson2021.pdf",
+  "ballots_cast": 2037,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,417 @@
+{
+  "document": {
+    "heading_verbatim": "Adams Town Election Results",
+    "election_type": "Regular",
+    "election_type_evidence": "Adams Town Election Results May 6, 2024",
+    "date_verbatim": "May 6, 2024",
+    "offices_on_ballot": 13,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Myra L. Wilk",
+          "votes": 1297
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 166,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "TOWN CLERK",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Haley A. Meczywor",
+          "votes": 1335
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "John E. Duval",
+          "votes": 685
+        },
+        {
+          "name_original": "Ann M. Bartlett",
+          "votes": 792
+        },
+        {
+          "name_original": "Jerome Simon Socolof",
+          "votes": 467
+        },
+        {
+          "name_original": "Donald R. Sommer",
+          "votes": 367
+        },
+        {
+          "name_original": "Mitchell Wisniowski",
+          "votes": 446
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 175,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Paula J. Wheeler",
+          "votes": 1258
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 205,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "BOARD OF HEALTH MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathy A. Hynes",
+          "votes": 23
+        },
+        {
+          "name_original": "Others",
+          "votes": 95,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1350,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "LIBRARY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "James R. Loughman",
+          "votes": 1210
+        },
+        {
+          "name_original": "Eugene F. Michalenko",
+          "votes": 1328
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 396,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "PARK COMMISSIONERS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Mary Ciuk",
+          "votes": 1227
+        },
+        {
+          "name_original": "James J. Fassell",
+          "votes": 1176
+        },
+        {
+          "name_original": "Mitchell Wisniowski",
+          "votes": 1236
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 760,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "PLANNING BOARD MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Michael J. Mach",
+          "votes": 887
+        },
+        {
+          "name_original": "Timothy Wayne Kitchell Jr.",
+          "votes": 407
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 171,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "CEMETERY COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Bruce Dale Shepley",
+          "votes": 1275
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 190,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "REDEVELOPMENT AUTHORITY MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane M. Parsons",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1431,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "NORTHERN BERKSHIRE REGIONAL VOCATIONAL SCHOOL DISTRICT COMMITTEE MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Bruce Dale Shepley",
+          "votes": 1224
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 238,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "HOOSAC VALLEY REGIONAL SCHOOL DISTRICT COMMITTEE - ADAMS REPRESENTATIVE",
+      "district_original": "Adams",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Frederick Edward Lora",
+          "votes": 674
+        },
+        {
+          "name_original": "Jennifer Ann Solak",
+          "votes": 620
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 169,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Adams",
+      "date": "2024-05-06",
+      "office_original": "HOOSAC VALLEY REGIONAL SCHOOL DISTRICT COMMITTEE - CHESHIRE REPRESENTATIVE",
+      "district_original": "Cheshire",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert M. Tetlow Jr.",
+          "votes": 1193
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 270,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Adams2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Adams2024.pdf",
+  "ballots_cast": 1468,
+  "ballots_cast_source": "derived_from_contests"
+}

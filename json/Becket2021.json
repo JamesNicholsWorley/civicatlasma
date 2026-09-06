@@ -1,0 +1,141 @@
+{
+  "document": {
+    "heading_verbatim": "Report of the Town Clerk",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election, May 15, 2021",
+    "date_verbatim": "May 15, 2021",
+    "offices_on_ballot": 4,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-15",
+      "office_original": "Cemetery Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michelle A. Smith",
+          "votes": 85
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-15",
+      "office_original": "Member, Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann Gwenneth Spadafora",
+          "votes": 81
+        },
+        {
+          "name_original": "Charles Garman",
+          "votes": 71
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-15",
+      "office_original": "Member, Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Levy",
+          "votes": 60
+        },
+        {
+          "name_original": "Karen S. Karlberg",
+          "votes": 38
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-15",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William H. Elovirta",
+          "votes": 14
+        },
+        {
+          "name_original": "Robert T. Ronzio",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 165,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Becket2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Becket2021.pdf",
+  "ballots_cast": 102,
+  "ballots_cast_source": "derived_from_contests"
+}

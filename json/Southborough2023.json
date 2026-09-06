@@ -1,0 +1,130 @@
+{
+  "elections": [
+    {
+      "municipality": "Southborough",
+      "date": "2023-05-09",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Marguerite Landry",
+          "votes": 677
+        },
+        {
+          "name_original": "Al Hamilton",
+          "votes": 617
+        },
+        {
+          "name_original": "Brett Peters",
+          "votes": 287
+        },
+        {
+          "name_original": "David Parry",
+          "votes": 192
+        },
+        {
+          "name_original": "Bena Phillipo",
+          "votes": 128
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southborough",
+      "date": "2023-05-09",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Zhi Li",
+          "votes": 628
+        },
+        {
+          "name_original": "Chelsea Malinowski",
+          "votes": 585
+        },
+        {
+          "name_original": "Joanna Sheyner",
+          "votes": 521
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 388,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southborough",
+      "date": "2023-05-09",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lisa Braccio",
+          "votes": 671
+        },
+        {
+          "name_original": "Michael Weishan",
+          "votes": 340
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southborough",
+      "date": "2023-05-09",
+      "office_original": "Board of Commissioners of Trust Funds",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sam Stivers",
+          "votes": 553
+        },
+        {
+          "name_original": "Bill Boland",
+          "votes": 415
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southborough",
+      "date": "2023-05-09",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Jim Hegarty",
+          "votes": 932
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Southborough2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

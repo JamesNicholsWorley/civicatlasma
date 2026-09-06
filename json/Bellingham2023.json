@@ -1,0 +1,136 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Bellingham",
+      "date": "2023-05-02",
+      "office_original": "SELECTMAN - for 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly H Grant",
+          "votes": 408
+        },
+        {
+          "name_original": "Donald F Martinis",
+          "votes": 388
+        },
+        {
+          "name_original": "Michael J. Hennessy",
+          "votes": 424
+        },
+        {
+          "name_original": "Others",
+          "votes": 69,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 213,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Bellingham",
+      "date": "2023-05-02",
+      "office_original": "PLANNING BOARD - for 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William F O'Connell, Jr",
+          "votes": 374
+        },
+        {
+          "name_original": "Stephen W Goyette",
+          "votes": 356
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Bellingham",
+      "date": "2023-05-02",
+      "office_original": "LIBRARY TRUSTEE - for 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura Howard",
+          "votes": 23
+        },
+        {
+          "name_original": "Macala Lamour",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1410,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Bellingham",
+      "date": "2023-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John (Jack) McCarthy",
+          "votes": 325
+        },
+        {
+          "name_original": "Beverly Pierce",
+          "votes": 377
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bellingham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bellingham2023.pdf",
+  "ballots_cast": 751,
+  "ballots_cast_source": "derived_from_contests"
+}

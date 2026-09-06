@@ -1,0 +1,154 @@
+{
+  "elections": [
+    {
+      "municipality": "Mendon",
+      "date": "2024-05-14",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Merolli",
+          "votes": 941
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 289,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mendon",
+      "date": "2024-05-14",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellen Agro",
+          "votes": 984
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 253,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mendon",
+      "date": "2024-05-14",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brendan Chenelle",
+          "votes": 847
+        },
+        {
+          "name_original": "Michael Merolli",
+          "votes": 823
+        },
+        {
+          "name_original": "Lawney Tinio",
+          "votes": 10
+        },
+        {
+          "name_original": "Kurt Bellefontaine",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 787,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mendon",
+      "date": "2024-05-14",
+      "office_original": "ASSESSORS 3 YEAR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Rudden",
+          "votes": 185
+        },
+        {
+          "name_original": "David Kurczy",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1019,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mendon",
+      "date": "2024-05-14",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Fichtner",
+          "votes": 915
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mendon2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Mendon2024.pdf",
+  "ballots_cast": 1240,
+  "ballots_cast_source": "derived_from_contests"
+}

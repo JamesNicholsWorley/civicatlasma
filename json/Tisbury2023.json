@@ -1,0 +1,38 @@
+{
+  "elections": [
+    {
+      "municipality": "Tisbury",
+      "date": "2023-05-09",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Christina Colarusso",
+          "votes": 314
+        },
+        {
+          "name_original": "Abbe Burt",
+          "votes": 311
+        },
+        {
+          "name_original": "MacAleer Schilcher",
+          "votes": 49
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Tisbury2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

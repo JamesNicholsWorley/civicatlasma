@@ -1,0 +1,29 @@
+{
+  "elections": [
+    {
+      "municipality": "Hampden",
+      "date": "2021-05-19",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Craig Rivest",
+          "votes": 535
+        },
+        {
+          "name_original": "Mary Ellen Glover",
+          "votes": 379
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hampden2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

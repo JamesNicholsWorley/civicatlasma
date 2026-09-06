@@ -1,0 +1,192 @@
+{
+  "elections": [
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Ann Marie Foley",
+          "votes": 917
+        },
+        {
+          "name_original": "Andrew Paul Jefferson",
+          "votes": 852
+        },
+        {
+          "name_original": "Colleen McIntyre Roy",
+          "votes": 815
+        },
+        {
+          "name_original": "Others",
+          "votes": 64,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 548,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "SCHOOL COMMITTEE - GRAFTON PUBLIC SCHOOLS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Liora Bram",
+          "votes": 1035
+        },
+        {
+          "name_original": "Stavroula J. Varellas-Dikas",
+          "votes": 952
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1182,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "David Chandler Robbins",
+          "votes": 1009
+        },
+        {
+          "name_original": "Gregory T. Dalle-Molle",
+          "votes": 913
+        },
+        {
+          "name_original": "Others",
+          "votes": 75,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1199,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "PLANNING BOARD (1 YEAR TERM)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Write-In Raymond E. Mead",
+          "votes": 68
+        },
+        {
+          "name_original": "Write-In Michael Paul Palermo",
+          "votes": 89
+        },
+        {
+          "name_original": "Others",
+          "votes": 48,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1393,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "GRAFTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Lisa A. Kelley",
+          "votes": 1184
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 402,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachel Katharine Tosches",
+          "votes": 1144
+        },
+        {
+          "name_original": "Write In Prabhu Bataji Venkataraman",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 54,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1987,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": 1598,
+  "ballots_cast_source": "derived_from_contests"
+}

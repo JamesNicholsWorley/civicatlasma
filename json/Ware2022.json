@@ -1,0 +1,195 @@
+{
+  "elections": [
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "SELECTMEN FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua Adam Kusnierz",
+          "votes": 325
+        },
+        {
+          "name_original": "Write Instructions",
+          "votes": 17
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "SCHOOL COMMITTEE FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher T. Desjardins",
+          "votes": 309
+        },
+        {
+          "name_original": "Brian P. Winslow",
+          "votes": 241
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "BOARD OF ASSESSORS FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerald Francis Fountain, Jr.",
+          "votes": 315
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "BOARD OF HEALTH FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer McMartin",
+          "votes": 78
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 281,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "PARK COMMISSIONER FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan E. Mulligan",
+          "votes": 318
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 59,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "CEMETERY COMMISSIONER FOR THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Harper",
+          "votes": 42
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 323,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ware",
+      "date": "2022-04-11",
+      "office_original": "PLANNING BOARD FOR FIVE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Talbot",
+          "votes": 12
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ware2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ware2022.pdf",
+  "ballots_cast": 380,
+  "ballots_cast_source": "derived_from_contests"
+}

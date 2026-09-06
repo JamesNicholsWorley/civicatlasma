@@ -1,0 +1,134 @@
+{
+  "document": {
+    "heading_verbatim": "Local Election Results 2025",
+    "election_type": "Regular",
+    "election_type_evidence": "There were 156 ballots cast in the June 14, 2025 town election.",
+    "date_verbatim": "June 14, 2025",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David Hopson",
+          "votes": 132
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer Girard",
+          "votes": 127
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Charles Benson",
+          "votes": 131
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Municipal Light Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "June Massee",
+          "votes": 75
+        },
+        {
+          "name_original": "James Gaeta",
+          "votes": 73
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jacqueline Coury",
+          "votes": 117
+        },
+        {
+          "name_original": "Jeffrey Allen",
+          "votes": 32
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Blandford",
+      "date": "2025-06-14",
+      "office_original": "Water Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Petr Thayer",
+          "votes": 131
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Blandford2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Blandford2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

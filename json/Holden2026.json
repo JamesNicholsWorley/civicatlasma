@@ -1,0 +1,151 @@
+{
+  "elections": [
+    {
+      "municipality": "Holden",
+      "date": "2026-05-11",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth Vincent Mills",
+          "votes": 2394
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 929,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2026-05-11",
+      "office_original": "Board of Selectmen",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas P. Curran",
+          "votes": 2328
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 977,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2026-05-11",
+      "office_original": "Trustees of Damon Memorial",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Teresa Roxanne MacPhail",
+          "votes": 2059
+        },
+        {
+          "name_original": "Abigail Krumbhaar Morgan",
+          "votes": 2045
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2585,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2026-05-11",
+      "office_original": "Wachusett Regional School District",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shannon Poole",
+          "votes": 2019
+        },
+        {
+          "name_original": "Meredith C. Pugh",
+          "votes": 1936
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2724,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2026-05-11",
+      "office_original": "Holden Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jini Henderson",
+          "votes": 84
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3168,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 98,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holden2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holden2026.pdf",
+  "ballots_cast": 3350,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,68 @@
+{
+  "elections": [
+    {
+      "municipality": "Chesterfield",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Trish Colson-Montgomery",
+          "votes": 97
+        },
+        {
+          "name_original": "Peter Bolbey",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": null,
+          "status": "uncontested",
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chesterfield",
+      "office_original": "Town Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Mary Anne Severence",
+          "votes": 17
+        },
+        {
+          "name_original": "Others",
+          "votes": null,
+          "status": "uncontested",
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 127,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chesterfield2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

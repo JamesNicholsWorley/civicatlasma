@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Select Board (3 Year Term) - Vote for 2",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1197,
+          "tally_row": true
+        },
+        {
+          "name_original": "G Thomas Clay",
+          "votes": 1520
+        },
+        {
+          "name_original": "Chris J Barrett",
+          "votes": 1567
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Board of Health (3 Year Term) - Vote for 2",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 954,
+          "tally_row": true
+        },
+        {
+          "name_original": "Michele Pitoniak-Crawford",
+          "votes": 1323
+        },
+        {
+          "name_original": "Maeghan Hughes",
+          "votes": 1132
+        },
+        {
+          "name_original": "Alesia J Raczelowiski",
+          "votes": 898
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Moderator (3 Year Term) - Vote for 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 422,
+          "tally_row": true
+        },
+        {
+          "name_original": "Angela Harkness",
+          "votes": 1724
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Library Trustees (3 Year Term) - Vote for 2",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1239,
+          "tally_row": true
+        },
+        {
+          "name_original": "Lynn Clermont",
+          "votes": 1543
+        },
+        {
+          "name_original": "Carloline Roache",
+          "votes": 1524
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Planning Board (5 Year Term) - Vote for 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 602,
+          "tally_row": true
+        },
+        {
+          "name_original": "Darrin Wizst",
+          "votes": 1540
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "Planning Board (3 Year Term) - Vote for 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 531,
+          "tally_row": true
+        },
+        {
+          "name_original": "Joan C Croteau",
+          "votes": 1617
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2023-05-02",
+      "office_original": "School Committee (3 Year Term) - Vote for 2",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 694,
+          "tally_row": true
+        },
+        {
+          "name_original": "Valery Young",
+          "votes": 1490
+        },
+        {
+          "name_original": "William Francis McDonald",
+          "votes": 1544
+        },
+        {
+          "name_original": "Meghan F O'Connell",
+          "votes": 576
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westford2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westford2023.pdf",
+  "ballots_cast": 2159,
+  "ballots_cast_source": "derived_from_contests"
+}

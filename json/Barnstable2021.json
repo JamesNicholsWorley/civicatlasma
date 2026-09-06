@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PETER GOODE",
+          "votes": 1416
+        },
+        {
+          "name_original": "STEPHANIE ELLIS",
+          "votes": 1114
+        },
+        {
+          "name_original": "ANDRE KING",
+          "votes": 1141
+        },
+        {
+          "name_original": "SARA B. GONZALEZ",
+          "votes": 248
+        },
+        {
+          "name_original": "LINDA LETOURNEAU",
+          "votes": 292
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANN M. QUIRK",
+          "votes": 2106
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHAEL SWEENEY, JR.",
+          "votes": 1963
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ERIC R. STEINHILBER",
+          "votes": 183
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "NIKOLAS ATSALIS",
+          "votes": 196
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PAUL C. NEARY",
+          "votes": 213
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JEFFREY MENDES",
+          "votes": 91
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 10",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MATTHEW P. LEVESQUE",
+          "votes": 125
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Barnstable",
+      "date": "2021-11-02",
+      "office_original": "MEMBER OF THE TOWN COUNCIL",
+      "district_original": "Precinct 12",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DONALD LYNDE",
+          "votes": 148
+        },
+        {
+          "name_original": "PAULA K. SCHNEPP",
+          "votes": 224
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Barnstable2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Barnstable2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

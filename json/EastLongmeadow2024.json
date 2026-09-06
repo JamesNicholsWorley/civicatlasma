@@ -1,0 +1,72 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of East Longmeadow",
+      "date": "2024-06-04",
+      "office_original": "Town Council - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Connor James O'Shea",
+          "votes": 899
+        },
+        {
+          "name_original": "James F Leydon",
+          "votes": 919
+        },
+        {
+          "name_original": "Giuliano Mario Basile",
+          "votes": 496
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 389,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of East Longmeadow",
+      "date": "2024-06-04",
+      "office_original": "School Committee - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Ann Truoiolo",
+          "votes": 1134
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastLongmeadow2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastLongmeadow2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

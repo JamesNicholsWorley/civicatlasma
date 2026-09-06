@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Planning Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alanna Nelson",
+          "votes": 245
+        },
+        {
+          "name_original": "Jonathan Henry",
+          "votes": 241
+        },
+        {
+          "name_original": "Tucker Burr",
+          "votes": 213
+        },
+        {
+          "name_original": "Andrew Daniel",
+          "votes": 207
+        },
+        {
+          "name_original": "Tom Friedman",
+          "votes": 107
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Randy Parker",
+          "votes": 494
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George Walker",
+          "votes": 426
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 135,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brad Gordon",
+          "votes": 470
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 90,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Howard",
+          "votes": 431
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 131,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "School Committee",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Beauregard",
+          "votes": 414
+        },
+        {
+          "name_original": "Michelle Smith",
+          "votes": 402
+        },
+        {
+          "name_original": "April Rios",
+          "votes": 394
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 482,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2021-05-14",
+      "office_original": "Open Space Acquisition Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah Ewing",
+          "votes": 428
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 135,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marion2021",
+  "_source_pdf": "",
+  "ballots_cast": 565,
+  "ballots_cast_source": "derived_from_contests"
+}

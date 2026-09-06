@@ -1,0 +1,145 @@
+{
+  "document": {
+    "heading_verbatim": "Lenox Returns Incumbents in Low Turnout",
+    "election_type": "Regular",
+    "election_type_evidence": "annual town election",
+    "date_verbatim": "Monday, May 09, 2022",
+    "offices_on_ballot": 7,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John McNinch",
+          "votes": 57
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marybeth Frazier Mitts",
+          "votes": 115
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dianne C. Romeo",
+          "votes": 130
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas J. Romeo",
+          "votes": 125
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Lenox Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah J. Prew",
+          "votes": 125
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert H. Vaughan",
+          "votes": 114
+        },
+        {
+          "name_original": "David C. Rimmler",
+          "votes": 84
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2022-05-09",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Lyman",
+          "votes": 122
+        },
+        {
+          "name_original": "Kathleen McNulty Vaughan",
+          "votes": 116
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lenox2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

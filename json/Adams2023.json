@@ -1,0 +1,199 @@
+{
+  "elections": [
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Selectwoman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Christine Hoyt",
+          "votes": 305
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Myra Wilk",
+          "votes": 320
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "George Haddad",
+          "votes": 316
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "David Rhoads",
+          "votes": 287
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Parks Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jacob Schutz",
+          "votes": 310
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Linda Rhoads",
+          "votes": 300
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Michelle Picard",
+          "votes": 291
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kelly Rice",
+          "votes": 310
+        },
+        {
+          "name_original": "Ann Bartlett",
+          "votes": 312
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Cemetery Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Frederick Hobart",
+          "votes": 295
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Northern Berkshire Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Daniel Maloney",
+          "votes": 311
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Adams",
+      "date": "2023-05-01",
+      "office_original": "Town Official",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Andrew Lukasz Przystanski",
+          "votes": 285
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Adams2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

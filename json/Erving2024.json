@@ -1,0 +1,333 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacob A. Smith",
+          "votes": 186
+        },
+        {
+          "name_original": "Dan Watson",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel B. Hammock",
+          "votes": 196
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard W. Newton",
+          "votes": 214
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel B. Hammock",
+          "votes": 199
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard K. Peabody",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "C. Mark Blatchley",
+          "votes": 176
+        },
+        {
+          "name_original": "Mackensey L. Bailey",
+          "votes": 172
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel Hammock",
+          "votes": 5
+        },
+        {
+          "name_original": "Mackenzie Bailey",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 219,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "TREE WARDEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn T. McCory",
+          "votes": 150
+        },
+        {
+          "name_original": "Anthony D. Cunha",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel B. Hammock",
+          "votes": 194
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph W. Newton",
+          "votes": 207
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "RECREATION COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Devon Gaudet",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 229,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Erving",
+      "date": "2024-05-06",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey P. McAndrews",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Erving2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Erving2024.pdf",
+  "ballots_cast": 242,
+  "ballots_cast_source": "derived_from_contests"
+}

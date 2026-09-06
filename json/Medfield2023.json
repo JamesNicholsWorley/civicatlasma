@@ -1,0 +1,224 @@
+{
+  "elections": [
+    {
+      "office_original": "SELECTMEN",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Gustave H. Murby, Sr",
+          "votes": 416
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Scott F. McDermott",
+          "votes": 493
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 63,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Kenneth L. Manning",
+          "votes": 473
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 92,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "William Franke Horne",
+          "votes": 460
+        },
+        {
+          "name_original": "Kristin Ann Simonini",
+          "votes": 437
+        },
+        {
+          "name_original": "Others",
+          "votes": 58,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 175,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Jennifer Cronin",
+          "votes": 467
+        },
+        {
+          "name_original": "Lauren C. Feeney",
+          "votes": 452
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 207,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PARK COMMISSIONER",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Kirsten E. Young",
+          "votes": 462
+        },
+        {
+          "name_original": "Timothy E. Walsh",
+          "votes": 448
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 219,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Seth Meehan",
+          "votes": 467
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 97,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "TRUST FUND COMMISSIONER",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Georgia K. Colivas",
+          "votes": 467
+        },
+        {
+          "name_original": "Mike Marcucci",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 654,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Medfield",
+      "date": "2023-03-27",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Medfield2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medfield2023.pdf",
+  "ballots_cast": 565,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Oxford",
+      "date": "2026-05-19",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Barry Eul Jr.",
+          "votes": 418
+        },
+        {
+          "name_original": "Philip Irving Davis Jr.",
+          "votes": 627
+        },
+        {
+          "name_original": "Tyler Matthew DiPietro",
+          "votes": 192
+        },
+        {
+          "name_original": "Timothy Shannon Moriarty",
+          "votes": 379
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 176,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2026-05-19",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Bowes",
+          "votes": 718
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2026-05-19",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cheryll Anne Leblanc",
+          "votes": 693
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 195,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2026-05-19",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Corey J. Burke",
+          "votes": 544
+        },
+        {
+          "name_original": "Leah Ann Filipkowski",
+          "votes": 337
+        },
+        {
+          "name_original": "Erin E. Pepka",
+          "votes": 548
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 366,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2026-05-19",
+      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Benjamin J. LaMountain",
+          "votes": 721
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oxford2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oxford2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

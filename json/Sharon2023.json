@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "SELECT BOARD For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hanna Switlekowski",
+          "votes": 361
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "ASSESSOR For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne M. Carney",
+          "votes": 341
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "MODERATOR For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Nebenzahl",
+          "votes": 333
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 61,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "TOWN CLERK For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark F. Hogan",
+          "votes": 363
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "SCHOOL COMMITTEE For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie Defalco Rowe",
+          "votes": 304
+        },
+        {
+          "name_original": "Adam J. Shain",
+          "votes": 299
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 189,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "PLANNING BOARD For FIVE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Xander Shapiro",
+          "votes": 332
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 69,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY For THREE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carolyn L. Weeks",
+          "votes": 331
+        },
+        {
+          "name_original": "Sarah W. Windman",
+          "votes": 314
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 161,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sharon",
+      "date": "2023-05-16",
+      "office_original": "HOUSING AUTHORITY For FIVE Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Xander Shapiro",
+          "votes": 331
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sharon2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sharon2023.pdf",
+  "ballots_cast": 405,
+  "ballots_cast_source": "derived_from_contests"
+}

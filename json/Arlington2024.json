@@ -1,0 +1,1008 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "SELECT BOARD (Vote for 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ERIC D. HELMUTH",
+          "votes": 3870
+        },
+        {
+          "name_original": "JOHN V. HURD",
+          "votes": 3868
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 67,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2343,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "SCHOOL COMMITTEE (Vote for 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JANE PIERCE MORGAN",
+          "votes": 3922
+        },
+        {
+          "name_original": "JEFFREY D. THIELMAN",
+          "votes": 3728
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2456,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "BOARD OF ASSESSORS (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GORDON A. JAMIESON, JR.",
+          "votes": 3845
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1208,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "HOUSING AUTHORITY (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GAAR E. TALANIAN",
+          "votes": 3726
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1330,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEPHEN REVILAK",
+          "votes": 103
+        },
+        {
+          "name_original": "REBECCA S. PERSSON",
+          "votes": 101
+        },
+        {
+          "name_original": "PETER T. YOUNG",
+          "votes": 95
+        },
+        {
+          "name_original": "GREGORY D. DENNIS",
+          "votes": 95
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBERT V. ROSSI",
+          "votes": 206
+        },
+        {
+          "name_original": "RAJEEV PINOO SONEJA",
+          "votes": 191
+        },
+        {
+          "name_original": "JOHN PAUL LEWICKE",
+          "votes": 179
+        },
+        {
+          "name_original": "MAXWELL BENJAMIN PALMER",
+          "votes": 179
+        },
+        {
+          "name_original": "MARK WILLIAM McCABE",
+          "votes": 165
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 239,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NANDANA MUKESH MEWADA",
+          "votes": 145
+        },
+        {
+          "name_original": "AMOS W. MEEKS",
+          "votes": 142
+        },
+        {
+          "name_original": "LENARD T. DIGGINS",
+          "votes": 142
+        },
+        {
+          "name_original": "ADAM J. B. LANE",
+          "votes": 140
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CLARISSA ROWE",
+          "votes": 141
+        },
+        {
+          "name_original": "JUDITH GARBER",
+          "votes": 135
+        },
+        {
+          "name_original": "EZRA FISCHER",
+          "votes": 131
+        },
+        {
+          "name_original": "ETHAN P. ZIMMER",
+          "votes": 126
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 129,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "COLIN J. BUNNELL",
+          "votes": 150
+        },
+        {
+          "name_original": "DAVID F. SWANSON",
+          "votes": 149
+        },
+        {
+          "name_original": "BENJAMIN ISAAC RUDICK",
+          "votes": 149
+        },
+        {
+          "name_original": "ADAM EDWARD BADIK",
+          "votes": 146
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 184,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LESLEY A. WAXMAN",
+          "votes": 124
+        },
+        {
+          "name_original": "ANNA J. HENKIN",
+          "votes": 119
+        },
+        {
+          "name_original": "CHARLES E. BLANDY",
+          "votes": 115
+        },
+        {
+          "name_original": "PI FISHER",
+          "votes": 113
+        },
+        {
+          "name_original": "JOSHUA SOLOMON",
+          "votes": 103
+        },
+        {
+          "name_original": "ROBERT HUPP",
+          "votes": 8
+        },
+        {
+          "name_original": "PHILIP SIMON",
+          "votes": 8
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 8
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 599,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JANE BIONDI",
+          "votes": 139
+        },
+        {
+          "name_original": "MARC E. LEFEBVRE",
+          "votes": 132
+        },
+        {
+          "name_original": "RATNAKAR VELLANKI",
+          "votes": 132
+        },
+        {
+          "name_original": "RODERICK JOHN HOLLAND, JR.",
+          "votes": 103
+        },
+        {
+          "name_original": "JACOB M. GLICKEL",
+          "votes": 98
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 0
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 228,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SHARON GROSSMAN",
+          "votes": 170
+        },
+        {
+          "name_original": "CAITLIN ELIZABETH MONAGHAN",
+          "votes": 168
+        },
+        {
+          "name_original": "JANICE M. PAGLIASOTTI",
+          "votes": 163
+        },
+        {
+          "name_original": "MARY ELLEN ARONOW",
+          "votes": 162
+        },
+        {
+          "name_original": "JOHN GABRIEL KNOLL",
+          "votes": 153
+        },
+        {
+          "name_original": "IRWIN S. GROSSMAN",
+          "votes": 138
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 420,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ELIZABETH A. CARLTON-GYSAN",
+          "votes": 158
+        },
+        {
+          "name_original": "JENNIFER LYN MANSFIELD",
+          "votes": 158
+        },
+        {
+          "name_original": "ALEXANDER G. BAGNALL",
+          "votes": 157
+        },
+        {
+          "name_original": "A. MICHAEL RUDERMAN",
+          "votes": 147
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 224,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 10",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHARLES T. FOSKETT",
+          "votes": 248
+        },
+        {
+          "name_original": "EUGENE B. BENSON",
+          "votes": 246
+        },
+        {
+          "name_original": "SHAUN D. BERRY",
+          "votes": 223
+        },
+        {
+          "name_original": "DAVID CHARLES BRECHT",
+          "votes": 219
+        },
+        {
+          "name_original": "KRISTIN HARRIS",
+          "votes": 25
+        },
+        {
+          "name_original": "Sophie Migilazzo",
+          "votes": 21
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 661,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 11",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "VALERIE GEARY",
+          "votes": 178
+        },
+        {
+          "name_original": "CHARLES E. CARNEY, JR.",
+          "votes": 170
+        },
+        {
+          "name_original": "FUSUN YAMAN-SIRIN",
+          "votes": 154
+        },
+        {
+          "name_original": "EDWARD MIRACCO",
+          "votes": 150
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 246,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 12",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JEFFREY D. THIELMAN",
+          "votes": 291
+        },
+        {
+          "name_original": "ELENA K. BARTHOLOMEW",
+          "votes": 280
+        },
+        {
+          "name_original": "ROBIN L. BERGMAN",
+          "votes": 278
+        },
+        {
+          "name_original": "LISA AUDREY BIELEFELD",
+          "votes": 273
+        },
+        {
+          "name_original": "RICHARD A. PELLETIER",
+          "votes": 145
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 386,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 13",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MARINA YU POPOVA",
+          "votes": 239
+        },
+        {
+          "name_original": "KIRSI C. ALLISON-AMPE",
+          "votes": 200
+        },
+        {
+          "name_original": "ZACHARY P. GRUNKO",
+          "votes": 174
+        },
+        {
+          "name_original": "ANNIE LaCOURT",
+          "votes": 173
+        },
+        {
+          "name_original": "JACOB HENRY DECK",
+          "votes": 156
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 353,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 14",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ELISABETH A. CARR-JONES",
+          "votes": 193
+        },
+        {
+          "name_original": "WYNELLE EVANS",
+          "votes": 183
+        },
+        {
+          "name_original": "MICHAEL W. STERN",
+          "votes": 180
+        },
+        {
+          "name_original": "PAUL M. SCHIMEK",
+          "votes": 164
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 4
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 248,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 15",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHELE N. DESMOND",
+          "votes": 160
+        },
+        {
+          "name_original": "MARY ELLEN BACHE",
+          "votes": 158
+        },
+        {
+          "name_original": "CHRISTOPHER J. HEIGHAM",
+          "votes": 154
+        },
+        {
+          "name_original": "BETH ANN FRIEDMAN",
+          "votes": 147
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 16",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ADAM E. AUSTER",
+          "votes": 202
+        },
+        {
+          "name_original": "WILLIAM BROOKS HARRELSON",
+          "votes": 192
+        },
+        {
+          "name_original": "REBECCA OWINGS PETERSON",
+          "votes": 188
+        },
+        {
+          "name_original": "GRANT D. COOK",
+          "votes": 184
+        },
+        {
+          "name_original": "MARVIN LEWITON",
+          "votes": 179
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 4
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 17",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "AMY L. SLUTZKY",
+          "votes": 149
+        },
+        {
+          "name_original": "AMY ANTCZAK",
+          "votes": 142
+        },
+        {
+          "name_original": "ANN M. LeROYER",
+          "votes": 140
+        },
+        {
+          "name_original": "JOSHUA W. ARNOLD",
+          "votes": 138
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 154,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 18",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JAMIE JACEE FISHER",
+          "votes": 141
+        },
+        {
+          "name_original": "JONATHAN DAVID GERSH",
+          "votes": 139
+        },
+        {
+          "name_original": "CHARLES REESE WESCOTT",
+          "votes": 123
+        },
+        {
+          "name_original": "BARRY R. JASPAN",
+          "votes": 123
+        },
+        {
+          "name_original": "GILBERT IRIZARRY",
+          "votes": 116
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 19",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTINE P. DESHLER",
+          "votes": 199
+        },
+        {
+          "name_original": "MICHELLE M. DUROCHER",
+          "votes": 193
+        },
+        {
+          "name_original": "JOHN P. GRIFFIN",
+          "votes": 187
+        },
+        {
+          "name_original": "MARIA DUBYAGA",
+          "votes": 28
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 15
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 390,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 20",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBERT L. TOSI, JR.",
+          "votes": 216
+        },
+        {
+          "name_original": "CHERYL N. VOSSMER",
+          "votes": 209
+        },
+        {
+          "name_original": "SARAH DOYLE McKINNON",
+          "votes": 206
+        },
+        {
+          "name_original": "DEAN E. CARMAN",
+          "votes": 202
+        },
+        {
+          "name_original": "JANE CAUFIELD",
+          "votes": 26
+        },
+        {
+          "name_original": "JANET MAHONEY",
+          "votes": 24
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 10
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 452,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Arlington",
+      "date": "2024-04-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 21",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANNE T. EHLERT",
+          "votes": 199
+        },
+        {
+          "name_original": "JOANNE T. CULLINANE",
+          "votes": 198
+        },
+        {
+          "name_original": "LORI BETH LEAHY",
+          "votes": 187
+        },
+        {
+          "name_original": "CARMINE ARTHUR GRANUCCI",
+          "votes": 183
+        },
+        {
+          "name_original": "TONYA BOURASSA",
+          "votes": 35
+        },
+        {
+          "name_original": "All Other Names",
+          "votes": 14
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 454,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Arlington2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Arlington2024.pdf",
+  "ballots_cast": 5074,
+  "ballots_cast_source": "derived_from_contests"
+}

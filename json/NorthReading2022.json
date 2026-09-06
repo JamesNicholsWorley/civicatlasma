@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 778,
+          "tally_row": true
+        },
+        {
+          "name_original": "Liane R. Gonzalez",
+          "votes": 1210
+        },
+        {
+          "name_original": "Richard F. Wallner",
+          "votes": 1153
+        },
+        {
+          "name_original": "Jeremy Griffin",
+          "votes": 46
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 350,
+          "tally_row": true
+        },
+        {
+          "name_original": "John J. Murphy",
+          "votes": 1245
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 166,
+          "tally_row": true
+        },
+        {
+          "name_original": "John P. Barrette",
+          "votes": 132
+        },
+        {
+          "name_original": "Jodi M. Cloney",
+          "votes": 583
+        },
+        {
+          "name_original": "Jeffrey L. Friedman",
+          "votes": 807
+        },
+        {
+          "name_original": "Kristen M. O'Mara",
+          "votes": 647
+        },
+        {
+          "name_original": "Noelle M. Rudloff",
+          "votes": 873
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "COMMUNITY PLANNING COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 729,
+          "tally_row": true
+        },
+        {
+          "name_original": "Warren R. Pearce Jr.",
+          "votes": 1242
+        },
+        {
+          "name_original": "David L. Rudloff",
+          "votes": 1239
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "HOUSING AUTHORITY (5-Yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 367,
+          "tally_row": true
+        },
+        {
+          "name_original": "Sherri L. Greer",
+          "votes": 1237
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2022-05-03",
+      "office_original": "HOUSING AUTHORITY (3-Yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 377,
+          "tally_row": true
+        },
+        {
+          "name_original": "Michele A. Mawn",
+          "votes": 1229
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthReading2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthReading2022.pdf",
+  "ballots_cast": 1607,
+  "ballots_cast_source": "derived_from_contests"
+}

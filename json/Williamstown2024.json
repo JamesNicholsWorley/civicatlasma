@@ -1,0 +1,113 @@
+{
+  "document": {
+    "heading_verbatim": "With No Races to Decide, a Light Turnout in Williamstown Town Election",
+    "election_type": "Regular",
+    "election_type_evidence": "The article describes a town election held on Tuesday with four candidates on the ballot. There is no indication this is a special election; it appears to be the annual town election.",
+    "date_verbatim": "Tuesday, May 15, 2024",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "In a town with about 5,000 registered voters, 438 ballots were cast in an election with no contested races",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Williamstown",
+      "date": "2024-05-15",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Johnson",
+          "votes": 408
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2024-05-15",
+      "office_original": "Library Board of Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Anna Halpin-Healy",
+          "votes": 419
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2024-05-15",
+      "office_original": "Northern Berkshire Vocational Regional School District Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Laila Boucher",
+          "votes": 412
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2024-05-15",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Samantha Page",
+          "votes": 406
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2024-05-15",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Tom Webb",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Williamstown2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

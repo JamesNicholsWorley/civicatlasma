@@ -1,0 +1,185 @@
+{
+  "elections": [
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lesa J. Lessard Pearson",
+          "votes": 799
+        },
+        {
+          "name_original": "W. Daniel Fitzpatrick",
+          "votes": 336
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Heidi Gutekenst",
+          "votes": 861
+        },
+        {
+          "name_original": "Matthew S. Jackson",
+          "votes": 535
+        },
+        {
+          "name_original": "Lamikco Magee",
+          "votes": 754
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 372,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bjorn Markeson",
+          "votes": 294
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 952,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Benjamin Farrell",
+          "votes": 321
+        },
+        {
+          "name_original": "Others",
+          "votes": 52,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 899,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Loring M. Caney, Jr.",
+          "votes": 191
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1047,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2023-05-15",
+      "office_original": "Board of Health",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth E. Elstein",
+          "votes": 874
+        },
+        {
+          "name_original": "David N. Gottsegen",
+          "votes": 854
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 784,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Belchertown2023",
+  "ballots_cast": 1272,
+  "ballots_cast_source": "derived_from_contests"
+}

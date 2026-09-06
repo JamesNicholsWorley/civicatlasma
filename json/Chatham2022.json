@@ -1,0 +1,97 @@
+{
+  "elections": [
+    {
+      "municipality": "Chatham",
+      "date": "2022-05-19",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JEFFREY S. DYKENS",
+          "votes": 721
+        },
+        {
+          "name_original": "JOHN MICHAEL SCHELL",
+          "votes": 760
+        },
+        {
+          "name_original": "LYNNE S. PLEFFNER",
+          "votes": 427
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 238,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2022-05-19",
+      "office_original": "MONOMOY REGIONAL SCHOOL CMTE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JESSICA M. ROGERS",
+          "votes": 874
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 201,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2022-05-19",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KAROLYN MCCLELLAN",
+          "votes": 81
+        },
+        {
+          "name_original": "Others",
+          "votes": 54,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 954,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chatham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chatham2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

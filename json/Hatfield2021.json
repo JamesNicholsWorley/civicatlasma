@@ -1,0 +1,59 @@
+{
+  "elections": [
+    {
+      "municipality": "Hatfield",
+      "date": "2021-05-18",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Jennifer Maloney",
+          "votes": 236
+        },
+        {
+          "name_original": "Amanda Thayer",
+          "votes": 140
+        },
+        {
+          "name_original": "Catherine Englehardt",
+          "votes": 140
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hatfield",
+      "date": "2021-05-18",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Michael W. Hogan",
+          "votes": 194
+        },
+        {
+          "name_original": "Stanley John Pitchko Jr.",
+          "votes": 156
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hatfield2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

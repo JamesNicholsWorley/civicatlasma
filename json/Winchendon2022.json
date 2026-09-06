@@ -1,0 +1,150 @@
+{
+  "elections": [
+    {
+      "municipality": "Winchendon",
+      "date": "2022-05-02",
+      "office_original": "MODERATOR 3 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Coral M. Grout",
+          "votes": 452
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2022-05-02",
+      "office_original": "BOARD OF SELECTMEN 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Audrey Labrie",
+          "votes": 388
+        },
+        {
+          "name_original": "Richard K. Ward",
+          "votes": 344
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 351,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2022-05-02",
+      "office_original": "SCHOOL COMMITTEE 3 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory S. Vine",
+          "votes": 404
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 127,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2022-05-02",
+      "office_original": "SCHOOL COMMITTEE 2 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Barbaro",
+          "votes": 59
+        },
+        {
+          "name_original": "Alicia E. Jordan",
+          "votes": 289
+        },
+        {
+          "name_original": "Kevin M. Nelson",
+          "votes": 190
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2022-05-02",
+      "office_original": "BOARD OF HEALTH 3 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn J. LaRochelle",
+          "votes": 425
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 113,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Winchendon2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winchendon2022.pdf",
+  "ballots_cast": 546,
+  "ballots_cast_source": "derived_from_contests"
+}

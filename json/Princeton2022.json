@@ -1,0 +1,224 @@
+{
+  "elections": [
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "SELECTBOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert C. Cumming",
+          "votes": 567
+        },
+        {
+          "name_original": "Sean Coakley",
+          "votes": 167
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 86,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 650,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "ELECTRIC LIGHT COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Chase",
+          "votes": 561
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 166,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "TRUSTEE OF TRUST FUNDS (3 YEAR)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janelle Tanenbaum",
+          "votes": 538
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "TRUSTEE OF TRUST FUNDS (2 YEAR)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Holder",
+          "votes": 567
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 162,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann Neuburg",
+          "votes": 566
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 163,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Harry Pape",
+          "votes": 618
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 114,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2022-05-09",
+      "office_original": "WRSD SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul DuBois",
+          "votes": 530
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Princeton2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Princeton2022.pdf",
+  "ballots_cast": 736,
+  "ballots_cast_source": "derived_from_contests"
+}

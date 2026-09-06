@@ -1,0 +1,260 @@
+{
+  "elections": [
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Keogh",
+          "votes": 2458
+        },
+        {
+          "name_original": "Shelby Lynn Marshall",
+          "votes": 2517
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 749,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tim Askew",
+          "votes": 2441
+        },
+        {
+          "name_original": "Boyd Stewart Conklin",
+          "votes": 318
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark Silverberg",
+          "votes": 2511
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 358,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "AVRVS COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul L. George",
+          "votes": 2484
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 389,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeanine Lea Mindrum",
+          "votes": 2360
+        },
+        {
+          "name_original": "Mary Botticelli Christensen",
+          "votes": 1912
+        },
+        {
+          "name_original": "Boyd Stewart Conklin",
+          "votes": 414
+        },
+        {
+          "name_original": "Michael Karp",
+          "votes": 1687
+        },
+        {
+          "name_original": "Gregory K. Moberg",
+          "votes": 1237
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 997,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julia C. O'Neil-Welch",
+          "votes": 2517
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 356,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "SOLDIERS MEM - vet",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lee R. Strout",
+          "votes": 1344
+        },
+        {
+          "name_original": "Andrew R. Toorock",
+          "votes": 911
+        },
+        {
+          "name_original": "Others",
+          "votes": 57,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 566,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2024-03-12",
+      "office_original": "SOLDIERS MEM - non-vet",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark E. Brady",
+          "votes": 2269
+        },
+        {
+          "name_original": "Donald E. Gilbert, III",
+          "votes": 1017
+        },
+        {
+          "name_original": "Geoffrey E. Spofford",
+          "votes": 1293
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1161,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westborough2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westborough2024.pdf",
+  "ballots_cast": 2878,
+  "ballots_cast_source": "derived_from_contests"
+}

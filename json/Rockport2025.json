@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JONATHAN E. LILJA",
+          "votes": 734
+        },
+        {
+          "name_original": "DWIGHT D. VALENTINE",
+          "votes": 934
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "ASSESSOR OF TAXES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "WILHELMINA MOORES",
+          "votes": 1383
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 310,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MELANIE JANE WADDELL",
+          "votes": 1544
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CAROL ELIZABETH MAXFIELD",
+          "votes": 1324
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 372,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PETER KUTTNER",
+          "votes": 1223
+        },
+        {
+          "name_original": "THOMAS MIKUS",
+          "votes": 1188
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 979,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PETER W. HANSCOM",
+          "votes": 830
+        },
+        {
+          "name_original": "RANDY ALAN HOCK",
+          "votes": 607
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 256,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2025-05-13",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TAMMIE TITELBAUM",
+          "votes": 1299
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 388,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rockport2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rockport2025.pdf",
+  "ballots_cast": 1700,
+  "ballots_cast_source": "derived_from_contests"
+}

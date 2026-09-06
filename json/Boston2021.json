@@ -1,0 +1,315 @@
+{
+  "elections": [
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michelle Wu",
+          "votes": 91794
+        },
+        {
+          "name_original": "Annissa Essaibi George",
+          "votes": 51125
+        },
+        {
+          "name_original": "All Others",
+          "votes": 595,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "David Halbert",
+          "votes": 42765
+        },
+        {
+          "name_original": "Bridget M Nee-Walsh",
+          "votes": 27591
+        },
+        {
+          "name_original": "Julia Mejia",
+          "votes": 62058
+        },
+        {
+          "name_original": "Carla Monteiro",
+          "votes": 39876
+        },
+        {
+          "name_original": "Ruthzee Louijeune",
+          "votes": 54898
+        },
+        {
+          "name_original": "Althea Garrison",
+          "votes": 25078
+        },
+        {
+          "name_original": "Michael F Flaherty",
+          "votes": 62602
+        },
+        {
+          "name_original": "Erin J Murphy",
+          "votes": 43076
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1350,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 1",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Lydia Marie Edwards",
+          "votes": 10558
+        },
+        {
+          "name_original": "All Others",
+          "votes": 296,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 2",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Edward M Flynn",
+          "votes": 15029
+        },
+        {
+          "name_original": "All Others",
+          "votes": 257,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 3",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Frank Baker",
+          "votes": 8518
+        },
+        {
+          "name_original": "Stephen McBride",
+          "votes": 4972
+        },
+        {
+          "name_original": "All Others",
+          "votes": 62,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 4",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Brian J Worrell",
+          "votes": 7464
+        },
+        {
+          "name_original": "Evandro C Carvalho",
+          "votes": 4611
+        },
+        {
+          "name_original": "All Others",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 5",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Ricardo Arroyo",
+          "votes": 13175
+        },
+        {
+          "name_original": "John E White",
+          "votes": 4127
+        },
+        {
+          "name_original": "All Others",
+          "votes": 95,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 6",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Kendra Rosalie Hicks",
+          "votes": 13987
+        },
+        {
+          "name_original": "Mary Tamer",
+          "votes": 11017
+        },
+        {
+          "name_original": "All Others",
+          "votes": 81,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 7",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Roy A Owens Sr",
+          "votes": 2562
+        },
+        {
+          "name_original": "Tania Fernandes Anderson",
+          "votes": 7062
+        },
+        {
+          "name_original": "All Others",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 8",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Priscilla Kenzie Bok",
+          "votes": 7038
+        },
+        {
+          "name_original": "All Others",
+          "votes": 151,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boston",
+      "date": "2021-11-02",
+      "office_original": "City Councillor District 9",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michael J Bianchi",
+          "votes": 2844
+        },
+        {
+          "name_original": "Liz A Breadon",
+          "votes": 7304
+        },
+        {
+          "name_original": "All Others",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Boston2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boston2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

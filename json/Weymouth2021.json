@@ -1,0 +1,89 @@
+{
+  "elections": [
+    {
+      "municipality": "Weymouth",
+      "date": "2021-11-02",
+      "office_original": "Councilor-at-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Michael Molisse",
+          "votes": 4066
+        },
+        {
+          "name_original": "Fred Happel",
+          "votes": 3845
+        },
+        {
+          "name_original": "Gregory Shanahan",
+          "votes": 3839
+        },
+        {
+          "name_original": "Chris Heffernan",
+          "votes": 3482
+        },
+        {
+          "name_original": "Lisa Belmarsh",
+          "votes": 2982
+        },
+        {
+          "name_original": "Ash Eikelberg",
+          "votes": 2520
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Weymouth",
+      "date": "2021-11-02",
+      "office_original": "District 5 Councilor",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Gary MacDougall",
+          "votes": 412
+        },
+        {
+          "name_original": "Michael Gallagher",
+          "votes": 340
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Weymouth",
+      "date": "2021-11-02",
+      "office_original": "District 6 Councilor",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John Abbott",
+          "votes": 784
+        },
+        {
+          "name_original": "Edward Hancock",
+          "votes": 613
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Weymouth2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

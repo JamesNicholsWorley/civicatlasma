@@ -1,0 +1,226 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION JUNE 11, 2024",
+    "date_verbatim": "TUESDAY JUNE 11, 2024",
+    "election_type": "Preliminary",
+    "election_type_evidence": "The following are the PRELIMINARY results of the votes cast in the Annual Town Election on TUESDAY JUNE 11, 2024.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "SELECT BOARD",
+      "district_original": "",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RICHARD ANTANVICA",
+          "votes": 360
+        },
+        {
+          "name_original": "DOUGLAS A. BELANGER",
+          "votes": 609
+        },
+        {
+          "name_original": "PETER C. CUSOLITO",
+          "votes": 613
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 135,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 857,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "Three years",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JAMES A. REINKE",
+          "votes": 685
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 301,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "One Year",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NICHOLAS WILLIAM PACKARD",
+          "votes": 664
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 321,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTOPHER M. MONTIVERDI",
+          "votes": 724
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOSHUA G. CAMPBELL",
+          "votes": 683
+        },
+        {
+          "name_original": "JAMES REINKE",
+          "votes": 599
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 696,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-06-11",
+      "office_original": "PUBLIC LIBRARY TRUSTEE",
+      "district_original": "",
+      "stage": "Preliminary",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRUCE L. CRAVEN",
+          "votes": 644
+        },
+        {
+          "name_original": "R. OLNEY WHITE",
+          "votes": 716
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 619,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Leicester2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leicester2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

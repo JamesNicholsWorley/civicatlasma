@@ -1,0 +1,190 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 2359
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 710,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melissa Morris Danisch",
+          "votes": 2130
+        },
+        {
+          "name_original": "Alex J. Vispoli",
+          "votes": 2214
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1903,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Ep. Dicesaro",
+          "votes": 1475
+        },
+        {
+          "name_original": "Sandis H. Wright",
+          "votes": 1470
+        },
+        {
+          "name_original": "Christopher C. Shepley",
+          "votes": 1487
+        },
+        {
+          "name_original": "Jacob E. Tamarkin",
+          "votes": 1583
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 288,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven R. Pekock",
+          "votes": 2260
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 878,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Oscar Gillette",
+          "votes": 7
+        },
+        {
+          "name_original": "Richard Padova",
+          "votes": 24
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3015,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2025-03-25",
+      "office_original": "ANDOVER HOUSING AUTHORITY - 5 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer K. Hoenig",
+          "votes": 2308
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 838,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2025.pdf",
+  "ballots_cast": 3156,
+  "ballots_cast_source": "derived_from_contests"
+}

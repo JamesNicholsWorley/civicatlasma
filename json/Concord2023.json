@@ -1,0 +1,93 @@
+{
+  "elections": [
+    {
+      "municipality": "Concord",
+      "date": "2023-03-28",
+      "office_original": "MODERATOR (Vote for One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carmin C. Reiss",
+          "votes": 1691
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 221,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2023-03-28",
+      "office_original": "SELECT BOARD (Vote for One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark L. Howell",
+          "votes": 1230
+        },
+        {
+          "name_original": "Karlen J. Reed",
+          "votes": 670
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2023-03-28",
+      "office_original": "SCHOOL COMMITTEE (Vote for One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carrie James Rankin",
+          "votes": 1639
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 259,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Concord2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Concord2023.pdf",
+  "ballots_cast": 1918,
+  "ballots_cast_source": "derived_from_contests"
+}

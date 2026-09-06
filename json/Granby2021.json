@@ -1,0 +1,229 @@
+{
+  "elections": [
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Beaulieu",
+          "votes": 374
+        },
+        {
+          "name_original": "Stephen Anthony Chojnacki",
+          "votes": 205
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dakota Richards",
+          "votes": 294
+        },
+        {
+          "name_original": "James Healy",
+          "votes": 286
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nita Abbott",
+          "votes": 316
+        },
+        {
+          "name_original": "Dakota Richards",
+          "votes": 265
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Bartosz",
+          "votes": 402
+        },
+        {
+          "name_original": "Jill Pelletier",
+          "votes": 414
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lee Lalonde",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lynn Snopek Mercier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Town Collector",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicole Menard",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Town Treasurer",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Nally",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donald Lindsay",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Commissioner of Burial Grounds",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gordon Landry",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2021-05-17",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janice Cook",
+          "votes": 0
+        },
+        {
+          "name_original": "Theresa Laprade",
+          "votes": 0
+        },
+        {
+          "name_original": "Denise Conti",
+          "votes": 0
+        },
+        {
+          "name_original": "Candance Ribeiro",
+          "votes": 24
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Granby2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

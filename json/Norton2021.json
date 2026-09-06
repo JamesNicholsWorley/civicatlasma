@@ -1,0 +1,204 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF NORTON RECORD OF Annual Town Election OFFICIAL RESULTS Saturday, April 10, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Saturday, April 10, 2021",
+    "offices_on_ballot": 6,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Megan A. Artz",
+          "votes": 1719
+        },
+        {
+          "name_original": "Christine Ann Deveau",
+          "votes": 1452
+        },
+        {
+          "name_original": "Frank J. Parker, III",
+          "votes": 1249
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2100,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard F. Dorney",
+          "votes": 2061
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Wayne Graff",
+          "votes": 94
+        },
+        {
+          "name_original": "Allen Bouley",
+          "votes": 181
+        },
+        {
+          "name_original": "Michael Conroy",
+          "votes": 41
+        },
+        {
+          "name_original": "Others",
+          "votes": 511,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6045,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deniz Savas",
+          "votes": 1879
+        },
+        {
+          "name_original": "Daniel L. Sheedy",
+          "votes": 1911
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2734,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "Water/Sewer Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James Jarden",
+          "votes": 36
+        },
+        {
+          "name_original": "Others",
+          "votes": 131,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3111,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2021-04-10",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ralph W. Stefanelli",
+          "votes": 1975
+        },
+        {
+          "name_original": "Others",
+          "votes": 48,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1255,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Norton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norton2021.pdf",
+  "ballots_cast": 3278,
+  "ballots_cast_source": "derived_from_contests"
+}

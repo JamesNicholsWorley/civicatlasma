@@ -1,0 +1,310 @@
+{
+  "elections": [
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Mary Sullivan Bowen",
+          "votes": 196
+        },
+        {
+          "name_original": "Barbara Jacque",
+          "votes": 261
+        },
+        {
+          "name_original": "Sarah Rebecca Horan Kerns",
+          "votes": 234
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 102,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Alice B. Lord",
+          "votes": 343
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Board of Health",
+      "district_original": "Three-year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Allison Deborah Wahlstrom",
+          "votes": 337
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 61,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Board of Health",
+      "district_original": "Two-year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Kathryn Bridges",
+          "votes": 334
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Board of Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Jon G. McGowan",
+          "votes": 328
+        },
+        {
+          "name_original": "Lloyd Ellison Parrill",
+          "votes": 309
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 160,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Michel Marie Wood",
+          "votes": 254
+        },
+        {
+          "name_original": "Gail Weis",
+          "votes": 88
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Recreation Commission",
+      "district_original": "Three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Laura Fries",
+          "votes": 95
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 695,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Recreation Commission",
+      "district_original": "One-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Chelsea Rae Depault",
+          "votes": 307
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Board of Trustees of Veterans Memorials",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Denis Brennan",
+          "votes": 78
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 321,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Sewer Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Karen Boudreau",
+          "votes": 326
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northfield",
+      "date": "2023-05-02",
+      "office_original": "Grandin Water District Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Peter Holme Weis",
+          "votes": 327
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northfield2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northfield2023.pdf",
+  "ballots_cast": 399,
+  "ballots_cast_source": "derived_from_contests"
+}

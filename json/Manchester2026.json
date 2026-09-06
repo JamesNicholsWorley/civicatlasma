@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "HOUSING AUTHORITY- 5 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTINA DELISIO",
+          "votes": 5
+        },
+        {
+          "name_original": "GAR MORSE",
+          "votes": 2
+        },
+        {
+          "name_original": "All Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 436,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "HOUSING AUTHORITY- 2 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRIAN ALEXANDER FREY",
+          "votes": 331
+        },
+        {
+          "name_original": "All Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DAVID KENNY LUMSDEN",
+          "votes": 364
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 85,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ELI G. BOLING",
+          "votes": 368
+        },
+        {
+          "name_original": "All Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOHN GC HARDEN",
+          "votes": 300
+        },
+        {
+          "name_original": "CHRISTOPHER GILLPATRICK OLNEY",
+          "votes": 330
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 276,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SARAH ANN STONE",
+          "votes": 330
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Manchester-by-the-Sea",
+      "date": "2026-05-19",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANN WARD HARRISON",
+          "votes": 304
+        },
+        {
+          "name_original": "JOHN JAY ROUND",
+          "votes": 336
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 264,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Manchester2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Manchester2026.pdf",
+  "ballots_cast": 455,
+  "ballots_cast_source": "derived_from_contests"
+}

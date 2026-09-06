@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Select Board (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Heidi A. Bilbo",
+          "votes": 742
+        },
+        {
+          "name_original": "George E. Seibold",
+          "votes": 755
+        },
+        {
+          "name_original": "Barbara Jean Young",
+          "votes": 456
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 381,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maria Sagarino",
+          "votes": 951
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 214,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Library Trustees (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia Marie Dipietro",
+          "votes": 835
+        },
+        {
+          "name_original": "Susan Waldman Fixman",
+          "votes": 798
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 700,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "August S. Niewenhous",
+          "votes": 520
+        },
+        {
+          "name_original": "Marcia M. Wengen",
+          "votes": 587
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 63,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Betty Chu Pryor",
+          "votes": 836
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 318,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric R. Josephson",
+          "votes": 797
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 370,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoneham",
+      "date": "2022-04-05",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Teresa Marie Dean",
+          "votes": 831
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 335,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stoneham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoneham2022.pdf",
+  "ballots_cast": 1171,
+  "ballots_cast_source": "derived_from_contests"
+}

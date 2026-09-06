@@ -1,0 +1,454 @@
+{
+  "elections": [
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "SELECT",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bailey",
+          "votes": 576
+        },
+        {
+          "name_original": "Langlais",
+          "votes": 384
+        },
+        {
+          "name_original": "R Wright",
+          "votes": 128
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "MODER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "S Wright",
+          "votes": 816
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 269,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "PLAN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carlino",
+          "votes": 825
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 241,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "SCH 3 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Larmon",
+          "votes": 817
+        },
+        {
+          "name_original": "B Strickler",
+          "votes": 10
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1340,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "SCH 2 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nichols",
+          "votes": 762
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 326,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "SCH 1 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kosiorek",
+          "votes": 763
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 325,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donovan",
+          "votes": 141
+        },
+        {
+          "name_original": "Forrest",
+          "votes": 134
+        },
+        {
+          "name_original": "Tyer",
+          "votes": 143
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 228,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 2",
+      "district_original": "District 2 (3)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blum",
+          "votes": 132
+        },
+        {
+          "name_original": "Devarennes",
+          "votes": 168
+        },
+        {
+          "name_original": "Kennedy",
+          "votes": 136
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 171,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 2",
+      "district_original": "District 2 (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Langlais",
+          "votes": 133
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 3",
+      "district_original": "District 3 (3)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bort",
+          "votes": 75
+        },
+        {
+          "name_original": "Mead",
+          "votes": 76
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 179,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 3",
+      "district_original": "District 3 (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 102,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bailey",
+          "votes": 206
+        },
+        {
+          "name_original": "Brunnell",
+          "votes": 183
+        },
+        {
+          "name_original": "Kalischer",
+          "votes": 144
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 255,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 5",
+      "district_original": "District 5 (3)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arment",
+          "votes": 75
+        },
+        {
+          "name_original": "Sorrentino",
+          "votes": 86
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 144,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 5",
+      "district_original": "District 5 (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 99,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2022-05-16",
+      "office_original": "DIST 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hofman",
+          "votes": 115
+        },
+        {
+          "name_original": "Tierney",
+          "votes": 148
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 289,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lee2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lee2022.pdf",
+  "ballots_cast": 1092,
+  "ballots_cast_source": "derived_from_contests"
+}

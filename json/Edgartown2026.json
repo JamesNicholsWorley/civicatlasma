@@ -1,0 +1,52 @@
+{
+  "document": {
+    "heading_verbatim": "Edgartown Voters Approve $900k Override",
+    "election_type": "Regular",
+    "election_type_evidence": "\"the annual town election Thursday\" and \"Edgartown annual town election\" indicate this is the regular annual election",
+    "date_verbatim": "Thursday, April 16, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "\"the uncontested select board race\" and \"an uncontested race\" (planning board) indicate multiple uncontested offices"
+  },
+  "elections": [
+    {
+      "municipality": "Edgartown",
+      "date": "2026-04-16",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Julia Tarka",
+          "votes": 389
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Edgartown",
+      "date": "2026-04-16",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Juliet Mulinare",
+          "votes": 374
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Edgartown2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

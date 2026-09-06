@@ -1,0 +1,641 @@
+{
+  "elections": [
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "At Large City Councilor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janet Leombruno",
+          "votes": 3180
+        },
+        {
+          "name_original": "George P. King Jr.",
+          "votes": 2942
+        },
+        {
+          "name_original": "Others",
+          "votes": 233,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2149,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 1 City Councilor",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christine A. Long",
+          "votes": 488
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 2 City Councilor",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brandon Foster Ward",
+          "votes": 686
+        },
+        {
+          "name_original": "Sean C. Silk",
+          "votes": 165
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 3 City Councilor",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam C. Steiner",
+          "votes": 500
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 4 City Councilor",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael P. Cannon",
+          "votes": 402
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 5 City Councilor",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noval A. Alexander",
+          "votes": 259
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 6 City Councilor",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip R. Ottaviani Jr.",
+          "votes": 304
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 7 City Councilor",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leora Rose Mallach",
+          "votes": 263
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 8 City Councilor",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslie S. White-Harvey",
+          "votes": 275
+        },
+        {
+          "name_original": "John Augusto Stefanini",
+          "votes": 255
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 9 City Councilor",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracey Bryant",
+          "votes": 126
+        },
+        {
+          "name_original": "Jose Ferreira",
+          "votes": 43
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 1 School Committee",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ricardo Robles",
+          "votes": 449
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 2 School Committee",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Tomas Gordon",
+          "votes": 641
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 219,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 3 School Committee",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer A. Moshe",
+          "votes": 488
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 102,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 4 School Committee",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Lawrence Freudberg",
+          "votes": 414
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 85,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 5 School Committee",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith L. Styer",
+          "votes": 243
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 63,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 6 School Committee",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Valerie V. Ottaviani",
+          "votes": 299
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 7 School Committee",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tiffanie Dawn Maskell",
+          "votes": 247
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 8 School Committee",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Stefanini Barnhill",
+          "votes": 427
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "District 9 School Committee",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William J. LaBarge",
+          "votes": 133
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Annabel Z. Dodd",
+          "votes": 2749
+        },
+        {
+          "name_original": "Heather Klish",
+          "votes": 2236
+        },
+        {
+          "name_original": "Mark J. Dugan",
+          "votes": 1832
+        },
+        {
+          "name_original": "Cynthia MacLean",
+          "votes": 2247
+        },
+        {
+          "name_original": "Julie Wolf",
+          "votes": 2310
+        },
+        {
+          "name_original": "Robert Marvin Dodd",
+          "votes": 2521
+        },
+        {
+          "name_original": "Janet L. Harrington",
+          "votes": 2800
+        },
+        {
+          "name_original": "Andrew Machkasov",
+          "votes": 848
+        },
+        {
+          "name_original": "Others",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7913,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2023-11-07",
+      "office_original": "Cemetery Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Silva",
+          "votes": 3277
+        },
+        {
+          "name_original": "John J. Feeney",
+          "votes": 3139
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2053,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Framingham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Framingham2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

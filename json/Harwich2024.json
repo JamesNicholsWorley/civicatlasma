@@ -1,0 +1,195 @@
+{
+  "elections": [
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter J. Piekarski",
+          "votes": 690
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael D. Ford",
+          "votes": 726
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 84,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Monomoy Regional School Committee",
+      "district_original": "Harwich",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bre A. Rose",
+          "votes": 418
+        },
+        {
+          "name_original": "Ann Marie Varella",
+          "votes": 348
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Brooks Free Library Board of Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan A. McCarty",
+          "votes": 550
+        },
+        {
+          "name_original": "Jeannie S. Wheeler",
+          "votes": 562
+        },
+        {
+          "name_original": "Lynn Slangan Budell",
+          "votes": 252
+        },
+        {
+          "name_original": "Patricia Larkin Murray",
+          "votes": 486
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 585,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Water/Wastewater Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noreen A. Donahue",
+          "votes": 646
+        },
+        {
+          "name_original": "Richard Val Peter",
+          "votes": 23
+        },
+        {
+          "name_original": "Robert Bob Young",
+          "votes": 131
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 817,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2024-05-21",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arthur F. Bodin",
+          "votes": 634
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harwich2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harwich2024.pdf",
+  "ballots_cast": 812,
+  "ballots_cast_source": "derived_from_contests"
+}

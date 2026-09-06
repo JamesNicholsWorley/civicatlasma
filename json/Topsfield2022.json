@@ -1,0 +1,170 @@
+{
+  "elections": [
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Masconomet Regional School Committee (Topsfield representative)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Hodges",
+          "votes": 562
+        },
+        {
+          "name_original": "Kathleena Scarpato",
+          "votes": 268
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Select Board (3-year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Rafael McDonald",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Elementary School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Andrew Prazar",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Candice Snyder",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Library Board of Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Gail Bryson",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Nancy Lehman",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Planning Board (3-year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Gregory Mellinger",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Jennie Merrill",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Stephen Whalen",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lynn Conant",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Topsfield",
+      "date": "2022-05-05",
+      "office_original": "Commissioner of Trust Funds",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Thomas Walsh",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Topsfield2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

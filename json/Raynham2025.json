@@ -1,0 +1,222 @@
+{
+  "elections": [
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Selectman",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph R. Pacheco",
+          "votes": 586
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 281,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Assessor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "A.J. Andrews",
+          "votes": 564
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 303,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Sewer Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey R. Kelleher",
+          "votes": 624
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 243,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Andrade",
+          "votes": 311
+        },
+        {
+          "name_original": "Pamela J. Menconi",
+          "votes": 544
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Park & Recreation Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher A. Shaw",
+          "votes": 632
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 235,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "B-R School Raynham Member",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel E. Gouthro",
+          "votes": 558
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 309,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "B-R School Bridgewater Member",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alison Marie Conroy",
+          "votes": 181
+        },
+        {
+          "name_original": "Catherine S. MacDonald",
+          "votes": 163
+        },
+        {
+          "name_original": "Andrea Rosehoy Thomas",
+          "votes": 186
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 337,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Cemetery Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David F. Yelle",
+          "votes": 619
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 248,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2025-04-26",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ginny Jacques",
+          "votes": 313
+        },
+        {
+          "name_original": "Rebecca A. Mello",
+          "votes": 424
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 130,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Raynham2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Raynham2025.pdf",
+  "ballots_cast": 867,
+  "ballots_cast_source": "derived_from_contests"
+}

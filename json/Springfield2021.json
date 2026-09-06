@@ -1,0 +1,464 @@
+{
+  "elections": [
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council At Large",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Curran",
+          "votes": 5275
+        },
+        {
+          "name_original": "Justin J. Hurst",
+          "votes": 6094
+        },
+        {
+          "name_original": "Jesse Lederman",
+          "votes": 6136
+        },
+        {
+          "name_original": "Kateri B. Walsh",
+          "votes": 5436
+        },
+        {
+          "name_original": "Tracye L. Whitfield",
+          "votes": 5063
+        },
+        {
+          "name_original": "Juan J. Caraballo III",
+          "votes": 3265
+        },
+        {
+          "name_original": "Debra Fletcher",
+          "votes": 1558
+        },
+        {
+          "name_original": "Juan F. Latorre III",
+          "votes": 2942
+        },
+        {
+          "name_original": "Michael Kelly Lee",
+          "votes": 2851
+        },
+        {
+          "name_original": "James Ryan",
+          "votes": 2394
+        },
+        {
+          "name_original": "Others",
+          "votes": 99,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14171,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maria Perez",
+          "votes": 606
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 150,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael A. Fenton",
+          "votes": 1148
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 283,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melvin A. Edwards",
+          "votes": 370
+        },
+        {
+          "name_original": "Lezlie Braxton Campbell",
+          "votes": 243
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Malo L. Brown",
+          "votes": 645
+        },
+        {
+          "name_original": "Jyna McDonald",
+          "votes": 544
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marcus J. Williams",
+          "votes": 1348
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 517,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Victor G. Davila",
+          "votes": 949
+        },
+        {
+          "name_original": "Bob Collamore",
+          "votes": 414
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 155,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy C. Allen",
+          "votes": 1742
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 558,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "City Council Ward 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Zaida I. Govan",
+          "votes": 708
+        },
+        {
+          "name_original": "Lisa Thompson",
+          "votes": 553
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 69,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee At Large",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Denise Marie Hurst",
+          "votes": 6667
+        },
+        {
+          "name_original": "Latonia Naylor",
+          "votes": 6040
+        },
+        {
+          "name_original": "Cary Curley",
+          "votes": 3999
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5527,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee District 1",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joesiah I. Gonzalez",
+          "votes": 1038
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 371,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee District 2",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara J. Gresham",
+          "votes": 2269
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 820,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee District 3",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Collins",
+          "votes": 2620
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1189,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee District 4",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Murphy",
+          "votes": 1331
+        },
+        {
+          "name_original": "Ayanna C. Crawford",
+          "votes": 1253
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 189,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Springfield2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Springfield2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

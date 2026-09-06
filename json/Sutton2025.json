@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2025-05-27",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James R. Ettamarna",
+          "votes": 771
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 287,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-27",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Shawn R. Buzzell",
+          "votes": 325
+        },
+        {
+          "name_original": "John A. Kemp",
+          "votes": 87
+        },
+        {
+          "name_original": "Christine M. Watkins",
+          "votes": 636
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 69,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-27",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer L. Darling",
+          "votes": 586
+        },
+        {
+          "name_original": "Christopher M. Matera",
+          "votes": 553
+        },
+        {
+          "name_original": "Erin Reid-Eriksen",
+          "votes": 575
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 510,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-27",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "April A. Connors",
+          "votes": 245
+        },
+        {
+          "name_original": "David W. Mason",
+          "votes": 218
+        },
+        {
+          "name_original": "Wesley L. Stanhope",
+          "votes": 453
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 197,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-27",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Margaret K. Scranton-Blume",
+          "votes": 890
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 220,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sutton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sutton2025.pdf",
+  "ballots_cast": 1118,
+  "ballots_cast_source": "derived_from_contests"
+}

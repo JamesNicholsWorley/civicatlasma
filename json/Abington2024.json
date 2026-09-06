@@ -1,0 +1,192 @@
+{
+  "elections": [
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.72,
+      "candidates": [
+        {
+          "name_original": "Paul Bunker",
+          "votes": 991
+        },
+        {
+          "name_original": "Roger Woods",
+          "votes": 914
+        },
+        {
+          "name_original": "Tim Chapin",
+          "votes": 904
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "School Committee",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Pam Neely",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Heidi Hernandez",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Library Board of Trustees",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Mary Gillis",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Gail Bergin",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Henry DiCarlo",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Board of Water Commissioners, unexpired 2-year term",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "John Manning",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Board of Water Commissioners, 3-year term",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "William Cormier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Housing Authority",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Ellen Delany",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Planning Board",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Rick Collins",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Board of Health",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Board of Assessors",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Abington",
+      "date": "2024-04-27",
+      "office_original": "Board of Sewer Commissioners",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Abington2024",
+  "_source_pdf": "",
+  "ballots_cast": 1658,
+  "ballots_cast_source": "stated_in_record"
+}

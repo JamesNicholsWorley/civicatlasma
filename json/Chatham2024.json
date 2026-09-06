@@ -1,0 +1,124 @@
+{
+  "elections": [
+    {
+      "municipality": "Chatham",
+      "date": "2024-05-16",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CORY JOHN METTERS",
+          "votes": 824
+        },
+        {
+          "name_original": "DEAN P. NICASTRO",
+          "votes": 716
+        },
+        {
+          "name_original": "BRIAN MICHAEL PHILLIPS",
+          "votes": 291
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 252,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2024-05-16",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "WILLIAM G. LITCHFIELD",
+          "votes": 889
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 151,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2024-05-16",
+      "office_original": "MONOMOY REGIONAL SCHOOL CMTE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRADFORD LEWIS SCHIFF",
+          "votes": 831
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 206,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2024-05-16",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALAN H. MOWRY",
+          "votes": 809
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 233,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chatham2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chatham2024.pdf",
+  "ballots_cast": 1049,
+  "ballots_cast_source": "derived_from_contests"
+}

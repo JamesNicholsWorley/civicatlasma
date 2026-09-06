@@ -1,0 +1,194 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF ROCKPORT WARRANT FOR ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "TUESDAY, MAY 10, 2022",
+    "offices_on_ballot": 6,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "Board of Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Denise Donnelly",
+          "votes": 1489
+        },
+        {
+          "name_original": "Others",
+          "votes": 58,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 460,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "Assessor of Taxes",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wilhelmina Moores",
+          "votes": 1461
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 537,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan E. Ring",
+          "votes": 289
+        },
+        {
+          "name_original": "Melanie J. Waddell",
+          "votes": 1697
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Mikus",
+          "votes": 1200
+        },
+        {
+          "name_original": "Peter G. Kuttner",
+          "votes": 1024
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1770,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "Trustee of Public Library",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert B. Audano, Jr.",
+          "votes": 1534
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 466,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2022-05-10",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cathleen Brennan Reilly",
+          "votes": 1428
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 562,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rockport2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rockport2022.pdf",
+  "ballots_cast": 2007,
+  "ballots_cast_source": "derived_from_contests"
+}

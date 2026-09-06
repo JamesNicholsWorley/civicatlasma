@@ -1,0 +1,967 @@
+{
+  "elections": [
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "SELECT BOARD (Vote for Not more than ONE for THREE Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "JILL I HAI",
+          "votes": 4192
+        },
+        {
+          "name_original": "CYNTHIA E. ARENS",
+          "votes": 3196
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 632,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "MODERATOR (Vote for NOT more than ONE for ONE Year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "DEBORAH J. BROWN",
+          "votes": 5879
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2140,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "School Committee (Vote for NOT more than TWO for THREE Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN M. LENIHAN",
+          "votes": 5236
+        },
+        {
+          "name_original": "DEEPIKA SAWHNEY",
+          "votes": 5072
+        },
+        {
+          "name_original": "JOHAN LINDBORG",
+          "votes": 2328
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3415,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "PLANNING BOARD (Vote for NOT more than TWO for THREE Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "MICHAEL J. SCHANBACHER",
+          "votes": 3719
+        },
+        {
+          "name_original": "MELANIE A. THOMPSON",
+          "votes": 3774
+        },
+        {
+          "name_original": "LIN D. JENSEN",
+          "votes": 2572
+        },
+        {
+          "name_original": "TINA M. McBRIDE",
+          "votes": 3104
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2903,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "LEXINGTON HOUSING AUTHORITY (Vote for NOT more than One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "MELINDA M. WALKER",
+          "votes": 5170
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2849,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "TANYA J. GISOLFI-McCREADY",
+          "votes": 468
+        },
+        {
+          "name_original": "JUDITH LISKOV ZABIN",
+          "votes": 467
+        },
+        {
+          "name_original": "JANET M. KERN",
+          "votes": 465
+        },
+        {
+          "name_original": "SANDHYA BEEBEE",
+          "votes": 455
+        },
+        {
+          "name_original": "ROBERT WILLIAM CUNHA",
+          "votes": 442
+        },
+        {
+          "name_original": "CAROL JEANNE SAMPSON",
+          "votes": 427
+        },
+        {
+          "name_original": "YIFANG GONG",
+          "votes": 420
+        },
+        {
+          "name_original": "JEFFREY PAUL FENNELLY",
+          "votes": 384
+        },
+        {
+          "name_original": "Eli Hollander",
+          "votes": 1
+        },
+        {
+          "name_original": "Hannah Hollander",
+          "votes": 1
+        },
+        {
+          "name_original": "Christina Burwell",
+          "votes": 1
+        },
+        {
+          "name_original": "Kimberly Moore",
+          "votes": 1
+        },
+        {
+          "name_original": "David Wininger",
+          "votes": 1
+        },
+        {
+          "name_original": "Valerie Zemba",
+          "votes": 1
+        },
+        {
+          "name_original": "Ankur Gupta",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2778,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "AMY KAREN WEINSTOCK",
+          "votes": 655
+        },
+        {
+          "name_original": "BARBARA KATZENBERG",
+          "votes": 607
+        },
+        {
+          "name_original": "MARIAN A. O. COHEN",
+          "votes": 582
+        },
+        {
+          "name_original": "SYED ALI RIZVI",
+          "votes": 581
+        },
+        {
+          "name_original": "RITA VACHANI",
+          "votes": 569
+        },
+        {
+          "name_original": "PETER B. LEE",
+          "votes": 497
+        },
+        {
+          "name_original": "KENNETH J. SHINE",
+          "votes": 457
+        },
+        {
+          "name_original": "SEAN D. OSBORNE",
+          "votes": 435
+        },
+        {
+          "name_original": "CHARLES HORNIG",
+          "votes": 288
+        },
+        {
+          "name_original": "Josh Raha",
+          "votes": 1
+        },
+        {
+          "name_original": "Liam Hefferman",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2968,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "ROBERT ROTBERG",
+          "votes": 426
+        },
+        {
+          "name_original": "EDWARD F. DOLAN",
+          "votes": 416
+        },
+        {
+          "name_original": "MICHAEL J. SCHANBACHER",
+          "votes": 412
+        },
+        {
+          "name_original": "JOSHUA F. APGAR",
+          "votes": 372
+        },
+        {
+          "name_original": "LETHA MS PRESTBO",
+          "votes": 369
+        },
+        {
+          "name_original": "MICHAEL J. MARTIGNETTI",
+          "votes": 368
+        },
+        {
+          "name_original": "DELANOT BASTIEN",
+          "votes": 313
+        },
+        {
+          "name_original": "IPEK OZER-STILLMAN",
+          "votes": 254
+        },
+        {
+          "name_original": "PRASHANT SINGH",
+          "votes": 233
+        },
+        {
+          "name_original": "SUDHIR K. JAIN",
+          "votes": 179
+        },
+        {
+          "name_original": "Mark Terzian",
+          "votes": 1
+        },
+        {
+          "name_original": "Hua Wang",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2856,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN M. LENIHAN",
+          "votes": 646
+        },
+        {
+          "name_original": "EILEEN S. JAY",
+          "votes": 615
+        },
+        {
+          "name_original": "CHARLES W. LAMB",
+          "votes": 573
+        },
+        {
+          "name_original": "JENNIFER RICHLIN",
+          "votes": 552
+        },
+        {
+          "name_original": "GLORIA J. BLOOM",
+          "votes": 541
+        },
+        {
+          "name_original": "ROBERT N. COHEN",
+          "votes": 450
+        },
+        {
+          "name_original": "KUNAL P. BOTLA",
+          "votes": 440
+        },
+        {
+          "name_original": "SREENIVASA RAO CHIPPADA",
+          "votes": 390
+        },
+        {
+          "name_original": "JAMES CAMERON EISENBERG",
+          "votes": 332
+        },
+        {
+          "name_original": "Laura Atlee",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2533,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "SARAH E. HIGGINBOTHAM",
+          "votes": 518
+        },
+        {
+          "name_original": "ANIL A. AHUJA",
+          "votes": 499
+        },
+        {
+          "name_original": "ALEX J. TSOUVALAS",
+          "votes": 494
+        },
+        {
+          "name_original": "MARC A. SAINT LOUIS",
+          "votes": 493
+        },
+        {
+          "name_original": "Kristin McKay Pechinsky",
+          "votes": 44
+        },
+        {
+          "name_original": "Ting Fang",
+          "votes": 37
+        },
+        {
+          "name_original": "Joyce S. Murphy",
+          "votes": 31
+        },
+        {
+          "name_original": "Rita Pandey",
+          "votes": 26
+        },
+        {
+          "name_original": "Michael K. Fenollosa",
+          "votes": 17
+        },
+        {
+          "name_original": "Surabhi Sandeep Rathi",
+          "votes": 11
+        },
+        {
+          "name_original": "Sandeep Govindlal Rathi",
+          "votes": 9
+        },
+        {
+          "name_original": "Sam Schlussel",
+          "votes": 2
+        },
+        {
+          "name_original": "Aneesha Karudy",
+          "votes": 1
+        },
+        {
+          "name_original": "Paul Mamda",
+          "votes": 1
+        },
+        {
+          "name_original": "Jonina Schonfeld",
+          "votes": 1
+        },
+        {
+          "name_original": "Chunshi Zho",
+          "votes": 1
+        },
+        {
+          "name_original": "Wei Ding",
+          "votes": 1
+        },
+        {
+          "name_original": "Shuo Wu",
+          "votes": 1
+        },
+        {
+          "name_original": "Kun Wu",
+          "votes": 1
+        },
+        {
+          "name_original": "Edward A. Ganshirt",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Ocean",
+          "votes": 1
+        },
+        {
+          "name_original": "Sirarpi Heghinian-Walzer",
+          "votes": 1
+        },
+        {
+          "name_original": "Elizabeth Warren",
+          "votes": 1
+        },
+        {
+          "name_original": "Tera Pilai",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Balaban",
+          "votes": 1
+        },
+        {
+          "name_original": "Salvador Jaramillo",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Novas",
+          "votes": 1
+        },
+        {
+          "name_original": "Andy Friedlich",
+          "votes": 1
+        },
+        {
+          "name_original": "Catherine Yan",
+          "votes": 1
+        },
+        {
+          "name_original": "Barbara Manuck",
+          "votes": 1
+        },
+        {
+          "name_original": "Edward Nigro",
+          "votes": 1
+        },
+        {
+          "name_original": "John Stayn",
+          "votes": 1
+        },
+        {
+          "name_original": "Philip Halikias",
+          "votes": 1
+        },
+        {
+          "name_original": "Cynthia Arens",
+          "votes": 1
+        },
+        {
+          "name_original": "Jeremy Hayes",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3729,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "DEEPIKA SAWHNEY",
+          "votes": 611
+        },
+        {
+          "name_original": "BRIAN P. KELLEY",
+          "votes": 609
+        },
+        {
+          "name_original": "TAYLOR CARROLL SINGH",
+          "votes": 587
+        },
+        {
+          "name_original": "EDMUND C. GRANT",
+          "votes": 583
+        },
+        {
+          "name_original": "VINITA VERMA",
+          "votes": 545
+        },
+        {
+          "name_original": "SUSAN A. MCLEISH",
+          "votes": 540
+        },
+        {
+          "name_original": "JYOTSNA KAKULLAVARAPU",
+          "votes": 509
+        },
+        {
+          "name_original": "Mark Lang",
+          "votes": 3
+        },
+        {
+          "name_original": "James Lenhart",
+          "votes": 2
+        },
+        {
+          "name_original": "Jayant Sharma",
+          "votes": 1
+        },
+        {
+          "name_original": "Jeff Sparks",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam McCallion",
+          "votes": 1
+        },
+        {
+          "name_original": "Peter Everin",
+          "votes": 1
+        },
+        {
+          "name_original": "Deborah Everin",
+          "votes": 1
+        },
+        {
+          "name_original": "Jim Lane",
+          "votes": 1
+        },
+        {
+          "name_original": "Emir Roach",
+          "votes": 1
+        },
+        {
+          "name_original": "Shefali Verma",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2932,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "STACEY A. HAMILTON",
+          "votes": 544
+        },
+        {
+          "name_original": "PAMELA C. TAMES",
+          "votes": 542
+        },
+        {
+          "name_original": "PHILIP HAMILTON",
+          "votes": 520
+        },
+        {
+          "name_original": "MARSHA BAKER",
+          "votes": 517
+        },
+        {
+          "name_original": "BENJAMIN CHARLES LEES",
+          "votes": 494
+        },
+        {
+          "name_original": "MEGHANA KHANOLKAR",
+          "votes": 493
+        },
+        {
+          "name_original": "DAVID G. KANTER",
+          "votes": 492
+        },
+        {
+          "name_original": "LEONARD J. MORSE-FORTIER",
+          "votes": 480
+        },
+        {
+          "name_original": "Michael Barg",
+          "votes": 2
+        },
+        {
+          "name_original": "Rafet El-Ananzah",
+          "votes": 1
+        },
+        {
+          "name_original": "Ethan Handwerker",
+          "votes": 2
+        },
+        {
+          "name_original": "Andrei Zharov",
+          "votes": 1
+        },
+        {
+          "name_original": "Anatallia Hunik",
+          "votes": 1
+        },
+        {
+          "name_original": "Doris Wong",
+          "votes": 1
+        },
+        {
+          "name_original": "Maroli Licardie",
+          "votes": 3
+        },
+        {
+          "name_original": "Mary Hutton",
+          "votes": 1
+        },
+        {
+          "name_original": "Edna Luther",
+          "votes": 1
+        },
+        {
+          "name_original": "Erik Larson",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3174,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "LIN D. JENSEN",
+          "votes": 573
+        },
+        {
+          "name_original": "HEIDI PASTERNAK BURKHOLDER",
+          "votes": 514
+        },
+        {
+          "name_original": "JESSIE STEIGERWALD",
+          "votes": 502
+        },
+        {
+          "name_original": "SANJAY PADAKI",
+          "votes": 473
+        },
+        {
+          "name_original": "BRIELLE KISSEL MEADE",
+          "votes": 458
+        },
+        {
+          "name_original": "JAMES ARTHUR OSTEN",
+          "votes": 457
+        },
+        {
+          "name_original": "DAHUA PAN",
+          "votes": 447
+        },
+        {
+          "name_original": "Lisa Mazerall",
+          "votes": 2
+        },
+        {
+          "name_original": "Theresa Wright",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2701,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2024-03-05",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "PHILIP T. JACKSON",
+          "votes": 518
+        },
+        {
+          "name_original": "MOLLIE K. GARBERG",
+          "votes": 517
+        },
+        {
+          "name_original": "KIMBERLY HENSLE-LOWRANCE",
+          "votes": 516
+        },
+        {
+          "name_original": "THOMAS R. SHIPLE",
+          "votes": 510
+        },
+        {
+          "name_original": "RICHARD L. CANALE",
+          "votes": 510
+        },
+        {
+          "name_original": "ALICIA M. MORRIS",
+          "votes": 504
+        },
+        {
+          "name_original": "ETHAN PAUL KICZEK",
+          "votes": 488
+        },
+        {
+          "name_original": "HEMABEN P. BHATT",
+          "votes": 486
+        },
+        {
+          "name_original": "Scott Bokun",
+          "votes": 2
+        },
+        {
+          "name_original": "David Buczkowski",
+          "votes": 2
+        },
+        {
+          "name_original": "Nancy Cowen",
+          "votes": 1
+        },
+        {
+          "name_original": "Dylan Jackson",
+          "votes": 1
+        },
+        {
+          "name_original": "David Shanholtz",
+          "votes": 1
+        },
+        {
+          "name_original": "Niren Sirohi",
+          "votes": 1
+        },
+        {
+          "name_original": "Foster Jackson",
+          "votes": 7
+        },
+        {
+          "name_original": "Zachary Rhodes",
+          "votes": 1
+        },
+        {
+          "name_original": "Jackson Rhodes",
+          "votes": 1
+        },
+        {
+          "name_original": "Dennahe Adley",
+          "votes": 1
+        },
+        {
+          "name_original": "Lisa Boehm",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2637,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lexington2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lexington2024.pdf",
+  "ballots_cast": 8046,
+  "ballots_cast_source": "derived_from_contests"
+}

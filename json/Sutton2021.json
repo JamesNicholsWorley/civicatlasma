@@ -1,0 +1,230 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "date_verbatim": "",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "the same document, on a page outside the crop",
+      "value": "2021-05-25",
+      "strength": "corroborated",
+      "quote": "the crop prints no date; the facing page of the same annual report carries the poll-worker roster headed \"Tuesday, May 25, 2021\". Verified 2026-08-25.",
+      "citation": "https://archives.lib.state.ma.us/server/api/core/bitstreams/4e703aca-cb1e-48b6-b8ac-bf25ac47c492/content",
+      "note": "established 2026-08-25 by src/land_ingest9.py, verified against the source PDF"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Stuart, Kenneth",
+          "votes": 77
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Board of Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Anderson, Jonathan",
+          "votes": 67
+        },
+        {
+          "name_original": "Limanek, Jesse",
+          "votes": 72
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Brennan, Paul",
+          "votes": 59
+        },
+        {
+          "name_original": "Gibbons, Benjamin",
+          "votes": 70
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Largess, Robert",
+          "votes": 77
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Geneva, Joanne",
+          "votes": 70
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Bailey, Mark",
+          "votes": 77
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2021-05-25",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Bjorn Jr., Burton",
+          "votes": 75
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sutton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sutton2021.pdf",
+  "ballots_cast": 83,
+  "ballots_cast_source": "derived_from_contests"
+}

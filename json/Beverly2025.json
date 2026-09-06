@@ -1,0 +1,472 @@
+{
+  "elections": [
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "MICHAEL P. CAHILL",
+          "votes": 6266
+        },
+        {
+          "name_original": "BRENDAN S. SWEENEY",
+          "votes": 4327
+        },
+        {
+          "name_original": "PAUL GUANCI",
+          "votes": 8
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "KENANN FONDELLE McKENZIE-DeFRANZA",
+          "votes": 3199
+        },
+        {
+          "name_original": "EUPLIO R. MARCIANO",
+          "votes": 3357
+        },
+        {
+          "name_original": "JOHN J. MULLADY",
+          "votes": 4263
+        },
+        {
+          "name_original": "KYLE STANLEY RETALLACK",
+          "votes": 1500
+        },
+        {
+          "name_original": "KEITH A. SONIA",
+          "votes": 4020
+        },
+        {
+          "name_original": "JULIE REBECCA FLOWERS",
+          "votes": 7962
+        },
+        {
+          "name_original": "PAUL GUANCI",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8079,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD ONE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "TODD C. ROTONDO",
+          "votes": 1778
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD ONE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "CATHERINE GALLIVAN FROST",
+          "votes": 1569
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 405,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD TWO",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "DANIELLE M. SPANG",
+          "votes": 1421
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 268,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD TWO",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "MADELINE ROSE LENNOX",
+          "votes": 1309
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 380,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD THREE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "STEVEN M. CROWLEY",
+          "votes": 1078
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD THREE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "KIMBERLEY JO COELHO",
+          "votes": 1023
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 265,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE DISTRICT A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "GERALDINE CAHILL",
+          "votes": 2462
+        },
+        {
+          "name_original": "RACHAEL O. ABELL",
+          "votes": 1869
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 620,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD FOUR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "SCOTT D. HOUSEMAN",
+          "votes": 1498
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 383,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD FOUR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "LINDSAY D. DUCHARME",
+          "votes": 1433
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 448,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD FIVE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN M. FELDMAN",
+          "votes": 1364
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 358,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD FIVE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "KAARIN L. ROBINSON",
+          "votes": 1331
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 391,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR WARD SIX",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "MATTHEW J. ST. HILAIRE",
+          "votes": 1749
+        },
+        {
+          "name_original": "DOMENIC COPELAND",
+          "votes": 5
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 484,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE WARD SIX",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "JOHN E. TAYLOR",
+          "votes": 1585
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 658,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE DISTRICT B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "LORINDA K. VISNICK",
+          "votes": 2877
+        },
+        {
+          "name_original": "BRAD J. WILLENBROCK",
+          "votes": 2325
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 644,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

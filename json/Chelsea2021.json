@@ -1,0 +1,468 @@
+{
+  "elections": [
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Damali Vidot",
+          "votes": 875
+        },
+        {
+          "name_original": "Roy Alex Avellaneda",
+          "votes": 884
+        },
+        {
+          "name_original": "Joseph Perlatonda",
+          "votes": 428
+        },
+        {
+          "name_original": "Leo Robinson",
+          "votes": 899
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2314,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Todd B. Taylor",
+          "votes": 172
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 58,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melinda M. Vega Maldonado",
+          "votes": 135
+        },
+        {
+          "name_original": "Olivia Anne Walsh",
+          "votes": 72
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marisol Santiago",
+          "votes": 144
+        },
+        {
+          "name_original": "Norieliz D. DeJesus",
+          "votes": 161
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Enio A. Lopez Perez",
+          "votes": 116
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith A. Garcia",
+          "votes": 111
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Giovanni A. Recupero",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tanairi Garcia",
+          "votes": 119
+        },
+        {
+          "name_original": "Yamir G. Rodriguez",
+          "votes": 79
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR",
+      "district_original": "DISTRICT 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Calvin T. Brown",
+          "votes": 223
+        },
+        {
+          "name_original": "Maria Belen Power",
+          "votes": 218
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexis Balcarcel",
+          "votes": 475
+        },
+        {
+          "name_original": "Roberto Andres Jimenez-Rivera",
+          "votes": 981
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 344,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shawn P. O'Regan",
+          "votes": 173
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeanette Velez",
+          "votes": 183
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Naomi Zabot",
+          "votes": 68
+        },
+        {
+          "name_original": "Jacqueline Fuentes",
+          "votes": 25
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 231,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lisa Santagate",
+          "votes": 1
+        },
+        {
+          "name_original": "Eber Rivera",
+          "votes": 1
+        },
+        {
+          "name_original": "Carlos Lopez",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 137,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Henry D. Wilson",
+          "votes": 71
+        },
+        {
+          "name_original": "Lucia Henriquez",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 61,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ana E. Hernandez",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly Chaney Garcia Mirza",
+          "votes": 159
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "DISTRICT 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yessenia L. Alfaro",
+          "votes": 329
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chelsea2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chelsea2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

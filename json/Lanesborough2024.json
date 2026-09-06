@@ -1,0 +1,139 @@
+{
+  "elections": [
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "SELECT BOARD – 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Joseph R. Trybus",
+          "votes": 87
+        },
+        {
+          "name_original": "Deborah A. Maynard",
+          "votes": 181
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "FINANCE COMMITTEE – 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kristen Tool",
+          "votes": 176
+        },
+        {
+          "name_original": "David Eric Parks",
+          "votes": 201
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "FINANCE COMMITTEE – 2 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lyndon Paul Moors",
+          "votes": 224
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "LIBRARY TRUSTEE – 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Elizabeth S. Drury",
+          "votes": 229
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "MODERATOR – 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "David S. Rolle",
+          "votes": 218
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "PLANNING BOARD – 5 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Courtney J. Dondi",
+          "votes": 156
+        },
+        {
+          "name_original": "Mark W. Siegars",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2024-06-18",
+      "office_original": "PLANNING BOARD – 1 year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Renee Deragon",
+          "votes": 214
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lanesborough2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lanesborough2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

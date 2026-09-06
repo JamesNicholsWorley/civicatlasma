@@ -1,0 +1,101 @@
+{
+  "elections": [
+    {
+      "municipality": "Dracut",
+      "date": "2026-05-02",
+      "office_original": "SELECTMEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KRISTIE L. WOHLANDER",
+          "votes": 1148
+        },
+        {
+          "name_original": "HEATHER JEANNE SANTIAGO-HUTCHINGS",
+          "votes": 1206
+        },
+        {
+          "name_original": "PHILLIPPE ROLAND THIBAULT",
+          "votes": 1043
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 569,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2026-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALLISON STILIAN",
+          "votes": 1166
+        },
+        {
+          "name_original": "REENE MICHELLE YOUNG",
+          "votes": 764
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 46,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2026-05-02",
+      "office_original": "TRUSTEE OF THE PUBLIC LIBRARY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LINDA TROUVILLE",
+          "votes": 1724
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 236,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dracut2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dracut2026.pdf",
+  "ballots_cast": 1992,
+  "ballots_cast_source": "derived_from_contests"
+}

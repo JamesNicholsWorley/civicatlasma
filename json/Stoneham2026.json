@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George Georgountzos",
+          "votes": 818
+        },
+        {
+          "name_original": "Troy M. Lau",
+          "votes": 955
+        },
+        {
+          "name_original": "Nicholas Peter Stavre",
+          "votes": 539
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Megan Perry Samborski",
+          "votes": 1273
+        },
+        {
+          "name_original": "William JR Fogarty",
+          "votes": 1144
+        },
+        {
+          "name_original": "Kyla Malladi",
+          "votes": 1142
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1081,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Housing Authority- 2 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth F McPherson Jr",
+          "votes": 1192
+        },
+        {
+          "name_original": "Ronaine Claire Sparco",
+          "votes": 603
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 529,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William J. Jordan",
+          "votes": 1540
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 771,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica E. Killilea",
+          "votes": 1558
+        },
+        {
+          "name_original": "Lisa J. Mashburn",
+          "votes": 1560
+        },
+        {
+          "name_original": "Others",
+          "votes": 61,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1493,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine Louise Becker",
+          "votes": 1562
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 756,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-04-07",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frank A. Vallarelli",
+          "votes": 1546
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 760,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stoneham2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoneham2026.pdf",
+  "ballots_cast": 2336,
+  "ballots_cast_source": "derived_from_contests"
+}

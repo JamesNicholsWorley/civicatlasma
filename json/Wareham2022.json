@@ -1,0 +1,92 @@
+{
+  "document": {
+    "heading_verbatim": "Official election results are in | Wareham",
+    "election_type": "Regular",
+    "election_type_evidence": "The document reports results from \"Tuesday's town election\" held May 3, 2022, which is a regular annual town election.",
+    "date_verbatim": "Tuesday, May 3, 2022",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "The unopposed candidates were also elected: Margaret Ishihara for Town Moderator, Brennan McKiernan for School Committee, Peter Dunlop for Sewer Commissioner and David Halberstadt for Board of Assessors."
+  },
+  "elections": [
+    {
+      "municipality": "Wareham",
+      "date": "2022-05-03",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jared Chadwick",
+          "votes": 690
+        },
+        {
+          "name_original": "Ron Besse",
+          "votes": 626
+        },
+        {
+          "name_original": "Jim Munise",
+          "votes": 549
+        },
+        {
+          "name_original": "Jody Santagate",
+          "votes": 502
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2022-05-03",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tricia Wurts",
+          "votes": 896
+        },
+        {
+          "name_original": "Brenda Eckstrom",
+          "votes": 352
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2022-05-03",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michele Bissonnette",
+          "votes": 805
+        },
+        {
+          "name_original": "Jenna Deane",
+          "votes": 434
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wareham2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,330 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Election- April 4, 2022",
+    "date_verbatim": "April 4, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Heading states 'Annual Election'",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 11,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "SELECT BOARD- 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian M. Kelly",
+          "votes": 508
+        },
+        {
+          "name_original": "Sherrill L. Minch",
+          "votes": 433
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "BOARD OF HEALTH - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Louis G. Leblanc, III",
+          "votes": 722
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 230,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "ASSESSOR - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia A. Bergevine",
+          "votes": 708
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 236,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "ASSESSOR - 1 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shannon K. Mackenzie",
+          "votes": 696
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 255,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "PARK COMMISSIONER - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher R. Faille",
+          "votes": 768
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 184,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "LIBRARY TRUSTEE - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Denise B. Nado",
+          "votes": 735
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 218,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "PLAINVILLE SCHOOL COMMITTEE 3 - YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven F. Albert",
+          "votes": 509
+        },
+        {
+          "name_original": "Justin Richard Alexander",
+          "votes": 611
+        },
+        {
+          "name_original": "Sarah E. Cronin",
+          "votes": 407
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 381,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "KING PHILIP REGIONAL DISTRICT SCHOOL COMM -1 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Paul Cronin, IV",
+          "votes": 427
+        },
+        {
+          "name_original": "Gregory M. Wehmeyer",
+          "votes": 456
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "PLANNING BOARD - 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn M. Denizkurt",
+          "votes": 689
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "PLANNING BOARD - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Justin Richard Alexander",
+          "votes": 742
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 206,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2022-04-04",
+      "office_original": "REDEVELOPMENT AUTHORITY - 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maggie E. Clarke",
+          "votes": 732
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 220,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Plainville2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plainville2022.pdf",
+  "ballots_cast": 955,
+  "ballots_cast_source": "derived_from_contests"
+}

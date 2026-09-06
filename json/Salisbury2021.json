@@ -1,0 +1,140 @@
+{
+  "elections": [
+    {
+      "municipality": "Salisbury",
+      "date": "2021-05-11",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donna Abdulla",
+          "votes": 765
+        },
+        {
+          "name_original": "Charles A. Takesian Jr.",
+          "votes": 801
+        },
+        {
+          "name_original": "Robert E. Roy Jr.",
+          "votes": 285
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 199,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2021-05-11",
+      "office_original": "Triton Regional School Committee-Newbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Goldner",
+          "votes": 451
+        },
+        {
+          "name_original": "Matthew Landers",
+          "votes": 296
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 280,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2021-05-11",
+      "office_original": "Triton Regional School Committee-Rowley (2 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nerissa Wallen",
+          "votes": 593
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 434,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2021-05-11",
+      "office_original": "Triton Regional School Committee-Rowley (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susannah M. Copland",
+          "votes": 584
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 443,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2021-05-11",
+      "office_original": "Triton Regional School Committee-Salisbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda M. Litcofsky",
+          "votes": 800
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Salisbury2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Salisbury2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

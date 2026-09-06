@@ -1,0 +1,230 @@
+{
+  "document": {
+    "heading_verbatim": "Town of North Attleborough Town Election April 4, 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "The document heading states 'Town Election April 4, 2023' without any qualifier such as 'Special' indicating it is a regular annual town election.",
+    "date_verbatim": "April 4, 2023",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 5,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "North Attleborough",
+      "date": "2023-04-04",
+      "office_original": "Town Council 2 yrs",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darius J. Gregory",
+          "votes": 921
+        },
+        {
+          "name_original": "John D. Simmons",
+          "votes": 1152
+        },
+        {
+          "name_original": "Charles R. Dobre-Badobre",
+          "votes": 410
+        },
+        {
+          "name_original": "Blake Eric Buchanan",
+          "votes": 449
+        },
+        {
+          "name_original": "Aidan Joseph Prescott",
+          "votes": 478
+        },
+        {
+          "name_original": "Mark S. Gould Jr.",
+          "votes": 1055
+        },
+        {
+          "name_original": "John Edward Costello",
+          "votes": 646
+        },
+        {
+          "name_original": "Justin Philip Pare",
+          "votes": 1282
+        },
+        {
+          "name_original": "Daniel F. Donovan",
+          "votes": 792
+        },
+        {
+          "name_original": "Rachel Cady-Welch",
+          "votes": 483
+        },
+        {
+          "name_original": "Andrea E. Slobogan",
+          "votes": 1080
+        },
+        {
+          "name_original": "Patricia A. St. Pierre",
+          "votes": 507
+        },
+        {
+          "name_original": "Andrew Shanahan",
+          "votes": 875
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6232,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2023-04-04",
+      "office_original": "Board of Electric Comm 3 yr",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregg A. Ellis",
+          "votes": 1287
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 527,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2023-04-04",
+      "office_original": "Board of Public Works 3 Yr",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donald Cerrone",
+          "votes": 1347
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 468,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2023-04-04",
+      "office_original": "Park Commission 3 yrs",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Thomas Ruppert",
+          "votes": 1208
+        },
+        {
+          "name_original": "Thomas Marc DiFiore",
+          "votes": 1264
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1164,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2023-04-04",
+      "office_original": "School Committee 3 yrs",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marjorie A. Avarista",
+          "votes": 348
+        },
+        {
+          "name_original": "Zachary Henry Achin",
+          "votes": 580
+        },
+        {
+          "name_original": "Kathleen Prescott",
+          "votes": 339
+        },
+        {
+          "name_original": "Sarah N. Stone",
+          "votes": 865
+        },
+        {
+          "name_original": "James Gideon Gaudette",
+          "votes": 888
+        },
+        {
+          "name_original": "Aaron Whirl",
+          "votes": 230
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 391,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAttleborough2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthAttleborough2023.pdf",
+  "ballots_cast": 1821,
+  "ballots_cast_source": "derived_from_contests"
+}

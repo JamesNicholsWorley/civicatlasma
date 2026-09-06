@@ -1,0 +1,464 @@
+{
+  "document": {
+    "heading_verbatim": "Charlton Town Election",
+    "date_verbatim": "May 6, 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual town election with multiple municipal offices on ballot",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 17,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "SELECTMAN (SEAT 4)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Stephen George Koronis",
+          "votes": 492
+        },
+        {
+          "name_original": "Karyn E. Riopel",
+          "votes": 350
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "SELECTMAN (SEAT 5)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Patricia Ann Rydlak",
+          "votes": 375
+        },
+        {
+          "name_original": "Peter J. Lancette, II",
+          "votes": 490
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 33,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Karen M. LaCroix",
+          "votes": 723
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Noreen P. Smith",
+          "votes": 692
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Amelia T. Morin",
+          "votes": 669
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 228,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "CEMETERY COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Donna L. Neylon",
+          "votes": 671
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 225,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "WATER/SEWER COMM.",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jack Rydlak",
+          "votes": 10
+        },
+        {
+          "name_original": "Eric Bernard",
+          "votes": 4
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1717,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Donald A. Clay",
+          "votes": 653
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 244,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "RECREATION COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Sheri Lee Zanca",
+          "votes": 643
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 255,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Matthew P. Gagner",
+          "votes": 662
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 235,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "TREE WARDEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Gormley",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 64,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 822,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Fiona J. Bycroft-Ryder",
+          "votes": 590
+        },
+        {
+          "name_original": "Sherri L. Westbury",
+          "votes": 612
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 594,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "DCRSD COMMITTEE (3 YEAR)",
+      "district_original": "Dudley-Charlton Regional School District",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Jaime Ann Dell'Ovo",
+          "votes": 661
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 225,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "DCRSD COMMITTEE (1 YEAR)",
+      "district_original": "Dudley-Charlton Regional School District",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Nicole Enberg",
+          "votes": 476
+        },
+        {
+          "name_original": "Kenneth J. Laferriere",
+          "votes": 395
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "SWCRVSD COMMITTEE",
+      "district_original": "Southbridge-Charlton-Sturbridge Regional Vocational School District",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michael E. Tiberii",
+          "votes": 672
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michael T. Baniukiewicz, Sr.",
+          "votes": 648
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 250,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Charlton",
+      "date": "2023-05-06",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Geralyn S. Babineau",
+          "votes": 672
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Charlton2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Charlton2023.pdf",
+  "ballots_cast": 898,
+  "ballots_cast_source": "derived_from_contests"
+}

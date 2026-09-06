@@ -1,0 +1,169 @@
+{
+  "elections": [
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jannice L Livingston",
+          "votes": 288
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Commissioner of Trust Funds",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christina Zoller",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 349,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Martin Wallace",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Wood",
+          "votes": 22
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 332,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Park Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin J Malantic",
+          "votes": 287
+        },
+        {
+          "name_original": "Gerry Amenta",
+          "votes": 44
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 377,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nathanael N King",
+          "votes": 264
+        },
+        {
+          "name_original": "Geoffrey L Tillotson",
+          "votes": 258
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 186,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ayer",
+      "date": "2023-05-09",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela L Papineau",
+          "votes": 224
+        },
+        {
+          "name_original": "Stephen C Wentzell",
+          "votes": 85
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Ayer2023",
+  "_source_pdf": "",
+  "ballots_cast": 354,
+  "ballots_cast_source": "derived_from_contests"
+}

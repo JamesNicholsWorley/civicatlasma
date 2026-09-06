@@ -1,0 +1,186 @@
+{
+  "document": {
+    "heading_verbatim": "Official Election Results",
+    "date_verbatim": "May 12, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "The document is titled 'Official Election Results' for May 12, 2026, with no indication it is a special or preliminary election.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Austin Douglas Miller",
+          "votes": 564
+        },
+        {
+          "name_original": "Austin Phillip Knight",
+          "votes": 244
+        },
+        {
+          "name_original": "Dana L. Masterpolo",
+          "votes": 615
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Stephanie M. Cave",
+          "votes": 651
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Charter Compliance",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Ian McIntyre",
+          "votes": 29
+        },
+        {
+          "name_original": "Others",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Gordon J. Siegel",
+          "votes": 534
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Board of Library Trustee -1 Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Kenneth S. Sutton",
+          "votes": 664
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Board of Library Trustee -3 Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Steven Dwight Wilkinson",
+          "votes": 29
+        },
+        {
+          "name_original": "Burt Grossman",
+          "votes": 10
+        },
+        {
+          "name_original": "Patrick Nolan",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Austin",
+      "date": "2026-05-12",
+      "office_original": "Ballot Q 1",
+      "num_winners": 0,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Yes",
+          "votes": 280
+        },
+        {
+          "name_original": "No",
+          "votes": 518
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Provincetown2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

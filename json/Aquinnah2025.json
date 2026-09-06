@@ -1,0 +1,157 @@
+{
+  "elections": [
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary Haley",
+          "votes": 100
+        },
+        {
+          "name_original": "Christopher Manning",
+          "votes": 105
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sarah Thulin",
+          "votes": 26
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerald Green",
+          "votes": 125
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Isaac Taylor",
+          "votes": 80
+        },
+        {
+          "name_original": "Heidi Vanderhoop",
+          "votes": 73
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "PLANNING BOARD ASSOCIATE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Amera Ignacio",
+          "votes": 64
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "LIBRARY TRUSTEE, THREE YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Hilary Jewett",
+          "votes": 36
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2025-05-15",
+      "office_original": "LIBRARY TRUSTEE, TWO YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jamie Vanderhoop",
+          "votes": 19
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-05-15",
+      "detail": "https://www.aquinnah-ma.gov/home/events/15736",
+      "quote": "Aquinnah Annual Town Election May 15th, 2025",
+      "note": "the town's own event page for this election, fetched live 2026-08-21 (no Wayback capture exists); it also carries Event Date: Thursday, May 15, 2025 - 12:00pm to 8:00pm. The return itself is a scan whose date header survives only as reverse show-through, legible as THURSDAY, MAY 1?, 2025"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

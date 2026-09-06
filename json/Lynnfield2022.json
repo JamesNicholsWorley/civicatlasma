@@ -1,0 +1,207 @@
+{
+  "elections": [
+    {
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "R. DALTON",
+          "votes": 971
+        },
+        {
+          "name_original": "R. GILLON",
+          "votes": 386
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "R. O'NEIL",
+          "votes": 1027
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 432,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "B. CHARVILLE",
+          "votes": 1015
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 442,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "S. PETTY",
+          "votes": 1013
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 442,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "J MARKEY",
+          "votes": 944
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 497,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Library Trustee",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "F. HONER-COAKLEY",
+          "votes": 939
+        },
+        {
+          "name_original": "R. MAZZOLA",
+          "votes": 958
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1020,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "S. DAHLSTEDT",
+          "votes": 937
+        },
+        {
+          "name_original": "R. SJOBERG",
+          "votes": 854
+        },
+        {
+          "name_original": "C. LUONGO",
+          "votes": 577
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 551,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Lynnfield",
+      "date": "2022-04-12",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lynnfield2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lynnfield2022.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2022-04-12",
+      "detail": "https://www.lynnfieldma.gov/DocumentCenter/View/776/-April-12-2022-Election-Results-PDF",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 1463,
+  "ballots_cast_source": "derived_from_contests"
+}

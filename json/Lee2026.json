@@ -1,0 +1,26 @@
+{
+  "elections": [
+    {
+      "municipality": "Lee",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Tim Susse",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "extraction_confidence": 0.45,
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lee2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

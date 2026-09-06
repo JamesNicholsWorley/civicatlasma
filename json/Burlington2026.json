@@ -1,0 +1,809 @@
+{
+  "elections": [
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Priest",
+          "votes": 2742
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 879,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Beyer",
+          "votes": 2603
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1025,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Tigges",
+          "votes": 2693
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 938,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Sheehan",
+          "votes": 2598
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1042,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine Bond",
+          "votes": 2036
+        },
+        {
+          "name_original": "Jeremy Brooks",
+          "votes": 1974
+        },
+        {
+          "name_original": "Hillary Kleck",
+          "votes": 1636
+        },
+        {
+          "name_original": "Aaron Reeves",
+          "votes": 1044
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 686,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jesse Angeley",
+          "votes": 2519
+        },
+        {
+          "name_original": "Hirgal Gandhi",
+          "votes": 2054
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2697,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jack Kelly",
+          "votes": 2508
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1114,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Orysia Hanushevsky",
+          "votes": 2420
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1217,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Curtin",
+          "votes": 2628
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1003,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Recreation Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lindsay Carlson",
+          "votes": 2595
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1043,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Shawsheen Tech H.S.",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kent Moffatt",
+          "votes": 2530
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1104,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Campbell",
+          "votes": 402
+        },
+        {
+          "name_original": "Lories Glantz",
+          "votes": 408
+        },
+        {
+          "name_original": "Nolan Glantz",
+          "votes": 402
+        },
+        {
+          "name_original": "Bruce Morey",
+          "votes": 398
+        },
+        {
+          "name_original": "Shayan Bhattacherya",
+          "votes": 349
+        },
+        {
+          "name_original": "Anthony McShea",
+          "votes": 347
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1748,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vance Huntoon",
+          "votes": 295
+        },
+        {
+          "name_original": "Craig MacElhiney",
+          "votes": 279
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine Beyer",
+          "votes": 158
+        },
+        {
+          "name_original": "Raymond Bleckhorn",
+          "votes": 157
+        },
+        {
+          "name_original": "Kevin Coluci",
+          "votes": 174
+        },
+        {
+          "name_original": "Christine Scola",
+          "votes": 185
+        },
+        {
+          "name_original": "Michael Madison",
+          "votes": 137
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 370,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 225,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Dibona",
+          "votes": 299
+        },
+        {
+          "name_original": "Monte Pearson",
+          "votes": 252
+        },
+        {
+          "name_original": "Daniel Raske",
+          "votes": 287
+        },
+        {
+          "name_original": "Roger Riggs",
+          "votes": 232
+        },
+        {
+          "name_original": "Robert Young",
+          "votes": 227
+        },
+        {
+          "name_original": "Nicole Cella",
+          "votes": 260
+        },
+        {
+          "name_original": "AJ Ferrigno",
+          "votes": 197
+        },
+        {
+          "name_original": "Mary Jean Lucas",
+          "votes": 211
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1181,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen Cooper",
+          "votes": 256
+        },
+        {
+          "name_original": "William Lisano",
+          "votes": 313
+        },
+        {
+          "name_original": "Michael Proulx",
+          "votes": 241
+        },
+        {
+          "name_original": "Kevin Spielberger",
+          "votes": 272
+        },
+        {
+          "name_original": "Schiffon Wong",
+          "votes": 263
+        },
+        {
+          "name_original": "Kerrie Callahan",
+          "votes": 294
+        },
+        {
+          "name_original": "Laurie Glasser",
+          "votes": 231
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 816,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bonnie Nichols",
+          "votes": 381
+        },
+        {
+          "name_original": "Michele Prendergast",
+          "votes": 406
+        },
+        {
+          "name_original": "Alex Rutfield",
+          "votes": 387
+        },
+        {
+          "name_original": "David Tait",
+          "votes": 370
+        },
+        {
+          "name_original": "Richard Wing",
+          "votes": 293
+        },
+        {
+          "name_original": "Sarah Wolinski",
+          "votes": 410
+        },
+        {
+          "name_original": "Jason Toppan",
+          "votes": 335
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1410,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan Clement",
+          "votes": 412
+        },
+        {
+          "name_original": "John Iler",
+          "votes": 406
+        },
+        {
+          "name_original": "Blaise Leeber III",
+          "votes": 386
+        },
+        {
+          "name_original": "Rose Manni",
+          "votes": 397
+        },
+        {
+          "name_original": "Edward Parsons",
+          "votes": 401
+        },
+        {
+          "name_original": "Adrianne Simone",
+          "votes": 359
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1519,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erika Maguire",
+          "votes": 358
+        },
+        {
+          "name_original": "William Trelegan",
+          "votes": 170
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Busa",
+          "votes": 308
+        },
+        {
+          "name_original": "Betsey Huges",
+          "votes": 305
+        },
+        {
+          "name_original": "Jonathan Sachs",
+          "votes": 301
+        },
+        {
+          "name_original": "Mark Smukler",
+          "votes": 287
+        },
+        {
+          "name_original": "David Webb",
+          "votes": 294
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1029,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 150,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Burlington",
+      "date": "2026-04-11",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Neal Lespasio",
+          "votes": 196
+        },
+        {
+          "name_original": "Jami Weber",
+          "votes": 136
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Burlington2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Burlington2026.pdf",
+  "ballots_cast": 3642,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "City Council Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Tocci",
+          "votes": 562
+        },
+        {
+          "name_original": "Eladia Romero-Rodriguez",
+          "votes": 551
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "City Council Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Angelini",
+          "votes": 469
+        },
+        {
+          "name_original": "Carrie Beth Noseworthy",
+          "votes": 256
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "City Council At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Claire Freda",
+          "votes": 2760
+        },
+        {
+          "name_original": "Susan Chalifoux Zephir",
+          "votes": 2637
+        },
+        {
+          "name_original": "Thomas Ardinger",
+          "votes": 2416
+        },
+        {
+          "name_original": "Brandon Robbins",
+          "votes": 2273
+        },
+        {
+          "name_original": "Todd Deacon",
+          "votes": 2186
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "School Committee At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Salvatore Perla",
+          "votes": 2564
+        },
+        {
+          "name_original": "Melissa Bible",
+          "votes": 2473
+        },
+        {
+          "name_original": "Gregory Thomas",
+          "votes": 1879
+        },
+        {
+          "name_original": "Caleb Weldon",
+          "votes": 1838
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Alker",
+          "votes": 646
+        },
+        {
+          "name_original": "Michael Stassen",
+          "votes": 367
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leominster",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kaitlin Volpe",
+          "votes": 429
+        },
+        {
+          "name_original": "Sandra Chiavaras Cucchiara",
+          "votes": 519
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Leominster2023",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-11-07",
+      "detail": "https://web.archive.org/web/20240107012725/https://www.leominster-ma.gov/386/Election-ResultsResultados-de-las-elecci",
+      "quote": "Unofficial Results Municipal Election November 7, 2023",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

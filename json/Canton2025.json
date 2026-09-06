@@ -1,0 +1,208 @@
+{
+  "elections": [
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "JOHN J. CONNOLLY",
+          "votes": 1820
+        },
+        {
+          "name_original": "SUSAN G. HARRINGTON",
+          "votes": 3264
+        },
+        {
+          "name_original": "**Others",
+          "votes": 1
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "BOARD OF ASSESSORS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "WILLIAM C. GALVIN",
+          "votes": 3810
+        },
+        {
+          "name_original": "**Others",
+          "votes": 28
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 1265,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "ANJALI BAYLISS",
+          "votes": 3469
+        },
+        {
+          "name_original": "**Others",
+          "votes": 21
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 1613,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "KRISTIAN DARIGAN MERENDA",
+          "votes": 3021
+        },
+        {
+          "name_original": "AMANDA F. RYDER",
+          "votes": 2998
+        },
+        {
+          "name_original": "**Others",
+          "votes": 23
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 4164,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "SCHOOL COMMITTEE (ONE YEAR TERM TO FILL A VACANCY)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "SONJA ROSE GRAUDES",
+          "votes": 3152
+        },
+        {
+          "name_original": "**Others",
+          "votes": 16
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 1935,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "DAVID P. McCARTHY",
+          "votes": 2974
+        },
+        {
+          "name_original": "HAMILTON SOARES RODRIGUES",
+          "votes": 1346
+        },
+        {
+          "name_original": "**Others",
+          "votes": 5
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 778,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2025-04-08",
+      "office_original": "LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "NANCY ELIZABETH CONNERY",
+          "votes": 3287
+        },
+        {
+          "name_original": "MARGARET ELIZABETH MEAD",
+          "votes": 3205
+        },
+        {
+          "name_original": "EMILY G. PRIGOT",
+          "votes": 3194
+        },
+        {
+          "name_original": "**Others",
+          "votes": 36
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 5587,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": 5103,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Randy E. Jordan",
+          "votes": 711
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Selectman - 2 for 3 yrs",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leah M. Whitema",
+          "votes": 507
+        },
+        {
+          "name_original": "Carol A. Benoit",
+          "votes": 300
+        },
+        {
+          "name_original": "Stephen E. Colang",
+          "votes": 190
+        },
+        {
+          "name_original": "Robert N. Halvors",
+          "votes": 206
+        },
+        {
+          "name_original": "Dawn J. LaBelle",
+          "votes": 152
+        },
+        {
+          "name_original": "Shawn R. Moore",
+          "votes": 117
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 172,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Assessor - 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffey R. Gibbs",
+          "votes": 619
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Assessor - 2 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arthur F. Lincoln",
+          "votes": 589
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 231,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anita K. Carlson",
+          "votes": 671
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott M. Gilroy",
+          "votes": 621
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 199,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2021-05-10",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shawn R. Moore",
+          "votes": 177
+        },
+        {
+          "name_original": "Kevin A. Jarvi",
+          "votes": 576
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rutland2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rutland2021.pdf",
+  "ballots_cast": 825,
+  "ballots_cast_source": "derived_from_contests"
+}

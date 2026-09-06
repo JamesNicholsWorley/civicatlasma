@@ -1,0 +1,545 @@
+{
+  "elections": [
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "TREASURER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rory P. Casey",
+          "votes": 3208
+        },
+        {
+          "name_original": "Others",
+          "votes": 87,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1653,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCIL AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia C. Devine",
+          "votes": 2544
+        },
+        {
+          "name_original": "Mimi Panitch",
+          "votes": 2107
+        },
+        {
+          "name_original": "Israel Rivera",
+          "votes": 2477
+        },
+        {
+          "name_original": "Michael J. Sullivan",
+          "votes": 2123
+        },
+        {
+          "name_original": "Axel Fontanez",
+          "votes": 1324
+        },
+        {
+          "name_original": "Kevin A. Jourdain",
+          "votes": 2484
+        },
+        {
+          "name_original": "Jose L. Maldonado Velez",
+          "votes": 2049
+        },
+        {
+          "name_original": "Tessa R. Murphy-Romboletti",
+          "votes": 2671
+        },
+        {
+          "name_original": "Howard B. Greaney Jr.",
+          "votes": 2155
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9689,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE CITY COUNCILOR",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenny Rivera",
+          "votes": 206
+        },
+        {
+          "name_original": "Victor Machado DeJesus",
+          "votes": 88
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE SCHOOL COMMITTEE",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gustavo Romero",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 234,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO CITY COUNCILOR",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janelle Mojica",
+          "votes": 103
+        },
+        {
+          "name_original": "Carmen Yolanda Ocasio",
+          "votes": 133
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO SCHOOL COMMITTEE",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rosalee Tensley Williams",
+          "votes": 191
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD THREE CITY COUNCILOR",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David K. Bartley",
+          "votes": 505
+        },
+        {
+          "name_original": "Anne Thalheimer",
+          "votes": 280
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD THREE SCHOOL COMMITTEE",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yadilette Rivera Colon",
+          "votes": 516
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 283,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD FOUR CITY COUNCILOR",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ruth I. Garcia",
+          "votes": 164
+        },
+        {
+          "name_original": "Kocayne S. Givner",
+          "votes": 216
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD FOUR SCHOOL COMMITTEE",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gloria A. Caballero Roca",
+          "votes": 321
+        },
+        {
+          "name_original": "Faizul Sibdhanny Jr.",
+          "votes": 51
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD FIVE CITY COUNCILOR",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Guy O'Donnell",
+          "votes": 562
+        },
+        {
+          "name_original": "Linda Vacon",
+          "votes": 686
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD FIVE SCHOOL COMMITTEE",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John G. Whelihan",
+          "votes": 931
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 314,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD SIX CITY COUNCILOR",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Juan Anderson-Burgos",
+          "votes": 432
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD SIX SCHOOL COMMITTEE",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William R. Collamore",
+          "votes": 403
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD SEVEN CITY COUNCILOR",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meg Mcgrath-Smith",
+          "votes": 834
+        },
+        {
+          "name_original": "Eileen Brady Leahy",
+          "votes": 488
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "WARD SEVEN SCHOOL COMMITTEE",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eleanor M. Wilson",
+          "votes": 927
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 408,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erin Bridget Brunelle",
+          "votes": 3046
+        },
+        {
+          "name_original": "Luissette Arroyo Rosado",
+          "votes": 1360
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 518,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holyoke2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holyoke2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

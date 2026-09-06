@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Oxford",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua K. Boyda",
+          "votes": 760
+        },
+        {
+          "name_original": "David Pasquale Cornacchioli",
+          "votes": 807
+        },
+        {
+          "name_original": "Christopher S. Everitt",
+          "votes": 456
+        },
+        {
+          "name_original": "Matthew Pearson",
+          "votes": 434
+        },
+        {
+          "name_original": "Others",
+          "votes": 66,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 563,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carole Anne Steina",
+          "votes": 1224
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 312,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2025-05-20",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amanda Renee Bourbeau",
+          "votes": 761
+        },
+        {
+          "name_original": "Jennifer Lynn Pearson",
+          "votes": 600
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 179,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2025-05-20",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Lorena Wells",
+          "votes": 1158
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 380,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oxford2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oxford2025.pdf",
+  "ballots_cast": 1543,
+  "ballots_cast_source": "derived_from_contests"
+}

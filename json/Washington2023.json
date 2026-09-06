@@ -1,0 +1,137 @@
+{
+  "elections": [
+    {
+      "municipality": "Washington",
+      "date": "2023-05-20",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sherri Thomas",
+          "votes": 69
+        },
+        {
+          "name_original": "Linda Levernoch",
+          "votes": 2
+        },
+        {
+          "name_original": "Michael Burke",
+          "votes": 2
+        },
+        {
+          "name_original": "Kent Lew",
+          "votes": 2
+        },
+        {
+          "name_original": "Thomas Delaney",
+          "votes": 1
+        },
+        {
+          "name_original": "Jodi Hostetter",
+          "votes": 1
+        },
+        {
+          "name_original": "Pauline Clark",
+          "votes": 1
+        },
+        {
+          "name_original": "Marc Johns",
+          "votes": 1
+        },
+        {
+          "name_original": "Sean Connors",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2023-05-20",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Spencer",
+          "votes": 75
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2023-05-20",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Matson",
+          "votes": 73
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2023-05-20",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David A. Ellis",
+          "votes": 74
+        },
+        {
+          "name_original": "Craig Willis",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Washington2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2023.pdf",
+  "ballots_cast": 76,
+  "ballots_cast_source": "derived_from_contests"
+}

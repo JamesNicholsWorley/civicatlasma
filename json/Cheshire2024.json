@@ -1,0 +1,152 @@
+{
+  "elections": [
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Hoosac Valley Regional School District Representative",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robert Tetlow Jr.",
+          "votes": 1
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shawn McGrath",
+          "votes": 257
+        },
+        {
+          "name_original": "Raymond Killeen",
+          "votes": 234
+        },
+        {
+          "name_original": "Mark Biagini",
+          "votes": 204
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kellie Lahey",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Trudeau",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Cemetery Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Garner",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ricky Gurney",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Traub",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2024-05-07",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Whitney Flynn",
+          "votes": 55
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Cheshire2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

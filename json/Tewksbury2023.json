@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patrick Holland",
+          "votes": 642
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 142,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kaitlyn M. Anderson",
+          "votes": 670
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "PLANNING BOARD - 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan T. Ciampa",
+          "votes": 640
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 152,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "PLANNING BOARD - 2 YRS UNEXPIRED",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas James Lizotte",
+          "votes": 599
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 191,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katlynn Bugda Gwilt",
+          "votes": 565
+        },
+        {
+          "name_original": "George Ferdinand",
+          "votes": 208
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Rauseo",
+          "votes": 649
+        },
+        {
+          "name_original": "Cathy M. Dwyer",
+          "votes": 80
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 830,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "HOUSING AUTHORITY - 2 YRS UNEXPIRED",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan M. Lloyd",
+          "votes": 642
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 150,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tewksbury",
+      "date": "2023-04-01",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dustin T. Weir",
+          "votes": 673
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tewksbury2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Tewksbury2023.pdf",
+  "ballots_cast": 797,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,232 @@
+{
+  "document": {
+    "heading_verbatim": "Election results highlight split in Ludlow School Committee vote",
+    "election_type": "Regular",
+    "election_type_evidence": "On March 28, Ludlow residents gathered in their respective precincts to vote for candidates in the town's election.",
+    "date_verbatim": "March 28",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "In terms of uncontested races, Board of Public Works members Matias Goncalves and Alexander Simao were elected to three-year terms...Planning Board member Joseph Queiroga was elected to a new five-year term...Sean McBride was elected to a new three-year term on the Recreation Commission"
+  },
+  "elections": [
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Stratton",
+          "votes": 1247
+        },
+        {
+          "name_original": "Ron Saloio",
+          "votes": 1188
+        },
+        {
+          "name_original": "Karen Mowry",
+          "votes": 1165
+        },
+        {
+          "name_original": "Angela Anselmo",
+          "votes": 799
+        },
+        {
+          "name_original": "Laura Ann Tuck",
+          "votes": 477
+        },
+        {
+          "name_original": "Michelle Mayou",
+          "votes": 347
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua Carpenter",
+          "votes": 1243
+        },
+        {
+          "name_original": "Joel Silva",
+          "votes": 1121
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tony Tavares",
+          "votes": 1951
+        },
+        {
+          "name_original": "Michael LaFever",
+          "votes": 632
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Board of Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Derek DeBarge",
+          "votes": 1799
+        },
+        {
+          "name_original": "Bill Rosenblum",
+          "votes": 1727
+        },
+        {
+          "name_original": "Edward Deragon",
+          "votes": 43
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Board of Public Works",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matias Goncalves",
+          "votes": 1620
+        },
+        {
+          "name_original": "Alexander Simao",
+          "votes": 1556
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Queiroga",
+          "votes": 1788
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Recreation Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean McBride",
+          "votes": 1879
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Urban",
+          "votes": 50
+        },
+        {
+          "name_original": "Timothy Donnelly",
+          "votes": 24
+        },
+        {
+          "name_original": "Deidre Thompson",
+          "votes": 3
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ludlow",
+      "date": "2022-03-28",
+      "office_original": "Library Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen Ouimette",
+          "votes": 367
+        },
+        {
+          "name_original": "Peter Ouimette",
+          "votes": 215
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Ludlow2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

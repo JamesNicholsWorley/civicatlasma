@@ -1,0 +1,226 @@
+{
+  "elections": [
+    {
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Dennis M. Robson",
+          "votes": 622
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Board of Health",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Robert W. Stephens Jr",
+          "votes": 57
+        },
+        {
+          "name_original": "Ronnie L. Boerl",
+          "votes": 46
+        },
+        {
+          "name_original": "Robert F. Coughlin Jr",
+          "votes": 312
+        },
+        {
+          "name_original": "Jennifer L. Smith",
+          "votes": 385
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Library Trustees",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Debora Cousley",
+          "votes": 608
+        },
+        {
+          "name_original": "Christine E. Gauthier",
+          "votes": 618
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Park Commission",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Brian J. Martin",
+          "votes": 630
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "David Cronin",
+          "votes": 16
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.9,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Jaime M. Hennessey",
+          "votes": 605
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "John J. Ellard Jr.",
+          "votes": 543
+        },
+        {
+          "name_original": "Michael P. O'Loughlin",
+          "votes": 631
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Sewer Commissioner",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Sean P. Smyth",
+          "votes": 623
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Christine A. Campanile",
+          "votes": 694
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Water Commissioner",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "James M. McCarthy",
+          "votes": 622
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Rockland2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rockland2026.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2026-04-11",
+      "detail": "https://rockland-ma.gov/DocumentCenter/View/5431/Official-Annual-Town-Election-Results-04112026",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,124 @@
+{
+  "elections": [
+    {
+      "municipality": "Concord",
+      "date": "2022-04-12",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carmin C. Reiss",
+          "votes": 693
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2022-04-12",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Terri S. Ackerman",
+          "votes": 630
+        },
+        {
+          "name_original": "Mary Hartman",
+          "votes": 645
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 240,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2022-04-12",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexa Boland Anderson",
+          "votes": 636
+        },
+        {
+          "name_original": "Cynthia J. Rainey",
+          "votes": 615
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 253,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2022-04-12",
+      "office_original": "Housing Authority-5 yrs",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephanie Chrobak",
+          "votes": 665
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 92,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Concord2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Concord2022.pdf",
+  "ballots_cast": 761,
+  "ballots_cast_source": "derived_from_contests"
+}

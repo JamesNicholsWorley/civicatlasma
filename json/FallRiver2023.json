@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": "Fall River",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Coogan",
+          "votes": 6643
+        },
+        {
+          "name_original": "Sam Sutter",
+          "votes": 4310
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fall River",
+      "date": "2023-11-07",
+      "office_original": "City Council",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Pereira",
+          "votes": 5848
+        },
+        {
+          "name_original": "Bradford Kilby",
+          "votes": 4813
+        },
+        {
+          "name_original": "Cliff Ponte",
+          "votes": 4788
+        },
+        {
+          "name_original": "Shawn Cadime",
+          "votes": 4648
+        },
+        {
+          "name_original": "Joseph Camara",
+          "votes": 4544
+        },
+        {
+          "name_original": "Andrew Raposo",
+          "votes": 4338
+        },
+        {
+          "name_original": "Paul Hart",
+          "votes": 4185
+        },
+        {
+          "name_original": "Michelle Dionne",
+          "votes": 4137
+        },
+        {
+          "name_original": "Laura Jean Washington",
+          "votes": 3502
+        },
+        {
+          "name_original": "Ricky Tith",
+          "votes": 2948
+        },
+        {
+          "name_original": "Gabriel Amaral",
+          "votes": 2745
+        },
+        {
+          "name_original": "Joshua Teixeira",
+          "votes": 2668
+        },
+        {
+          "name_original": "Jordan James Silvia",
+          "votes": 2584
+        },
+        {
+          "name_original": "Alexander Silva",
+          "votes": 2562
+        },
+        {
+          "name_original": "Bob Pearson",
+          "votes": 2372
+        },
+        {
+          "name_original": "Gloria Saddler",
+          "votes": 2144
+        },
+        {
+          "name_original": "Paulo Amaral",
+          "votes": 2116
+        },
+        {
+          "name_original": "Joseph Salvador",
+          "votes": 1388
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fall River",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Aguiar",
+          "votes": 5485
+        },
+        {
+          "name_original": "Sara Rodrigues",
+          "votes": 5018
+        },
+        {
+          "name_original": "Michelle Mimi Larrivee",
+          "votes": 4810
+        },
+        {
+          "name_original": "Thomas Khoury",
+          "votes": 4683
+        },
+        {
+          "name_original": "Shelli-Ann Pereira",
+          "votes": 4667
+        },
+        {
+          "name_original": "Bobby Bailey",
+          "votes": 3585
+        },
+        {
+          "name_original": "Collin Dias",
+          "votes": 3442
+        },
+        {
+          "name_original": "Warren Alves",
+          "votes": 2778
+        },
+        {
+          "name_original": "Rene Georgia Brown",
+          "votes": 2702
+        },
+        {
+          "name_original": "Charles Chase",
+          "votes": 2602
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "FallRiver2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

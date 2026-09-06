@@ -1,0 +1,176 @@
+{
+  "elections": [
+    {
+      "municipality": "Bridgewater",
+      "date": "2024-04-27",
+      "office_original": "TOWN CLERK (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Douglass Wood",
+          "votes": 1183
+        },
+        {
+          "name_original": "Tina Collins Larson",
+          "votes": 1193
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2024-04-27",
+      "office_original": "TOWN COUNCIL DISTRICT 1 (Vote for 1)",
+      "district_original": "District 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sonya Lee Striggles",
+          "votes": 747
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 266,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2024-04-27",
+      "office_original": "TOWN COUNCIL AT LARGE (Vote for 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adelene F. Ellenberg",
+          "votes": 1117
+        },
+        {
+          "name_original": "Michael David MacDonald",
+          "votes": 1058
+        },
+        {
+          "name_original": "Mary McGrath",
+          "votes": 1115
+        },
+        {
+          "name_original": "Hayley Athena Bacewicz",
+          "votes": 655
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 866,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2024-04-27",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE (BRIDGEWATER) (Vote for 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Micael R. Losche",
+          "votes": 1630
+        },
+        {
+          "name_original": "Timothy Patrick Fitzgibbons",
+          "votes": 1939
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1231,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2024-04-27",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY (Vote for 3)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anastasia Decotis",
+          "votes": 1485
+        },
+        {
+          "name_original": "Matthew Alan Gerritsen",
+          "votes": 1464
+        },
+        {
+          "name_original": "Jennifer M. Anderson",
+          "votes": 1654
+        },
+        {
+          "name_original": "Russell Ame Hannagan",
+          "votes": 907
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1705,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bridgewater2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bridgewater2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

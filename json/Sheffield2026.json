@@ -1,0 +1,99 @@
+{
+  "elections": [
+    {
+      "municipality": "Sheffield",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Bob Kilmer",
+          "votes": 254
+        },
+        {
+          "name_original": "Pat Levine",
+          "votes": 237
+        }
+      ],
+      "date": "2026-05-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sheffield",
+      "office_original": "Planning Board",
+      "district_original": "Two-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Brian Sangster",
+          "votes": 1
+        }
+      ],
+      "date": "2026-05-11",
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sheffield",
+      "office_original": "Planning Board",
+      "district_original": "Three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Sari Hoy",
+          "votes": 1
+        }
+      ],
+      "date": "2026-05-11",
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sheffield",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Julie Hannum",
+          "votes": 1
+        }
+      ],
+      "date": "2026-05-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sheffield",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Amy Brainbridge-Jordan",
+          "votes": 1
+        }
+      ],
+      "date": "2026-05-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Sheffield2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

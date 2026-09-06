@@ -1,0 +1,185 @@
+{
+  "elections": [
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Shannon Moriarty",
+          "votes": 519
+        },
+        {
+          "name_original": "John Barry Eul, Jr.",
+          "votes": 561
+        },
+        {
+          "name_original": "Mark T. Lee",
+          "votes": 557
+        },
+        {
+          "name_original": "Christopher S. Perron",
+          "votes": 398
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 180,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Bowes",
+          "votes": 856
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 251,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Russell C. Rheault",
+          "votes": 545
+        },
+        {
+          "name_original": "Cheryll A. Leblanc",
+          "votes": 550
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Corey J. Burke",
+          "votes": 663
+        },
+        {
+          "name_original": "Jennifer L. Pearson",
+          "votes": 673
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 871,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Benjamin J. LaMountain",
+          "votes": 844
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 264,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2023-05-16",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arsenio Sousa Luz",
+          "votes": 814
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 290,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oxford2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oxford2023.pdf",
+  "ballots_cast": 1109,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,178 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jo-Ann M. Berry",
+          "votes": 5029
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Francesca Arsenault",
+          "votes": 4738
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1615,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Benjamin Bloomenthal",
+          "votes": 3194
+        },
+        {
+          "name_original": "Andrew Schwartz",
+          "votes": 3490
+        },
+        {
+          "name_original": "Jason W. Fitzgerald",
+          "votes": 2711
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3338,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "MEMORIAL LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric Schlesinger",
+          "votes": 4786
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1591,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "WATER DISTRICT - MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William C. Mullin",
+          "votes": 4952
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1423,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Acton",
+      "date": "2024-04-30",
+      "office_original": "WATER DISTRICT - COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erika Amir-Lin",
+          "votes": 4797
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1573,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Acton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Acton2024.pdf",
+  "ballots_cast": 6390,
+  "ballots_cast_source": "derived_from_contests"
+}

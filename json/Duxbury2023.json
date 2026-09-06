@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Michael P McGee",
+          "votes": 1181
+        },
+        {
+          "name_original": "Brian E Glennon, II",
+          "votes": 1123
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 772,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Edward Wadsworth",
+          "votes": 1156
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 381,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Kellie M Bresnehan",
+          "votes": 1137
+        },
+        {
+          "name_original": "Matthew E Gambino",
+          "votes": 1138
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 800,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Kristin NP Rappe",
+          "votes": 1122
+        },
+        {
+          "name_original": "Wayne Dennison",
+          "votes": 163
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1756,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "LIBRARY TRUSTEE - 3 Year Term",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Dora Bustos",
+          "votes": 806
+        },
+        {
+          "name_original": "Cathleen M Seaman",
+          "votes": 552
+        },
+        {
+          "name_original": "Lucy A Weilbrenner",
+          "votes": 1004
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 719,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "DUXBURY HOUSING AUTHORITY - 5 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Shari Shane",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 83,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1448,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2023-03-25",
+      "office_original": "DUXBURY HOUSING AUTHORITY - 4 Year Unexpired Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Shari Shane",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 54,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1479,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Duxbury2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Duxbury2023.pdf",
+  "ballots_cast": 1544,
+  "ballots_cast_source": "derived_from_contests"
+}

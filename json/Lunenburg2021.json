@@ -1,0 +1,29 @@
+{
+  "elections": [
+    {
+      "municipality": "Lunenburg",
+      "date": "2021-05-15",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Louis Franco",
+          "votes": 458
+        },
+        {
+          "name_original": "Katie Adams",
+          "votes": 328
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lunenburg2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

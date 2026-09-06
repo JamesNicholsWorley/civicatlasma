@@ -1,0 +1,190 @@
+{
+  "elections": [
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "Moderator (Vote for not more than One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carmin C. Reiss",
+          "votes": 1556
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 317,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "Select Board (Vote for not more than 2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda J. Escobedo",
+          "votes": 955
+        },
+        {
+          "name_original": "Henry J. Dane",
+          "votes": 802
+        },
+        {
+          "name_original": "Karlen J. Reed",
+          "votes": 758
+        },
+        {
+          "name_original": "Dean S. Banfield",
+          "votes": 739
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 503,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "School Committee (Vote for not more than 2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Courtland L. Booth",
+          "votes": 1419
+        },
+        {
+          "name_original": "Tracey Marano",
+          "votes": 1349
+        },
+        {
+          "name_original": "Todd Benjamin",
+          "votes": 59
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 929,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "Housing Authority-5 yrs (Vote for not more than One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephan M. Bader",
+          "votes": 1453
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 426,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "Housing Authority-2 yrs (Vote for not more than One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles T. Philips",
+          "votes": 1439
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 441,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2021-03-25",
+      "office_original": "Housing Authority-1 yr (Vote for One)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephanie Chrobak",
+          "votes": 1399
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 480,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Concord2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Concord2021.pdf",
+  "ballots_cast": 1880,
+  "ballots_cast_source": "derived_from_contests"
+}

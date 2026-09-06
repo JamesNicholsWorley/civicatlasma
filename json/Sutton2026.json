@@ -1,0 +1,226 @@
+{
+  "document": {
+    "heading_verbatim": "Sutton, Massachusetts -- Annual Town Election, May 26, 2026 (unofficial results)",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 26, 2026",
+    "offices_on_ballot": 8,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "Select Board, 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Christine M. Watkins",
+          "votes": 831
+        },
+        {
+          "name_original": "Russell D. Longendorfer",
+          "votes": 452
+        },
+        {
+          "name_original": "Daniel Spengler",
+          "votes": 498
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "School Committee, 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Christopher M. Matera",
+          "votes": 639
+        },
+        {
+          "name_original": "Erika M. Osborne",
+          "votes": 435
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "School Committee, 1 year",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Patrick T. Royce",
+          "votes": 840
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 235,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "Planning Board, 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michael F. Gagan",
+          "votes": 824
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 268,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "Library Trustee, 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Sharon M. McCann Kling",
+          "votes": 820
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 270,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "Housing Authority, 5 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Mark S. Bailey",
+          "votes": 918
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 175,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sutton",
+      "date": "2026-05-26",
+      "office_original": "Housing Authority, 1 year",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Daniel J. Lessard",
+          "votes": 822
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 271,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sutton2026",
+  "_source_pdf": "",
+  "ballots_cast": 1093,
+  "ballots_cast_source": "derived_from_contests"
+}

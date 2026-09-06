@@ -1,0 +1,252 @@
+{
+  "document": {
+    "heading_verbatim": "CHESTER TOWN ELECTION OFFICIAL RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "Town election with standard municipal offices on annual May date",
+    "date_verbatim": "May 4, 2024",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Board of Selectman (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Gauthier",
+          "votes": 82
+        },
+        {
+          "name_original": "Brian Forgue",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "School Committee (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeana Briggs",
+          "votes": 122
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Town Moderator (1yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Bryant",
+          "votes": 13
+        },
+        {
+          "name_original": "Barbara Pease Huntoon",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 112,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Board of Health (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Duane C Pease",
+          "votes": 118
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Library Trustee (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Koske",
+          "votes": 107
+        },
+        {
+          "name_original": "Chelsea Girton",
+          "votes": 99
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Electric Light Commissioner (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deryck Savoy",
+          "votes": 130
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Water Commissioner (2yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas Chuisano",
+          "votes": 23
+        },
+        {
+          "name_original": "James Zimmerman",
+          "votes": 14
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2024-05-04",
+      "office_original": "Water Commissioner (3yr)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Zimmerman",
+          "votes": 27
+        },
+        {
+          "name_original": "Nicholas Chuisano",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chester2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chester2024.pdf",
+  "ballots_cast": 143,
+  "ballots_cast_source": "derived_from_contests"
+}

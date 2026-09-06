@@ -1,0 +1,159 @@
+{
+  "elections": [
+    {
+      "municipality": "Holden",
+      "date": "2023-05-08",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel F. Nason",
+          "votes": 1579
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 852,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2023-05-08",
+      "office_original": "Board of Selectmen",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas P. Curran",
+          "votes": 1476
+        },
+        {
+          "name_original": "Steven B. Cooley",
+          "votes": 937
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2023-05-08",
+      "office_original": "Trustees of Damon Memorial",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Russell John Dye",
+          "votes": 1340
+        },
+        {
+          "name_original": "Kenneth V. Mills",
+          "votes": 1194
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2023-05-08",
+      "office_original": "Wachusett Regional School District",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura M. Kirshenbaum",
+          "votes": 1442
+        },
+        {
+          "name_original": "Judith J. Newton",
+          "votes": 958
+        },
+        {
+          "name_original": "Shannon Poole",
+          "votes": 1291
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1184,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2023-05-08",
+      "office_original": "Holden Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael E. Seiss",
+          "votes": 1497
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 936,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holden2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holden2023.pdf",
+  "ballots_cast": 2445,
+  "ballots_cast_source": "derived_from_contests"
+}

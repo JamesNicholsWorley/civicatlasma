@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Salisbury",
+      "date": "2022-05-10",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Freeman J. Condon",
+          "votes": 441
+        },
+        {
+          "name_original": "Ronalee Ray-Parrott",
+          "votes": 859
+        },
+        {
+          "name_original": "Michael F. Colburn",
+          "votes": 969
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 441,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2022-05-10",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jerry V. Klima",
+          "votes": 994
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 351,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2022-05-10",
+      "office_original": "Triton Regional School Committee-Newbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Landers",
+          "votes": 743
+        },
+        {
+          "name_original": "Annie Bourne",
+          "votes": 52
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 566,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2022-05-10",
+      "office_original": "Triton Regional School Committee-Rowley (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul L. Lees",
+          "votes": 438
+        },
+        {
+          "name_original": "Stephanie R. Vaccaro",
+          "votes": 475
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 450,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2022-05-10",
+      "office_original": "Triton Regional School Committee-Salisbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erin D. Berger",
+          "votes": 561
+        },
+        {
+          "name_original": "Victoria A. Vatcher",
+          "votes": 654
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Salisbury2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Salisbury2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

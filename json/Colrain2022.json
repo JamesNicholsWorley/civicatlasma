@@ -1,0 +1,148 @@
+{
+  "elections": [
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Select board",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Benjamin Eastman",
+          "votes": 176
+        },
+        {
+          "name_original": "Joseph Kurland",
+          "votes": 119
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Town Clerk",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Anna Lavarreda",
+          "votes": 98
+        },
+        {
+          "name_original": "Dorian Pariseau",
+          "votes": 97
+        },
+        {
+          "name_original": "Jennifer Smith",
+          "votes": 95
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Library Trustee",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Betsy Browning",
+          "votes": 254
+        },
+        {
+          "name_original": "Martin Lydgate Driggs",
+          "votes": 179
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Mohawk Trail Regional School Committee",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "John Chivers",
+          "votes": 249
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Assessor",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Nicholas Anzuoni",
+          "votes": 94
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2022-05-03",
+      "office_original": "Constable",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Timothy Slowinski",
+          "votes": 7
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Colrain2022",
+  "_source_pdf": "",
+  "document": {
+    "date_correction": {
+      "corrected_on": "2026-08-23",
+      "was": [
+        "2022-05-03",
+        "2025-05-13"
+      ],
+      "now": "2022-05-03",
+      "url": "https://colrain-ma.gov/d/29751/Annual-elections",
+      "quote": "Annual elections, Tue, May 3, 2022",
+      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+      "note": ""
+    },
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2022-05-03",
+      "detail": "https://colrain-ma.gov/d/29751/Annual-elections",
+      "quote": "Annual elections, Tue, May 3, 2022",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "election_date": "2022-05-03",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

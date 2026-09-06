@@ -1,0 +1,144 @@
+{
+  "elections": [
+    {
+      "municipality": "North Reading",
+      "date": "2021-05-04",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn M. Manupelli",
+          "votes": 958
+        },
+        {
+          "name_original": "Stephen J. O'Leary",
+          "votes": 1042
+        },
+        {
+          "name_original": "John P. Barrette",
+          "votes": 163
+        },
+        {
+          "name_original": "Jeffrey R. Yull",
+          "votes": 175
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 291,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2021-05-04",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Murphy",
+          "votes": 1067
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 240,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2021-05-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dyana M. Boutwell",
+          "votes": 959
+        },
+        {
+          "name_original": "Richard F. McGowan",
+          "votes": 895
+        },
+        {
+          "name_original": "Jodi M. Cloney",
+          "votes": 255
+        },
+        {
+          "name_original": "Allison Stringer",
+          "votes": 186
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 339,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2021-05-04",
+      "office_original": "COMMUNITY PLANNING",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan J. Carroll",
+          "votes": 988
+        },
+        {
+          "name_original": "Jeremiah C. Johnston",
+          "votes": 861
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 782,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthReading2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthReading2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

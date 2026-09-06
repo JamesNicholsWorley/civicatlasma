@@ -1,0 +1,150 @@
+{
+  "document": {
+    "heading_verbatim": "Harwich Annual Town Election - May 16, 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Harwich Annual Town Election - May 16, 2023",
+    "date_verbatim": "May 16, 2023",
+    "offices_on_ballot": 4,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Harwich",
+      "date": "2023-05-16",
+      "office_original": "Board of Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Donald F. Howell",
+          "votes": 1013
+        },
+        {
+          "name_original": "Jeffrey F. Handler",
+          "votes": 1376
+        },
+        {
+          "name_original": "Peter J. Piekarski",
+          "votes": 1010
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 511,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2023-05-16",
+      "office_original": "Monomoy Regional School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Meredith Henderson",
+          "votes": 1407
+        },
+        {
+          "name_original": "Ryan D. Clarke",
+          "votes": 1444
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1059,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2023-05-16",
+      "office_original": "Brooks Free Library Board of Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "JoAnne Brown",
+          "votes": 1576
+        },
+        {
+          "name_original": "Linda Cebula",
+          "votes": 1457
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 881,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2023-05-16",
+      "office_original": "Water/Wastewater Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "John B. Gough",
+          "votes": 1448
+        },
+        {
+          "name_original": "Allin P. Thompson, Jr.",
+          "votes": 1529
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 935,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harwich2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harwich2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

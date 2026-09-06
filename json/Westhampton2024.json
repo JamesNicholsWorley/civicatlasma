@@ -1,0 +1,286 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Election",
+    "date_verbatim": "June 1, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 11,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "SELECTBOARD - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Jennifer Milikowsky",
+          "votes": 224
+        },
+        {
+          "name_original": "Jonathan Albitz",
+          "votes": 70
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "BOARD OF ASSESSORS - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Walter Morrey",
+          "votes": 247
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "PLANNING BOARD - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Donald (Pat) Coffey",
+          "votes": 161
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "FINANCE COMMITTEE - 3 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Maureen Dempsey",
+          "votes": 231
+        },
+        {
+          "name_original": "Tad Weiss",
+          "votes": 221
+        },
+        {
+          "name_original": "Jonathan Albitz",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 435,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Matthew Clark",
+          "votes": 171
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "LIBRARY TRUSTEE - 2 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Angela Griefen",
+          "votes": 247
+        },
+        {
+          "name_original": "Alison Thirkield",
+          "votes": 197
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 151,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "TREE WARDEN - 1 for one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Thomas Jenkins",
+          "votes": 266
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "CONSTABLE (Center District) - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Robert Miller",
+          "votes": 266
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "MODERATOR - 1 for one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Benjamin Warren",
+          "votes": 258
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westhampton",
+      "date": "2024-06-01",
+      "office_original": "REGIONAL SCHOOL COMMITTEE - 1 for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Andy Hilnbrand",
+          "votes": 169
+        },
+        {
+          "name_original": "Scott Johndrow",
+          "votes": 96
+        },
+        {
+          "name_original": "Jose Whiting-Cruz",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westhampton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westhampton2024.pdf",
+  "ballots_cast": 298,
+  "ballots_cast_source": "derived_from_contests"
+}

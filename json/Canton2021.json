@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "REUKI B. SCHUTT",
+          "votes": 1134
+        },
+        {
+          "name_original": "THOMAS THEODORE",
+          "votes": 1732
+        },
+        {
+          "name_original": "MICHAEL C. LOUGHRAN",
+          "votes": 1407
+        },
+        {
+          "name_original": "HAMILTON SOARES RODRIGUES",
+          "votes": 297
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 862,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "TRACY KENNEY",
+          "votes": 2074
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 632,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ROCCO F. DIGIROLAMO",
+          "votes": 1976
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 733,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ALLAN RAPOPORT",
+          "votes": 1951
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 755,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "KENDALL O'HALLORAN",
+          "votes": 1301
+        },
+        {
+          "name_original": "KARRIE HYLEN",
+          "votes": 1044
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 365,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "JOSEPH AMRHEIN",
+          "votes": 1736
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 964,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Canton",
+      "date": "2021-04-06",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JAN CHAMBERLAIN",
+          "votes": 1799
+        },
+        {
+          "name_original": "JOAN SCHOTTENFELD",
+          "votes": 1632
+        },
+        {
+          "name_original": "CHRISTINE UNTERSEE",
+          "votes": 1583
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3130,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Canton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Canton2021.pdf",
+  "ballots_cast": 2718,
+  "ballots_cast_source": "derived_from_contests"
+}

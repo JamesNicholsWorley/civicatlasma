@@ -1,0 +1,394 @@
+{
+  "elections": [
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kassandra Megan Gove",
+          "votes": 3645
+        },
+        {
+          "name_original": "James M. Kelcourse",
+          "votes": 2338
+        },
+        {
+          "name_original": "All Other",
+          "votes": 12
+        },
+        {
+          "name_original": "Blank",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adrienne Dawn Lennon",
+          "votes": 3233
+        },
+        {
+          "name_original": "Scott B. Mandeville",
+          "votes": 3181
+        },
+        {
+          "name_original": "Steven J. Stanganelli",
+          "votes": 3619
+        },
+        {
+          "name_original": "All Other",
+          "votes": 72
+        },
+        {
+          "name_original": "Blank",
+          "votes": 7910,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D1",
+      "district_original": "D1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan S. Hickok",
+          "votes": 750
+        },
+        {
+          "name_original": "All Other",
+          "votes": 7
+        },
+        {
+          "name_original": "Blank",
+          "votes": 366,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D2",
+      "district_original": "D2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony S. Rinaldi",
+          "votes": 728
+        },
+        {
+          "name_original": "All Other",
+          "votes": 11
+        },
+        {
+          "name_original": "Blank",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D3",
+      "district_original": "D3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roger Gaetan Deschenes",
+          "votes": 745
+        },
+        {
+          "name_original": "All Other",
+          "votes": 10
+        },
+        {
+          "name_original": "Blank",
+          "votes": 367,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D4",
+      "district_original": "D4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas E. Wheeler",
+          "votes": 560
+        },
+        {
+          "name_original": "All Other",
+          "votes": 6
+        },
+        {
+          "name_original": "Blank",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D5",
+      "district_original": "D5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph W. McMilleon",
+          "votes": 444
+        },
+        {
+          "name_original": "Peter Joseph Frey",
+          "votes": 547
+        },
+        {
+          "name_original": "All Other",
+          "votes": 8
+        },
+        {
+          "name_original": "Blank",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR D6",
+      "district_original": "D6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael A. Hogg",
+          "votes": 596
+        },
+        {
+          "name_original": "Dave Haraske",
+          "votes": 9
+        },
+        {
+          "name_original": "All Other",
+          "votes": 19
+        },
+        {
+          "name_original": "Blank",
+          "votes": 236,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine G K Smith",
+          "votes": 3026
+        },
+        {
+          "name_original": "Abigail Jurist Levy",
+          "votes": 2970
+        },
+        {
+          "name_original": "Peter Brown Hoyt",
+          "votes": 3948
+        },
+        {
+          "name_original": "All Other",
+          "votes": 40
+        },
+        {
+          "name_original": "Blank",
+          "votes": 8031,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joel B. Nice",
+          "votes": 2838
+        },
+        {
+          "name_original": "Pascal Rettig",
+          "votes": 2749
+        },
+        {
+          "name_original": "Keith Ratner",
+          "votes": 2847
+        },
+        {
+          "name_original": "Scott C. Kelley",
+          "votes": 3203
+        },
+        {
+          "name_original": "All Other",
+          "votes": 33
+        },
+        {
+          "name_original": "Blank",
+          "votes": 12350,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "LIBRARY BOARD OF TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bethany Lynne Sullivan",
+          "votes": 3535
+        },
+        {
+          "name_original": "Anne M. Campbell",
+          "votes": 3366
+        },
+        {
+          "name_original": "Laurie A. Cameron",
+          "votes": 3372
+        },
+        {
+          "name_original": "Pam Gilday",
+          "votes": 154
+        },
+        {
+          "name_original": "Audrey Proctor",
+          "votes": 89
+        },
+        {
+          "name_original": "Robert Aurilio",
+          "votes": 36
+        },
+        {
+          "name_original": "All Other",
+          "votes": 336
+        },
+        {
+          "name_original": "Blank",
+          "votes": 19137,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2021-11-02",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Ralph Noon",
+          "votes": 3537
+        },
+        {
+          "name_original": "Lyndsey J. Haight",
+          "votes": 3161
+        },
+        {
+          "name_original": "Sandra P. Clark",
+          "votes": 3062
+        },
+        {
+          "name_original": "All Other",
+          "votes": 19
+        },
+        {
+          "name_original": "Blank",
+          "votes": 8236,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Amesbury2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Amesbury2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

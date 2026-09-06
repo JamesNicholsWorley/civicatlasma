@@ -1,0 +1,54 @@
+{
+  "elections": [
+    {
+      "municipality": "Aquinnah",
+      "date": "2021-06-24",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Thomas Murphy",
+          "votes": 97
+        },
+        {
+          "name_original": "Adrian Higgins",
+          "votes": 75
+        },
+        {
+          "name_original": "Nancy Gilson Slate",
+          "votes": 6
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2021-06-24",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Kathy Newman",
+          "votes": 88
+        },
+        {
+          "name_original": "Jim Glavin",
+          "votes": 81
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Aquinnah2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

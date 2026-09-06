@@ -1,0 +1,520 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Election  May 16, 2026",
+    "date_verbatim": "May 16, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "The document is headed 'Annual Town Election' which indicates a regularly scheduled municipal election.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 13,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "MODERATOR for Three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Joseph Kealy",
+          "votes": 1256
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 337,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "SELECT BOARD for Three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura A. Fitzgerald-Kemmett",
+          "votes": 1013
+        },
+        {
+          "name_original": "Franklin T. Milisi",
+          "votes": 914
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1258,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "BOARD OF ASSESSOR for Three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Paul Clark",
+          "votes": 1
+        },
+        {
+          "name_original": "Kathleen Marini",
+          "votes": 23
+        },
+        {
+          "name_original": "John Pierce",
+          "votes": 1
+        },
+        {
+          "name_original": "Amy Gomes",
+          "votes": 1
+        },
+        {
+          "name_original": "Glenn Moody",
+          "votes": 1
+        },
+        {
+          "name_original": "Steve Gomes",
+          "votes": 1
+        },
+        {
+          "name_original": "Kevin Perkins",
+          "votes": 2
+        },
+        {
+          "name_original": "Eric Adams",
+          "votes": 2
+        },
+        {
+          "name_original": "Jason Terra",
+          "votes": 1
+        },
+        {
+          "name_original": "Frank Terra",
+          "votes": 2
+        },
+        {
+          "name_original": "Will Carpenter",
+          "votes": 1
+        },
+        {
+          "name_original": "Christopher Ernest",
+          "votes": 1
+        },
+        {
+          "name_original": "Donald Cahill",
+          "votes": 1
+        },
+        {
+          "name_original": "Greg DeLue",
+          "votes": 2
+        },
+        {
+          "name_original": "Chris Pratt",
+          "votes": 2
+        },
+        {
+          "name_original": "Ed Bannon",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Gomes",
+          "votes": 2
+        },
+        {
+          "name_original": "Chris Kelley",
+          "votes": 1
+        },
+        {
+          "name_original": "Elizabeth Canon",
+          "votes": 1
+        },
+        {
+          "name_original": "Mike Jones",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Biggs",
+          "votes": 1
+        },
+        {
+          "name_original": "Alex Stewart",
+          "votes": 1
+        },
+        {
+          "name_original": "Dianna McDevitt",
+          "votes": 1
+        },
+        {
+          "name_original": "Matthew Hickey",
+          "votes": 1
+        },
+        {
+          "name_original": "Eric Hatch",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1548,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "BOARD OF HEALTH for Three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Ryan Perkins",
+          "votes": 692
+        },
+        {
+          "name_original": "David M. George",
+          "votes": 698
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 205,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "CEMETERY COMMISSIONER for Three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Shawn Lindberg",
+          "votes": 5
+        },
+        {
+          "name_original": "Susan Kealy",
+          "votes": 3
+        },
+        {
+          "name_original": "Owen Golden",
+          "votes": 1
+        },
+        {
+          "name_original": "John Pierce",
+          "votes": 1
+        },
+        {
+          "name_original": "Emma Wojdag",
+          "votes": 2
+        },
+        {
+          "name_original": "Eric Adams",
+          "votes": 13
+        },
+        {
+          "name_original": "Kevin Perkins",
+          "votes": 1
+        },
+        {
+          "name_original": "Jason Terra",
+          "votes": 3
+        },
+        {
+          "name_original": "William Hinchey Jr.",
+          "votes": 1
+        },
+        {
+          "name_original": "Kevin Keene",
+          "votes": 1
+        },
+        {
+          "name_original": "Steven Cappellini",
+          "votes": 2
+        },
+        {
+          "name_original": "Donald Cahill",
+          "votes": 1
+        },
+        {
+          "name_original": "Jack Ferry",
+          "votes": 1
+        },
+        {
+          "name_original": "Barbara Burke",
+          "votes": 1
+        },
+        {
+          "name_original": "Jay Mahoney",
+          "votes": 2
+        },
+        {
+          "name_original": "Jerome Thompson",
+          "votes": 1
+        },
+        {
+          "name_original": "William Ward",
+          "votes": 1
+        },
+        {
+          "name_original": "Steven Gomes",
+          "votes": 2
+        },
+        {
+          "name_original": "Ryan DeLue",
+          "votes": 1
+        },
+        {
+          "name_original": "Peter Aitabile",
+          "votes": 1
+        },
+        {
+          "name_original": "Jason Hook",
+          "votes": 1
+        },
+        {
+          "name_original": "Chris Kelley",
+          "votes": 2
+        },
+        {
+          "name_original": "James Flanagan",
+          "votes": 1
+        },
+        {
+          "name_original": "Jessica Sheridan",
+          "votes": 2
+        },
+        {
+          "name_original": "Charles Doray",
+          "votes": 2
+        },
+        {
+          "name_original": "Alyssa Monahan",
+          "votes": 1
+        },
+        {
+          "name_original": "Elizabeth Canon",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Gomes",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1540,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "PLANNING BOARD for Five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Huebner",
+          "votes": 1085
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 500,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "PLANNING BOARD for remaining 3 Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen M. Cloutman",
+          "votes": 1100
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 478,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Teresa M. Santalucia",
+          "votes": 1072
+        },
+        {
+          "name_original": "Karen Howes Duclos",
+          "votes": 912
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "WHITMAN-HANSON REGIONAL SCHOOL DISTRICT COMMITTEE for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hillary Mae Kniffen",
+          "votes": 1149
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 435,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "WHITMAN-HANSON REGIONAL SCHOOL DISTRICT COMMITTEE for one year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Warren Gordon MacCallum",
+          "votes": 1175
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 414,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanson",
+      "date": "2026-05-16",
+      "office_original": "WATER COMMISSIONER for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael J. Chernicki",
+          "votes": 1178
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 413,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hanson2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hanson2026.pdf",
+  "ballots_cast": 1601,
+  "ballots_cast_source": "derived_from_contests"
+}

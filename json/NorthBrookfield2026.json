@@ -1,0 +1,214 @@
+{
+  "document": {
+    "heading_verbatim": "North Brookfield, Massachusetts -- Annual Town Election, May 4, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 4, 2026",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "The paper prints vote counts for the contested races and names the unopposed winners without counts",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Selectman",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Orsi",
+          "votes": 418
+        },
+        {
+          "name_original": "John Tripp",
+          "votes": 97
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Waldron",
+          "votes": 113
+        },
+        {
+          "name_original": "Michelle Thayer",
+          "votes": 77
+        },
+        {
+          "name_original": "Jason Petraitis",
+          "votes": 38
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Water Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Richard Kinnan",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "James Arcese",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Karen Hubacz",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Sadie Kelly",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ethan Melad",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Carol Kelley",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Noah Caouette",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Cemetery Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kirk Burnham",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Darlene Levin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Brookfield",
+      "date": "2026-05-04",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Brandon Avery",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NorthBrookfield2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

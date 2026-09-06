@@ -1,0 +1,360 @@
+{
+  "elections": [
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James David Quinn",
+          "votes": 909
+        },
+        {
+          "name_original": "Judy A. Congdon",
+          "votes": 833
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1000,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard T. Harrity",
+          "votes": 1083
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 305,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven C. Smith",
+          "votes": 928
+        },
+        {
+          "name_original": "Christopher M. Monsini",
+          "votes": 667
+        },
+        {
+          "name_original": "Janet O'Leary",
+          "votes": 310
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 871,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "TRUSTEES of BENEVOLENT FUNDS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Marie Lourens",
+          "votes": 1056
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 332,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael A. Andrade",
+          "votes": 742
+        },
+        {
+          "name_original": "Thomas C. Green",
+          "votes": 576
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 71,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "PARK COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert David Bowen Sr",
+          "votes": 1067
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 322,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cassia Monteiro",
+          "votes": 683
+        },
+        {
+          "name_original": "Mercedes T. Murphy",
+          "votes": 242
+        },
+        {
+          "name_original": "Janet Saluk",
+          "votes": 413
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maryalice McCormack",
+          "votes": 1041
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 348,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darryl T. Filippi",
+          "votes": 931
+        },
+        {
+          "name_original": "Andrew L. Massa, Jr.",
+          "votes": 787
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1059,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Duane J. Searles",
+          "votes": 1056
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 334,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Dana Bruce",
+          "votes": 1026
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 358,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hudson",
+      "date": "2022-05-09",
+      "office_original": "BOARD of ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christine A. Griffin",
+          "votes": 1049
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 340,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hudson2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hudson2022.pdf",
+  "ballots_cast": 1390,
+  "ballots_cast_source": "derived_from_contests"
+}

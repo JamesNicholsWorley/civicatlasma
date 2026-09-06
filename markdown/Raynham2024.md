@@ -1,0 +1,58 @@
+## UNOFFICIAL RESULTS-APRIL 27, 2024 ANNUAL TOWN ELECTION
+
+| G   |                  |             | 259                             |    | 0        | 8 347                     |                                | Total 268       |           | 0 0   | 0 17     | 347                      | 295                            |             | 0   | 0   | 0 5    | 347                        |
+|-----|------------------|-------------|---------------------------------|----|----------|---------------------------|--------------------------------|-----------------|-----------|-------|----------|--------------------------|--------------------------------|-------------|-----|-----|--------|----------------------------|
+| LE  |                  | 7           |                                 |    |          |                           |                                | 6               |           |       | 19       |                          | 3                              |             |     |     | 3      |                            |
+| E   |                  | 9           |                                 |    | 7        | 7                         |                                | 5               |           |       | 2 7      |                          | 5                              |             |     |     |        |                            |
+|     | 2                |             |                                 |    | 29       | 6                         | 2                              | 4               |           |       | 2        |                          | 5                              |             |     |     | 2      |                            |
+|     |                  |             | 8                               |    | 19       | 103                       |                                | 8               |           |       | 7        | 3                        | 2                              |             |     |     | 1      | 13                         |
+| B   | Selectman        | (3)Years    |                                 |    |          |                           | Moderator (3)Years             |                 |           |       |          |                          |                                |             |     |     |        |                            |
+|     | Title of Office: | Candidate 2 | Patricia A. Riley Write Ins 3 4 | 5  | Blanks 6 | Total # of Votes Cast 7 8 | Candidate Title of Office: 9 0 | John M. Donahue | Write Ins | 3     | Blanks 5 | Total # of Votes Cast 18 | Candidate Marsha L. Silvia 2 2 | Write Ins 2 | 2   | 忆 5 | Blanks | Total # of Votes Cast 2 28 |
+
+## UNOFFICIAL RESULTS-APRIL 27, 2024 ANNUAL TOWN ELECTION
+
+|    | 0                          | 261                       |             | 0   |                     | 347   | Total                          |                 | 244       |    | 0   | 103    | 347                    |
+|----|----------------------------|---------------------------|-------------|-----|---------------------|-------|--------------------------------|-----------------|-----------|----|-----|--------|------------------------|
+|    | 4                          | 6                         |             |     | 20                  |       |                                | 0               |           |    |     |        |                        |
+| E  | B                          |                           |             |     | 15                  | 2     |                                |                 |           |    |     | 20     |                        |
+| D  |                            |                           |             |     | 3                   |       | 2                              |                 |           |    |     |        |                        |
+|    |                            | 8                         |             |     |                     | 103   |                                | 00              |           |    |     | 2      | 103                    |
+| B  | Assessor (3)Years          |                           |             |     |                     | Sewer | Commissioner (3)Years          |                 |           |    |     |        |                        |
+|    | Candidate Title of Office: | Jennifer Banks Oidfield 3 | Write Ins 3 |     | Total #ofVotes Cast |       | Candidate Title of Office: 9 4 | Joseph M.Bickel | Write Ins | 4  |     | Blanks | Total #of Votes Cast 4 |
+|    | 29                         | 3                         | 3           | 4   | Blanks 36           | 37 38 |                                | 4               | 4         |    | 4   | 46     |                        |
+
+## UNOFFICIAL RESULTS-APRIL 27, 2024 ANNUALTOWN ELECTION
+
+| G   | Total                      |                    | 233       | 0      | 114 347               | Total            | 238                        | 0            | 109                          | 347                                 |                            | 204          | 259            |                              | 106 0   | 125 694                |
+|-----|----------------------------|--------------------|-----------|--------|-----------------------|------------------|----------------------------|--------------|------------------------------|-------------------------------------|----------------------------|--------------|----------------|------------------------------|---------|------------------------|
+| F   | 4                          |                    |           | 7      |                       |                  |                            |              | 28                           |                                     |                            | 4            | 6              | 5                            |         | 38 172                 |
+| E   | B                          |                    |           | 7      | 2                     |                  | 4                          |              | 3 7                          |                                     |                            | 5            | 6              | 7                            |         | 20 144                 |
+|     | 2                          |                    |           |        |                       |                  | 5                          |              | 4                            |                                     | 2 39                       |              |                | 4                            |         | 172                    |
+|     |                            |                    |           | 27     | 103                   |                  | 179                        |              | 103                          |                                     |                            | 7            | 8              | 30                           |         | 22 206                 |
+| B   | (5)Years                   |                    |           |        | Housing Authority     | (5)Years         |                            |              |                              | Raynham Members B-R School (3)Years |                            |              |                |                              |         |                        |
+|     | Candidate Title of Office: | Anthony J. Niccoli | Write Ins | Blanks | Total # of Votes Cast | Title of Office: | Candidate Rick Teixeira 59 | Write Ins 09 | Total # of Votes Cast Blanks |                                     | Candidate Title of Office: | Laura Conrad | Rachel R. King | Stephanie M. Ponte Write Ins | Blanks  | Total #of Votes Cast 3 |
+|     | 49                         | 50                 | 5 2       | 3 4    | 55 5                  | 5                | 8                          | 6            |                              | 8                                   | 65 6                       | 6            | 68             | 9 0                          | L       | 2                      |
+
+## ANNUAL TOWNELECTION
+
+## UNOFFICIAL RESULTS-APRIL 27, 2024
+
+|              |                            | 227                         | 193                |            |    | 0   |    | 274       | 694                   |
+|--------------|----------------------------|-----------------------------|--------------------|------------|----|-----|----|-----------|-----------------------|
+|              | 4                          |                             | 4                  |            |    |     |    |           |                       |
+|              |                            | 5039                        |                    |            |    |     |    | 8         | 172                   |
+|              |                            | 158                         |                    |            |    |     |    | 8         | 206                   |
+| B-R School B | Years Members              |                             |                    |            |    |     |    |           |                       |
+|              | Candidate Title of Office: | Timothy Patrick Fitzgibbons | Michael R.Losche 8 | WriteIns 9 | 8  |     | 8  | Blanks 83 | Total #ofVotes Cast 8 |
+
+## UNOFFICIAL RESULTS-APRIL 27, 2024 ANNUAL TOWN ELECTION
+
+|    |                  | Total                      | 234                     |              | 0   | 0   | 113 347                      |    | Total                          | 270                      |             |     | 0   |        | 347                   |
+|----|------------------|----------------------------|-------------------------|--------------|-----|-----|------------------------------|----|--------------------------------|--------------------------|-------------|-----|-----|--------|-----------------------|
+|    |                  | 4                          | 00                      |              |     |     | 8                            |    |                                |                          |             |     |     | 8      | 8                     |
+| E  |                  |                            | 4                       |              |     |     | 2 7                          |    |                                |                          |             |     |     | 13     | 2                     |
+|    |                  |                            |                         |              |     |     | 3 8                          |    |                                |                          |             |     |     | 28     |                       |
+|    |                  |                            | 9                       |              |     |     | 103                          |    |                                |                          |             |     |     | 28     | 103                   |
+| B  | Recreation Park& | Commissioner (3)Years      |                         |              |     |     |                              |    | Commissioner Cemetery (3)Years |                          |             |     |     |        |                       |
+|    |                  | Candidate Title of Office: | Edmund M.Ericson,Jr. 88 | Write Ins 89 |     |     | Total#ofVotes Cast Blanks 94 |    | Title of Office: 96            | Candidate James A. Tilbe | WriteIns 66 |     |     | Blanks | 104Total#ofVotes Cast |
+|    |                  | 86                         | 8                       | 90           |     | 6   | 93                           | 95 |                                | 7 98                     | 100         | 101 | 102 | 103    |                       |

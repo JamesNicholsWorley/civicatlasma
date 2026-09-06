@@ -1,0 +1,301 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "DAVID SHANABROOK",
+          "votes": 84
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "RUSTY ROWELL",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "RICHARD HALL",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 84,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "MELISSA A. NAZZARO",
+          "votes": 83
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 97,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "BRUCE KLOTZ",
+          "votes": 19
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "ALYSE BYNUM",
+          "votes": 93
+        },
+        {
+          "name_original": "ABIGAIL JENKS",
+          "votes": 94
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "AUDITOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 98,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "SCOTT BARTON",
+          "votes": 24
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "DANIEL E. ROBB",
+          "votes": 20
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2022-05-17",
+      "office_original": "COMMUNITY PRESERVATION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "CYDNIE REIMAN",
+          "votes": 23
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Pelham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Pelham2022.pdf",
+  "ballots_cast": 99,
+  "ballots_cast_source": "derived_from_contests"
+}

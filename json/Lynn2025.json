@@ -1,0 +1,345 @@
+{
+  "elections": [
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jared C. Nicholson",
+          "votes": 6091
+        },
+        {
+          "name_original": "Others",
+          "votes": 245,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1673,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Councilor At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicole D. McClain",
+          "votes": 4193
+        },
+        {
+          "name_original": "Hong L. Net",
+          "votes": 4343
+        },
+        {
+          "name_original": "Jean Michael Fana",
+          "votes": 2671
+        },
+        {
+          "name_original": "Brian P. LaPierre",
+          "votes": 4212
+        },
+        {
+          "name_original": "Brian M. Field",
+          "votes": 4057
+        },
+        {
+          "name_original": "Others",
+          "votes": 88,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12470,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tristan J. Smith",
+          "votes": 3763
+        },
+        {
+          "name_original": "Lorriane M. Gately",
+          "votes": 3487
+        },
+        {
+          "name_original": "Brenda Ortiz McGrath",
+          "votes": 3175
+        },
+        {
+          "name_original": "Julie Pyram Dorsey",
+          "votes": 1524
+        },
+        {
+          "name_original": "Brian K. Castellanos",
+          "votes": 3372
+        },
+        {
+          "name_original": "Lenny Pena",
+          "votes": 3129
+        },
+        {
+          "name_original": "Eric C. Dugan",
+          "votes": 2634
+        },
+        {
+          "name_original": "Andrea L. Satterwhite",
+          "votes": 3467
+        },
+        {
+          "name_original": "Stacy Bryant-Brown",
+          "votes": 2643
+        },
+        {
+          "name_original": "Others",
+          "votes": 116,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20741,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 1 Councilor",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Meaney",
+          "votes": 1495
+        },
+        {
+          "name_original": "Paul G. Gouthro",
+          "votes": 913
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 2 Councilor",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Obed A. Matul",
+          "votes": 807
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 161,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 3 Councilor",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Coco Alinsug",
+          "votes": 832
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 133,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 4 Councilor",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Natasha S. Megie-Maddrey",
+          "votes": 492
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 129,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 5 Councilor",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Josh Polonsky",
+          "votes": 437
+        },
+        {
+          "name_original": "Cardeliz Paez",
+          "votes": 505
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 6 Councilor",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Fred William Hogan Sr.",
+          "votes": 455
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2025-11-04",
+      "office_original": "Ward 7 Councilor",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jordan T. Avery",
+          "votes": 689
+        },
+        {
+          "name_original": "Billy Devin Jr.",
+          "votes": 585
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lynn2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lynn2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

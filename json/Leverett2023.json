@@ -1,0 +1,184 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Meeting was called to order at the Leverett Elementary School by Moderator, Larry Farber, at 9:11 am.",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Meeting",
+    "date_verbatim": "April 29, 2023",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "There were no contested elections. Newly elected officers:"
+  },
+  "elections": [
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cat Ford",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lizzie Alwan",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Cynthia Baldwin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Library Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Chris Condit",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Joan Godsey",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Swartz",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jed Proujanksy",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Isaiah Robison",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Molly Daniel",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann Elise Olson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Leverett",
+      "date": "2023-04-29",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tom Hankinson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Leverett2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leverett2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

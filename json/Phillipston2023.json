@@ -1,0 +1,122 @@
+{
+  "document": {
+    "heading_verbatim": "Phillipston, MA - Annual Town Election, May 15, 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 15, 2023",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Phillipston",
+      "date": "2023-05-15",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerhard Fandreyer",
+          "votes": 43
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2023-05-15",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James B. Praplaski",
+          "votes": 51
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2023-05-15",
+      "office_original": "Tax Collector",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sally Ann Kastberg",
+          "votes": 51
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2023-05-15",
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Frederick French",
+          "votes": 3
+        },
+        {
+          "name_original": "Tom Royer",
+          "votes": 2
+        },
+        {
+          "name_original": "David Clapham",
+          "votes": 2
+        },
+        {
+          "name_original": "Yvon Allain",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Phillipston2023",
+  "_source_pdf": "",
+  "ballots_cast": 55,
+  "ballots_cast_source": "derived_from_contests"
+}

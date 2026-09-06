@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "SELECTMAN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sahan Sahin",
+          "votes": 414
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "TOWN MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael B. Carr",
+          "votes": 445
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lawrence J. Sposato, Jr.",
+          "votes": 491
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David H. Brown",
+          "votes": 357
+        },
+        {
+          "name_original": "Richard J. Martinelli",
+          "votes": 391
+        },
+        {
+          "name_original": "William H. Paine",
+          "votes": 386
+        },
+        {
+          "name_original": "William L. Roberts, Sr.",
+          "votes": 362
+        },
+        {
+          "name_original": "Others",
+          "votes": 813,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2312,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nicole M. Buckley",
+          "votes": 439
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 709,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Philip M. Devine",
+          "votes": 318
+        },
+        {
+          "name_original": "Nick Mobilia",
+          "votes": 345
+        },
+        {
+          "name_original": "Others",
+          "votes": 208,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2022-05-03",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Altomonte",
+          "votes": 424
+        },
+        {
+          "name_original": "Michael J. Reed, Jr.",
+          "votes": 400
+        },
+        {
+          "name_original": "Jennifer L.",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 327,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bellingham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bellingham2022.pdf",
+  "ballots_cast": 578,
+  "ballots_cast_source": "derived_from_contests"
+}

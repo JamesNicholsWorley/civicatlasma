@@ -1,0 +1,342 @@
+{
+  "elections": [
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Councilor At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian P. LaPierre",
+          "votes": 4362
+        },
+        {
+          "name_original": "Brian M. Field",
+          "votes": 4175
+        },
+        {
+          "name_original": "Nicole D. McClain",
+          "votes": 4013
+        },
+        {
+          "name_original": "Hong L. Net",
+          "votes": 3915
+        },
+        {
+          "name_original": "Donald J. Castle",
+          "votes": 3466
+        },
+        {
+          "name_original": "Jose M. Encarnacion",
+          "votes": 2206
+        },
+        {
+          "name_original": "Roger Rogelio Garcia",
+          "votes": 1772
+        },
+        {
+          "name_original": "Richard L. Felton",
+          "votes": 831
+        },
+        {
+          "name_original": "Others",
+          "votes": 64,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12876,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Reid",
+          "votes": 4201
+        },
+        {
+          "name_original": "Lorraine Gately",
+          "votes": 4016
+        },
+        {
+          "name_original": "Lenny Pena",
+          "votes": 3675
+        },
+        {
+          "name_original": "Andrea L. Satterwhite",
+          "votes": 3614
+        },
+        {
+          "name_original": "Brian K. Castellanos",
+          "votes": 3143
+        },
+        {
+          "name_original": "Eric C. Dugan",
+          "votes": 2869
+        },
+        {
+          "name_original": "Tiffany Jean Magnolia",
+          "votes": 2164
+        },
+        {
+          "name_original": "Sandra M. Lopez",
+          "votes": 1887
+        },
+        {
+          "name_original": "Stacy Bryant-Brown",
+          "votes": 1716
+        },
+        {
+          "name_original": "Daniel M. Richard",
+          "votes": 1683
+        },
+        {
+          "name_original": "Judith Wilson",
+          "votes": 1634
+        },
+        {
+          "name_original": "Walquiria Leguisamon",
+          "votes": 1065
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24793,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 1 Councilor",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Meaney",
+          "votes": 1614
+        },
+        {
+          "name_original": "Jeff Newhall",
+          "votes": 1376
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 102,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 2 Councilor",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Obed A. Matul",
+          "votes": 839
+        },
+        {
+          "name_original": "Elizabeth Figueroa",
+          "votes": 470
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 63,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 3 Councilor",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Coco Alinsug",
+          "votes": 903
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 216,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 4 Councilor",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Natasha S. Megie-Maddrey",
+          "votes": 599
+        },
+        {
+          "name_original": "Donna M. Coppola",
+          "votes": 517
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 5 Councilor",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dianna Chakoutis",
+          "votes": 510
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 269,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 6 Councilor",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Fred William Hogan Sr.",
+          "votes": 437
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 218,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynn",
+      "date": "2023-11-07",
+      "office_original": "Ward 7 Councilor",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Jay Walsh Jr.",
+          "votes": 902
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 246,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lynn2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lynn2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,180 @@
+{
+  "elections": [
+    {
+      "municipality": "Bridgewater",
+      "date": "2025-04-26",
+      "office_original": "TOWN COUNCIL DISTRICT THREE",
+      "district_original": "District Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "FREDERICK C. CHASE, JR.",
+          "votes": 356
+        },
+        {
+          "name_original": "SEAN WALTER KENNEDY",
+          "votes": 468
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2025-04-26",
+      "office_original": "TOWN COUNCIL AT LARGE 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RAECHAL LEE DALY",
+          "votes": 474
+        },
+        {
+          "name_original": "MARILEE KENNEY HUNT",
+          "votes": 1208
+        },
+        {
+          "name_original": "KEVIN A. PERRY",
+          "votes": 1011
+        },
+        {
+          "name_original": "JAMES R. WILDER",
+          "votes": 980
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 585,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2025-04-26",
+      "office_original": "TOWN COUNCIL AT LARGE 1 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOHN MICHAEL LORETI JR.",
+          "votes": 1074
+        },
+        {
+          "name_original": "TIM ERIC CHRISTIANSEN",
+          "votes": 847
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2025-04-26",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE - (BRIDGEWATER)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALISON MARIE CONROY",
+          "votes": 504
+        },
+        {
+          "name_original": "ANDREA ROSEHOY THOMAS",
+          "votes": 837
+        },
+        {
+          "name_original": "CATHERINE S. MACDONALD",
+          "votes": 353
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 422,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2025-04-26",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NANCY JANE SARNO",
+          "votes": 1448
+        },
+        {
+          "name_original": "DANIELLE MARIE OLIARI",
+          "votes": 1484
+        },
+        {
+          "name_original": "JANET BEDFORD DYE",
+          "votes": 1436
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2020,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bridgewater2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bridgewater2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

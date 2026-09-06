@@ -1,0 +1,127 @@
+{
+  "document": {
+    "heading_verbatim": "Phillipston, MA - Annual Town Election, May 18, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election, May 18, 2026",
+    "date_verbatim": "May 18, 2026",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Phillipston",
+      "date": "2026-05-18",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Gerhard R. Fandreyer",
+          "votes": 83
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Earl Sweat",
+          "votes": 2
+        },
+        {
+          "name_original": "Craig Twohey",
+          "votes": 1
+        },
+        {
+          "name_original": "Dax Telepciak",
+          "votes": 1
+        },
+        {
+          "name_original": "David Clapham",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2026-05-18",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James B. Praplaski",
+          "votes": 114
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "John Telepciak",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2026-05-18",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        },
+        {
+          "name_original": "John Telepciak",
+          "votes": 13
+        },
+        {
+          "name_original": "Luanne Royer",
+          "votes": 2
+        },
+        {
+          "name_original": "Janet Bramhall",
+          "votes": 1
+        },
+        {
+          "name_original": "Karissa Moore",
+          "votes": 1
+        },
+        {
+          "name_original": "Sarah Figueira",
+          "votes": 1
+        },
+        {
+          "name_original": "David Bramhall",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Phillipston2026",
+  "_source_pdf": "",
+  "ballots_cast": 127,
+  "ballots_cast_source": "derived_from_contests"
+}

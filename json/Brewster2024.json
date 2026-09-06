@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Brd of Selectmen",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary W. Chaffee",
+          "votes": 1685
+        },
+        {
+          "name_original": "Amanda Bebrin",
+          "votes": 1458
+        },
+        {
+          "name_original": "Laurel Elizabeth Labdon",
+          "votes": 1455
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1110,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Brd of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberely Crocker Pearson",
+          "votes": 2153
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 704,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Brewster School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven M. Leibowitz",
+          "votes": 2156
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 700,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Recreation Commission",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth C. Weissman",
+          "votes": 2141
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 717,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Caroline McCarley",
+          "votes": 2064
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 796,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Nauset Reg'l School District Cmt",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kari Sue Hoffmann",
+          "votes": 2106
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 748,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Brewster Old Kings Hwy Historic District",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carol E. Appleton",
+          "votes": 2129
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 729,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2024-05-28",
+      "office_original": "Brewster Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laurel Elizabeth Labdon",
+          "votes": 2133
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 713,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Brewster2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brewster2024.pdf",
+  "ballots_cast": 2868,
+  "ballots_cast_source": "derived_from_contests"
+}

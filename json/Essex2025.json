@@ -1,0 +1,170 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Board of Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1048,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacob Geoffrey Foster",
+          "votes": 752
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 317,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Board of Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ruth R. Pereen",
+          "votes": 425
+        },
+        {
+          "name_original": "Ann O. Cameron",
+          "votes": 619
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Board of Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert S. Fitzgibbon",
+          "votes": 813
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Hoare",
+          "votes": 186
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 867,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Essex",
+      "date": "2025-05-12",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa J. O'Donnell",
+          "votes": 801
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 262,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Essex2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Essex2025.pdf",
+  "ballots_cast": 1078,
+  "ballots_cast_source": "derived_from_contests"
+}

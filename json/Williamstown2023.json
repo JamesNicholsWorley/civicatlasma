@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Williamstown",
+      "date": "2023-05-09",
+      "office_original": "SELECTBOARD (3 YEAR)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANDREW S. HOGELAND",
+          "votes": 700
+        },
+        {
+          "name_original": "STEPHANIE BOYD",
+          "votes": 523
+        },
+        {
+          "name_original": "ANDREA (ANDI) L. BRYANT",
+          "votes": 382
+        },
+        {
+          "name_original": "PAUL A. HARSCH, III",
+          "votes": 131
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2023-05-09",
+      "office_original": "LIBRARY TRUSTEE (3 YEAR)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALEXANDER M. CARLISLE",
+          "votes": 692
+        },
+        {
+          "name_original": "KATHERINE EVANS",
+          "votes": 703
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 420,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2023-05-09",
+      "office_original": "PLANNING BOARD (5 YEAR)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CORY E. CAMPBELL",
+          "votes": 700
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 202,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2023-05-09",
+      "office_original": "PLANNING BOARD (1 YEAR)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BENJAMIN D. GREENFIELD",
+          "votes": 721
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 182,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Williamstown2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Williamstown2023.pdf",
+  "ballots_cast": 909,
+  "ballots_cast_source": "derived_from_contests"
+}

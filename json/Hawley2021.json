@@ -1,0 +1,114 @@
+{
+  "document": {
+    "heading_verbatim": "Auditor elected by write-in votes in Hawley - Greenfield Recorder",
+    "election_type": "Regular",
+    "election_type_evidence": "annual town election",
+    "date_verbatim": "Monday's annual town election",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "The election, which saw no contested races",
+    "date_corroboration": {
+      "source": "document",
+      "value": "2021-05-02",
+      "quote": "Annual Town Election Results: May 2, 2021",
+      "note": "read 2026-08-24 by src/close_ingest_holds.py; 2 May 2021 was a SUNDAY and Massachusetts towns do not vote on Sundays, so this is probably the clerk's slip for the 1st or 3rd. Recorded as printed because nothing corroborates a correction -- unlike Rowe 2024, where the weekday, the filename and the town-meeting minutes all agreed."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Hawley",
+      "date": "2021-05-02",
+      "office_original": "Selectboard/Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Robert MacLean",
+          "votes": 37
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2021-05-02",
+      "office_original": "Auditor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Carla Clark",
+          "votes": 12
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2021-05-02",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lark Thwing",
+          "votes": 21
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2021-05-02",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Carantit",
+          "votes": 24
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2021-05-02",
+      "office_original": "Hawlemont School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Suzanne Crawford",
+          "votes": 37
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hawley2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,526 @@
+{
+  "elections": [
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert F. Sullivan",
+          "votes": 6342
+        },
+        {
+          "name_original": "Fred Fontaine",
+          "votes": 3197
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 286,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Winthrop H. Farwell Jr",
+          "votes": 4466
+        },
+        {
+          "name_original": "Moises M. Rodrigues",
+          "votes": 4792
+        },
+        {
+          "name_original": "David C. Teixeira",
+          "votes": 4470
+        },
+        {
+          "name_original": "Jamal Brathwaite",
+          "votes": 1646
+        },
+        {
+          "name_original": "Jean Bradley Deredoncourt",
+          "votes": 4665
+        },
+        {
+          "name_original": "Alix Arthur Gayaud",
+          "votes": 1000
+        },
+        {
+          "name_original": "Stephan A. Hooke Jr",
+          "votes": 2339
+        },
+        {
+          "name_original": "Cynthia D. Mccall-Hodges",
+          "votes": 2224
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13789,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE-COUNCILLOR",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas J. Minichiello",
+          "votes": 1105
+        },
+        {
+          "name_original": "Marlon D. Green",
+          "votes": 407
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 177,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO-COUNCILLOR",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maria T. Tavares",
+          "votes": 682
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 214,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD THREE-COUNCILLOR",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip Edward Griffin",
+          "votes": 816
+        },
+        {
+          "name_original": "Gary P. Keith Sr",
+          "votes": 693
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD FOUR-COUNCILLOR",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Jeanne Nicastro",
+          "votes": 874
+        },
+        {
+          "name_original": "Tony Branch",
+          "votes": 0
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD FIVE-COUNCILLOR",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Thompson",
+          "votes": 797
+        },
+        {
+          "name_original": "Ellie V. Teixeira",
+          "votes": 475
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 126,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD SIX-COUNCILLOR",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John F. Lally",
+          "votes": 1115
+        },
+        {
+          "name_original": "Joseph Alexander Walker Iv",
+          "votes": 395
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD SEVEN-COUNCILLOR",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shirley Rita Asack",
+          "votes": 902
+        },
+        {
+          "name_original": "Patrick Paul Quinn",
+          "votes": 247
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 139,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE-SCHOOL COMMITTEE",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen Ann Ehlers",
+          "votes": 1202
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 475,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO-SCHOOL COMMITTEE",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Claudio Eliseu Depina Gomes",
+          "votes": 412
+        },
+        {
+          "name_original": "Jamie Edwina Hodges",
+          "votes": 334
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 154,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD THREE-SCHOOL COMMITTEE",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ana C. Oliver",
+          "votes": 753
+        },
+        {
+          "name_original": "Matthew Stanton",
+          "votes": 750
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD FOUR-SCHOOL COMMITTEE",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tony Rodrigues",
+          "votes": 1002
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 368,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD FIVE-SCHOOL COMMITTEE",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judy A. Sullivan",
+          "votes": 737
+        },
+        {
+          "name_original": "Cynthia Rivas Mendes",
+          "votes": 1
+        },
+        {
+          "name_original": "Gwendolyn Nauls",
+          "votes": 129
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD SIX-SCHOOL COMMITTEE",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joyce J. Asack",
+          "votes": 1266
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 269,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brockton",
+      "date": "2023-11-07",
+      "office_original": "WARD SEVEN-SCHOOL COMMITTEE",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy J. Sullivan",
+          "votes": 901
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 375,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Brockton2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brockton2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

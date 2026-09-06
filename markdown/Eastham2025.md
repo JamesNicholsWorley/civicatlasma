@@ -1,0 +1,42 @@
+RESULTS
+SELECT BOARD (vote for 
+two)
+Suzanne Bryan 369
+Gerald Cerasale 401
+Brian Earley 88
+W. Davis Hobbs 224
+Blanks 56
+TOTAL 1138
+NAUSET REGIONAL SCHOOL 
+COMMITTEE 
+Moira Noonan-Kerry 495
+Blanks 74
+TOTAL 569
+EASTHAM ELEMENTARY 
+SCHOOL COMMITTEE (Vote 
+for two)
+Sara Rebecca Higgins 467
+Lindsay Palmer 456
+Blanks 215
+TOTAL 1138
+LIBRARY TRUSTEE (vote for 
+two)
+Sara Rebecca Higgins 409
+Robert Harnett 143
+Michael Narracci 137
+Robin Rowe 249
+Blanks 200
+TOTAL 1138
+QUESTION 1
+YES 404
+NO 149
+BLANKS 16
+TOTAL 569
+QUESTION 2
+YES 494
+NO 57
+Blanks 18
+TOTAL 569
+TOWN OF EASTHAM
+TOWN ELECTION FINAL  RESULTS 
+May 20, 2025 TOWN ELECTION

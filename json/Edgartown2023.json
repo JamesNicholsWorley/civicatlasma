@@ -1,0 +1,29 @@
+{
+  "elections": [
+    {
+      "municipality": "Edgartown",
+      "date": "2023-04-13",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kelly Scott",
+          "votes": 246
+        },
+        {
+          "name_original": "Kimberly Kirk",
+          "votes": 224
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Edgartown2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

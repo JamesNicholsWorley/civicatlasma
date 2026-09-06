@@ -1,0 +1,218 @@
+{
+  "document": {
+    "heading_verbatim": "BUCKLAND RESULTS OF ANNUAL TOWN ELECTION - June 3, 2025",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "June 3, 2025",
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Lawrence A. Wells",
+          "votes": 55
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Board of Health (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Carmela Lanza-Weil",
+          "votes": 59
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Board of Health (1 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Kate Lindroos Conlin",
+          "votes": 61
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Board of Assessors (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Marion E. Scott",
+          "votes": 63
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Buckland Library Trustee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "George Lewis Dole",
+          "votes": 62
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Finance Committee (3 Years)- 2 Seats to fill",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Paula Consolo",
+          "votes": 62
+        },
+        {
+          "name_original": "Robert Andrew Dean",
+          "votes": 62
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Buckland",
+      "date": "2025-06-03",
+      "office_original": "Mohawk Trail Regional School Committee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Martha Jane Thurber",
+          "votes": 56
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Buckland2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Buckland2025.pdf",
+  "ballots_cast": 63,
+  "ballots_cast_source": "derived_from_contests"
+}

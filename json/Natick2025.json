@@ -1,0 +1,742 @@
+{
+  "elections": [
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Select Board (Three Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Kathryn M. Coughlin",
+          "votes": 4954
+        },
+        {
+          "name_original": "Bruce T. Evans",
+          "votes": 4824
+        },
+        {
+          "name_original": "Kathryn L. Kelly",
+          "votes": 2188
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3572,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "School Committee (Three Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Cathi Collins",
+          "votes": 4566
+        },
+        {
+          "name_original": "Elise A. Gorseth",
+          "votes": 4512
+        },
+        {
+          "name_original": "Donna M. McKenzie",
+          "votes": 2554
+        },
+        {
+          "name_original": "Jaymin A. Patel",
+          "votes": 3859
+        },
+        {
+          "name_original": "Others",
+          "votes": 59,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7820,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Planning Board (Five Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Alan T. Cloutier",
+          "votes": 4883
+        },
+        {
+          "name_original": "Others",
+          "votes": 46,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2861,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Recreation and Parks (Three Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "David W. Ordway",
+          "votes": 4988
+        },
+        {
+          "name_original": "Jessica A. Ordway",
+          "votes": 5011
+        },
+        {
+          "name_original": "Others",
+          "votes": 127,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5454,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Recreation and Parks (One Year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Joseph Zaino",
+          "votes": 134
+        },
+        {
+          "name_original": "Others",
+          "votes": 388,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7268,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Board of Assessors (Three Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Paul B. Griesmer",
+          "votes": 4879
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2868,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Board of Health (Three Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Donald J. Breda",
+          "votes": 4863
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2884,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Natick Housing Authority (Five Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "William Hamlin Grogan",
+          "votes": 9
+        },
+        {
+          "name_original": "Jeremy Kadden",
+          "votes": 134
+        },
+        {
+          "name_original": "Others",
+          "votes": 302,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7345,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Constable (Two Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Kevin Francis Flynn",
+          "votes": 4075
+        },
+        {
+          "name_original": "Todd M. Gillenwater",
+          "votes": 4010
+        },
+        {
+          "name_original": "Paul M. Gorman",
+          "votes": 3946
+        },
+        {
+          "name_original": "Frank W. Foss",
+          "votes": 3555
+        },
+        {
+          "name_original": "Rachel H. Weiss",
+          "votes": 160
+        },
+        {
+          "name_original": "Others",
+          "votes": 307,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15107,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Jeffrey A. Alderson",
+          "votes": 4777
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2968,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 13,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Andrea T. Adams",
+          "votes": 121
+        },
+        {
+          "name_original": "Lorie K. Gols",
+          "votes": 120
+        },
+        {
+          "name_original": "Michael D. Blaha",
+          "votes": 115
+        },
+        {
+          "name_original": "Jonathan D. Kane",
+          "votes": 112
+        },
+        {
+          "name_original": "Stuart J. Zimmerman",
+          "votes": 109
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Kathryn M. Coughlin",
+          "votes": 358
+        },
+        {
+          "name_original": "Saul Berelowitz",
+          "votes": 327
+        },
+        {
+          "name_original": "Cody Jacobs",
+          "votes": 326
+        },
+        {
+          "name_original": "Christine M. Therrien",
+          "votes": 316
+        },
+        {
+          "name_original": "David J. Coffey",
+          "votes": 311
+        },
+        {
+          "name_original": "Kara O'Sullivan",
+          "votes": 227
+        },
+        {
+          "name_original": "Max B. Clau",
+          "votes": 217
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Donna Volpe Casey",
+          "votes": 508
+        },
+        {
+          "name_original": "Andrew J. Meyer",
+          "votes": 497
+        },
+        {
+          "name_original": "Sheila EF Page",
+          "votes": 488
+        },
+        {
+          "name_original": "Mathew O. Page",
+          "votes": 6
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Barbara Fahey Sanchez",
+          "votes": 391
+        },
+        {
+          "name_original": "Jeffrey P. Crisafulli",
+          "votes": 390
+        },
+        {
+          "name_original": "Jonathan Howard Freedman",
+          "votes": 385
+        },
+        {
+          "name_original": "Shailey Smith",
+          "votes": 262
+        },
+        {
+          "name_original": "David Soares",
+          "votes": 228
+        },
+        {
+          "name_original": "Brian Lucenta",
+          "votes": 199
+        },
+        {
+          "name_original": "Honglue Shen",
+          "votes": 184
+        },
+        {
+          "name_original": "James C. Fitzgerald",
+          "votes": 178
+        },
+        {
+          "name_original": "Daniel Charles Sohl",
+          "votes": 133
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Kelly L. McPherson",
+          "votes": 461
+        },
+        {
+          "name_original": "Christine Weithman",
+          "votes": 391
+        },
+        {
+          "name_original": "Daniel S. Zitnick",
+          "votes": 387
+        },
+        {
+          "name_original": "Julian Jan Munnich",
+          "votes": 384
+        },
+        {
+          "name_original": "Stephen C. Natola",
+          "votes": 374
+        },
+        {
+          "name_original": "Harry N. Abrahams",
+          "votes": 374
+        },
+        {
+          "name_original": "Lawrence L. Drolet",
+          "votes": 368
+        },
+        {
+          "name_original": "John R. Lawrence",
+          "votes": 5
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Joshua Ostroff",
+          "votes": 437
+        },
+        {
+          "name_original": "William F. Gath",
+          "votes": 404
+        },
+        {
+          "name_original": "Mary A. Mitchell",
+          "votes": 385
+        },
+        {
+          "name_original": "Patricia D. Demeo",
+          "votes": 361
+        },
+        {
+          "name_original": "Gregory Joseph Kinchla",
+          "votes": 347
+        },
+        {
+          "name_original": "Karen B. Adelman-Foster",
+          "votes": 25
+        },
+        {
+          "name_original": "Jacquelyn Fowler Morton",
+          "votes": 20
+        },
+        {
+          "name_original": "Jeff Deluca",
+          "votes": 15
+        },
+        {
+          "name_original": "William Michael Northgraves",
+          "votes": 13
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Bruce T. Evans",
+          "votes": 576
+        },
+        {
+          "name_original": "Teresa M. Evans",
+          "votes": 544
+        },
+        {
+          "name_original": "Carol Ann Gloff",
+          "votes": 536
+        },
+        {
+          "name_original": "Richard Jennett Jr.",
+          "votes": 493
+        },
+        {
+          "name_original": "Paula A. Gould",
+          "votes": 480
+        },
+        {
+          "name_original": "Henry W. Haugland",
+          "votes": 472
+        },
+        {
+          "name_original": "Joanna C. Carey",
+          "votes": 366
+        },
+        {
+          "name_original": "Amy Taylor Hille",
+          "votes": 337
+        },
+        {
+          "name_original": "Cody Saint Souver Bilgrien",
+          "votes": 223
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Jaymin A. Patel",
+          "votes": 543
+        },
+        {
+          "name_original": "Judith Ann Kuhn",
+          "votes": 492
+        },
+        {
+          "name_original": "Daniel M. Sullivan",
+          "votes": 478
+        },
+        {
+          "name_original": "David Alden Richardson",
+          "votes": 465
+        },
+        {
+          "name_original": "Adam I. Boardman",
+          "votes": 462
+        },
+        {
+          "name_original": "David S. Margil",
+          "votes": 30
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Michelle L. Ferretti",
+          "votes": 502
+        },
+        {
+          "name_original": "Theresa M. Miller",
+          "votes": 481
+        },
+        {
+          "name_original": "Donald P. Friswell",
+          "votes": 467
+        },
+        {
+          "name_original": "Heather M. Pilat",
+          "votes": 466
+        },
+        {
+          "name_original": "Jason Grigley",
+          "votes": 436
+        },
+        {
+          "name_original": "Gail Robin Weston-Roberts",
+          "votes": 433
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2025-03-25",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 10",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Martin Kessel",
+          "votes": 551
+        },
+        {
+          "name_original": "David Aaron Krentzman",
+          "votes": 546
+        },
+        {
+          "name_original": "Beverly G. Rich",
+          "votes": 531
+        },
+        {
+          "name_original": "Mary E. Stuart",
+          "votes": 530
+        },
+        {
+          "name_original": "Saul S. Beaumont",
+          "votes": 488
+        },
+        {
+          "name_original": "Frank W. Foss",
+          "votes": 342
+        },
+        {
+          "name_original": "Alan R. Seru",
+          "votes": 342
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Natick2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Natick2025.pdf",
+  "ballots_cast": 7790,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,178 @@
+{
+  "elections": [
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Russell C. Rheault",
+          "votes": 656
+        },
+        {
+          "name_original": "Mark Dean Robbins",
+          "votes": 373
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Harry Roger Williams III",
+          "votes": 864
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leah Ann Filipkowski",
+          "votes": 834
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Palmina Elizabeth Griffin",
+          "votes": 657
+        },
+        {
+          "name_original": "Todd M. Proctor",
+          "votes": 619
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 799,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David H. Grenier",
+          "votes": 873
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 169,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oxford",
+      "date": "2024-05-21",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wayne Alfred McFarland",
+          "votes": 855
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 187,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oxford2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oxford2024.pdf",
+  "ballots_cast": 1044,
+  "ballots_cast_source": "derived_from_contests"
+}

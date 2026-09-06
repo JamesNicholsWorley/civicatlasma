@@ -1,0 +1,50 @@
+{
+  "elections": [
+    {
+      "municipality": "Carver",
+      "date": "2026-04-25",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jacqueline Lake",
+          "votes": 350
+        },
+        {
+          "name_original": "Stephanie Clougherty",
+          "votes": 295
+        },
+        {
+          "name_original": "Peter Allegrini",
+          "votes": 238
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2026-04-25",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Alan Germaine",
+          "votes": 294
+        },
+        {
+          "name_original": "Cornelious Shea",
+          "votes": 195
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Carver2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,29 @@
+{
+  "elections": [
+    {
+      "municipality": "Stockbridge",
+      "date": "2022-05-17",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Jamie Minacci",
+          "votes": 239
+        },
+        {
+          "name_original": "Roxanne McCaffrey",
+          "votes": 232
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Stockbridge2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

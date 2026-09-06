@@ -1,0 +1,109 @@
+{
+  "elections": [
+    {
+      "municipality": "Bridgewater",
+      "date": "2022-04-23",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE (BRIDGEWATER)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Belinda A. Barrett",
+          "votes": 282
+        },
+        {
+          "name_original": "Catherine J. Martelli",
+          "votes": 606
+        },
+        {
+          "name_original": "Cleonie L. Mainvielle",
+          "votes": 633
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2022-04-23",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE (Raynham)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Louis Allan D'Amarino",
+          "votes": 815
+        },
+        {
+          "name_original": "Susan P. Prewandowski",
+          "votes": 541
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 266,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2022-04-23",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Danielle Marie Oliari",
+          "votes": 1139
+        },
+        {
+          "name_original": "Janet Bedford Dye",
+          "votes": 1108
+        },
+        {
+          "name_original": "Nancy J. Sarno",
+          "votes": 1121
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1498,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bridgewater2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bridgewater2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

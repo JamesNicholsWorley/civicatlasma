@@ -1,0 +1,141 @@
+{
+  "document": {
+    "heading_verbatim": "Conway, MA — Annual Town Election, June 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "June 2023",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Three seats remain vacant. No candidates were on the ballot for two Board of Health seats and one Planning Board seat, and they were not filled at the election.",
+    "date_corroboration": {
+      "source": "citation-supplied",
+      "value": "2023-06-08",
+      "detail": "https://recorder.com/2023/06/06/board-of-assessors-race-tops-conway-election-ballot/",
+      "quote": "The election will be held on Thursday, June 8, from 11 a",
+      "note": "The Greenfield Recorder's own PREVIEW of this election, 6 June 2023, 'Board of Assessors race tops Conway election ballot', read via /wp-json/wp/v2/posts. The RESULTS article (9 June 2023) reports the election as held but never prints the day, so this is a SUPPLY from the same paper's companion piece. Fetched 2026-09-01."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "George Forcier",
+          "votes": 207
+        },
+        {
+          "name_original": "Roxanne Parent",
+          "votes": 62
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Erica Goleman",
+          "votes": 225
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Conway School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael Merritt",
+          "votes": 216
+        },
+        {
+          "name_original": "Philip Kantor",
+          "votes": 201
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James Recore",
+          "votes": 213
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Cheryl Case",
+          "votes": 18
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2023-06-08",
+      "office_original": "Tree Warden",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Walter Goodridge",
+          "votes": 230
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Conway2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

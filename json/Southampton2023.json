@@ -1,0 +1,342 @@
+{
+  "document": {
+    "heading_verbatim": "Southampton, MA — Annual Town Election, Tuesday 16 May 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Tuesday 16 May 2023",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Park Commission — 2 seats (the only contested race); All other candidates listed under \"Also elected -- the named winners of the unopposed seats\" were \"elected unopposed\""
+  },
+  "elections": [
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel Lavalley",
+          "votes": 633
+        },
+        {
+          "name_original": "Stephen Thor Johnson",
+          "votes": 574
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Park Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alice Marie B. Badecker",
+          "votes": 462
+        },
+        {
+          "name_original": "Gregory C. Maak",
+          "votes": 453
+        },
+        {
+          "name_original": "James R. Lumbra",
+          "votes": 364
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Town Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robert Floyd",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Treasurer/Collector",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer Day",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Darcie Gasperini",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Judith Miller Conlin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Linda Saltmarsh",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Community Preservation Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Janet Brown",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kaitlin Swistak Rooks",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Donna J. Whiteley",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Tree Warden",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ronald D. Laurin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Planning Board",
+      "district_original": "5 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Mark Bolton Darnold",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Planning Board",
+      "district_original": "4 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Stephen Thor Johnson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Housing Authority",
+      "district_original": "5 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Daniel Lavalley",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Personnel Policies and Procedures Board",
+      "district_original": "1 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David Kent",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southampton",
+      "date": "2023-05-16",
+      "office_original": "Norris School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jon D. Lumbra",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Kimberly Schott",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Margaret Ann Larson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Southampton2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

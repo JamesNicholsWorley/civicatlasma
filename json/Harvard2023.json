@@ -1,0 +1,206 @@
+{
+  "elections": [
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "MODERATOR (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William K. Barton",
+          "votes": 565
+        },
+        {
+          "name_original": "Bradford Carnahan Besse",
+          "votes": 304
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "SELECT BOARD (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Diego Maiore",
+          "votes": 713
+        },
+        {
+          "name_original": "Kara M. Minar",
+          "votes": 738
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 428,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "LIBRARY TRUSTEE (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Caryl G. Browse",
+          "votes": 762
+        },
+        {
+          "name_original": "Mary Abigail P. Coolidge",
+          "votes": 756
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 379,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "SCHOOL COMMITTEE (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Abigail Colwell Besse",
+          "votes": 524
+        },
+        {
+          "name_original": "Cameron W. Caroom",
+          "votes": 221
+        },
+        {
+          "name_original": "Andy Ting Hu",
+          "votes": 220
+        },
+        {
+          "name_original": "Noyan Kinayman",
+          "votes": 295
+        },
+        {
+          "name_original": "Amy M. Morton",
+          "votes": 367
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 271,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "WARNER FREE (2) 3 Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Francis Kilian",
+          "votes": 424
+        },
+        {
+          "name_original": "Nancy J. Meyer",
+          "votes": 473
+        },
+        {
+          "name_original": "Seth R. Trotz",
+          "votes": 301
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 698,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2023-05-09",
+      "office_original": "WARNER FREE (1) 2 Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Kent Boudreau",
+          "votes": 657
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 282,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harvard2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harvard2023.pdf",
+  "ballots_cast": 949,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,151 @@
+{
+  "elections": [
+    {
+      "municipality": "Provincetown",
+      "date": "2022-05-10",
+      "office_original": "Select Board (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David C. Abramson",
+          "votes": 481
+        },
+        {
+          "name_original": "John T. Golden",
+          "votes": 472
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 291,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2022-05-10",
+      "office_original": "School Committee (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Richard Gunn",
+          "votes": 508
+        },
+        {
+          "name_original": "Adrianna Stefani",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 749,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2022-05-10",
+      "office_original": "Bd Library Trustees (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Michael Richardson",
+          "votes": 515
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2022-05-10",
+      "office_original": "Charter Compliance Commission (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Oriana Conklin",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 615,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2022-05-10",
+      "office_original": "Charter Compliance (1 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Oriana Conklin",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 624,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Provincetown2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2022.pdf",
+  "ballots_cast": 637,
+  "ballots_cast_source": "derived_from_contests"
+}

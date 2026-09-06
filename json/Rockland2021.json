@@ -1,0 +1,82 @@
+{
+  "document": {
+    "heading_verbatim": "Two Incumbents Unseated in Rockland Annual Election",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Election",
+    "date_verbatim": "Apr 12, 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Tiffanie Needham was elected unopposed to a Board of Selectmen Seat"
+  },
+  "elections": [
+    {
+      "municipality": "Rockland",
+      "date": "2021-04-12",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Daniel Biggins",
+          "votes": 874
+        },
+        {
+          "name_original": "Jill Maroney",
+          "votes": 624
+        },
+        {
+          "name_original": "Thomas Mills Jr.",
+          "votes": 318
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2021-04-12",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Cecilia DeRosa",
+          "votes": 705
+        },
+        {
+          "name_original": "Stephen Nelson",
+          "votes": 348
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2021-04-12",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Tiffanie Needham",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Rockland2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

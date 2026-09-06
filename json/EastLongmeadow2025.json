@@ -1,0 +1,108 @@
+{
+  "elections": [
+    {
+      "municipality": "East Longmeadow",
+      "date": "2025-06-03",
+      "office_original": "Town Council - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carolyn Louise Ferros",
+          "votes": 728
+        },
+        {
+          "name_original": "Ralph E Page",
+          "votes": 737
+        },
+        {
+          "name_original": "Anna T Jones",
+          "votes": 964
+        },
+        {
+          "name_original": "Kathleen Marie Germain Hill",
+          "votes": 908
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 844,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "East Longmeadow",
+      "date": "2025-06-03",
+      "office_original": "School Committee - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aimee Lynn Dalenta",
+          "votes": 1006
+        },
+        {
+          "name_original": "Antonella Raschilla Manzi",
+          "votes": 1035
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 748,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "East Longmeadow",
+      "date": "2025-06-03",
+      "office_original": "School Committee - One Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William B Strother Sr",
+          "votes": 871
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 521,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastLongmeadow2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastLongmeadow2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

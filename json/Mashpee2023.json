@@ -1,0 +1,182 @@
+{
+  "elections": [
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Kevin Shackett",
+          "votes": 641
+        },
+        {
+          "name_original": "Mohamad Fahd",
+          "votes": 517
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 33,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Library Trustees",
+      "num_winners": 3,
+      "candidates": [
+        {
+          "name_original": "Sandra Lahart",
+          "votes": 893
+        },
+        {
+          "name_original": "Bethany Geatrakas",
+          "votes": 881
+        },
+        {
+          "name_original": "Ruth Nickerson",
+          "votes": 923
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 874,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Dale Oakley Jr.",
+          "votes": 953
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 234,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Catherine A. Lewis",
+          "votes": 913
+        },
+        {
+          "name_original": "Daniel Rodrigues",
+          "votes": 839
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 621,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Board of Selectmen",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "David W. Weeden",
+          "votes": 902
+        },
+        {
+          "name_original": "Michaela Wyman-Colombo",
+          "votes": 919
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 537,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Deborah F. Kaye",
+          "votes": 1014
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2023-05-06",
+      "office_original": "Water Commissioner",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Kenneth Marsters",
+          "votes": 920
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 258,
+          "tally_row": true
+        }
+      ],
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mashpee2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Mashpee2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

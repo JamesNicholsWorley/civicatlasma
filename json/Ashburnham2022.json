@@ -1,0 +1,156 @@
+{
+  "document": {
+    "heading_verbatim": "Town Election Results",
+    "date_verbatim": "Tuesday, April 26, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "The heading states 'Town Election Results' for 'Tuesday, April 26, 2022' without any designation of 'Special', indicating a regular annual town election.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "MODERATOR for one year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Keith Glenny",
+          "votes": 755
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "SELECT BOARD for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leo J. Janssens II",
+          "votes": 726
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "BOARD OF HEALTH for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn J. Hathaway",
+          "votes": 717
+        },
+        {
+          "name_original": "Scott Sibley",
+          "votes": 682
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "PLANNING BOARD for Five Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.5,
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "LIBRARY TRUSTEE for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne M. Olivari",
+          "votes": 741
+        },
+        {
+          "name_original": "Paula St. Laurent-Kuehl",
+          "votes": 657
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "MUNICIPAL LIGHT BOARD for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark H. Carlisle",
+          "votes": 392
+        },
+        {
+          "name_original": "Candice L Write",
+          "votes": 458
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2022-04-26",
+      "office_original": "REGIONAL SCHOOL COMMITTEE ASHBURNHAM MEMBER",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kyle R. Johnson",
+          "votes": 651
+        },
+        {
+          "name_original": "Jennifer L. Storm",
+          "votes": 657
+        },
+        {
+          "name_original": "James E. Kelly",
+          "votes": 259
+        },
+        {
+          "name_original": "Jeremy Smeltekop",
+          "votes": 222
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Ashburnham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashburnham2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

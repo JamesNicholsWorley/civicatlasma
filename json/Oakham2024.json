@@ -1,0 +1,260 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION, MAY 20, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION, MAY 20, 2024",
+    "date_verbatim": "MAY 20, 2024",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Selectmen, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aaron Langlois",
+          "votes": 273
+        },
+        {
+          "name_original": "Michael Brunelle",
+          "votes": 291
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Town Clerk, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 528,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Assessor, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Joyce",
+          "votes": 459
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Board of Health, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aaron Langlois",
+          "votes": 407
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Cemetery Commission, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Cross",
+          "votes": 483
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Library Trustee, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Glidden",
+          "votes": 472
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "School Committee, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maribel LaRange",
+          "votes": 461
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Constable, 1 Year to fill a vacancy",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Fred Jean-Francois",
+          "votes": 434
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2024-05-20",
+      "office_original": "Planning Board, 5 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Thomas Hughes",
+          "votes": 457
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Oakham2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oakham2024.pdf",
+  "ballots_cast": 579,
+  "ballots_cast_source": "derived_from_contests"
+}

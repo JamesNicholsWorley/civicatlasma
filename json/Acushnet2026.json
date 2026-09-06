@@ -1,0 +1,184 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN ELECTION --- 4/28/26",
+    "election_type": "Regular",
+    "election_type_evidence": "TOWN ELECTION --- 4/28/26",
+    "date_verbatim": "4/28/26",
+    "offices_on_ballot": 12,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Each office lists only one candidate with votes recorded, indicating uncontested races throughout (e.g. Moderator, Selectmen, Park Commissioner, Tree Warden show no candidates listed at all, implying no contest or unfilled)",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "TOWN CLERK",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela A. Labonte",
+          "votes": 525
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan Rezendes",
+          "votes": 498
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert F. Brown",
+          "votes": 494
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Medeiros",
+          "votes": 487
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald A. Houde, Jr.",
+          "votes": 427
+        },
+        {
+          "name_original": "Melissa Ann Cordeira",
+          "votes": 454
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "PLANNING COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter John Giampa",
+          "votes": 468
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "CEMETERY BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne K. Cioper",
+          "votes": 503
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "TRUSTEE OF FREE PUBLIC LIBRARY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Joan M. Howland",
+          "votes": 499
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Acushnet",
+      "date": "2026-04-28",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul R. Soucy",
+          "votes": 486
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Acushnet2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Acushnet2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

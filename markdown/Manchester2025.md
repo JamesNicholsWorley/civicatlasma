@@ -1,0 +1,54 @@
+CONSTABLE (3) Vote 
+Total PLANNING BOARD (3) Vote 
+Total
+JOSEPH PAUL AIELLO 498 SANDRA JEAN BODMER-TURNER 475 
+KEVIN J. LEACH 390 GORDON A. BREWSTER 466 
+G. DAVID MACDOUGALL 424 BRIAN ALEXANDER FREY 437 
+ALL OTHERS 12 SANDRA J. ROGERS 213 
+BLANK 770 ALL OTHERS 11 
+TOTAL 2,094 BLANK 492 
+HOUSING AUTHORITY- 5 YEAR (1) Vote 
+Total TOTAL 2,094 
+GEORGE W. COOPER II 150 SCHOOL COMMITTEE (2) Vote 
+Total
+ELAINE CLAIRE PERSONS 362 LINDSAY TORRES BANKS 498 
+ALL OTHERS 4 NADIA WETZLER 425 
+BLANK 182 ALL OTHERS 6 
+TOTAL 698 BLANK 467 
+HOUSING AUTHORITY- 3 YEAR (1) Vote 
+Total TOTAL 1,396 
+WRITE IN: GEORGE W. COOPER II 10 SELECT BOARD (2) Vote 
+Total
+WRITE IN: ELAINE CLAIRE PERSONS 9 CATHERINE MARIE BILOTTA 458 
+WRITE IN: CHRISTINE DELISIO 6 BRIAN SOLLOSY 409 
+ALL OTHERS 17 MARYANN ANASTAS WOOD 323 
+BLANK 656 ALL OTHERS 2 
+TOTAL 698 BLANK 204 
+LIBRARY TRUSTEE (1) Vote 
+Total TOTAL 1,396 
+LESLIE BEATTY 146
+SARAH DUNN DAVIS 456
+ALL OTHERS 7
+BLANK 89
+TOTAL 698
+MODERATOR (1) Vote 
+Total YES 437 
+ELI G. BOLING 542 NO 210 
+ALL OTHERS 11 BLANK 51 
+BLANK 145 TOTAL 698 
+TOTAL 698
+Total ballots cast 698
+Registered voters 4,372
+Voter turnout 16%
+BALLOT QUESTION- Proposition 2 ½ Capital 
+Expenditure Exclusion (G.L. c. 59, § 21C(i½)):
+Shall the Town of Manchester-by-the-Sea be allowed 
+to assess an additional $660,000 in real estate and 
+personal property taxes for the purpose of paying 
+for design and engineering work for a new DPW 
+facility, for the fiscal year beginning July first, two 
+thousand twenty-five? 
+Vote 
+Total
+May 20, 2025 Annual Town Election Official Results
+Manchester-by-the-Sea, Massachusetts

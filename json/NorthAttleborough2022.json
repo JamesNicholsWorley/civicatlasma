@@ -1,0 +1,136 @@
+{
+  "elections": [
+    {
+      "municipality": "North Attleborough",
+      "date": "2022-04-05",
+      "office_original": "Bd of Electric Comm",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Michael Cabral",
+          "votes": 626
+        },
+        {
+          "name_original": "John Maxwell Gould",
+          "votes": 615
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 392,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2022-04-05",
+      "office_original": "Board of Public Works",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony S. Rinaldi Jr.",
+          "votes": 582
+        },
+        {
+          "name_original": "Daniel F. Donovan",
+          "votes": 549
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 499,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2022-04-05",
+      "office_original": "Park Commission",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul M. Rofino",
+          "votes": 644
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 172,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Attleborough",
+      "date": "2022-04-05",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Edward Costello",
+          "votes": 405
+        },
+        {
+          "name_original": "David G. Chee",
+          "votes": 449
+        },
+        {
+          "name_original": "Ethan P. Hamilton",
+          "votes": 428
+        },
+        {
+          "name_original": "Charles Dobre-Badobre",
+          "votes": 223
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 129,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAttleborough2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthAttleborough2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

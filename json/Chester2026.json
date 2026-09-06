@@ -1,0 +1,176 @@
+{
+  "elections": [
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LaChapelle, W",
+          "votes": 23
+        },
+        {
+          "name_original": "Strong, J",
+          "votes": 116
+        },
+        {
+          "name_original": "Martenson, C",
+          "votes": 102
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Forgue, B",
+          "votes": 102
+        },
+        {
+          "name_original": "Sakaske, J",
+          "votes": 137
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "Electric Light Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lansing, B",
+          "votes": 213
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Forgue, B",
+          "votes": 195
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Massa, E",
+          "votes": 183
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2026-05-02",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pease, M",
+          "votes": 198
+        },
+        {
+          "name_original": "Hirschegger, M",
+          "votes": 81
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chester2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chester2026.pdf",
+  "ballots_cast": 246,
+  "ballots_cast_source": "derived_from_contests"
+}

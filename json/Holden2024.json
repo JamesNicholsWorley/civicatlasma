@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": "Holden",
+      "date": "2024-05-13",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Daniel F. Nason",
+          "votes": 2243
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1058,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2024-05-13",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Richard F. Bates",
+          "votes": 1495
+        },
+        {
+          "name_original": "Anthony M. Renzoni",
+          "votes": 1703
+        },
+        {
+          "name_original": "Linda M. Long-Bellil",
+          "votes": 1564
+        },
+        {
+          "name_original": "Aidan MK Slaten",
+          "votes": 1247
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 615,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2024-05-13",
+      "office_original": "Trustees of Damon Memorial",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Alan N. Degutis",
+          "votes": 1821
+        },
+        {
+          "name_original": "Richard S. Maurer",
+          "votes": 1797
+        },
+        {
+          "name_original": "Maureen L. Glodas",
+          "votes": 1158
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1850,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2024-05-13",
+      "office_original": "Wachusett Regional School District",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Lauren L. Salmon-Garrett",
+          "votes": 1642
+        },
+        {
+          "name_original": "Amy E. Miller",
+          "votes": 1361
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 304,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2024-05-13",
+      "office_original": "Holden Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Paul Mark Steinberg",
+          "votes": 2095
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1206,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holden2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holden2024.pdf",
+  "ballots_cast": 3317,
+  "ballots_cast_source": "derived_from_contests"
+}

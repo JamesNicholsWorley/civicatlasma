@@ -1,0 +1,183 @@
+{
+  "document": {
+    "heading_verbatim": "OFFICIAL- RESULTS- BOXFORD",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election May 16, 2023",
+    "date_verbatim": "May 16, 2023",
+    "offices_on_ballot": 6,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "SELECT BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Barbara G. Jessel",
+          "votes": 848
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Jeffrey G. Linehan",
+          "votes": 845
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 282,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Heather Lee Forand",
+          "votes": 821
+        },
+        {
+          "name_original": "Mark P. Mitch",
+          "votes": 771
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 659,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "BOXFORD SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Barbara Bisceglia",
+          "votes": 822
+        },
+        {
+          "name_original": "Stefani M. Buonopane",
+          "votes": 829
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 583,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "MASCO SCHOOL COMMITTEE",
+      "district_original": "Masconomet Regional",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Christine P. Bolzan",
+          "votes": 756
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF COMMISSIONS OF TRUST FUNDS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Kathleen Zolla",
+          "votes": 868
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 257,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boxford2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxford2023.pdf",
+  "ballots_cast": 1135,
+  "ballots_cast_source": "derived_from_contests"
+}

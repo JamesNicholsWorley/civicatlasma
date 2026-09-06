@@ -1,0 +1,33 @@
+{
+  "elections": [
+    {
+      "municipality": "Great Barrington",
+      "date": "2021-05-11",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Eric Gabriel",
+          "votes": 649
+        },
+        {
+          "name_original": "Garfield Reed",
+          "votes": 619
+        },
+        {
+          "name_original": "Kate Burke",
+          "votes": 599
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "GreatBarrington2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

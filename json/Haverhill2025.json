@@ -1,0 +1,561 @@
+{
+  "document": {
+    "heading_verbatim": "GENERAL ELECTION - NOV 2025\nOFFICIAL RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "Heading states 'GENERAL ELECTION - NOV 2025'",
+    "date_verbatim": "NOV 2025",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-11-04",
+      "detail": "https://whav.net/2025/06/23/2025-election-central-haverhill-mayor-city-council-and-school-committee/",
+      "quote": "Haverhill’s final city election takes place Tuesday Nov. 4, 2025. If a preliminary election is required to whittle down the number of candidates in any race, it will take place Tuesday, Sept. 9.",
+      "note": "The held return is headed GENERAL ELECTION - NOV 2025 UNOFFICIAL RESULTS, which gives the month and withholds the day, which is why the gate could not date it. This quote also settles preliminary against general in one sentence, and the city own results index lists the two separately: Municipal General Election Nov 2025 - OFFICIAL RESULTS and Preliminary Municipal Election Sept 2025 - Official Results - Ward 4 and Ward 6. The Eagle Tribune story Haverhill re-elects Melinda Barrett for mayor, election results is datelined Nov 4, 2025, a post-election witness to the same day. The citys own 2025 election calendar page renders to 1253 characters of navigation chrome with no body, so it is UNCHECKED rather than empty."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melinda E. Barrett",
+          "votes": 6134
+        },
+        {
+          "name_original": "Brandon Furey Burns",
+          "votes": 3271
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "City Council At-Large",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy J. Jordan",
+          "votes": 6235
+        },
+        {
+          "name_original": "Colin Francis Lepage",
+          "votes": 5120
+        },
+        {
+          "name_original": "John A. Michitson",
+          "votes": 5980
+        },
+        {
+          "name_original": "Thomas J. Sullivan",
+          "votes": 5718
+        },
+        {
+          "name_original": "Michael Morales",
+          "votes": 3565
+        },
+        {
+          "name_original": "Others",
+          "votes": 98,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11815,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "School Committee At-Large",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Penelope Guerrero",
+          "votes": 4525
+        },
+        {
+          "name_original": "Josiah Eugene Morrow",
+          "votes": 3492
+        },
+        {
+          "name_original": "Davis V. Nguyen",
+          "votes": 2639
+        },
+        {
+          "name_original": "Toni A. Sapienza-Donais",
+          "votes": 3794
+        },
+        {
+          "name_original": "Fred Allen Simmons",
+          "votes": 3195
+        },
+        {
+          "name_original": "Daniel P. Spheekas",
+          "votes": 2425
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8868,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 1 City Council",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ralph Thomas Basiliere",
+          "votes": 461
+        },
+        {
+          "name_original": "Steve Comei",
+          "votes": 12
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 143,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 1 School Committee",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mirca Zoraida Rivera",
+          "votes": 425
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 2 City Council",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel R. Diodati",
+          "votes": 670
+        },
+        {
+          "name_original": "Veronica Aurora Rodriguez",
+          "votes": 500
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 126,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 2 School Committee",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Richard Brown III",
+          "votes": 883
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 406,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 3 City Council",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Devan M. Ferreira",
+          "votes": 563
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 199,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 3 School Committee",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maura Leona Patricia Ryan-Ciardiello",
+          "votes": 363
+        },
+        {
+          "name_original": "David Alan Shultz",
+          "votes": 321
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 85,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 4 City Council",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melissa J. Lewandowski",
+          "votes": 1373
+        },
+        {
+          "name_original": "Guy Everett Cooper",
+          "votes": 572
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 4 School Committee",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amanda Jo Basiliere",
+          "votes": 1474
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 565,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 5 City Council",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shaun Patrick Toohey",
+          "votes": 1200
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 489,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 5 School Committee",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jill Taylor Story",
+          "votes": 1280
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 429,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 6 City Council",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael S. Mcgonagle",
+          "votes": 813
+        },
+        {
+          "name_original": "Oliver Aguilo",
+          "votes": 690
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 74,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 6 School Committee",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yonnie Collins",
+          "votes": 1170
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 401,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 7 City Council",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine Price Rogers",
+          "votes": 1205
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 390,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2025-11-04",
+      "office_original": "Ward 7 School Committee",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Wayne Grannemann",
+          "votes": 1204
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 387,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Haverhill2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Haverhill2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

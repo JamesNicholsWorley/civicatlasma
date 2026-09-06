@@ -1,0 +1,901 @@
+{
+  "elections": [
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Joshua A. Garcia",
+          "votes": 3562
+        },
+        {
+          "name_original": "Michael J. Sullivan",
+          "votes": 2054
+        },
+        {
+          "name_original": "Diosdado Lopez",
+          "votes": 1621
+        },
+        {
+          "name_original": "Others",
+          "votes": 400,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1400,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Clerk",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Katherine M. Jackowski",
+          "votes": 5828
+        },
+        {
+          "name_original": "Others",
+          "votes": 909,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1500,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Treasurer",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Brenna Murphy McGee",
+          "votes": 6093
+        },
+        {
+          "name_original": "Others",
+          "votes": 818,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1326,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor at Large",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Kevin Jourdain",
+          "votes": 3544
+        },
+        {
+          "name_original": "Jose Maldonado Velez",
+          "votes": 3183
+        },
+        {
+          "name_original": "Others",
+          "votes": 2200,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1800,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 1A",
+      "district_original": "Ward 1A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.55,
+      "candidates": [
+        {
+          "name_original": "Israel Rivera",
+          "votes": 185
+        },
+        {
+          "name_original": "Others",
+          "votes": 100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 1B",
+      "district_original": "Ward 1B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.55,
+      "candidates": [
+        {
+          "name_original": "Peter R. Tallman",
+          "votes": 418
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 2A",
+      "district_original": "Ward 2A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.55,
+      "candidates": [
+        {
+          "name_original": "James Leahy",
+          "votes": 296
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 2B",
+      "district_original": "Ward 2B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.55,
+      "candidates": [
+        {
+          "name_original": "Will Puello",
+          "votes": 207
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 3A",
+      "district_original": "Ward 3A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Jenny Rivera",
+          "votes": 209
+        },
+        {
+          "name_original": "Others",
+          "votes": 70,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 3B",
+      "district_original": "Ward 3B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Victor M. Machado",
+          "votes": 185
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 4A",
+      "district_original": "Ward 4A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Rebecca Lisi",
+          "votes": 156
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 4B",
+      "district_original": "Ward 4B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Jennifer M. Keitt",
+          "votes": 141
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 5A",
+      "district_original": "Ward 5A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Paola Ferrario",
+          "votes": 276
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 5B",
+      "district_original": "Ward 5B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Mark D. Chatel",
+          "votes": 175
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 6A",
+      "district_original": "Ward 6A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Howard B. Greaney Jr.",
+          "votes": 188
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 6B",
+      "district_original": "Ward 6B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Tessa R. Murphy-Romboletti",
+          "votes": 175
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 7A",
+      "district_original": "Ward 7A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Joseph McGiverin",
+          "votes": 418
+        },
+        {
+          "name_original": "Others",
+          "votes": 90,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "City Councilor Ward 7B",
+      "district_original": "Ward 7B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "David K. Bartley",
+          "votes": 311
+        },
+        {
+          "name_original": "Others",
+          "votes": 70,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Gustavo Romero",
+          "votes": 243
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Rosalee Tensley Williams",
+          "votes": 202
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 3A",
+      "district_original": "Ward 3A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Irene Feliciano-Sims",
+          "votes": 285
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 3B",
+      "district_original": "Ward 3B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Faizul Sidhanny Jr.",
+          "votes": 359
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 4A",
+      "district_original": "Ward 4A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Rebecca Birks",
+          "votes": 165
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 4B",
+      "district_original": "Ward 4B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Mildred Lefebvre",
+          "votes": 205
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 5A",
+      "district_original": "Ward 5A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "John G. Whelihan",
+          "votes": 795
+        },
+        {
+          "name_original": "Others",
+          "votes": 120,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 5B",
+      "district_original": "Ward 5B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "William R. Collamore",
+          "votes": 480
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 6A",
+      "district_original": "Ward 6A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Eleanor M. Wilson",
+          "votes": 387
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 6B",
+      "district_original": "Ward 6B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Colleen Chesmore",
+          "votes": 453
+        },
+        {
+          "name_original": "Others",
+          "votes": 70,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 7A",
+      "district_original": "Ward 7A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "March Hickey",
+          "votes": 333
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee Ward 7B",
+      "district_original": "Ward 7B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "Mildred Lefebvre",
+          "votes": 471
+        },
+        {
+          "name_original": "Others",
+          "votes": 70,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2021-11-02",
+      "office_original": "School Committee at Large",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.45,
+      "candidates": [
+        {
+          "name_original": "Mildred Lefebvre",
+          "votes": 4183
+        },
+        {
+          "name_original": "March Hickey",
+          "votes": 2481
+        },
+        {
+          "name_original": "Others",
+          "votes": 500,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1100,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holyoke2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holyoke2021.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-11-02",
+      "detail": "https://www.holyoke.org/clerk-voter-information/",
+      "quote": "November 2, 2021",
+      "note": "the town's own election page names the date in the link text for this document"
+    }
+  },
+  "ballots_cast": 8237,
+  "ballots_cast_source": "derived_from_contests"
+}

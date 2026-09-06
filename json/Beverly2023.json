@@ -1,0 +1,438 @@
+{
+  "elections": [
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James P. Zarella III",
+          "votes": 3618
+        },
+        {
+          "name_original": "Michael P. Cahill",
+          "votes": 6119
+        },
+        {
+          "name_original": "Paul Guanci",
+          "votes": 75
+        },
+        {
+          "name_original": "All Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 115,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR AT LARGE",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie Rebecca Flowers",
+          "votes": 7370
+        },
+        {
+          "name_original": "Brendan Scott Sweeney",
+          "votes": 6374
+        },
+        {
+          "name_original": "Hannah Louise Bowen",
+          "votes": 5916
+        },
+        {
+          "name_original": "Paul Guanci",
+          "votes": 23
+        },
+        {
+          "name_original": "All Others",
+          "votes": 83,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 10090,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD ONE",
+      "district_original": "Ward One",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Todd C. Rotondo",
+          "votes": 1752
+        },
+        {
+          "name_original": "All Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 186,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD ONE",
+      "district_original": "Ward One",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachael O. Abell",
+          "votes": 1463
+        },
+        {
+          "name_original": "All Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 478,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD TWO",
+      "district_original": "Ward Two",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Danielle M. Spang",
+          "votes": 1211
+        },
+        {
+          "name_original": "All Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 243,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD TWO",
+      "district_original": "Ward Two",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenann Fondelle McKenzie-DeFranza",
+          "votes": 1087
+        },
+        {
+          "name_original": "All Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 369,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD THREE",
+      "district_original": "Ward Three",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven M. Crowley",
+          "votes": 1007
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD THREE",
+      "district_original": "Ward Three",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberley J. Coelho",
+          "votes": 638
+        },
+        {
+          "name_original": "Geraldine Cahill",
+          "votes": 462
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD FOUR",
+      "district_original": "Ward Four",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott D. Houseman",
+          "votes": 1422
+        },
+        {
+          "name_original": "All Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 314,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD FOUR",
+      "district_original": "Ward Four",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey C. Silva",
+          "votes": 1348
+        },
+        {
+          "name_original": "Lindsay Ducharme",
+          "votes": 5
+        },
+        {
+          "name_original": "All Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 386,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD FIVE",
+      "district_original": "Ward Five",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Feldman",
+          "votes": 1197
+        },
+        {
+          "name_original": "Dale Titus",
+          "votes": 5
+        },
+        {
+          "name_original": "Donald Martin",
+          "votes": 8
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 350,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD FIVE",
+      "district_original": "Ward Five",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kaarin L. Robinson",
+          "votes": 1104
+        },
+        {
+          "name_original": "All Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 459,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR WARD SIX",
+      "district_original": "Ward Six",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew J. St. Hilaire",
+          "votes": 1599
+        },
+        {
+          "name_original": "Dominic Copeland",
+          "votes": 5
+        },
+        {
+          "name_original": "All Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 382,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Beverly",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE WARD SIX",
+      "district_original": "Ward Six",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lorinda K. Visnick",
+          "votes": 1406
+        },
+        {
+          "name_original": "All Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 572,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Beverly2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Beverly2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

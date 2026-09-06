@@ -1,0 +1,175 @@
+{
+  "elections": [
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Anthony Grasso Jr.",
+          "votes": 79
+        },
+        {
+          "name_original": "Robyn Ann Chrabascz",
+          "votes": 71
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lois Phinney",
+          "votes": 21
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "PLANNING BOARD MEMBER (2 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Danielle LaFlower",
+          "votes": 15
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "PLANNING BOARD MEMBER (3 year term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jason B. Oney",
+          "votes": 119
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "BOARD OF HEALTH MEMBER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel J. Haley",
+          "votes": 131
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "CEMETERY COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wilfred J. Anair Jr.",
+          "votes": 131
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa M. Sheridan",
+          "votes": 118
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "SCHOOL COMMITTEE MEMBER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ashley Gallant",
+          "votes": 22
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2023-05-24",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin J. Jegelewicz",
+          "votes": 129
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wales2023",
+  "_corrected": "2026-08-24: rebuilt from a vision read of the document; the previous parse was materially wrong. See logs/qa_vision_verdicts.csv and src/correct_vision_defects.py",
+  "_heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION WALES, MASSACHUSETTS MAY 24, 2023 -- OFFICIAL RESULTS",
+  "document": {
+    "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION WALES, MASSACHUSETTS MAY 24, 2023 -- OFFICIAL RESULTS",
+    "date_verbatim": "MAY 24, 2023",
+    "date_note": "",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "is_sample_ballot": false,
+    "transcription": "read from a rendered page 2026-08-24; see src/correct_vision_defects.py"
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

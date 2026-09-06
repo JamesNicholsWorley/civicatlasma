@@ -1,0 +1,190 @@
+{
+  "elections": [
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jo-Ann M Berry",
+          "votes": 1798
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 410,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dean M Charter",
+          "votes": 1454
+        },
+        {
+          "name_original": "David D Martin",
+          "votes": 1336
+        },
+        {
+          "name_original": "June Leslie",
+          "votes": 928
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 716,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa Marie Adil",
+          "votes": 1454
+        },
+        {
+          "name_original": "Glen L Cote",
+          "votes": 1089
+        },
+        {
+          "name_original": "Jason W Fitzgerald",
+          "votes": 1006
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 892,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "MEMORIAL LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christina W Stoval",
+          "votes": 1719
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 502,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "WATER DISTRICT COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barry R Rosen",
+          "votes": 1047
+        },
+        {
+          "name_original": "John S Petersen",
+          "votes": 934
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 241,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2025-04-29",
+      "office_original": "ACTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Joseph Berry",
+          "votes": 1704
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 512,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Acton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Acton2025.pdf",
+  "ballots_cast": 2230,
+  "ballots_cast_source": "derived_from_contests"
+}

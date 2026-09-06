@@ -1,0 +1,329 @@
+{
+  "elections": [
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott D. Galvin",
+          "votes": 4153
+        },
+        {
+          "name_original": "Michael Patrick Concannon",
+          "votes": 5534
+        },
+        {
+          "name_original": "All Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert J. Ferullo Jr",
+          "votes": 5012
+        },
+        {
+          "name_original": "Robert M. Meaney",
+          "votes": 2147
+        },
+        {
+          "name_original": "Lori S. Medeiros",
+          "votes": 3373
+        },
+        {
+          "name_original": "Robert F. Toro Jr",
+          "votes": 4120
+        },
+        {
+          "name_original": "All Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4900,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia E. Chisholm",
+          "votes": 4924
+        },
+        {
+          "name_original": "Ellen Crowley",
+          "votes": 5079
+        },
+        {
+          "name_original": "Andrew Lipsett",
+          "votes": 4778
+        },
+        {
+          "name_original": "James E. Austin",
+          "votes": 3444
+        },
+        {
+          "name_original": "Marie A. Dellagrotte",
+          "votes": 3291
+        },
+        {
+          "name_original": "Meaghan Morris",
+          "votes": 2733
+        },
+        {
+          "name_original": "Jessie J. Wetzel",
+          "votes": 4212
+        },
+        {
+          "name_original": "All Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20423,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward One",
+      "district_original": "Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne Elizabeth Campbell",
+          "votes": 802
+        },
+        {
+          "name_original": "All Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 304,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Two",
+      "district_original": "Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William J. Pappalardo",
+          "votes": 980
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 297,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Three",
+      "district_original": "Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey P. Dillon",
+          "votes": 1489
+        },
+        {
+          "name_original": "All Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 332,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Four",
+      "district_original": "Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Eugene Demers",
+          "votes": 1131
+        },
+        {
+          "name_original": "All Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 438,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Five",
+      "district_original": "Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darlene A. Mercer-Bruen",
+          "votes": 800
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 244,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Six",
+      "district_original": "Ward Six",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lou Dimambro",
+          "votes": 829
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2023-11-07",
+      "office_original": "Councilor Ward Seven",
+      "district_original": "Ward Seven",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Viola",
+          "votes": 1162
+        },
+        {
+          "name_original": "Tracy Ann Radochia Jolly",
+          "votes": 651
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Woburn2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Woburn2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

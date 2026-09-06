@@ -1,0 +1,196 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "BOB DEPALMA",
+          "votes": 78
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JERRY LUND",
+          "votes": 86
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "GRAY RUSSELL",
+          "votes": 80
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "TOM RAFFENSPERGER",
+          "votes": 84
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "SARAH BARTHOLOMEW",
+          "votes": 80
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ERICA JENSEN",
+          "votes": 75
+        },
+        {
+          "name_original": "ANDREW BAKER",
+          "votes": 1
+        },
+        {
+          "name_original": "ERIK JOHNSON",
+          "votes": 1
+        },
+        {
+          "name_original": "GARY RUSSELL",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "TREE WARDEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "WILLIAM BROOKS",
+          "votes": 88
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Leyden",
+      "date": "2023-06-26",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JACK GOLDEN",
+          "votes": 81
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Leyden2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leyden2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

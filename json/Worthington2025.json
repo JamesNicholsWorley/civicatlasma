@@ -1,0 +1,195 @@
+{
+  "document": {
+    "heading_verbatim": "To Vote for a Person, Mark a Cross",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual municipal election with standard ballot format and multiple offices, all marked 'Candidate for re-election' indicating regular election cycle",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-05-03",
+      "detail": "https://www.worthington-ma.us/?s=annual+town+election+2025",
+      "quote": "ANNUAL TOWN ELECTION SATURDAY, MAY 3, 2025 NOMINATION PAPERS NOW AVAILABLE FROM TOWN CLERK",
+      "note": "the town's own site, twice: the clerk's 3 March 2025 notice and a candidate statement reading 'Town Elections will be held on Saturday, May 3, 2025'. The held document is a HAND-MARKED BALLOT that prints no date at all (heading 'To Vote for a Person, Mark a Cross'), so this is a SUPPLY, not a confirm. Fetched 2026-09-01."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amy C. Wang, 232 Parish Rd.",
+          "votes": 241
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Walter O. Fritz Jr., 66 Ridge Rd.",
+          "votes": 149
+        },
+        {
+          "name_original": "Deborah A. Rocque, 248 Patterson Rd.",
+          "votes": 176
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Wagner, 63 Witt Hill Rd.",
+          "votes": 245
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Camille D. Smith, 25 Witt Hill Rd.",
+          "votes": 297
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "CEMETERY COMMISSIONER-NORTH CEMETERY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Willard L. Brown, 111 Huntington Rd.",
+          "votes": 277
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "CEMETERY COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cynthia S. Manley, 419 Kenne Brook Rd.",
+          "votes": 286
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "FINANCE COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nathaniel Robinson, 221 Old Post Rd.",
+          "votes": 3
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen Ford, 27 Ireland St. South",
+          "votes": 256
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2025-05-03",
+      "office_original": "WORTHINGTON SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Alison H. Todd, 39 Goss Hill Rd.",
+          "votes": 266
+        },
+        {
+          "name_original": "Sarah McMullen, 165 Huntington Rd.",
+          "votes": 131
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Worthington2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worthington2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

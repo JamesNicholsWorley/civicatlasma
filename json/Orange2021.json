@@ -1,0 +1,161 @@
+{
+  "document": {
+    "heading_verbatim": "WARRANT FOR ANNUAL TOWN ELECTION May 17, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "WARRANT FOR ANNUAL TOWN ELECTION May 17, 2021",
+    "date_verbatim": "May 17, 2021",
+    "offices_on_ballot": 16,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Orange",
+      "date": "2021-05-17",
+      "office_original": "Selectman, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Richard P. Sheridan",
+          "votes": 73
+        },
+        {
+          "name_original": "Andrew J. Smith",
+          "votes": 108
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orange",
+      "date": "2021-05-17",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christopher Woodcock",
+          "votes": 126
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orange",
+      "date": "2021-05-17",
+      "office_original": "Board of Health, 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jane M. Peirce",
+          "votes": 111
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orange",
+      "date": "2021-05-17",
+      "office_original": "Elem. School Comm. 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Danielle Andersen",
+          "votes": 113
+        },
+        {
+          "name_original": "Stephanie Conrod",
+          "votes": 106
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orange",
+      "date": "2021-05-17",
+      "office_original": "Elem. School Comm. 2 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orange2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orange2021.pdf",
+  "ballots_cast": 133,
+  "ballots_cast_source": "derived_from_contests"
+}

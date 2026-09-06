@@ -1,0 +1,222 @@
+{
+  "elections": [
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Laurie DiDonato",
+          "votes": 123
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Martha Senn",
+          "votes": 123
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Amy Cora Simmons",
+          "votes": 124
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Planning Board",
+      "district_original": "five-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mary Thomas",
+          "votes": 122
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Planning Board",
+      "district_original": "three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Steven Gross",
+          "votes": 122
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kathleen Nolan",
+          "votes": 128
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Cemetery commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Florence Blackbird",
+          "votes": 125
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Road commissioner",
+      "district_original": "three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Beth Erviti",
+          "votes": 125
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Road commissioner",
+      "district_original": "one-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jon Bowers",
+          "votes": 116
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Library trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mara Bright",
+          "votes": 125
+        },
+        {
+          "name_original": "Bernice Tuttle",
+          "votes": 118
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Tree warden",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Clifford Dornbusch",
+          "votes": 114
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wendell",
+      "date": "2024-05-06",
+      "office_original": "Planning Board",
+      "district_original": "four-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wendell2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

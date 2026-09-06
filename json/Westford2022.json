@@ -1,0 +1,229 @@
+{
+  "elections": [
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Select Board (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Scott Hazelton",
+          "votes": 1676
+        },
+        {
+          "name_original": "Andrea Peraner-Sweet",
+          "votes": 1638
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1026,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Board of Health (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephanie D Granger",
+          "votes": 1249
+        },
+        {
+          "name_original": "Susan M Hanly",
+          "votes": 1425
+        },
+        {
+          "name_original": "Melissa Mackey",
+          "votes": 1012
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 690,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Housing Authority (5 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Lorraine Holmes",
+          "votes": 1669
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 517,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Housing Authority (2 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Ellen Upperman",
+          "votes": 1598
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 587,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Library Trustees (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth S Diercks",
+          "votes": 1673
+        },
+        {
+          "name_original": "Glen M Secor",
+          "votes": 1678
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1029,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "Planning Board (5 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dylan H O'Connor",
+          "votes": 1626
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 557,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2022-05-03",
+      "office_original": "School Committee (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean P Kelly",
+          "votes": 919
+        },
+        {
+          "name_original": "Marisol Garcia",
+          "votes": 1253
+        },
+        {
+          "name_original": "Betsy Kwon",
+          "votes": 743
+        },
+        {
+          "name_original": "Derek R Lo",
+          "votes": 815
+        },
+        {
+          "name_original": "Meghan F O'Connell",
+          "votes": 235
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 415,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westford2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westford2022.pdf",
+  "ballots_cast": 2195,
+  "ballots_cast_source": "derived_from_contests"
+}

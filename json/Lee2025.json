@@ -1,0 +1,146 @@
+{
+  "elections": [
+    {
+      "municipality": "Lee",
+      "date": "2025-05-12",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Matthew D. Carlino",
+          "votes": 138
+        },
+        {
+          "name_original": "Write in",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2025-05-12",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Kathy DeVarennes",
+          "votes": 31
+        },
+        {
+          "name_original": "Thomas Logsdon",
+          "votes": 5
+        },
+        {
+          "name_original": "Blank",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Other",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2025-05-12",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Gordon Duncan Bailey",
+          "votes": 148
+        },
+        {
+          "name_original": "Write in",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2025-05-12",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Davis C. Forrest",
+          "votes": 138
+        },
+        {
+          "name_original": "Write in",
+          "votes": 0
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2025-05-12",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Dorothy French-Write in",
+          "votes": 50
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 228
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "ballots_cast": 150,
+  "ballots_cast_source": "derived_from_contests"
+}

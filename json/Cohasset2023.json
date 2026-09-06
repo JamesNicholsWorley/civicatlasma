@@ -1,0 +1,391 @@
+{
+  "elections": [
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul J. Laugelle",
+          "votes": 645
+        },
+        {
+          "name_original": "Ellen M. Maher",
+          "votes": 1061
+        },
+        {
+          "name_original": "Chris A. Plecs",
+          "votes": 872
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 365,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniels S. Evans",
+          "votes": 1192
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 282,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elisabeth Legge",
+          "votes": 1205
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 270,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer A. Lesky",
+          "votes": 1123
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 350,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "TRUSTEES PAUL PRATT MEMORIAL LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen F. Brown",
+          "votes": 892
+        },
+        {
+          "name_original": "Carolyn H. Coffey",
+          "votes": 1086
+        },
+        {
+          "name_original": "Marylou D. Lawrence",
+          "votes": 996
+        },
+        {
+          "name_original": "Carol A. Bestick",
+          "votes": 539
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 923,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph P. Kennedy",
+          "votes": 1070
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 408,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marcia E. Lewis",
+          "votes": 1072
+        },
+        {
+          "name_original": "Paul Schubert",
+          "votes": 18
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 378,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "BOARD OF HEALTH FOR ONE YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Schubert",
+          "votes": 67
+        },
+        {
+          "name_original": "Carol Bestick",
+          "votes": 16
+        },
+        {
+          "name_original": "Others",
+          "votes": 85,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1312,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "PLANNING BOARD FULL MEMBER FOR FIVE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amy K. Glasmeier",
+          "votes": 1076
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 393,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "PLANNING BOARD FULL MEMBER FOR ONE YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Heine",
+          "votes": 62
+        },
+        {
+          "name_original": "B. Schmidt-Wesche",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 102,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1311,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "RECREATION COMMISSION FOR FIVE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Derrick Edward Goodwin",
+          "votes": 1103
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 371,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "SEWER COMMISSION FOR FIVE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wayne Sawchuk",
+          "votes": 1129
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 342,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cohasset",
+      "date": "2023-05-13",
+      "office_original": "WATER COMMISSION FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Girardi",
+          "votes": 1117
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 359,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Cohasset2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Cohasset2023.pdf",
+  "ballots_cast": 1480,
+  "ballots_cast_source": "derived_from_contests"
+}

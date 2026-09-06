@@ -1,0 +1,243 @@
+{
+  "elections": [
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Selectman",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Douglas W. Dawes",
+          "votes": 492
+        },
+        {
+          "name_original": "Daryle J. Lamonica",
+          "votes": 388
+        },
+        {
+          "name_original": "Amy E. Smith",
+          "votes": 397
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 264,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nina Sherwood",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 701,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Light Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Peter D. Dion",
+          "votes": 589
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 180,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Water Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nicholas P. Lawler",
+          "votes": 545
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 225,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael Hinchliffe",
+          "votes": 491
+        },
+        {
+          "name_original": "Lauren Malkuns King",
+          "votes": 408
+        },
+        {
+          "name_original": "Bret Moyer",
+          "votes": 361
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 277,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Harry D. Lacortiglia",
+          "votes": 536
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 227,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Assessor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David Bogdan",
+          "votes": 569
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2021-05-10",
+      "office_original": "Peabody Library Trustees",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Walter Laut III",
+          "votes": 580
+        },
+        {
+          "name_original": "Kevin Francis Moran",
+          "votes": 578
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 385,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Georgetown2021",
+  "ballots_cast": 772,
+  "ballots_cast_source": "derived_from_contests"
+}

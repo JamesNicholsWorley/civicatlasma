@@ -1,0 +1,808 @@
+{
+  "elections": [
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert V. Kirby",
+          "votes": 1300
+        },
+        {
+          "name_original": "John J. Stagnone",
+          "votes": 942
+        },
+        {
+          "name_original": "Joseph M. Mokrisky",
+          "votes": 2316
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 659,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer A. Sears",
+          "votes": 2787
+        },
+        {
+          "name_original": "Jillian DiStefano",
+          "votes": 2594
+        },
+        {
+          "name_original": "David M. Lurie",
+          "votes": 1394
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3682,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert E. Mullen Jr.",
+          "votes": 2444
+        },
+        {
+          "name_original": "Vaughan Enokian",
+          "votes": 1837
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 943,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REDEVELOPMENT",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachel Lazerus",
+          "votes": 2372
+        },
+        {
+          "name_original": "Johna Rosenblatt",
+          "votes": 1585
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1260,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 1",
+      "num_winners": 17,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Michael Moore",
+          "votes": 187
+        },
+        {
+          "name_original": "Cheryl L. Iverson",
+          "votes": 158
+        },
+        {
+          "name_original": "Thomas Lennon",
+          "votes": 157
+        },
+        {
+          "name_original": "Jon S. Taggart",
+          "votes": 130
+        },
+        {
+          "name_original": "Chester S. Collins",
+          "votes": 156
+        },
+        {
+          "name_original": "Benjamin Carre",
+          "votes": 148
+        },
+        {
+          "name_original": "Patricia L. Martin",
+          "votes": 154
+        },
+        {
+          "name_original": "Melissa R. Nelson",
+          "votes": 151
+        },
+        {
+          "name_original": "Sandra Sousa",
+          "votes": 170
+        },
+        {
+          "name_original": "Juan Fox",
+          "votes": 156
+        },
+        {
+          "name_original": "Marion Pope",
+          "votes": 163
+        },
+        {
+          "name_original": "John J. Linehan",
+          "votes": 209
+        },
+        {
+          "name_original": "Julie L. Linehan",
+          "votes": 212
+        },
+        {
+          "name_original": "Kim M. Leonard",
+          "votes": 192
+        },
+        {
+          "name_original": "Joseph O. Scardino",
+          "votes": 143
+        },
+        {
+          "name_original": "Robert Desmond",
+          "votes": 169
+        },
+        {
+          "name_original": "Paolo Alves",
+          "votes": 23
+        },
+        {
+          "name_original": "Kelly McMorrow",
+          "votes": 15
+        },
+        {
+          "name_original": "Patrick Santos",
+          "votes": 5
+        },
+        {
+          "name_original": "Jeffrey Iverson",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7121,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 158,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 2",
+      "num_winners": 18,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Joanne O'Reilly",
+          "votes": 201
+        },
+        {
+          "name_original": "Meryl Eisenstein",
+          "votes": 192
+        },
+        {
+          "name_original": "John Morrissey",
+          "votes": 146
+        },
+        {
+          "name_original": "Christophera Sera",
+          "votes": 143
+        },
+        {
+          "name_original": "Carl C. Thompson",
+          "votes": 150
+        },
+        {
+          "name_original": "Ginger Hoffman",
+          "votes": 239
+        },
+        {
+          "name_original": "Brian C. Butler",
+          "votes": 84
+        },
+        {
+          "name_original": "Lynne E. McCormack",
+          "votes": 138
+        },
+        {
+          "name_original": "Mary Ann Killgoar",
+          "votes": 205
+        },
+        {
+          "name_original": "Paul T. Demusz",
+          "votes": 96
+        },
+        {
+          "name_original": "Dennis C. Carter",
+          "votes": 164
+        },
+        {
+          "name_original": "Mark Hickman",
+          "votes": 102
+        },
+        {
+          "name_original": "Molly Cochran",
+          "votes": 193
+        },
+        {
+          "name_original": "Matthew J. Phillips",
+          "votes": 231
+        },
+        {
+          "name_original": "Alayna Canas",
+          "votes": 159
+        },
+        {
+          "name_original": "Peter E. Banis",
+          "votes": 208
+        },
+        {
+          "name_original": "Mary Ann Capozzoli",
+          "votes": 161
+        },
+        {
+          "name_original": "George L. Dolinsky",
+          "votes": 178
+        },
+        {
+          "name_original": "Scott D. Carrara",
+          "votes": 191
+        },
+        {
+          "name_original": "Margaret N. Sewcyk",
+          "votes": 235
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3639,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 3",
+      "num_winners": 16,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Paul Carter",
+          "votes": 222
+        },
+        {
+          "name_original": "Kevin F. Monahan",
+          "votes": 274
+        },
+        {
+          "name_original": "Keith J. Jorgensen",
+          "votes": 154
+        },
+        {
+          "name_original": "Mary T. Coulter-Bennett",
+          "votes": 298
+        },
+        {
+          "name_original": "Grace Hansen-Dewar",
+          "votes": 232
+        },
+        {
+          "name_original": "Cynthia A. Walsh",
+          "votes": 362
+        },
+        {
+          "name_original": "Donna Lynch-Brown",
+          "votes": 210
+        },
+        {
+          "name_original": "Eileen M. Purcell",
+          "votes": 194
+        },
+        {
+          "name_original": "Anne E. Spector",
+          "votes": 191
+        },
+        {
+          "name_original": "Susan Saari",
+          "votes": 172
+        },
+        {
+          "name_original": "David P. Nankin",
+          "votes": 127
+        },
+        {
+          "name_original": "John T. Perry III",
+          "votes": 244
+        },
+        {
+          "name_original": "Michaela Stanelun",
+          "votes": 202
+        },
+        {
+          "name_original": "Marguerite M. Mitchell",
+          "votes": 264
+        },
+        {
+          "name_original": "Renee Ruedig",
+          "votes": 142
+        },
+        {
+          "name_original": "Laura M. Bushlow",
+          "votes": 381
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2553,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 4",
+      "num_winners": 16,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Patricia E. Colburn",
+          "votes": 350
+        },
+        {
+          "name_original": "Kerry Ann Callahan-Mofford",
+          "votes": 241
+        },
+        {
+          "name_original": "Skipper Mofford",
+          "votes": 189
+        },
+        {
+          "name_original": "Louis Gitto",
+          "votes": 426
+        },
+        {
+          "name_original": "Richard L. Schiffer Jr.",
+          "votes": 221
+        },
+        {
+          "name_original": "John M. Anzivino",
+          "votes": 317
+        },
+        {
+          "name_original": "Diane E. Piechowski",
+          "votes": 231
+        },
+        {
+          "name_original": "Rachel Lazerus",
+          "votes": 293
+        },
+        {
+          "name_original": "Juliann Gitto",
+          "votes": 432
+        },
+        {
+          "name_original": "Vaughan Enokian",
+          "votes": 342
+        },
+        {
+          "name_original": "Andrew Piechowski",
+          "votes": 200
+        },
+        {
+          "name_original": "Mari Kate Pina-Enokian",
+          "votes": 337
+        },
+        {
+          "name_original": "Dawn M. Dino",
+          "votes": 337
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2572,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 5",
+      "num_winners": 13,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Eric Kolman",
+          "votes": 233
+        },
+        {
+          "name_original": "Robert Cohn",
+          "votes": 209
+        },
+        {
+          "name_original": "Michael Terry",
+          "votes": 141
+        },
+        {
+          "name_original": "Larry Verdun",
+          "votes": 147
+        },
+        {
+          "name_original": "Jess L. Miner",
+          "votes": 199
+        },
+        {
+          "name_original": "Michael Horan",
+          "votes": 210
+        },
+        {
+          "name_original": "Jay Mullen",
+          "votes": 175
+        },
+        {
+          "name_original": "Angelo Spezzano",
+          "votes": 159
+        },
+        {
+          "name_original": "Mariangela O. Spezzano",
+          "votes": 163
+        },
+        {
+          "name_original": "Tracey Sloane Maggio",
+          "votes": 177
+        },
+        {
+          "name_original": "Janice M. Esdale",
+          "votes": 214
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2660,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 6",
+      "num_winners": 16,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Noah S. Beit-Aharon",
+          "votes": 185
+        },
+        {
+          "name_original": "Mary P. Shea",
+          "votes": 201
+        },
+        {
+          "name_original": "Bertrand J. Durand III",
+          "votes": 162
+        },
+        {
+          "name_original": "Janice Z. Schneider",
+          "votes": 165
+        },
+        {
+          "name_original": "Adam J. Iacobucci",
+          "votes": 202
+        },
+        {
+          "name_original": "Paul L. Sheedy",
+          "votes": 150
+        },
+        {
+          "name_original": "Martin R. West III",
+          "votes": 143
+        },
+        {
+          "name_original": "Warren Loew",
+          "votes": 158
+        },
+        {
+          "name_original": "Edward DeFelice",
+          "votes": 211
+        },
+        {
+          "name_original": "Joseph Figueiredo",
+          "votes": 170
+        },
+        {
+          "name_original": "Christine M. Iacobucci",
+          "votes": 216
+        },
+        {
+          "name_original": "Katherine Flynn-McFadden",
+          "votes": 4
+        },
+        {
+          "name_original": "Matthew Medina",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4491,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 7",
+      "num_winners": 15,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Patricia McCormack",
+          "votes": 206
+        },
+        {
+          "name_original": "Lisa Baroletti Stewart",
+          "votes": 199
+        },
+        {
+          "name_original": "Eric J. Bleiler",
+          "votes": 186
+        },
+        {
+          "name_original": "Dawn Hufault",
+          "votes": 169
+        },
+        {
+          "name_original": "Rebecca Markson",
+          "votes": 207
+        },
+        {
+          "name_original": "Marina Ryantz",
+          "votes": 191
+        },
+        {
+          "name_original": "Robert Hufault III",
+          "votes": 157
+        },
+        {
+          "name_original": "Andreia S. Rodrigues",
+          "votes": 202
+        },
+        {
+          "name_original": "Dianne J. Dolan",
+          "votes": 210
+        },
+        {
+          "name_original": "Ann Hill",
+          "votes": 203
+        },
+        {
+          "name_original": "Robert Hufault Jr.",
+          "votes": 168
+        },
+        {
+          "name_original": "Janai Mungalsingh",
+          "votes": 179
+        },
+        {
+          "name_original": "Roberta Harback",
+          "votes": 225
+        },
+        {
+          "name_original": "Vsevolod Soboleu",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5112,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stoughton",
+      "date": "2025-04-08",
+      "office_original": "REPRESENTATIVES",
+      "district_original": "Precinct 8",
+      "num_winners": 12,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Gerald McLaughlin",
+          "votes": 143
+        },
+        {
+          "name_original": "Anita Wood",
+          "votes": 137
+        },
+        {
+          "name_original": "Joanne Curtis",
+          "votes": 150
+        },
+        {
+          "name_original": "David C. Sheehan",
+          "votes": 148
+        },
+        {
+          "name_original": "Stephen Tapper",
+          "votes": 117
+        },
+        {
+          "name_original": "Kerry Marrocco",
+          "votes": 125
+        },
+        {
+          "name_original": "Heidi Tucker",
+          "votes": 137
+        },
+        {
+          "name_original": "Elizabeth R. Worsley",
+          "votes": 107
+        },
+        {
+          "name_original": "Susan Stewart-Racicot",
+          "votes": 112
+        },
+        {
+          "name_original": "Stephen Cavey",
+          "votes": 139
+        },
+        {
+          "name_original": "Peter Ventresco",
+          "votes": 164
+        },
+        {
+          "name_original": "Manuel Pacheco",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2798,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stoughton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2025.pdf",
+  "ballots_cast": 5242,
+  "ballots_cast_source": "derived_from_contests"
+}

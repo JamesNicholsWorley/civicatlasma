@@ -1,0 +1,47 @@
+{
+  "elections": [
+    {
+      "municipality": "Athol",
+      "date": "2026-04-06",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Russell Raymond",
+          "votes": 821
+        },
+        {
+          "name_original": "Alex Blake",
+          "votes": 671
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "document": {
+    "date_correction": {
+      "corrected_on": "2026-08-23",
+      "was": [
+        "2026-03-02"
+      ],
+      "now": "2026-04-06",
+      "url": "https://atholdailynews.com/2026/04/03/town-elections-to-take-place-monday-for-athol-royalston-and-petersham/",
+      "quote": "Voters will head to the polls in Athol, Petersham, and Royalston on Monday, April 6, for their annual town elections.",
+      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+      "note": ""
+    },
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2026-04-06",
+      "detail": "https://atholdailynews.com/2026/04/03/town-elections-to-take-place-monday-for-athol-royalston-and-petersham/",
+      "quote": "Voters will head to the polls in Athol, Petersham, and Royalston on Monday, April 6, for their annual town elections.",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

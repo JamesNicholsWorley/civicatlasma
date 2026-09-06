@@ -1,0 +1,186 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION MAY 10, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MAY 10, 2022",
+    "offices_on_ballot": 6,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Williamstown",
+      "date": "2022-05-10",
+      "office_original": "SELECTBOARD ( 3 YEAR) (2)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JANE PATTON",
+          "votes": 921
+        },
+        {
+          "name_original": "BILAL ANSARI",
+          "votes": 677
+        },
+        {
+          "name_original": "RANDAL FIPPINGER",
+          "votes": 881
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 378,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2022-05-10",
+      "office_original": "MODERATOR (3 YEAR) (1)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ELISABETH GOODMAN",
+          "votes": 1157
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 271,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2022-05-10",
+      "office_original": "LIBRARY TRUSTEE (3 YEAR) (4)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICAH MANARY",
+          "votes": 798
+        },
+        {
+          "name_original": "BRIDGET SPANN",
+          "votes": 974
+        },
+        {
+          "name_original": "TIMOTHY CHERUBINI",
+          "votes": 568
+        },
+        {
+          "name_original": "ROBIN LENZ",
+          "votes": 713
+        },
+        {
+          "name_original": "HALE POLEBAUM-FREEMAN",
+          "votes": 505
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2022-05-10",
+      "office_original": "PLANNING BOARD (5 YEAR) (1)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CARIN DEMAYO-WALL",
+          "votes": 552
+        },
+        {
+          "name_original": "KENNETH KUTTNER",
+          "votes": 869
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2022-05-10",
+      "office_original": "NO. BERK. VOCATIONAL SD (3 YEAR) (1)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DAVID WESTALL",
+          "votes": 1183
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 250,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Williamstown2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Williamstown2022.pdf",
+  "ballots_cast": 1438,
+  "ballots_cast_source": "derived_from_contests"
+}

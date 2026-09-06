@@ -1,0 +1,113 @@
+{
+  "elections": [
+    {
+      "municipality": "Concord",
+      "date": "2025-04-08",
+      "office_original": "MODERATOR for One Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carmin C. Reiss",
+          "votes": 3815
+        },
+        {
+          "name_original": "Cato Anderson",
+          "votes": 7
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 956,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2025-04-08",
+      "office_original": "SELECT BOARD for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Hartman",
+          "votes": 2586
+        },
+        {
+          "name_original": "Elizabeth E. Akehurst-Moore",
+          "votes": 2194
+        },
+        {
+          "name_original": "Paul Boehm",
+          "votes": 2368
+        },
+        {
+          "name_original": "Joseph E. Laurin",
+          "votes": 1569
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 886,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Concord",
+      "date": "2025-04-08",
+      "office_original": "SCHOOL COMMITTEE for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexa Boland Anderson",
+          "votes": 2457
+        },
+        {
+          "name_original": "Sandeep Pisharody",
+          "votes": 2710
+        },
+        {
+          "name_original": "Michael Adrian Williams",
+          "votes": 2767
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1671,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Concord2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Concord2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,173 @@
+{
+  "document": {
+    "heading_verbatim": "OFFICIAL RESULTS\nANNUAL TOWN ELECTION\nNORTON, MASSACHUSETTS\nSATURDAY, APRIL 27, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "SATURDAY, APRIL 27, 2024",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Norton",
+      "date": "2024-04-27",
+      "office_original": "Select Board",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "ALEC E. RICH, II",
+          "votes": 873
+        },
+        {
+          "name_original": "ROGER MARSAN",
+          "votes": 934
+        },
+        {
+          "name_original": "OREN SIGAL",
+          "votes": 723
+        },
+        {
+          "name_original": "Write Ins",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 607,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2024-04-27",
+      "office_original": "Board of Assessors",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "RICHARD F. DORNEY",
+          "votes": 984
+        },
+        {
+          "name_original": "Write Ins",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write Ins - Michael Toole",
+          "votes": 14
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2126,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2024-04-27",
+      "office_original": "Planning Board",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "ROBERT HARRINGTON WELCH, JR",
+          "votes": 887
+        },
+        {
+          "name_original": "Write Ins",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write Ins - Allen Bouley",
+          "votes": 165
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2071,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2024-04-27",
+      "office_original": "School Committee",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "DENIZ SAVAS",
+          "votes": 754
+        },
+        {
+          "name_original": "DANIEL L. SHEEDY",
+          "votes": 754
+        },
+        {
+          "name_original": "AUDREY DANIELLE MOSCHELLA",
+          "votes": 766
+        },
+        {
+          "name_original": "Write Ins",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 860,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2024-04-27",
+      "office_original": "Housing Authority",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Write Ins",
+          "votes": 46,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1527,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Norton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norton2024.pdf",
+  "ballots_cast": 1573,
+  "election_date": "2024-04-27",
+  "ballots_cast_source": "stated_in_record"
+}

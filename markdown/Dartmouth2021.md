@@ -1,0 +1,95 @@
+Dartmouth Annual Town Election
+2021 Official Results
+2 3 4 5 6 7 8 9
+Precinct 1 2 3 4 5 6 7 8 9
+Number of Voters in 
+Precinct 3052 1991 168 2774 2933 2461 2802 3245 3274
+Total Voted 108 109 0 129 207 144 227 434 281
+% Voted 3.5% 5.5% 0.0% 4.7% 7.1% 5.9% 8.1% 13.4% 8.6%
+Town Clerk
+Three Years-Vote for One
+Sarah Haskell Arruda 78 91 0 94 152 101 165 331 224
+Kelsi Power-Spirlet 25 15 0 31 41 37 48 78 42
+Blank 5 3 0 3 14 6 14 25 15
+Write-In 0 0 0 1 0 0 0 0 0
+108 109 0 129 207 144 227 434 281
+Select Board Lot #1
+Three Years - Vote for One
+David Tatelbaum 72 92 0 92 151 95 164 360 212
+Blank 35 17 0 34 54 47 63 73 69
+Write-In 1 0 0 3 2 2 0 1 0
+108 109 0 129 207 144 227 434 281
+Select Board Lot #3
+Three Years - Vote for One
+Frank Gracie 64 81 0 80 140 95 142 270 189
+Blank
+44 28 0 43 65 49 85 161 92
+Write-In 0 0 0 6 2 0 0 3 0
+. 108 109 0 129 207 144 227 434 281
+Assessor
+Three Years - Vote for One
+
+Dartmouth Annual Town Election
+2021 Official Results
+Blank 104 107 0 128 197 133 227 426 274
+Curtis Nunes 1 0 0 0 8 8 0 1 1
+Write-In-other 3 2 0 1 2 3 0 7 6
+108 109 0 129 207 144 227 434 281
+School Committee Member
+Three Years - Vote for One
+Shannon Jenkins 67 86 0 84 141 96 158 317 191
+Blank 39 23 0 41 60 46 68 111 86
+Write-In 2 0 0 4 6 2 1 6 4
+. 108 109 0 129 207 144 227 434 281
+Trustee of Free Public 
+Libraries
+Three Years - Vote for Two
+Stanley Bielusiak 66 77 0 78 138 92 142 283 178
+Ilene Levine 62 82 0 77 140 100 155 293 182
+Blank 88 59 0 102 136 96 156 290 201
+Write-In 0 0 0 1 0 0 1 2 1
+. 216 218 0 258 414 288 454 868 562
+Member of Board of Health
+Three Years - Vote for One
+Darci Moran 40 53 0 48 69 53 96 143 102
+Christian Pope 50 49 0 67 99 74 107 232 138
+Blank 18 7 0 12 39 17 24 57 41
+Write-In 0 0 0 2 0 0 0 2 0
+108 109 0 129 207 144 227 434 281
+
+Dartmouth Annual Town Election
+2021 Official Results
+Member of Planning Board
+Five Years - Vote for One
+Kevin Estes 44 43 0 44 97 74 112 308 143
+Jane Pansire 40 51 0 63 69 48 80 79 93
+Blank 24 15 0 21 40 21 34 47 45
+Write In 0 0 0 1 1 1 1 0 0
+. 108 109 0 129 207 144 227 434 281
+Member of Planning Board
+Two Yr. Unexpired - Vote One
+Christopher O'Neil 76 87 0 87 152 106 171 327 206
+Blank 32 22 0 41 54 38 55 106 72
+Write In 0 0 0 1 1 0 1 1 3
+. 108 109 0 129 207 144 227 434 281
+Housing Authority
+Five Years - Vote for One
+David Brodeur 65 80 0 82 140 95 143 308 179
+Blank 43 29 0 46 66 49 83 125 102
+Write In 0 0 0 1 1 0 1 1 0
+. 108 109 0 129 207 144 227 434 281
+Member of Parks and 
+Recreation Board
+Three Years - Vote for Two
+James Bosworth 70 82 0 86 142 99 160 325 190
+Blank 141 134 0 162 262 170 292 523 357
+Write In-Joan Britto 4 0 0 4 2 15 2 15 10
+Write In-other 1 2 0 6 8 4 0 5 5
+
+Dartmouth Annual Town Election
+2021 Official Results
+216 218 0 258 414 288 454 868 562
+Question
+Yes 41 33 0 40 79 32 72 173 87
+No 62 69 0 73 106 97 118 206 169
+Blank 5 7 0 16 22 15 37 55 25

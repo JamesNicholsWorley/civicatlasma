@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "BOARD OF ASSESSORS (VOTE FOR ONE)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nelson Almeida",
+          "votes": 1189
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 344,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "BOARD OF SELECTMEN (VOTE FOR ONE)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary Sagar",
+          "votes": 1117
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 408,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "LIBRARY BOARD OF TRUSTEES (VOTE FOR THREE)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann Caldwell",
+          "votes": 1152
+        },
+        {
+          "name_original": "Michael Durkay",
+          "votes": 1157
+        },
+        {
+          "name_original": "Alyssa Richard",
+          "votes": 1161
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1196,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "PLANNING BOARD (VOTE FOR TWO)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jo-Ann Perry",
+          "votes": 1110
+        },
+        {
+          "name_original": "Scott Smith",
+          "votes": 16
+        },
+        {
+          "name_original": "R. Michael Bingham",
+          "votes": 61
+        },
+        {
+          "name_original": "Others",
+          "votes": 93,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1844,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "PLANNING BOARD (VOTE FOR ONE)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott Smith",
+          "votes": 21
+        },
+        {
+          "name_original": "R. Michael Bingham",
+          "votes": 85
+        },
+        {
+          "name_original": "Others",
+          "votes": 86,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1370,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "SCHOOL COMMITTEE (VOTE FOR TWO)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Field",
+          "votes": 853
+        },
+        {
+          "name_original": "Michael Novinson",
+          "votes": 757
+        },
+        {
+          "name_original": "Robert J. Gerardi, Jr.",
+          "votes": 1067
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 421,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Seekonk",
+      "date": "2025-04-07",
+      "office_original": "WATER COMMISSIONER (VOTE FOR ONE)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn Dyer",
+          "votes": 1082
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 375,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Seekonk2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Seekonk2025.pdf",
+  "ballots_cast": 1562,
+  "ballots_cast_source": "derived_from_contests"
+}

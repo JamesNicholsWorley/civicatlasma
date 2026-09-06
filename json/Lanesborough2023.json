@@ -1,0 +1,128 @@
+{
+  "elections": [
+    {
+      "municipality": "Lanesborough",
+      "date": "2023-06-20",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael P. Murphy",
+          "votes": 171
+        },
+        {
+          "name_original": "Barbara L. Davis Hassan",
+          "votes": 142
+        },
+        {
+          "name_original": "Deborah A. Maynard",
+          "votes": 131
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2023-06-20",
+      "office_original": "Finance Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jodi-Lee Szczepaniak-Locke",
+          "votes": 235
+        },
+        {
+          "name_original": "Kristen Tool",
+          "votes": 197
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2023-06-20",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sherri Wilson",
+          "votes": 380
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2023-06-20",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Trybus",
+          "votes": 366
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lanesborough2023",
+  "_source_pdf": "",
+  "ballots_cast": 448,
+  "ballots_cast_source": "derived_from_contests"
+}

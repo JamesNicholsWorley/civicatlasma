@@ -1,0 +1,349 @@
+{
+  "document": {
+    "heading_verbatim": "Lincoln, MA - Annual Town Election, March 29, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "March 29, 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 11,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Only contested race: Parks & Recreation Committee"
+  },
+  "elections": [
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Lane Reaser Glass",
+          "votes": 430
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "BOARD OF ASSESSORS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward H. Morgan",
+          "votes": 416
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia E. Miller",
+          "votes": 417
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "CEMETERY COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas B. Harding",
+          "votes": 415
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "COMMISSIONER OF TRUST FUNDS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Donald Collins",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 418,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "HOUSING COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Evan Karmel Gorman",
+          "votes": 400
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "L-S REGIONAL SCHOOL DISTRICT COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Heather-Jeanne Cowap Salemme",
+          "votes": 414
+        },
+        {
+          "name_original": "Mary D. Warzynski",
+          "votes": 306
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 193,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "PARKS & RECREATION COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brianna Marisa Doo",
+          "votes": 303
+        },
+        {
+          "name_original": "Evan Karmel Gorman",
+          "votes": 87
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerald A. Taylor",
+          "votes": 406
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 48,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Hands Taylor",
+          "votes": 395
+        },
+        {
+          "name_original": "John A. Maclachlan",
+          "votes": 362
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "TRUSTEES OF BEMIS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Miriam L. Borden",
+          "votes": 410
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lincoln",
+      "date": "2021-03-29",
+      "office_original": "WATER COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James M. Hutchinson",
+          "votes": 419
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lincoln2021",
+  "_source_pdf": "",
+  "ballots_cast": 457,
+  "ballots_cast_source": "derived_from_contests"
+}

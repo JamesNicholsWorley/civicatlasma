@@ -1,0 +1,224 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "SELECT BOARD",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RICHARD ANTANVICA",
+          "votes": 253
+        },
+        {
+          "name_original": "ALLEN R. PHILLIPS, SR.",
+          "votes": 262
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 231,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "ASSESSOR",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ARTHUR J. PAQUETTE",
+          "votes": 310
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JONATHAN M. BOISJOLIE",
+          "votes": 119
+        },
+        {
+          "name_original": "KATHRYN COYLE",
+          "votes": 94
+        },
+        {
+          "name_original": "JOSHUA L. FRYER",
+          "votes": 47
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTOPHER M. MONTIVERDI",
+          "votes": 287
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "PLANNING BOARD",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOSHUA G. CAMPBELL",
+          "votes": 271
+        },
+        {
+          "name_original": "JAMES REINKE",
+          "votes": 241
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 240,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "PUBLIC LIBRARY TRUSTEE",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "R. OLNEY WHITE",
+          "votes": 290
+        },
+        {
+          "name_original": "BRUCE L. CRAVEN",
+          "votes": 244
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 218,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2021-06-08",
+      "office_original": "MOOSE HILL WATER COMMISSION",
+      "district_original": "At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEPHEN T. PAWLOWSKIS",
+          "votes": 273
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 99,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Leicester2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leicester2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,186 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "SELECTMAN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SUZANNE E. BRYAN",
+          "votes": 333
+        },
+        {
+          "name_original": "GERALD E. CERASALE",
+          "votes": 347
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 122,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JAMES C. McMAKIN",
+          "votes": 6
+        },
+        {
+          "name_original": "SARAH F. BURRILL",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 351,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANN CROZIER",
+          "votes": 349
+        },
+        {
+          "name_original": "ERIC CHRISTOPHER SHANNON",
+          "votes": 328
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 128,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ERIN C.S. ELLIS",
+          "votes": 347
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "IAN KERIG HAMILTON",
+          "votes": 334
+        },
+        {
+          "name_original": "JOANNA W. STEVENS",
+          "votes": 344
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 126,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2022-05-17",
+      "office_original": "NAUSET REGIONAL SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MOIRA E. NOONAN-KERRY",
+          "votes": 347
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Eastham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Eastham2022.pdf",
+  "ballots_cast": 404,
+  "ballots_cast_source": "derived_from_contests"
+}

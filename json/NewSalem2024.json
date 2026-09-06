@@ -1,0 +1,161 @@
+{
+  "document": {
+    "heading_verbatim": "New Salem election ushers in new Selectboard member",
+    "election_type": "Regular",
+    "election_type_evidence": "annual town election",
+    "date_verbatim": "May 7, 2024",
+    "offices_on_ballot": 9,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Selectboard, two-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mailande DeWitt",
+          "votes": 84
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Selectboard, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Cloutier",
+          "votes": 80
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Board of Health, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenny Potee",
+          "votes": 82
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Assessor, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric Hamm",
+          "votes": 82
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Planning Board, five-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Cramer",
+          "votes": 79
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "School Committee, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carl Seppala",
+          "votes": 6
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Library trustee, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jan Tyner",
+          "votes": 4
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2024-05-07",
+      "office_original": "Municipal Light Board, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sue Dunbar",
+          "votes": 87
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NewSalem2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

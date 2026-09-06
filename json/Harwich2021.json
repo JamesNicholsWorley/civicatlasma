@@ -1,0 +1,241 @@
+{
+  "document": {
+    "heading_verbatim": "UNOFFICIAL RESULTS",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false,
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-05-18",
+      "detail": "https://content.civicplus.com/api/assets/ma-harwich/872d996c-d56e-49cd-a009-9fd5b36b1688",
+      "quote": "announced the results on May 18, 2021 at 8:45 pm",
+      "note": "Harwich's own 2021 Annual Town Report, election section (pp 85-87). The held return is a legacy Excel workbook titled 'May 2021 Election Results' that names no day; the town report's clerk narrative does. Found in logs/atr_sweep.csv, where the row was scored UNDATED even though its own evidence field printed the date."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "BOARD OF SELECTMEN",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary E. Anderson",
+          "votes": 1140
+        },
+        {
+          "name_original": "Jesse M. Gallant",
+          "votes": 264
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "MODERATOR",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael D. Ford",
+          "votes": 1183
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 236,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "MONOMOY REGIONAL SCHOOL COMMITTEE",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert T. Russell",
+          "votes": 1108
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 312,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "TRUSTEES, BROOKS FREE LIBRARY",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan A. McCarty",
+          "votes": 1015
+        },
+        {
+          "name_original": "Kathleen A. Remillard",
+          "votes": 1052
+        },
+        {
+          "name_original": "Jeannie S. Wheeler",
+          "votes": 990
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1213,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "WATER/WASTEWATER COMMISSION-3 YR",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary A. Carreiro",
+          "votes": 907
+        },
+        {
+          "name_original": "Noreen A. Donahue",
+          "votes": 895
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1048,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "WATER/WASTEWATER COMMISSION-2 YR",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John B. Gough",
+          "votes": 707
+        },
+        {
+          "name_original": "Edward James McManus",
+          "votes": 679
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2021-05-18",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly E. Bourgea",
+          "votes": 1056
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 364,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harwich2021",
+  "_source_pdf": "",
+  "ballots_cast": 1427,
+  "ballots_cast_source": "derived_from_contests"
+}

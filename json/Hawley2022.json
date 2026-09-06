@@ -1,0 +1,202 @@
+{
+  "document": {
+    "heading_verbatim": "Incumbent retains seat in Hawley?s sole contested race",
+    "election_type": "Regular",
+    "election_type_evidence": "Monday?s election",
+    "date_verbatim": "May 4, 2022",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "in the only contested race"
+  },
+  "elections": [
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hussain Hamdan",
+          "votes": 70
+        },
+        {
+          "name_original": "Ashley Harrison",
+          "votes": 58
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Williams Cosby",
+          "votes": 103
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Town clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Liz Billings",
+          "votes": 121
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Brady",
+          "votes": 115
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Hawlemont Regional School District School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Liz Billings",
+          "votes": 118
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Hawlemont School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy Travers",
+          "votes": 117
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Hawlemont School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth Bersch",
+          "votes": 114
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Non-Parent Hawlemont Local Education Council member",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Suzanne Crawford",
+          "votes": 32
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kirby Thwing",
+          "votes": 44
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2022-05-04",
+      "office_original": "Auditor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carla Clark",
+          "votes": 32
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hawley2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hawley2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

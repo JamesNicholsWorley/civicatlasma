@@ -1,0 +1,228 @@
+{
+  "elections": [
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marilee Kenney Hunt",
+          "votes": 1529
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 348,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TOWN COUNCILOR",
+      "district_original": "DIST. 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric H. Moore",
+          "votes": 322
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 97,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TOWN COUNCILOR",
+      "district_original": "DIST. 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin A. Perry",
+          "votes": 313
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TOWN COUNCILOR",
+      "district_original": "DIST. 5",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Colombotos",
+          "votes": 88
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TOWN COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis C. Gallagher",
+          "votes": 1436
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 446,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Joseph Dolan",
+          "votes": 994
+        },
+        {
+          "name_original": "Timothy P. Fitzgibbons",
+          "votes": 1246
+        },
+        {
+          "name_original": "Jason C. Hammond",
+          "votes": 744
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 791,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2021-04-24",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 5478,
+          "tally_row": true
+        },
+        {
+          "name_original": "Kori Blabish Alves",
+          "votes": 8
+        },
+        {
+          "name_original": "Jennifer Anderson",
+          "votes": 21
+        },
+        {
+          "name_original": "Anastasia Decotis",
+          "votes": 16
+        },
+        {
+          "name_original": "Ariel Gaeta",
+          "votes": 7
+        },
+        {
+          "name_original": "Matthew A. Gerritsen",
+          "votes": 39
+        },
+        {
+          "name_original": "Deirdre O'Shea-Kerr",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 99,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bridgewater2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bridgewater2021.pdf",
+  "ballots_cast": 1891,
+  "ballots_cast_source": "derived_from_contests"
+}

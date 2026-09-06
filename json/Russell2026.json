@@ -1,0 +1,260 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 13,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "the same document, on a page outside the crop",
+      "value": "2026-06-01",
+      "strength": "corroborated",
+      "quote": "WEAKEST OF THIS BATCH. Nothing in the document prints a date -- it is a winner-per-office list with vote counts and an undated DocumentCenter slug. Its PDF creation timestamp is 2026-06-02, and 1 June 2026 is the Monday immediately before, which is the weekday Russell votes on in its published 2021, 2024 and 2025. A bracket plus a creation stamp, not a printed date.",
+      "citation": "https://www.townofrussell.us/DocumentCenter/View/519/Election-Resultspdf",
+      "note": "established 2026-08-25 by src/land_ingest9.py, verified against the source PDF"
+    }
+  },
+  "elections": [
+    {
+      "office_original": "Moderator",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "J. Illtyd Fernandez-Sierra",
+          "votes": 73
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Selectman 3 yrs.",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Wayne Precanico",
+          "votes": 68
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Selectman 1 yr.",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Keith Cortis",
+          "votes": 66
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kim Morgan",
+          "votes": 73
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "GRSC",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Alicia Hansen",
+          "votes": 65
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sherri Merritt",
+          "votes": 73
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Constable",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Dennis Moran",
+          "votes": 71
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Andrew Fox",
+          "votes": 72
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Sewer Commission",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lenise Pappas",
+          "votes": 70
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Electric Light Commission",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "J. Illtyd Fernandez-Sierra",
+          "votes": 72
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Water Commission",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Dennis Moran",
+          "votes": 72
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Planning Board",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mark Frechette",
+          "votes": 44
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Tree Warden",
+      "district_original": "",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "<UNKNOWN>",
+      "date": "2026-06-01",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Louis Garlo",
+          "votes": 74
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Russell2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Russell2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

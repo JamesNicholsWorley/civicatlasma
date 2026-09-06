@@ -1,0 +1,108 @@
+{
+  "document": {
+    "heading_verbatim": "North Adams elections 2021: See the full results",
+    "election_type": "Regular",
+    "election_type_evidence": "The document presents 2021 municipal elections held on the regular election date (November 2, 2021, which was Election Day that year).",
+    "date_verbatim": "Nov 2, 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 2,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "North Adams",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lynette Bond",
+          "votes": 1484
+        },
+        {
+          "name_original": "Jennifer Macksey",
+          "votes": 1681
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2021-11-02",
+      "office_original": "City Council",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald Sheldon",
+          "votes": 1705
+        },
+        {
+          "name_original": "Joseph Smith",
+          "votes": 1739
+        },
+        {
+          "name_original": "Jesse Lee Egan Poirier",
+          "votes": 1744
+        },
+        {
+          "name_original": "Heidi Shartrand-Newell",
+          "votes": 1623
+        },
+        {
+          "name_original": "Barbara Ellen Murray",
+          "votes": 1403
+        },
+        {
+          "name_original": "Ashley Shade",
+          "votes": 1285
+        },
+        {
+          "name_original": "Jennifer Barbeau",
+          "votes": 1610
+        },
+        {
+          "name_original": "Wayne Wilkinson",
+          "votes": 1139
+        },
+        {
+          "name_original": "Michael Obasohan",
+          "votes": 1508
+        },
+        {
+          "name_original": "Marie Harpin",
+          "votes": 1016
+        },
+        {
+          "name_original": "Bryan Sapienza",
+          "votes": 1245
+        },
+        {
+          "name_original": "Lisa Blackmer",
+          "votes": 1124
+        },
+        {
+          "name_original": "Keith Bona",
+          "votes": 537
+        },
+        {
+          "name_original": "Peter Oleskiewicz",
+          "votes": 884
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NorthAdams2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

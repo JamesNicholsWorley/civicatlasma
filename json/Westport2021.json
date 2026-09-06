@@ -1,0 +1,118 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION\nWestport, MA\nAPRIL 13, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "APRIL 13, 2021",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Westport",
+      "date": "2021-04-13",
+      "office_original": "Selectman - Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann M. Boxler",
+          "votes": 980
+        },
+        {
+          "name_original": "Richard W. Brewer",
+          "votes": 921
+        },
+        {
+          "name_original": "Walter D. Moniz",
+          "votes": 505
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westport",
+      "date": "2021-04-13",
+      "office_original": "Assessor - Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sue Ann McDermott",
+          "votes": 999
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 401,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westport",
+      "date": "2021-04-13",
+      "office_original": "Board Of Health - Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip Weinberg",
+          "votes": 932
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 468,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westport",
+      "date": "2021-04-13",
+      "office_original": "School Committee - Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Staton-Cross",
+          "votes": 882
+        },
+        {
+          "name_original": "Antonio M. Viveiros",
+          "votes": 874
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1044,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westport2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westport2021.pdf",
+  "ballots_cast": 1400,
+  "ballots_cast_source": "derived_from_contests"
+}

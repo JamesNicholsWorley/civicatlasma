@@ -1,0 +1,181 @@
+{
+  "document": {
+    "heading_verbatim": "Municipal election- Official results - 11/02/2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Municipal election- Official results - 11/02/2021",
+    "date_verbatim": "11/02/2021",
+    "offices_on_ballot": 3,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Haverhill",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "James J Fiorentini",
+          "votes": 5643
+        },
+        {
+          "name_original": "Colin LePage",
+          "votes": 4790
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 152,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2021-11-02",
+      "office_original": "City Council",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Jordan",
+          "votes": 5631
+        },
+        {
+          "name_original": "John Michitson",
+          "votes": 5472
+        },
+        {
+          "name_original": "Melinda Barrett",
+          "votes": 5221
+        },
+        {
+          "name_original": "Joseph Bevilacqua",
+          "votes": 4962
+        },
+        {
+          "name_original": "Thomas Sullivan",
+          "votes": 4667
+        },
+        {
+          "name_original": "Melissa Lewandowski",
+          "votes": 4188
+        },
+        {
+          "name_original": "Michael McGonagle",
+          "votes": 4060
+        },
+        {
+          "name_original": "Catherine Rogers",
+          "votes": 3828
+        },
+        {
+          "name_original": "Shaun Toohey",
+          "votes": 3789
+        },
+        {
+          "name_original": "Katrina Hobbs Everett",
+          "votes": 3476
+        },
+        {
+          "name_original": "Kenneth Quimby",
+          "votes": 2840
+        },
+        {
+          "name_original": "Dee Jacobs O'Neil",
+          "votes": 2507
+        },
+        {
+          "name_original": "Josiah Morrow",
+          "votes": 2308
+        },
+        {
+          "name_original": "Fred Simmons",
+          "votes": 2149
+        },
+        {
+          "name_original": "William Taylor",
+          "votes": 1991
+        },
+        {
+          "name_original": "Kenneth Stevenson",
+          "votes": 1810
+        },
+        {
+          "name_original": "Tomas Michel",
+          "votes": 1134
+        },
+        {
+          "name_original": "Others",
+          "votes": 75,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35562,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Haverhill",
+      "date": "2021-11-02",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul A Magliocchetti",
+          "votes": 5979
+        },
+        {
+          "name_original": "Richard J Rosa",
+          "votes": 5673
+        },
+        {
+          "name_original": "Maura L Ryan Ciardiello",
+          "votes": 5403
+        },
+        {
+          "name_original": "Miguel Quinones",
+          "votes": 3848
+        },
+        {
+          "name_original": "Others",
+          "votes": 82,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10905,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Haverhill2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Haverhill2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

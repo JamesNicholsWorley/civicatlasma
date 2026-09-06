@@ -1,0 +1,63 @@
+{
+  "elections": [
+    {
+      "municipality": "Dracut",
+      "date": "2021-05-08",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Joseph DiRocco",
+          "votes": 1176
+        },
+        {
+          "name_original": "Phil Thibault",
+          "votes": 1042
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2021-05-08",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Rebecca Duda",
+          "votes": 1494
+        },
+        {
+          "name_original": "Joseph Wilkie",
+          "votes": 1430
+        },
+        {
+          "name_original": "Rosemary Espinal",
+          "votes": 564
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Dracut2021",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-05-08",
+      "detail": "https://www.lowellsun.com/2021/05/08/incumbent-joe-dirocco-wins-a-tight-one-for-dracut-selectman/",
+      "quote": "prevailed in a tight race over Phil Thibault in Saturday's town elections. Unofficial results, at 8:40 p.m. Saturday",
+      "note": "OVERRIDES src.verify_date_evidence, deliberately and with the reason recorded. That check refuses a date that appears only as a publication stamp, and it is right to -- but this is not a stamp standing alone, it is a CONJUNCTION that neither half could make on its own: the story's timestamp fixes WHICH week, and the story's own body fixes the WEEKDAY the election was held. Published 9:14 PM on Saturday 8 May 2021 and reporting results counted at 8:40 PM THAT EVENING, 34 minutes earlier. 8 May 2021 was a Saturday. An election reported as counted the same evening the story was filed happened that day"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

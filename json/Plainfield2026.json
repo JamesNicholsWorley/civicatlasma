@@ -1,0 +1,218 @@
+{
+  "document": {
+    "heading_verbatim": "RESULTS OF ANNUAL TOWN ELECTION HELD ON MAY 2, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MAY 2, 2026",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false,
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2026-05-02",
+      "detail": "https://www.plainfield-ma.us/media/10036",
+      "quote": "RESULTS OF ANNUAL TOWN ELECTION HELD ON MAY 2, 2026",
+      "note": "the date is the first line of the cited document itself; the parse simply did not fill the field"
+    }
+  },
+  "elections": [
+    {
+      "office_original": "BOARD OF ASSESSORS - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel LaChance",
+          "votes": 109
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF HEALTH - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald Weeks",
+          "votes": 33
+        },
+        {
+          "name_original": "Henry Stockman",
+          "votes": 85
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF SELECTMEN - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Lambert",
+          "votes": 113
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "MODERATOR - 1 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Honneus",
+          "votes": 88
+        },
+        {
+          "name_original": "Levi Gershkowitz",
+          "votes": 25
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY TRUSTEE - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donna Monroe",
+          "votes": 40
+        },
+        {
+          "name_original": "Adrian Almquist",
+          "votes": 68
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Bjorkland",
+          "votes": 107
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "TREE WARDEN - 1 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erik Burcroff",
+          "votes": 109
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Plainfield2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plainfield2026.pdf",
+  "ballots_cast": 119,
+  "ballots_cast_source": "derived_from_contests"
+}

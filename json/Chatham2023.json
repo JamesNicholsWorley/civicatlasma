@@ -1,0 +1,138 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION MINUTES",
+    "election_type": "Regular",
+    "election_type_evidence": "This Annual Town Election, called by the Board of Selectmen as required by law",
+    "date_verbatim": "THURSDAY, MAY 11, 2023",
+    "offices_on_ballot": 4,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Chatham",
+      "date": "2023-05-11",
+      "office_original": "SELECT BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shareen Davis",
+          "votes": 766
+        },
+        {
+          "name_original": "David Mott",
+          "votes": 136
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 193,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2023-05-11",
+      "office_original": "MONOMOY REGIONAL SCHOOL CMTE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacqueline Macy Zibrat-Long",
+          "votes": 799
+        },
+        {
+          "name_original": "Elizabeth A. Gray",
+          "votes": 663
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 733,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2023-05-11",
+      "office_original": "MONOMOY REGIONAL SCHOOL CMTE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne Scotti Finnegan",
+          "votes": 134
+        },
+        {
+          "name_original": "Others",
+          "votes": 62,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 922,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2023-05-11",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bruce W. Beane",
+          "votes": 790
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 319,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chatham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chatham2023.pdf",
+  "ballots_cast": 1118,
+  "ballots_cast_source": "derived_from_contests"
+}

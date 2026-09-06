@@ -1,0 +1,151 @@
+{
+  "elections": [
+    {
+      "municipality": "Southbridge",
+      "date": "2021-06-08",
+      "office_original": "Councilor-At-Large",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "David S. Adams",
+          "votes": 1031
+        },
+        {
+          "name_original": "John L. Daniel",
+          "votes": 904
+        },
+        {
+          "name_original": "Scott S. Lazo",
+          "votes": 838
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2065,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2021-06-08",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Martena A. Shea",
+          "votes": 1013
+        },
+        {
+          "name_original": "Erin A. DeMelo",
+          "votes": 826
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1405,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2021-06-08",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Madaline I. Bonadies",
+          "votes": 1369
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 242,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2021-06-08",
+      "office_original": "Southern Worcester County -BPHS",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 151,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1476,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2021-06-08",
+      "office_original": "Southbridge Housing Authority",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Paul K. Brown",
+          "votes": 1161
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 447,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Southbridge2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southbridge2021.pdf",
+  "ballots_cast": 1627,
+  "ballots_cast_source": "derived_from_contests"
+}

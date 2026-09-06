@@ -1,0 +1,116 @@
+{
+  "document": {
+    "heading_verbatim": "With write-in votes, Thomas Griffin elected to Colrain Selectboard",
+    "election_type": "Regular",
+    "election_type_evidence": "Monday's annual town election",
+    "date_verbatim": "Monday",
+    "offices_on_ballot": 5,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All other positions on the ballot, which were uncontested, saw incumbents be re-elected.",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Colrain",
+      "date": "2021-05-03",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Thomas Griffin",
+          "votes": 77
+        },
+        {
+          "name_original": "Benjamin Eastman",
+          "votes": 63
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2021-05-03",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Megan McDonough",
+          "votes": 147
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2021-05-03",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James Slowinski",
+          "votes": 141
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2021-05-03",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Melinda Herzig",
+          "votes": 150
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2021-05-03",
+      "office_original": "Griswold Memorial Library trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Betty Johnson",
+          "votes": 154
+        },
+        {
+          "name_original": "Nancy Rich Turkle",
+          "votes": 136
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Colrain2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Colrain2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

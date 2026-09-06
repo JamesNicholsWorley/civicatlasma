@@ -1,0 +1,220 @@
+{
+  "elections": [
+    {
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ingano",
+          "votes": 1421
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Perusse",
+          "votes": 1085
+        },
+        {
+          "name_original": "Wood",
+          "votes": 355
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 128,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lipka",
+          "votes": 1368
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY",
+      "num_winners": 2,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Parkinson",
+          "votes": 1190
+        },
+        {
+          "name_original": "McGuire",
+          "votes": 1109
+        },
+        {
+          "name_original": "Marty Shaughnessy",
+          "votes": 22
+        },
+        {
+          "name_original": "Christine Gagliardi",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 810,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY (2 YEAR)",
+      "num_winners": 1,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marty Shaughnessy",
+          "votes": 47
+        },
+        {
+          "name_original": "Christine Gagliardi",
+          "votes": 20
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1501,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PARKS & REC",
+      "num_winners": 2,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kerrigan",
+          "votes": 1158
+        },
+        {
+          "name_original": "Costello",
+          "votes": 546
+        },
+        {
+          "name_original": "Verrier",
+          "votes": 752
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 680,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMM.",
+      "num_winners": 2,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Varakis",
+          "votes": 1240
+        },
+        {
+          "name_original": "Connolly",
+          "votes": 63
+        },
+        {
+          "name_original": "Shannon Reilly",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1828,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "date": "2024-06-10",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DiMeco",
+          "votes": 1322
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 246,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Clinton",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Clinton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Clinton2024.pdf",
+  "ballots_cast": 1568,
+  "ballots_cast_source": "derived_from_contests"
+}

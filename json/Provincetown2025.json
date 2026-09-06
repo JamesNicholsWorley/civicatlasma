@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Provincetown",
+      "date": "2025-05-13",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Carroll Abramson",
+          "votes": 400
+        },
+        {
+          "name_original": "John T. Golden",
+          "votes": 405
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2025-05-13",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Richard Gunn",
+          "votes": 405
+        },
+        {
+          "name_original": "Chelsea Beth Crowe",
+          "votes": 413
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2025-05-13",
+      "office_original": "Charter Compliance",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Oriana Marie Conklin",
+          "votes": 17
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 481,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2025-05-13",
+      "office_original": "Board of Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Henry Borkowski",
+          "votes": 20
+        },
+        {
+          "name_original": "Others",
+          "votes": 67,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 454,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Provincetown2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2025.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2025-05-13",
+      "detail": "https://www.provincetown-ma.gov/DocumentCenter/View/19528/May-13-2025-Annual-Town-Election-Official-Election-Results",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 541,
+  "ballots_cast_source": "derived_from_contests"
+}

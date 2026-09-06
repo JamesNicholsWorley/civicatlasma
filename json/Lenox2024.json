@@ -1,0 +1,79 @@
+{
+  "elections": [
+    {
+      "municipality": "Lenox",
+      "date": "2024-05-07",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ed Lane",
+          "votes": 794
+        },
+        {
+          "name_original": "Neal Maxymillian",
+          "votes": 687
+        },
+        {
+          "name_original": "Jared Weber",
+          "votes": 673
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2024-05-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Veronica Fenton",
+          "votes": 829
+        },
+        {
+          "name_original": "Meghan Kirby",
+          "votes": 823
+        },
+        {
+          "name_original": "Rebecca V. Miller",
+          "votes": 646
+        },
+        {
+          "name_original": "Oren Cass",
+          "votes": 557
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2024-05-07",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "John McNinch",
+          "votes": 1047
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lenox2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Dracut",
+      "date": "2022-05-07",
+      "office_original": "SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua M. Taylor",
+          "votes": 892
+        },
+        {
+          "name_original": "Jennifer L. Kopcinski",
+          "votes": 1042
+        },
+        {
+          "name_original": "Matthew James Sheehan",
+          "votes": 610
+        },
+        {
+          "name_original": "Philippe Thibault",
+          "votes": 901
+        },
+        {
+          "name_original": "Tony Archinski",
+          "votes": 1388
+        },
+        {
+          "name_original": "Blanks/Others",
+          "votes": 520
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2022-05-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Lyn Powling",
+          "votes": 672
+        },
+        {
+          "name_original": "Linda Trouville",
+          "votes": 1638
+        },
+        {
+          "name_original": "Alyssa Jacobs Nazzaro",
+          "votes": 634
+        },
+        {
+          "name_original": "Allison Lee Volpe",
+          "votes": 1096
+        },
+        {
+          "name_original": "Robert W. Sheppard III",
+          "votes": 716
+        },
+        {
+          "name_original": "Blanks/Others",
+          "votes": 596
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2022-05-07",
+      "office_original": "TRUSTEE OF THE PUBLIC LIBRARY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James W. Nolan",
+          "votes": 1723
+        },
+        {
+          "name_original": "Marietta M. Paquette",
+          "votes": 1934
+        },
+        {
+          "name_original": "Blanks/Others",
+          "votes": 1695
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2022-05-07",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George A. Malliaros",
+          "votes": 1472
+        },
+        {
+          "name_original": "David A. Martin",
+          "votes": 1053
+        },
+        {
+          "name_original": "Blanks/Others",
+          "votes": 151
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Dracut2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dracut2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

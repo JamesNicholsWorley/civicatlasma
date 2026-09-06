@@ -1,0 +1,166 @@
+{
+  "elections": [
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie E. Kavanagh",
+          "votes": 1410
+        },
+        {
+          "name_original": "Michael D. Macaskill",
+          "votes": 1310
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1179,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jannell M. Brown",
+          "votes": 315
+        },
+        {
+          "name_original": "Shelagh M. Delaney",
+          "votes": 318
+        },
+        {
+          "name_original": "Emily Mitchell",
+          "votes": 1321
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "MONOMOY REGIONAL SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tina M. Games-Evans",
+          "votes": 1525
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 436,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "BROOKS FREE LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William D. Crowell",
+          "votes": 1563
+        },
+        {
+          "name_original": "Bernadette C. Waystack",
+          "votes": 1469
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 892,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "WATER/WASTEWATER COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith A. Underwood",
+          "votes": 1550
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 412,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harwich",
+      "date": "2022-05-17",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arthur F. Bodin",
+          "votes": 1525
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 437,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harwich2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harwich2022.pdf",
+  "ballots_cast": 1962,
+  "ballots_cast_source": "derived_from_contests"
+}

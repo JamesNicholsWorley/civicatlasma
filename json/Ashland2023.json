@@ -1,0 +1,194 @@
+{
+  "elections": [
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "SELECTBOARD - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Claudia M. Bennett",
+          "votes": 655
+        },
+        {
+          "name_original": "Preston Fletcher Crow",
+          "votes": 348
+        },
+        {
+          "name_original": "Pam V. Mimms",
+          "votes": 182
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "ASSESSOR - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 181,
+          "tally_row": true
+        },
+        {
+          "name_original": "David G. Rosenblum",
+          "votes": 1010
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "SCHOOL COMMITTEE - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Laura B. Tosti",
+          "votes": 747
+        },
+        {
+          "name_original": "Shaun E. Adamec",
+          "votes": 403
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF LIBRARY TRUSTEES - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 401,
+          "tally_row": true
+        },
+        {
+          "name_original": "Carolyn E. Bell",
+          "votes": 1025
+        },
+        {
+          "name_original": "Elizabeth Wypler Rabinowitz",
+          "votes": 965
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF HEALTH - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 496,
+          "tally_row": true
+        },
+        {
+          "name_original": "Barbara Sekesogundu Simon",
+          "votes": 774
+        },
+        {
+          "name_original": "Nkiruka Christine Agu",
+          "votes": 534
+        },
+        {
+          "name_original": "David A. Kinsman",
+          "votes": 584
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2023-05-16",
+      "office_original": "PLANNING BOARD - 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 215,
+          "tally_row": true
+        },
+        {
+          "name_original": "Anna Tesmenitsky",
+          "votes": 962
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ashland2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashland2023.pdf",
+  "ballots_cast": 1197,
+  "ballots_cast_source": "derived_from_contests"
+}

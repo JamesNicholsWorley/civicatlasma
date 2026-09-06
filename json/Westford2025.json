@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Select Board (3 Year Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noelle L Donovan",
+          "votes": 1646
+        },
+        {
+          "name_original": "Heather Marie Fitzpatrick",
+          "votes": 1054
+        },
+        {
+          "name_original": "Sean P Kelley",
+          "votes": 1796
+        },
+        {
+          "name_original": "Meghan Francis O'Connell",
+          "votes": 808
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 164,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Board of Health (3 Year Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephanie Granger",
+          "votes": 2019
+        },
+        {
+          "name_original": "Stephan Goupil",
+          "votes": 1919
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1513,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Housing Authority (5 Year Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia L Dubey",
+          "votes": 2079
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 645,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Library Trustees (3 Year Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Diercks",
+          "votes": 2031
+        },
+        {
+          "name_original": "Glen Secor",
+          "votes": 2002
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1414,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Library Trustee (1 Year Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Elizabeth Siegel",
+          "votes": 2012
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 716,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "Planning Board (5 Year Term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert L. Shaffer Jr.",
+          "votes": 1566
+        },
+        {
+          "name_original": "Ming Zhang",
+          "votes": 1080
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 90,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Westford",
+      "date": "2025-05-06",
+      "office_original": "School Committee (3 Year Term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shana Ann Farnsworth",
+          "votes": 2013
+        },
+        {
+          "name_original": "Jessica Lynn Silverman",
+          "votes": 2003
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1431,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westford2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westford2025.pdf",
+  "ballots_cast": 2737,
+  "ballots_cast_source": "derived_from_contests"
+}

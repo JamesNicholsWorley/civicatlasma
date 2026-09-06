@@ -1,0 +1,140 @@
+{
+  "elections": [
+    {
+      "municipality": "Mansfield",
+      "date": "2026-05-12",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maureen R. Doherty",
+          "votes": 890
+        },
+        {
+          "name_original": "Brendan A. Roche",
+          "votes": 1042
+        },
+        {
+          "name_original": "Scott Michael Barbato",
+          "votes": 250
+        },
+        {
+          "name_original": "Mark Corsillo",
+          "votes": 972
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 425,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2026-05-12",
+      "office_original": "Mansfield School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenifer Sellon",
+          "votes": 1243
+        },
+        {
+          "name_original": "Jamie Vitonis",
+          "votes": 1229
+        },
+        {
+          "name_original": "Dwayne L. Bryant",
+          "votes": 430
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 669,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2026-05-12",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "D. Austin Horowitz",
+          "votes": 1415
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 364,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2026-05-12",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Devlyn Nelson House",
+          "votes": 566
+        },
+        {
+          "name_original": "Michael Alan Trowbridge, Sr.",
+          "votes": 990
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 227,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mansfield2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Mansfield2026.pdf",
+  "ballots_cast": 1792,
+  "ballots_cast_source": "derived_from_contests"
+}

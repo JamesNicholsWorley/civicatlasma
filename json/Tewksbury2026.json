@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas E. Bowley",
+          "votes": 606
+        },
+        {
+          "name_original": "John J. Lombardo",
+          "votes": 1068
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan M. Lloyd",
+          "votes": 1243
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 444,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan T. Ciampa",
+          "votes": 1164
+        },
+        {
+          "name_original": "Stephen G. Johnson, Jr.",
+          "votes": 1095
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1118,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christine T. Janeczak",
+          "votes": 1245
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 442,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cathy M. Dwyer",
+          "votes": 1198
+        },
+        {
+          "name_original": "Jessica L. Rauseo",
+          "votes": 1231
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 980,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marc A. Difruscia",
+          "votes": 50
+        },
+        {
+          "name_original": "Others",
+          "votes": 287,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1372,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tewksbury",
+      "date": "2026-04-11",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dustin T. Weir",
+          "votes": 1242
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 455,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tewksbury2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Tewksbury2026.pdf",
+  "ballots_cast": 1709,
+  "ballots_cast_source": "derived_from_contests"
+}

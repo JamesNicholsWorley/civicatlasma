@@ -1,0 +1,191 @@
+{
+  "elections": [
+    {
+      "municipality": "Washington",
+      "date": "2026-05-16",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kent Lew",
+          "votes": 42
+        },
+        {
+          "name_original": "Rose Borgnis",
+          "votes": 1
+        },
+        {
+          "name_original": "David Fish",
+          "votes": 1
+        },
+        {
+          "name_original": "Matthew Watson",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2026-05-16",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Paquette",
+          "votes": 22
+        },
+        {
+          "name_original": "David Fish",
+          "votes": 1
+        },
+        {
+          "name_original": "Mary Jarvie",
+          "votes": 1
+        },
+        {
+          "name_original": "Craig Willis",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Burke",
+          "votes": 1
+        },
+        {
+          "name_original": "Rose Borgnis",
+          "votes": 1
+        },
+        {
+          "name_original": "Thomas Delaney",
+          "votes": 1
+        },
+        {
+          "name_original": "Matthew Watson",
+          "votes": 1
+        },
+        {
+          "name_original": "David Drugmand",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2026-05-16",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Spencer",
+          "votes": 47
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2026-05-16",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rose Borgnis",
+          "votes": 31
+        },
+        {
+          "name_original": "Donald Gagnon",
+          "votes": 10
+        },
+        {
+          "name_original": "Edward Bond",
+          "votes": 1
+        },
+        {
+          "name_original": "Keith Sharp",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2026-05-16",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rose Borgnis",
+          "votes": 42
+        },
+        {
+          "name_original": "Craig Willis",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Roos",
+          "votes": 1
+        },
+        {
+          "name_original": "Keith Sharp",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Washington2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2026.pdf",
+  "ballots_cast": 49,
+  "ballots_cast_source": "derived_from_contests"
+}

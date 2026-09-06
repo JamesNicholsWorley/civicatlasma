@@ -1,0 +1,271 @@
+{
+  "document": {
+    "heading_verbatim": "Housing bank wins; O.B. select board drama",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual town election results for Edgartown, West Tisbury, and Oak Bluffs reported alongside town meeting/ballot votes; no indication of special election",
+    "date_verbatim": "April 14, 2022",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Other than the select board and planning board positions... Several offices - two on the finance committee, constable, and cemetery commissioner - will be determined by write-ins.",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Gail Barmakian",
+          "votes": 505
+        },
+        {
+          "name_original": "Dion Alley",
+          "votes": 503
+        },
+        {
+          "name_original": "Jim Bishop",
+          "votes": 49
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Mark Crossland",
+          "votes": 649
+        },
+        {
+          "name_original": "Scott Slarksy",
+          "votes": 225
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 216,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Land Bank",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Kristien Beaumont Reimann",
+          "votes": 784
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "James Butterick",
+          "votes": 774
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Parks Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Richard Combra Jr.",
+          "votes": 759
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Rizwan Malik",
+          "votes": 672
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Water Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "William Alwardt",
+          "votes": 741
+        },
+        {
+          "name_original": "Michael deBettencourt",
+          "votes": 843
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2022-04-14",
+      "office_original": "Water Commission Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Duncan Ross",
+          "votes": 779
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Tisbury",
+      "date": "2022-04-14",
+      "office_original": "Select Board",
+      "district_original": "one-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jessica Miller",
+          "votes": 601
+        },
+        {
+          "name_original": "Chris Lyons",
+          "votes": 198
+        },
+        {
+          "name_original": "James Kligensmith",
+          "votes": 55
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Tisbury",
+      "date": "2022-04-14",
+      "office_original": "Town Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Dan Waters",
+          "votes": 808
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Tisbury",
+      "date": "2022-04-14",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Cynthia Mitchell",
+          "votes": 744
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Tisbury",
+      "date": "2022-04-14",
+      "office_original": "Library Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Frances Finnigan",
+          "votes": 696
+        },
+        {
+          "name_original": "Micah Solomon Thanhauser",
+          "votes": 657
+        },
+        {
+          "name_original": "Emily Fern Fischer",
+          "votes": 752
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "OakBluffs2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/OakBluffs2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

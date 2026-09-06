@@ -1,0 +1,229 @@
+{
+  "elections": [
+    {
+      "office_original": "BOARD OF SELECTMAN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Syed H. Hashmi",
+          "votes": 848
+        },
+        {
+          "name_original": "Shelby L. Marshall",
+          "votes": 1210
+        },
+        {
+          "name_original": "Sean Keogh",
+          "votes": 1043
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 389,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF SELECTMAN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Thomas M. Dolan Jr",
+          "votes": 724
+        },
+        {
+          "name_original": "Patrick J. Welch",
+          "votes": 886
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 135,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Kristen A. Vincent",
+          "votes": 1243
+        },
+        {
+          "name_original": "Abbie Micucci",
+          "votes": 286
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 214,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Peter James Bouchard",
+          "votes": 887
+        },
+        {
+          "name_original": "Zafar I. Siddiqui",
+          "votes": 733
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 127,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Karen E. Fay",
+          "votes": 1430
+        },
+        {
+          "name_original": "James M. Holmes",
+          "votes": 1371
+        },
+        {
+          "name_original": "Carolyn R. Spring",
+          "votes": 1371
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1059,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Debra J. Cushman",
+          "votes": 815
+        },
+        {
+          "name_original": "Fiona A. McDonald",
+          "votes": 691
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 239,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "WESTBOROUGH HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2021-03-02",
+      "municipality": "Westborough",
+      "candidates": [
+        {
+          "name_original": "Jill L. Dupree",
+          "votes": 1479
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westborough2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westborough2021.pdf",
+  "ballots_cast": 1747,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,237 @@
+{
+  "elections": [
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCIL PRESIDENT AND MEMBER OF THE SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark S. Sideris",
+          "votes": 2623
+        },
+        {
+          "name_original": "Clyde L. Younger",
+          "votes": 875
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 199,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR-AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Palomba",
+          "votes": 2496
+        },
+        {
+          "name_original": "John M. Airasian",
+          "votes": 2715
+        },
+        {
+          "name_original": "John G. Gannon",
+          "votes": 2276
+        },
+        {
+          "name_original": "Caroline J. Bays",
+          "votes": 2374
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4912,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT A COUNCILOR",
+      "district_original": "District A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicole Gardner",
+          "votes": 714
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 126,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT B COUNCILOR",
+      "district_original": "District B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa J. Feltner",
+          "votes": 717
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 222,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT C COUNCILOR",
+      "district_original": "District C",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vincent J. Piccirilli Jr",
+          "votes": 736
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 255,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT D COUNCILOR",
+      "district_original": "District D",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily C. Izzo",
+          "votes": 762
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 165,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachel E. Kay",
+          "votes": 1978
+        },
+        {
+          "name_original": "Lisa Capoccia",
+          "votes": 2024
+        },
+        {
+          "name_original": "Kendra M. Foley",
+          "votes": 2147
+        },
+        {
+          "name_original": "Jennifer A. Nicholson",
+          "votes": 1323
+        },
+        {
+          "name_original": "David M. Stokes",
+          "votes": 1453
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2141,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2023-11-07",
+      "office_original": "LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maja L. Young",
+          "votes": 2620
+        },
+        {
+          "name_original": "Theodore C. Kokoros",
+          "votes": 2469
+        },
+        {
+          "name_original": "Sarah Murphy-Holroyd",
+          "votes": 2318
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3667,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Watertown2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Watertown2023.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-11-07",
+      "detail": "https://www.watertown-ma.gov/election-results",
+      "quote": "Official Results General City Election November 7, 2023 (PDF) (PDF, 91.42 KB)",
+      "note": "the town's own election page names the date in the link text for this document"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

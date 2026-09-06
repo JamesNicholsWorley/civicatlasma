@@ -1,0 +1,212 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward F. Munch Jr.",
+          "votes": 62
+        },
+        {
+          "name_original": "Douglas Haskins",
+          "votes": 19
+        },
+        {
+          "name_original": "Dana Rivers",
+          "votes": 1
+        },
+        {
+          "name_original": "Logan Brooks",
+          "votes": 1
+        },
+        {
+          "name_original": "Domonick Polumbo",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James P. Kenney",
+          "votes": 77
+        },
+        {
+          "name_original": "Logan Brooks",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Hunt",
+          "votes": 1
+        },
+        {
+          "name_original": "Heather Brooks",
+          "votes": 13
+        },
+        {
+          "name_original": "Coralie Pelkey",
+          "votes": 10
+        },
+        {
+          "name_original": "Peggy White",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly Wetherell-w",
+          "votes": 4
+        },
+        {
+          "name_original": "Michael Hunt",
+          "votes": 1
+        },
+        {
+          "name_original": "Domonick Polumbo",
+          "votes": 11
+        },
+        {
+          "name_original": "Heather Brooks",
+          "votes": 2
+        },
+        {
+          "name_original": "Bruce Cullett",
+          "votes": 1
+        },
+        {
+          "name_original": "John Di Tomasso",
+          "votes": 1
+        },
+        {
+          "name_original": "Bonny Di Tomasso",
+          "votes": 1
+        },
+        {
+          "name_original": "Edward F. Munch Jr.",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Branden Mascolo",
+          "votes": 81
+        },
+        {
+          "name_original": "Paul D. Hickling",
+          "votes": 69
+        },
+        {
+          "name_original": "Kim Leach",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-06-13",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Allan B. Gordon",
+          "votes": 50
+        },
+        {
+          "name_original": "Logan Brooks",
+          "votes": 35
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Peru2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Peru2026.pdf",
+  "ballots_cast": 87,
+  "ballots_cast_source": "derived_from_contests"
+}

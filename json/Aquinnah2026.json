@@ -1,0 +1,114 @@
+{
+  "elections": [
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "MEMBER of the SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julianne Vanderhoop",
+          "votes": 101
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "MEMBER of the TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kayla Darcy",
+          "votes": 113
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "MEMBER of the BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Benoit",
+          "votes": 106
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "MEMBERS of the CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Audrey Jeffers",
+          "votes": 12
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "MEMBER of the PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura Jordan",
+          "votes": 39
+        },
+        {
+          "name_original": "James Newman",
+          "votes": 16
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2026-05-14",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tobias Vanderhoop",
+          "votes": 50
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Aquinnah2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Aquinnah2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

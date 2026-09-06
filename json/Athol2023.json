@@ -1,0 +1,122 @@
+{
+  "elections": [
+    {
+      "municipality": "Athol",
+      "date": "2023-04-03",
+      "office_original": "Athol Royalston Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Eric Jack",
+          "votes": 203
+        },
+        {
+          "name_original": "Emily White",
+          "votes": 208
+        },
+        {
+          "name_original": "Charles Larkin",
+          "votes": 67
+        },
+        {
+          "name_original": "Frank Vesco II",
+          "votes": 79
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Athol",
+      "date": "2023-04-03",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Rebecca Bialecki",
+          "votes": 226
+        },
+        {
+          "name_original": "Brian Dodge",
+          "votes": 30
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Athol",
+      "date": "2023-04-03",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lawrence McLaughlin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Athol",
+      "date": "2023-04-03",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "J. R. Greene",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Carol Batchelder",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Athol",
+      "date": "2023-04-03",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Randy Mitchell",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Athol2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

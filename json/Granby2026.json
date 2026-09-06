@@ -1,0 +1,149 @@
+{
+  "elections": [
+    {
+      "municipality": "Granby",
+      "date": "2026-05-18",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Lawson",
+          "votes": 488
+        },
+        {
+          "name_original": "Rosemarie Rosen",
+          "votes": 387
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2026-05-18",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mael Walkowiak",
+          "votes": 539
+        },
+        {
+          "name_original": "Richard Bombardier",
+          "votes": 301
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2026-05-18",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Trevor Augustino",
+          "votes": 599
+        },
+        {
+          "name_original": "Thomas Hamel",
+          "votes": 4
+        },
+        {
+          "name_original": "Tim Abbott",
+          "votes": 2
+        },
+        {
+          "name_original": "Ro Rosen",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2026-05-18",
+      "office_original": "School Committee",
+      "district_original": "One-year unexpired term",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Thomas Hamel",
+          "votes": 3
+        },
+        {
+          "name_original": "Tim Abbott",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2026-05-18",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Paula Beaulieu",
+          "votes": 555
+        },
+        {
+          "name_original": "Candace Ribiero",
+          "votes": 518
+        },
+        {
+          "name_original": "Angela Chagnon",
+          "votes": 427
+        },
+        {
+          "name_original": "Nita Abbott",
+          "votes": 409
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Granby2026",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2026-05-18",
+      "detail": "https://www.wwlp.com/news/local-news/hampshire-county/granby-town-election-results-contested-races-for-select-board-library-trustee/",
+      "quote": "Voters in the town of Granby went to the polls Monday for the town's annual election",
+      "note": "OVERRIDES src.verify_date_evidence, deliberately and with the reason recorded. That check refuses a date that appears only as a publication stamp, and it is right to -- but this is not a stamp standing alone, it is a CONJUNCTION that neither half could make on its own: the story's timestamp fixes WHICH week, and the story's own body fixes the WEEKDAY the election was held. Posted 10:09 AM on Tuesday 19 May 2026, reporting that voters went to the polls MONDAY. The Monday before 19 May 2026 is 18 May 2026. Corrects a parse that asserted 2026-04-13. An earlier pass recorded this town-year as a documented absence; that was too strict"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

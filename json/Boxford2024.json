@@ -1,0 +1,282 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "the same document, on a page outside the crop",
+      "value": "2024-05-21",
+      "strength": "corroborated",
+      "quote": "the crop prints no date; the report's own table of contents (p8) reads \"Annual Town Election Results, May 21, 2024 ... 59\", and 59 is the printed page the crop was taken from. Verified 2026-08-25 in the source PDF, not taken from the handoff table.",
+      "citation": "https://www.boxfordma.gov/DocumentCenter/View/2963/Annual-Report-2024",
+      "note": "established 2026-08-25 by src/land_ingest9.py, verified against the source PDF"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "CHARLES J COSTELLO",
+          "votes": 839
+        },
+        {
+          "name_original": "JUDITH ANN STICKNEY",
+          "votes": 568
+        },
+        {
+          "name_original": "LINDSEY MICHELLE CREA",
+          "votes": 760
+        },
+        {
+          "name_original": "DANIEL R RIO",
+          "votes": 440
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 277,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF ASSESSORS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "DIANA M. HEADRICK",
+          "votes": 1033
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 408,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JAMES H. BARNES",
+          "votes": 1023
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 417,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JAMES V. ELLARD",
+          "votes": 1050
+        },
+        {
+          "name_original": "JAMES TAGGART",
+          "votes": 970
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 863,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "BOXFORD SCHOOL COM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JOHN LEWIS LAMB MEYER",
+          "votes": 935
+        },
+        {
+          "name_original": "KEITH WILSON",
+          "votes": 954
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 987,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "MASCO SCHOOL COM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ERICA ANDREW CLEMENTS",
+          "votes": 741
+        },
+        {
+          "name_original": "RUSSELL A. FIORE",
+          "votes": 468
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 233,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "AMANDA J. LAMANITA",
+          "votes": 814
+        },
+        {
+          "name_original": "ARTHUR W. HAVEY",
+          "votes": 674
+        },
+        {
+          "name_original": "KATHRYN COFSKY LEMAIRE",
+          "votes": 718
+        },
+        {
+          "name_original": "KRYSTAL LEIGH PARKER",
+          "votes": 767
+        },
+        {
+          "name_original": "STEFANIE ROBIN SIEGEL",
+          "votes": 800
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1998,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxford",
+      "date": "2024-05-21",
+      "office_original": "COMM OF TRUST FUNDS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "MARK M. PHELAN",
+          "votes": 1042
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 396,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boxford2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxford2024.pdf",
+  "ballots_cast": 1447,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Provincetown",
+      "date": "2023-05-09",
+      "office_original": "Select Board (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erik Borg",
+          "votes": 668
+        },
+        {
+          "name_original": "Austin Phillip Knight",
+          "votes": 299
+        },
+        {
+          "name_original": "Austin Douglas Miller",
+          "votes": 602
+        },
+        {
+          "name_original": "Gordon J. Siegel",
+          "votes": 128
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 163,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2023-05-09",
+      "office_original": "School Committee (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Galen Malicoat",
+          "votes": 755
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 179,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2023-05-09",
+      "office_original": "Bd Library Trustees (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan E. Prugh",
+          "votes": 718
+        },
+        {
+          "name_original": "Burt Grossman",
+          "votes": 608
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 510,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2023-05-09",
+      "office_original": "Charter Compliance Commission (3 yr)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John Keith",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 864,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2023-05-09",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frances M. Coco",
+          "votes": 654
+        },
+        {
+          "name_original": "Arlene Weston",
+          "votes": 660
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 490,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Provincetown2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

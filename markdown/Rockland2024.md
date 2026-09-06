@@ -1,0 +1,164 @@
+State Committee Man Lib
+Write-In 0 0 0 0 0 0 1 1 0 4 4 1 11
+Total Votes 0 0 0 0 0 0 1 1 0 4 4 1 11
+Number of Overvotes 0 0 0 0 0 0 0 0 0 0 0 0 0
+Number of Undervotes 7 3 1 2 5 3 2 1 1 0 4 3 32
+7 3 1 2 5 3 3 2 1 4 8 4
+State Committee Woman Lib
+Write-In 1 0 0 0 0 0 1 0 0 2 4 2 10
+Total Votes 1 0 0 0 0 0 1 0 0 2 4 2 10
+Number of Overvotes 0 0 0 0 0 0 0 0 0 0 0 0 0
+Number of Undervotes 6 3 1 2 5 3 2 2 1 2 4 2 33
+7 3 1 2 5 3 3 2 1 4 8 4
+Town Committee Lib
+Write-In 0 1 0 0 0 0 1 0 0 2 20 10 34
+Total Votes 0 1 0 0 0 0 1 0 0 2 20 10 34
+Number of Overvotes 0 0 0 0 0 0 0 0 0 0 0 0 0
+Number of Undervotes 70 29 10 20 50 30 29 20 10 38 60 30 396
+Total Votes 263 434 269 453 130 367 163 347 146 447 204 447 3670
+17
+TOWN OF ROCKLAND
+ANNUAL TOWN
+ELECTION
+Saturday, April 13, 2024
+The Annual Town Election was held in the Rogers Middle School Gymnasium, 100 Taunton Avenue for
+Precincts 1, 2, 3 and 4 and the R. Stewart Esten School,733 Summer Street for Precincts 5 and 6 on
+Saturday, April 13, 202. A Warrant issued by the Selectmen on April 2, 2024, was posted in each of the
+six precincts by Ron Spears on April 4, 2024.
+Cards of Instructions advising voters how to mark their ballots, Abstracts of the Laws imposing penalties
+on voters and Massachusetts Voters' Bill of Rights were posted as required by the Laws of the
+Commonwealth.
+Imagecast machines were used in each precinct and there was an AutoMark machine for use by
+handicapped voters in each polling location. The AutoMark machines have a touch screen, VAT for a blind
+person as well as a braille keypad and headphones to allow all voters to independently vote.
+The polls were opened at 8:00 a.m. Election officials in each of the six precincts printed a zero tape of all
+candidates to ensure there were no votes on the tabulator and that each candidate was listed. The tape was
+posted in a conspicuous place in the precinct.
+The polls were closed at 6:00 p.m. Total ballots cast were 300, 2.3% of the 13,036 registered voters.
+Unofficial results were posted in the Rockland Town Offices at 6:30 p.m. Official results were declared as
+follows:
+PRECINCT 1 2 3 4 5 6 TOTAL
+Town Collector
+Judith Hartigan 35 59 49 37 44 38 262
+Write-In 1 0 1 0 0 1 3
+Total Votes 36 59 50 37 44 39 265
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 6 7 8 6 5 3 35
+300
+Treasurer
+Allison Sullivan 31 56 53 37 42 37 256
+Write-In 1 0 0 1 0 0 2
+Total Votes 32 56 53 38 42 37 258
+Number of
+Overvotes 0 0 0 1 0 0 1
+Number of
+Undervotes 10 10 5 4 7 5 41
+300
+Town Clerk
+Liza Landy 33 58 54 40 47 37 269
+Write-In 1 0 0 1 0 1 3
+Total Votes I I 34 I 58 I 54 I 41 I 47 I 38 I 272
+Number of 0 0 0 0 0 0 0
+18
+Overvotes
+Number of I I
+Undervotes 8 8 4 2 2 4 28
+300
+Selectmen
+Tiffanie Needham 28 52 52 35 43 37 247
+Write-In 3 0 0 0 1 1 5
+Total Votes 31 52 52 35 44 38 252
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 11 14 6 8 5 4 48
+300
+Board of Health
+Tina Gallant 3 3 4 1 1 0 12
+Write-In 6 8 7 6 9 7 43
+Total Votes 9 11 11 7 10 7 55
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 33 55 47 36 39 35 245
+300
+Board of Assessors
+Charles E Wehner Jr 30 45 48 34 41 34 232
+Write-In 1 0 0 0 1 0 2
+Total Votes 31 45 48 34 42 34 234
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 11 21 10 9 7 8 66
+300
+Housing Authority
+Kimberly A Dicenso 27 51 48 33 40 35 234
+Write-In 2 0 0 0 0 0 2
+Total Votes 29 51 48 33 40 35 236
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 13 15 10 10 9 7 64
+300
+Library Trustees
+Carol Cahill 32 50 49 37 45 36 249
+Jeanne Morton 29 37 42 32 40 35 35
+Write-In 2 0 0 0 0 0 2
+Total Votes 63 87 91 69 85 71 466
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 21 45 25 17 13 13 134
+600
+19
+Park
+Commissioner
+Joseph Reis 32 48 45 36 38 38 237
+Write-In 1 0 0 0 1 0 2
+Total Votes 33 48 45 36 39 38 239
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 9 18 13 7 10 4 61
+300
+Planning Board
+Randolph
+Hoblitzelle 29 44 50 32 40 36 231
+Write-In 2 0 0 0 1 0 3
+Total Votes 31 44 50 32 41 36 234
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 11 22 8 11 8 6 66
+300
+School Committee
+Jill L Maroney 29 40 45 29 39 32 214
+Michele Bissonnette 31 41 47 30 42 31 222
+Write-In 2 0 0 0 2 0 4
+Total Votes 62 81 92 59 83 63 440
+Number of
+Overvotes 0 0 2 0 0 0 2
+Number of
+Undervotes 22 51 22 27 15 21 158
+600
+Sewer Commissioner
+Daniel DuRoss 34 45 45 34 38 34 230
+Write-In 2 0 0 1 1 2 6
+Total Votes 34 45 45 34 38 34 230
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 6 21 13 8 10 6 64
+300
+Water Commissioner
+Deborah Dooner 31 45 47 37 42 38 240
+Write-In 2 1 0 0 1 0 4
+Total Votes 33 46 47 37 43 38 244
+Number of
+Overvotes 0 0 0 0 0 0 0
+Number of
+Undervotes 9 20 11 6 6 4 56
+300
+20

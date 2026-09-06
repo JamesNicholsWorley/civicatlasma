@@ -1,0 +1,703 @@
+{
+  "elections": [
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John R. Oliver",
+          "votes": 9398
+        },
+        {
+          "name_original": "Alison Margaret Leary",
+          "votes": 7614
+        },
+        {
+          "name_original": "Others",
+          "votes": 155,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16143,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan S. Albright",
+          "votes": 8399
+        },
+        {
+          "name_original": "Tarik J. Lucas",
+          "votes": 9602
+        },
+        {
+          "name_original": "Others",
+          "votes": 182,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15127,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela A. Wright",
+          "votes": 8683
+        },
+        {
+          "name_original": "Andrea W. Kelley",
+          "votes": 7647
+        },
+        {
+          "name_original": "Others",
+          "votes": 107,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16870,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leonard J. Gentile",
+          "votes": 9129
+        },
+        {
+          "name_original": "Joshua Barrett Krintzman",
+          "votes": 7430
+        },
+        {
+          "name_original": "Others",
+          "votes": 195,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16552,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andreae Downs",
+          "votes": 7890
+        },
+        {
+          "name_original": "Rena L. Getz",
+          "votes": 7886
+        },
+        {
+          "name_original": "Deborah J. Crossley",
+          "votes": 7205
+        },
+        {
+          "name_original": "Others",
+          "votes": 61,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10268,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alan M. Lobovits",
+          "votes": 7895
+        },
+        {
+          "name_original": "Alicia Garner Bowman",
+          "votes": 7668
+        },
+        {
+          "name_original": "Victoria L. Danberg",
+          "votes": 7829
+        },
+        {
+          "name_original": "Others",
+          "votes": 122,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9791,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Becky Grossman",
+          "votes": 7668
+        },
+        {
+          "name_original": "Marc C. Laredo",
+          "votes": 9005
+        },
+        {
+          "name_original": "Others",
+          "votes": 89,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16548,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Councilor-at-Large Ward 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard A. Lipof",
+          "votes": 7614
+        },
+        {
+          "name_original": "David A. Kalis",
+          "votes": 7629
+        },
+        {
+          "name_original": "Others",
+          "votes": 214,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17848,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rajeev Parlikar",
+          "votes": 7408
+        },
+        {
+          "name_original": "Others",
+          "votes": 140,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9107,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Joseph Brezski",
+          "votes": 7308
+        },
+        {
+          "name_original": "Others",
+          "votes": 141,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9206,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anping Shen",
+          "votes": 7333
+        },
+        {
+          "name_original": "Others",
+          "votes": 95,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9227,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tamika Olszewski",
+          "votes": 7391
+        },
+        {
+          "name_original": "Others",
+          "votes": 147,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Rachel Prenner",
+          "votes": 7375
+        },
+        {
+          "name_original": "Others",
+          "votes": 101,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9179,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul F. Levy",
+          "votes": 7975
+        },
+        {
+          "name_original": "Others",
+          "votes": 168,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8512,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amy Louise Davenport",
+          "votes": 7126
+        },
+        {
+          "name_original": "Others",
+          "votes": 90,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9439,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barry Greenstein",
+          "votes": 7246
+        },
+        {
+          "name_original": "Others",
+          "votes": 125,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9283,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Maria S. Greenberg",
+          "votes": 903
+        },
+        {
+          "name_original": "Bernardo Arpino",
+          "votes": 246
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 399,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Micley",
+          "votes": 1803
+        },
+        {
+          "name_original": "Dan Gaynor",
+          "votes": 1131
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julia A. Malakie",
+          "votes": 1197
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 683,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Doris Ann Sweet",
+          "votes": 854
+        },
+        {
+          "name_original": "Randall Steven Block",
+          "votes": 1244
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bill Humphrey",
+          "votes": 1322
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 838,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "R. Lisle Baker",
+          "votes": 812
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 393,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Newton",
+      "date": "2023-11-07",
+      "office_original": "Ward Councilor Ward 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Holly Ryan",
+          "votes": 662
+        },
+        {
+          "name_original": "Stephen Farrell",
+          "votes": 1115
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Newton2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Newton2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

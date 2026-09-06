@@ -1,0 +1,200 @@
+{
+  "document": {
+    "heading_verbatim": "annUal Town MEETinG MinUTEs",
+    "election_type": "Regular",
+    "election_type_evidence": "To vote by official ballot for all Town Officers, Committees, Trustees, etc.",
+    "date_verbatim": "Not explicitly stated as a specific date in the document; references July 1, 2025 and July 1, 2024 for fiscal years but not for election date",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false,
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2024-05-04",
+      "detail": "https://web.archive.org/web/20240429203919/https://plainfield-ma.us/files/ATM_FY_2025.pdf",
+      "quote": "May 4, 2024 at 1:00 p.m., then and there to act on the following articles",
+      "note": "verified 2026-08-23 from the ARCHIVED BYTES (the id_ suffix is required or Wayback serves its HTML wrapper). Plainfield elects on the Town Meeting day: Article 1 of this warrant is 'To vote by official ballot for all Town Officers'. An earlier pass called this town-year unfindable"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Claude Dupont",
+          "votes": 116
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Edward Morann",
+          "votes": 72
+        },
+        {
+          "name_original": "Polly Ryan",
+          "votes": 89
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Steve Nartowicz",
+          "votes": 139
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sandra Morann",
+          "votes": 140
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Brian Hawthorne",
+          "votes": 149
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plainfield",
+      "date": "2024-05-04",
+      "office_original": "Tree Warden",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Erik Burcroff",
+          "votes": 113
+        },
+        {
+          "name_original": "Tim Crowningshield",
+          "votes": 41
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Plainfield2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plainfield2024.pdf",
+  "ballots_cast": 162,
+  "ballots_cast_source": "derived_from_contests"
+}

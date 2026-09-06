@@ -1,0 +1,186 @@
+{
+  "elections": [
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lilia Maselli",
+          "votes": 990
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 197,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "TOWN MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Eaton",
+          "votes": 1009
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 183,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "SCHOOL COMMITTEE - 3 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Jane Byrnes",
+          "votes": 727
+        },
+        {
+          "name_original": "David Ragsdale",
+          "votes": 789
+        },
+        {
+          "name_original": "James Defeo",
+          "votes": 478
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 400,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "SCHOOL COMMITTEE - 2 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Justin Cusce",
+          "votes": 132
+        },
+        {
+          "name_original": "Yvonne Helbert",
+          "votes": 195
+        },
+        {
+          "name_original": "Melissa Plowman",
+          "votes": 778
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 92,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "SHAWSHEEN TECH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Fiore Jr.",
+          "votes": 972
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 227,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2021-04-24",
+      "office_original": "WILMINGTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lorraine Penney",
+          "votes": 947
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 250,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Wilmington2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2021.pdf",
+  "ballots_cast": 1199,
+  "ballots_cast_source": "derived_from_contests"
+}

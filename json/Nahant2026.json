@@ -1,0 +1,179 @@
+{
+  "document": {
+    "heading_verbatim": "NAHANT ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "NAHANT ANNUAL TOWN ELECTION",
+    "date_verbatim": "APRIL 25, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Assessor 1-year unexpired and Nahant Housing Authority - 5 year appear with no candidates or vote totals listed"
+  },
+  "elections": [
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Board of Selectmen",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patty Karras",
+          "votes": 372
+        },
+        {
+          "name_original": "David Wilson",
+          "votes": 263
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Barba",
+          "votes": 498
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Savage Dunfee",
+          "votes": 550
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Assessor - 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine Sherber",
+          "votes": 504
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Public Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Jenkins",
+          "votes": 480
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert J. Scanlan, Jr.",
+          "votes": 332
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Planning Board - 5 year",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Steinberg",
+          "votes": 397
+        },
+        {
+          "name_original": "Thomas Hambleton",
+          "votes": 392
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Planning Board - 3 yr. unexp.",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Marie Grady",
+          "votes": 434
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nahant",
+      "date": "2026-04-25",
+      "office_original": "Nahant Housing Authority - 2 yr. unexp.",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jane Collins",
+          "votes": 454
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Nahant2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Nahant2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,586 @@
+{
+  "elections": [
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bradford S. Taylor",
+          "votes": 184
+        },
+        {
+          "name_original": "Susan A. Collette",
+          "votes": 70
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christine A. Mardirosian",
+          "votes": 217
+        },
+        {
+          "name_original": "Amanda Carroll",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 37,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter C. Joyce",
+          "votes": 198
+        },
+        {
+          "name_original": "Amanda Carroll",
+          "votes": 8
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "BOARD OF ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Amanda Carroll",
+          "votes": 51
+        },
+        {
+          "name_original": "Jeff Sullivan",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Mahoney",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 202,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aaron L. Langlois",
+          "votes": 216
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stefani L. Hicks",
+          "votes": 207
+        },
+        {
+          "name_original": "Barbara Bechan",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "CEMETERY COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory L. Spinney",
+          "votes": 226
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "CEMETERY COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J Metterville",
+          "votes": 209
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Fred Jean-Francois",
+          "votes": 185
+        },
+        {
+          "name_original": "Sarah Dawn",
+          "votes": 12
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 58,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "TREE WARDEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael M. Brunelle",
+          "votes": 215
+        },
+        {
+          "name_original": "Shawn Roden",
+          "votes": 1
+        },
+        {
+          "name_original": "Harold Black",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Denise R. Collette",
+          "votes": 190
+        },
+        {
+          "name_original": "Sherry Bergin",
+          "votes": 6
+        },
+        {
+          "name_original": "Fred Gehring",
+          "votes": 2
+        },
+        {
+          "name_original": "Shawn Roden",
+          "votes": 1
+        },
+        {
+          "name_original": "Tammy Gehring",
+          "votes": 1
+        },
+        {
+          "name_original": "Chris Sherbloom",
+          "votes": 1
+        },
+        {
+          "name_original": "Marcia Casault",
+          "votes": 1
+        },
+        {
+          "name_original": "Lisa Taylor",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 308,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter B. Clifford",
+          "votes": 215
+        },
+        {
+          "name_original": "Edna Holloway",
+          "votes": 0
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "REGIONAL SCHOOL COMMITTEE Pathfinder(4yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Francesco Dell'Olio",
+          "votes": 779
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 479,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "locale_original": "Belchertown",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "REGIONAL SCHOOL COMMITTEE Pathfinder(4yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Droz",
+          "votes": 727
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 531,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "locale_original": "Palmer",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "REGIONAL SCHOOL COMMITTEE Pathfinder(4yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Natalie Methot",
+          "votes": 1
+        },
+        {
+          "name_original": "Pagonist",
+          "votes": 1
+        },
+        {
+          "name_original": "Joe Biden",
+          "votes": 1
+        },
+        {
+          "name_original": "Tom Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Martha Williams",
+          "votes": 1
+        },
+        {
+          "name_original": "Joe Salvadore",
+          "votes": 2
+        },
+        {
+          "name_original": "Missy Morin",
+          "votes": 1
+        },
+        {
+          "name_original": "Martin Goulet",
+          "votes": 2
+        },
+        {
+          "name_original": "Warren Buffet",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1250,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "locale_original": "New Braintree",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "REGIONAL SCHOOL COMMITTEE Pathfinder(4yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Nelson",
+          "votes": 7
+        },
+        {
+          "name_original": "Laura Keskula",
+          "votes": 1
+        },
+        {
+          "name_original": "Kyle Mann",
+          "votes": 1
+        },
+        {
+          "name_original": "Joe Biden",
+          "votes": 1
+        },
+        {
+          "name_original": "Clare Hendra",
+          "votes": 2
+        },
+        {
+          "name_original": "Tammy Gehring",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Helfenbein",
+          "votes": 1
+        },
+        {
+          "name_original": "Charlie",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Springstein",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Ware",
+          "votes": 1
+        },
+        {
+          "name_original": "Mike O'Neil",
+          "votes": 1
+        },
+        {
+          "name_original": "Mike Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1243,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2021-05-17",
+      "office_original": "REGIONAL SCHOOL COMMITTEE Pathfinder(4yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Kirk",
+          "votes": 644
+        },
+        {
+          "name_original": "Jeff Nelson",
+          "votes": 2
+        },
+        {
+          "name_original": "RMG",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 615,
+          "tally_row": true
+        }
+      ],
+      "date_parsed_raw": "2020-11-03",
+      "date_source": "text",
+      "locale_original": "Warren",
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oakham2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oakham2021.pdf",
+  "ballots_cast": 255,
+  "ballots_cast_source": "derived_from_contests"
+}

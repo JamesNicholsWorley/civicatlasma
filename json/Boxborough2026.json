@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "SELECT BOARD (3 yr)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kristin Hilberg",
+          "votes": 454
+        },
+        {
+          "name_original": "Priya Sundaram",
+          "votes": 499
+        },
+        {
+          "name_original": "Patrick Kyle",
+          "votes": 205
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 247,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Guzzardi",
+          "votes": 486
+        },
+        {
+          "name_original": "Cindy Markowitz",
+          "votes": 329
+        },
+        {
+          "name_original": "Gary Kushner",
+          "votes": 382
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Boncoddo",
+          "votes": 384
+        },
+        {
+          "name_original": "Hilary Greven",
+          "votes": 426
+        },
+        {
+          "name_original": "Feclicia Knihtila",
+          "votes": 319
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 280,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Settle-Murphy",
+          "votes": 551
+        },
+        {
+          "name_original": "Cynthia Macmillan",
+          "votes": 475
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 381,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marie Cannon",
+          "votes": 582
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boxborough",
+      "date": "2026-06-02",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis Reip",
+          "votes": 573
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 119,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boxborough2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxborough2026.pdf",
+  "ballots_cast": 705,
+  "ballots_cast_source": "derived_from_contests"
+}

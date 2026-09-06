@@ -1,0 +1,134 @@
+{
+  "elections": [
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Alan Slavin",
+          "votes": 472
+        },
+        {
+          "name_original": "Glenn Lawrence",
+          "votes": 304
+        },
+        {
+          "name_original": "Patricia Wurts",
+          "votes": 386
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Steven Curry",
+          "votes": 784
+        },
+        {
+          "name_original": "John Donohue",
+          "votes": 744
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Apryl Rossi",
+          "votes": 602
+        },
+        {
+          "name_original": "Ronald Besse",
+          "votes": 347
+        },
+        {
+          "name_original": "Brennan McKiernan",
+          "votes": 434
+        },
+        {
+          "name_original": "Geoffrey Swett",
+          "votes": 627
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "Deputy Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Jospeh Ashley",
+          "votes": 818
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "Sewer User Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Sandra Slavin",
+          "votes": 782
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2021-05-04",
+      "office_original": "Non-Sewer User Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "James Giberti",
+          "votes": 840
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wareham2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wareham2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

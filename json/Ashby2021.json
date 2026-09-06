@@ -1,0 +1,350 @@
+{
+  "document": {
+    "heading_verbatim": "RESULTS OF ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "RESULTS OF ANNUAL TOWN ELECTION",
+    "date_verbatim": "April 26, 2021",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "SELECTMAN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Matthew Leonard",
+          "votes": 358
+        },
+        {
+          "name_original": "G. Lillian Whitney",
+          "votes": 76
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "COLLECTOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Kate Stacy",
+          "votes": 394
+        },
+        {
+          "name_original": "G. Lillian Whitney",
+          "votes": 44
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Jeff Childs",
+          "votes": 350
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Eric Moeller",
+          "votes": 355
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 83,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Terri Cantor",
+          "votes": 356
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "CEMETERY COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 426,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "PARK COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Robert Burnham (write-in)",
+          "votes": 71
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 356,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "LIBRARY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roberta Flashman",
+          "votes": 300
+        },
+        {
+          "name_original": "Christina Ewald",
+          "votes": 340
+        },
+        {
+          "name_original": "Lynne Carpenito",
+          "votes": 340
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 334,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "FINANCE COMMITTEE MEMBER",
+      "district_original": "Term ending at the 2022 Annual Town Election",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robin McRae",
+          "votes": 209
+        },
+        {
+          "name_original": "Rebecca Walsh",
+          "votes": 232
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 89,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "FINANCE COMMITTEE MEMBER",
+      "district_original": "Term ending at the 2023 Annual Town Election",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alan Ewald",
+          "votes": 206
+        },
+        {
+          "name_original": "Kathleen Panagiotes",
+          "votes": 229
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashby",
+      "date": "2021-04-26",
+      "office_original": "FINANCE COMMITTEE MEMBER",
+      "district_original": "Term ending at the 2024 Annual Town Election",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eldon Garhart",
+          "votes": 196
+        },
+        {
+          "name_original": "G. Lillian Whitney",
+          "votes": 65
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ashby2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashby2021.pdf",
+  "ballots_cast": 438,
+  "ballots_cast_source": "derived_from_contests"
+}

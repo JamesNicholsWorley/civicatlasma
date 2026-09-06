@@ -1,0 +1,216 @@
+{
+  "elections": [
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Select Board",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "P. CRAWFORD",
+          "votes": 428
+        },
+        {
+          "name_original": "R. GILLON",
+          "votes": 215
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Board of Assessors",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "B. CELI",
+          "votes": 468
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 195,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Planning Board",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "K. FLAWS",
+          "votes": 471
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 187,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Housing Authority",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "J. WILKIE",
+          "votes": 464
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 195,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Town Moderator",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "J. MARKEY",
+          "votes": 437
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "Library Trustee",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "R. CALAMARI",
+          "votes": 485
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lynnfield",
+      "date": "2023-04-11",
+      "office_original": "School Committee",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "J. HAYMAN",
+          "votes": 487
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 167,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lynnfield2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lynnfield2023.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2023-04-11",
+      "detail": "https://www.lynnfieldma.gov/DocumentCenter/View/2498/April-11-2023-Election-Official-Results-PDF",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 664,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,109 @@
+{
+  "elections": [
+    {
+      "municipality": "Wellfleet",
+      "date": "2024-04-29",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sheila Lyons",
+          "votes": 814
+        },
+        {
+          "name_original": "John Wolf",
+          "votes": 593
+        },
+        {
+          "name_original": "Tim Sayre",
+          "votes": 240
+        },
+        {
+          "name_original": "Steven Kopits",
+          "votes": 226
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2024-04-29",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Daniel Silverman",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2024-04-29",
+      "office_original": "Elementary School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Lauren Hill",
+          "votes": 1
+        },
+        {
+          "name_original": "Melissa Lynch",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2024-04-29",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Yvonne M. Barocas",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2024-04-29",
+      "office_original": "Cemetery Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "David Martin Agger",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wellfleet2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

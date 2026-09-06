@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas T. Thomson",
+          "votes": 3516
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1216,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melsi Xhengo",
+          "votes": 1873
+        },
+        {
+          "name_original": "Leslie J. Molyneaux",
+          "votes": 2131
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 758,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen D. Dauphinais",
+          "votes": 3426
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1325,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Ann Brugnoli",
+          "votes": 3460
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1283,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth R. Corbo",
+          "votes": 2431
+        },
+        {
+          "name_original": "Ryan Mara Hall",
+          "votes": 2467
+        },
+        {
+          "name_original": "Meghan R. Campia",
+          "votes": 1943
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2682,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven R. Louka Jr.",
+          "votes": 2723
+        },
+        {
+          "name_original": "Francis Greg Satterwhite",
+          "votes": 2557
+        },
+        {
+          "name_original": "Others",
+          "votes": 87,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4191,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2024-05-18",
+      "office_original": "Trustee of the Public Library",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeanne Cianciola",
+          "votes": 3451
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1286,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hanover2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hanover2024.pdf",
+  "ballots_cast": 4779,
+  "ballots_cast_source": "derived_from_contests"
+}

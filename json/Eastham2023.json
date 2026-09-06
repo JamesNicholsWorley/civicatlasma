@@ -1,0 +1,156 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "W. Scott Kerry",
+          "votes": 969
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arthur A. Autorino",
+          "votes": 916
+        },
+        {
+          "name_original": "Aimee J. Eckman",
+          "votes": 877
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 379,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda J. Sassi",
+          "votes": 950
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Monica Liliana Montoya-Quintero",
+          "votes": 563
+        },
+        {
+          "name_original": "Devon Robert O'Rourke",
+          "votes": 530
+        },
+        {
+          "name_original": "Debra Raymond",
+          "votes": 641
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 438,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ignatius Alfano",
+          "votes": 930
+        },
+        {
+          "name_original": "Mary Shaw",
+          "votes": 942
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 300,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Eastham",
+      "date": "2023-05-16",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William F. O'Shea",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1075,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Eastham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Eastham2023.pdf",
+  "ballots_cast": 1086,
+  "ballots_cast_source": "derived_from_contests"
+}

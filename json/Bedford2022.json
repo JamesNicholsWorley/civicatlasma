@@ -1,0 +1,190 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION BEDFORD, NEW HAMPSHIRE MARCH 8, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MARCH 8, 2022",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "TOWN MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Shaughnessy",
+          "votes": 4089
+        },
+        {
+          "name_original": "Others",
+          "votes": 628,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "SUPERVISOR OF THE CHECKLIST",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mac McMahan",
+          "votes": 3293
+        },
+        {
+          "name_original": "Others",
+          "votes": 654,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "TOWN COUNCIL",
+      "district_original": "For Two Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara L. Chagnon",
+          "votes": 3290
+        },
+        {
+          "name_original": "Others",
+          "votes": 2316,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "TOWN COUNCIL",
+      "district_original": "For Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William R. Granfield",
+          "votes": 2321
+        },
+        {
+          "name_original": "Kathleen Bemiss",
+          "votes": 3584
+        },
+        {
+          "name_original": "Phil Greazzo",
+          "votes": 1077
+        },
+        {
+          "name_original": "Michael Strand",
+          "votes": 2466
+        },
+        {
+          "name_original": "Others",
+          "votes": 1908,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "LIBRARY TRUSTEE",
+      "district_original": "For Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Stevens",
+          "votes": 3758
+        },
+        {
+          "name_original": "Others",
+          "votes": 3004,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "TRUSTEE OF THE TRUST FUNDS",
+      "district_original": "For Six Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela Van Arsdale",
+          "votes": 3004
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2022-03-08",
+      "office_original": "ZONING AMENDMENT NO. 1 - SOLAR ENERGY SYSTEMS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": -1,
+      "extraction_confidence": 0.5,
+      "candidates": [
+        {
+          "name_original": "YES",
+          "votes": 3487
+        },
+        {
+          "name_original": "NO",
+          "votes": 1327
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Bedford2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

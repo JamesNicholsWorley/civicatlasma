@@ -1,0 +1,188 @@
+{
+  "elections": [
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Town Council At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Sullivan",
+          "votes": 2226
+        },
+        {
+          "name_original": "Brian Clune",
+          "votes": 2197
+        },
+        {
+          "name_original": "Sean Powers",
+          "votes": 1969
+        },
+        {
+          "name_original": "Brian Griffin",
+          "votes": 1958
+        },
+        {
+          "name_original": "Jaime Smith",
+          "votes": 1908
+        },
+        {
+          "name_original": "Mark Follett",
+          "votes": 1255
+        },
+        {
+          "name_original": "Kenneth Ritucci",
+          "votes": 1153
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Town Council District 1",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael Eger",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Town Council District 2",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael LaFlamme",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Town Council District 3",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Anthony DiStefano",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Town Council District 4",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Daniel O'Brien",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William Reichelt",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Springfield",
+      "date": "2021-11-02",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Farrell",
+          "votes": 2234
+        },
+        {
+          "name_original": "Colleen Marcus",
+          "votes": 2156
+        },
+        {
+          "name_original": "William Garvey",
+          "votes": 2117
+        },
+        {
+          "name_original": "Kathleen Alevras",
+          "votes": 2108
+        },
+        {
+          "name_original": "Diana Coyne",
+          "votes": 2072
+        },
+        {
+          "name_original": "Kira Thompson",
+          "votes": 1788
+        },
+        {
+          "name_original": "Robert Mancini",
+          "votes": 1463
+        },
+        {
+          "name_original": "Antonio Sorcinelli",
+          "votes": 1188
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "WestSpringfield2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

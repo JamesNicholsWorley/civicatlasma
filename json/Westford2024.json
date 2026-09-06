@@ -1,0 +1,190 @@
+{
+  "elections": [
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "Select Board (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John H Cunningham",
+          "votes": 3545
+        },
+        {
+          "name_original": "Meghan Frances O'Connell",
+          "votes": 2698
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 822,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "Board of Health (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne E Belanger",
+          "votes": 5200
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1841,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "Housing Authority (1 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia L Dubey",
+          "votes": 5250
+        },
+        {
+          "name_original": "Others",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1789,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "Library Trustees (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marianne Chiulli Fleckner",
+          "votes": 4980
+        },
+        {
+          "name_original": "Deborah Teal",
+          "votes": 5010
+        },
+        {
+          "name_original": "Others",
+          "votes": 85,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4109,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "Planning Board (5 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Edward Bonenfant",
+          "votes": 4766
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2246,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westford",
+      "date": "2024-05-07",
+      "office_original": "School Committee (3 Year Term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn Anne Clear",
+          "votes": 4085
+        },
+        {
+          "name_original": "Thomas Philip Laflamme",
+          "votes": 3963
+        },
+        {
+          "name_original": "Laurie J Oliver",
+          "votes": 4520
+        },
+        {
+          "name_original": "Joseph Henry Spadano",
+          "votes": 3365
+        },
+        {
+          "name_original": "Others",
+          "votes": 82,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5261,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westford2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westford2024.pdf",
+  "ballots_cast": 7092,
+  "ballots_cast_source": "derived_from_contests"
+}

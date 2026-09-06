@@ -1,0 +1,194 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 1084
+        },
+        {
+          "name_original": "Keith Saxon",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann W. Gilbert",
+          "votes": 1108
+        },
+        {
+          "name_original": "Christian C. Huntress",
+          "votes": 1026
+        },
+        {
+          "name_original": "Jose Albuquerque",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 308,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan K. Mccready",
+          "votes": 1054
+        },
+        {
+          "name_original": "Tracey E. Spruce",
+          "votes": 1043
+        },
+        {
+          "name_original": "Amy Hafensteiner",
+          "votes": 9
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "GREATER LAWRENCE REGIONAL VOCATIONAL TECHNICAL SCHOOL DIST. COMM. - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marilyn M. Fitzgerald",
+          "votes": 1123
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 106,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melissa M. Danisch",
+          "votes": 1009
+        },
+        {
+          "name_original": "Eric Stubenhaus",
+          "votes": 996
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 454,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2021-03-23",
+      "office_original": "HOUSING AUTHORITY - 5 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel T. Grams",
+          "votes": 1051
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 175,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2021.pdf",
+  "ballots_cast": 1232,
+  "ballots_cast_source": "derived_from_contests"
+}

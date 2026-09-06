@@ -1,0 +1,128 @@
+{
+  "elections": [
+    {
+      "municipality": "Longmeadow",
+      "date": "2021-06-22",
+      "office_original": "MODERATOR – 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca M. Townsend",
+          "votes": 791
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2021-06-22",
+      "office_original": "SELECT BOARD – 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas A. Lachiusa",
+          "votes": 660
+        },
+        {
+          "name_original": "Joshua Y. Levine",
+          "votes": 655
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 475,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2021-06-22",
+      "office_original": "SCHOOL COMMITTEE – 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bronwyn M. Monahan",
+          "votes": 500
+        },
+        {
+          "name_original": "Mary Keane",
+          "votes": 615
+        },
+        {
+          "name_original": "Zachary Verriden",
+          "votes": 454
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 238,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2021-06-22",
+      "office_original": "PLANNING BOARD – 5 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Walter Gunn",
+          "votes": 757
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Longmeadow2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Longmeadow2021.pdf",
+  "ballots_cast": 911,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,162 @@
+{
+  "elections": [
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerald Green",
+          "votes": 91
+        },
+        {
+          "name_original": "James Glavin",
+          "votes": 64
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sophia Welch",
+          "votes": 105
+        },
+        {
+          "name_original": "Nancy Gilson Slate",
+          "votes": 42
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary Haley",
+          "votes": 125
+        },
+        {
+          "name_original": "Adrian Higgins",
+          "votes": 16
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Isaac Taylor",
+          "votes": 116
+        },
+        {
+          "name_original": "James Mahoney",
+          "votes": 75
+        },
+        {
+          "name_original": "Heidi Vanderhoop",
+          "votes": 101
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "James Newman",
+          "votes": 133
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Planning Board Associate",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Amera Ignacio",
+          "votes": 137
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2022-05-12",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Hebert",
+          "votes": 143
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Aquinnah2022",
+  "_source_pdf": "",
+  "ballots_cast": 169,
+  "ballots_cast_source": "derived_from_contests"
+}

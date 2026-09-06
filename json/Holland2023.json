@@ -1,0 +1,234 @@
+{
+  "elections": [
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kate Landers",
+          "votes": 122
+        },
+        {
+          "name_original": "Timothy Westg",
+          "votes": 56
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jessica Julian",
+          "votes": 175
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Charles Furst",
+          "votes": 182
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Cemetery Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Brian Johnson",
+          "votes": 151
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "David Mott",
+          "votes": 180
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Holland School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Laura Aiden",
+          "votes": 172
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Holland School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Erik Iller",
+          "votes": 172
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Steve Anderstrom",
+          "votes": 173
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Tantasqua School Committee Member",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Elias Gillen",
+          "votes": 169
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Treasurer",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Sharon Ashleigh",
+          "votes": 172
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Tree Warden",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Brian Johnson",
+          "votes": 153
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Anthony Landers",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2023-06-13",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Charles Furst",
+          "votes": 176
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Holland2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holland2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

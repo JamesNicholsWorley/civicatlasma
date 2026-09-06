@@ -1,0 +1,295 @@
+{
+  "elections": [
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Allen Edinberg",
+          "votes": 280
+        },
+        {
+          "name_original": "Patrick Welch",
+          "votes": 290
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 82,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Doret",
+          "votes": 267
+        },
+        {
+          "name_original": "Steven Bachelor",
+          "votes": 278
+        },
+        {
+          "name_original": "Boyd Conklin",
+          "votes": 13
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 94,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Pezzoni",
+          "votes": 282
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Baldwin",
+          "votes": 291
+        },
+        {
+          "name_original": "Kathleen Daly",
+          "votes": 289
+        },
+        {
+          "name_original": "Mary Ellen Johnston",
+          "votes": 290
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "WESTBOROUGH HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julia O'Neil Welch",
+          "votes": 305
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "MEMORIALS TRUSTEE - VETERAN",
+      "district_original": "3 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Gallinagh",
+          "votes": 28
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 287,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "MEMORIALS TRUSTEE - NON VETERAN",
+      "district_original": "3 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 318,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "MEMORIALS TRUSTEE - VETERAN",
+      "district_original": "2 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Passler",
+          "votes": 28
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 295,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "MEMORIALS TRUSTEE - NON VETERAN",
+      "district_original": "2 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 315,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2022-03-08",
+      "office_original": "MEMORIALS TRUSTEE - VETERAN",
+      "district_original": "1 Year Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Corcoran",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 297,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westborough2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westborough2022.pdf",
+  "ballots_cast": 327,
+  "ballots_cast_source": "derived_from_contests"
+}

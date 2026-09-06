@@ -1,0 +1,907 @@
+{
+  "elections": [
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "SELECT BOARD - Two for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "MARK C. CAROTA",
+          "votes": 1563
+        },
+        {
+          "name_original": "APRIL E. DANIELSON",
+          "votes": 1051
+        },
+        {
+          "name_original": "LATOSHA D. DIXON",
+          "votes": 1500
+        },
+        {
+          "name_original": "GEORGE R. DIXON JR.",
+          "votes": 1651
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 977,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "SCHOOL COMMITTEE - One for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "DONNA M. NEWCOMB",
+          "votes": 2426
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 933,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "PLANNING BOARD - Three for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "TIMOTHY R. SHANAHAN",
+          "votes": 1476
+        },
+        {
+          "name_original": "PAUL A. MCDOUGALL JR.",
+          "votes": 1466
+        },
+        {
+          "name_original": "GLENN A. KOHL",
+          "votes": 1360
+        },
+        {
+          "name_original": "DEIRDRE CONNOLLY",
+          "votes": 2232
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3569,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "ASSOCIATE PLANNING BOARD MEMBER - One for two years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "ERICA CLIFFORD",
+          "votes": 2206
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1158,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "BOARD OF HEALTH - One for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "WILLIAM P. SINAUSKY",
+          "votes": 2150
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1213,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY - Two for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "PHAKDEY YOUS",
+          "votes": 2175
+        },
+        {
+          "name_original": "DAVID BRASLAU",
+          "votes": 73
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4449,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "CEMETERY COMMISSION - One for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "JOHN B. SOUSA JR.",
+          "votes": 2332
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1036,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "HOUSING AUTHORITY - One for five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "WENDY ELAINE MAURIELLO",
+          "votes": 2155
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 1 - Six for three years",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "JUDITH K. CARVEN",
+          "votes": 260
+        },
+        {
+          "name_original": "STACEY LADD MULHOLLAND",
+          "votes": 246
+        },
+        {
+          "name_original": "ROBERT M. SCHNEIDER",
+          "votes": 209
+        },
+        {
+          "name_original": "COLLEEN A. STANSFIELD",
+          "votes": 256
+        },
+        {
+          "name_original": "KEVIN BERNARD READY",
+          "votes": 211
+        },
+        {
+          "name_original": "ERICA CLIFFORD",
+          "votes": 246
+        },
+        {
+          "name_original": "THERESA R. FEELY",
+          "votes": 217
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 991,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 2 - Six for three years",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "JEFFERY D. MERRILL",
+          "votes": 140
+        },
+        {
+          "name_original": "JANET E. MURPHY",
+          "votes": 148
+        },
+        {
+          "name_original": "COLLEEN M. ARRINGTON",
+          "votes": 139
+        },
+        {
+          "name_original": "DAVID E. RAND",
+          "votes": 131
+        },
+        {
+          "name_original": "AMANDA BROOKE COLLISON",
+          "votes": 138
+        },
+        {
+          "name_original": "KAREN VASSO",
+          "votes": 12
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 573,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 3 - Six for three years",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "HELEN H. BLASIOLI",
+          "votes": 236
+        },
+        {
+          "name_original": "SCOTT C. DAVIDSON JR.",
+          "votes": 194
+        },
+        {
+          "name_original": "GEORGE R. DIXON JR.",
+          "votes": 254
+        },
+        {
+          "name_original": "ALISON HORNER",
+          "votes": 143
+        },
+        {
+          "name_original": "PAUL J. RIGAZIO",
+          "votes": 150
+        },
+        {
+          "name_original": "MICHAEL F. MCCALL",
+          "votes": 216
+        },
+        {
+          "name_original": "GERARD T. HALL",
+          "votes": 165
+        },
+        {
+          "name_original": "SUSAN TANNER",
+          "votes": 192
+        },
+        {
+          "name_original": "DAVID W. HADLEY",
+          "votes": 179
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 942,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 3 - One for one year",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "PAMELA ARMSTRONG",
+          "votes": 22
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 385,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 4 - Six for three years",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "HELEN A. MANAHAN",
+          "votes": 188
+        },
+        {
+          "name_original": "SHEILA E. PICHETTE",
+          "votes": 194
+        },
+        {
+          "name_original": "DIANE M. BAXTER",
+          "votes": 186
+        },
+        {
+          "name_original": "BRIAN P. LATINA",
+          "votes": 187
+        },
+        {
+          "name_original": "NANCY S. SOUSA",
+          "votes": 207
+        },
+        {
+          "name_original": "VACANT- FAILURE TO ELECT TIE WRITE IN VOTES",
+          "votes": 2
+        },
+        {
+          "name_original": "VACANT- FAILURE TO ELECT TIE WRITE IN VOTES",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 929,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 5 - Six for three years",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "PAMELA G. HOLMES",
+          "votes": 193
+        },
+        {
+          "name_original": "W. ALLEN THOMAS JR.",
+          "votes": 215
+        },
+        {
+          "name_original": "KAREN D. UTTECHT",
+          "votes": 185
+        },
+        {
+          "name_original": "PATRICIA WOJTAS",
+          "votes": 217
+        },
+        {
+          "name_original": "DANIEL R. TANG",
+          "votes": 187
+        },
+        {
+          "name_original": "JOHN H. BYRON JR.",
+          "votes": 42
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 881,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 5 - Two for two years",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "ELIZABETH U. HRYNIEWICH",
+          "votes": 204
+        },
+        {
+          "name_original": "GLENN R. THOREN",
+          "votes": 199
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 234,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 6 - Six for three years",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "SHERMAN D. HORTON III",
+          "votes": 217
+        },
+        {
+          "name_original": "JANET G. DUBNER",
+          "votes": 243
+        },
+        {
+          "name_original": "LINDA M. LEE",
+          "votes": 213
+        },
+        {
+          "name_original": "MARY E. FRANTZ",
+          "votes": 231
+        },
+        {
+          "name_original": "CAROLYN NOEL",
+          "votes": 2
+        },
+        {
+          "name_original": "VACANT- FAILURE TO ELECT TIE WRITE IN VOTES",
+          "votes": 0
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1356,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 6 - One for two years",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "DAVID A. DRAYTON",
+          "votes": 12
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 7 - Six for three years",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "THOMAS WILLIAM AMIRO",
+          "votes": 310
+        },
+        {
+          "name_original": "JAMES M. LANE JR.",
+          "votes": 320
+        },
+        {
+          "name_original": "PHILIP STANWAY",
+          "votes": 325
+        },
+        {
+          "name_original": "SUSAN M. MACKINNON",
+          "votes": 334
+        },
+        {
+          "name_original": "KIRK PITTA",
+          "votes": 3
+        },
+        {
+          "name_original": "TODD SMITH",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1693,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 7 - One for one year",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "LAURA H. NAPIORKOWSKI",
+          "votes": 354
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 8 - Six for three years",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "DEAN L. CONTOVER",
+          "votes": 187
+        },
+        {
+          "name_original": "THOMAS E. MORAN",
+          "votes": 198
+        },
+        {
+          "name_original": "KARL F. BISCHOFF",
+          "votes": 199
+        },
+        {
+          "name_original": "DAVID PAUL GOSELIN",
+          "votes": 181
+        },
+        {
+          "name_original": "DANIEL W. BURKE",
+          "votes": 195
+        },
+        {
+          "name_original": "MARIA LOURDES SANTOS",
+          "votes": 208
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 979,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 8 - Two for one year",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "FERDINAND BAEZ",
+          "votes": 2
+        },
+        {
+          "name_original": "MAY DEVINEY",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 702,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 8 - One for two years",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "KATHERINE L. O'MALLEY",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 357,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 9 - Six for three years",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "SUSAN B. GRAVES",
+          "votes": 247
+        },
+        {
+          "name_original": "NICOLE MARIE TOOMEY",
+          "votes": 231
+        },
+        {
+          "name_original": "PATRICK A. SNOW",
+          "votes": 243
+        },
+        {
+          "name_original": "DANIEL COLUCCI",
+          "votes": 212
+        },
+        {
+          "name_original": "MICHAEL S. YOUNG",
+          "votes": 230
+        },
+        {
+          "name_original": "REBECCA J. GORE",
+          "votes": 238
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 959,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelmsford",
+      "date": "2021-04-06",
+      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER - PRECINCT 9 - Two for one year",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "EMILY S. DILWORTH",
+          "votes": 245
+        },
+        {
+          "name_original": "SHAWN P. GRIFFIN",
+          "votes": 238
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 301,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chelmsford2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chelmsford2021.pdf",
+  "ballots_cast": 3376,
+  "ballots_cast_source": "derived_from_contests"
+}

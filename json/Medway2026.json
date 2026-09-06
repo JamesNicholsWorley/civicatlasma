@@ -1,0 +1,272 @@
+{
+  "document": {
+    "heading_verbatim": "May 19, 2026\nTown Election\nOfficial Results - Town of Medway",
+    "election_type": "Regular",
+    "election_type_evidence": "Town Election",
+    "date_verbatim": "May 19, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 9,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn D. Trindade",
+          "votes": 400
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cristina St. Pierre",
+          "votes": 410
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Preston Gales",
+          "votes": 397
+        },
+        {
+          "name_original": "Melissa A. Greenfield",
+          "votes": 396
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 220,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "PARKS COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy A. Rice",
+          "votes": 419
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 89,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa A. Sheehan",
+          "votes": 333
+        },
+        {
+          "name_original": "Tara M. Rice",
+          "votes": 171
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "PLANNING AND ECON. DEV. BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John William Parlee",
+          "votes": 392
+        },
+        {
+          "name_original": "Andrew S. Rodenhiser",
+          "votes": 391
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 233,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rita Larabee",
+          "votes": 419
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 91,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "WATER SEWER ADVISORY BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Dwyer",
+          "votes": 412
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 97,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medway",
+      "date": "2026-05-19",
+      "office_original": "REDEVELOPMENT AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew S. Rodehiser",
+          "votes": 399
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Medway2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medway2026.pdf",
+  "ballots_cast": 510,
+  "ballots_cast_source": "derived_from_contests"
+}

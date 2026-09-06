@@ -1,0 +1,182 @@
+{
+  "document": {
+    "heading_verbatim": "Simpson Defeats Fidler in Marshfield Select Board Race-Override Fails",
+    "election_type": "Regular",
+    "election_type_evidence": "annual town election",
+    "date_verbatim": "Saturday's annual town election",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 10,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "The other seven races were uncontested."
+  },
+  "elections": [
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Trish Simpson",
+          "votes": 2139
+        },
+        {
+          "name_original": "Lynne Fidler",
+          "votes": 1799
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Greer Jr.",
+          "votes": 2505
+        },
+        {
+          "name_original": "Lara Brait",
+          "votes": 2218
+        },
+        {
+          "name_original": "Scott Swain",
+          "votes": 1749
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas Giaquinto",
+          "votes": 2839
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Armstrong",
+          "votes": 2839
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Board of Public Works",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Shaughnessy",
+          "votes": 2853
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Biviano Jr.",
+          "votes": 2757
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Trustees of Veterans Memorials, Non-Veterans",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janine Vaughan",
+          "votes": 2763
+        },
+        {
+          "name_original": "Heather White",
+          "votes": 2764
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2025-05-03",
+      "office_original": "Trustees of Veterans Memorials, Veteran",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua Summers",
+          "votes": 2968
+        },
+        {
+          "name_original": "James Curran",
+          "votes": 3009
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Marshfield2025",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

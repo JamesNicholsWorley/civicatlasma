@@ -1,0 +1,222 @@
+{
+  "elections": [
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "MODERATOR - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Bennett Shuster",
+          "votes": 448
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 102,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "SELECT BOARD - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brandi E. Kinsman",
+          "votes": 409
+        },
+        {
+          "name_original": "JOSPEH J. MAGNANI, JR.",
+          "votes": 345
+        },
+        {
+          "name_original": "Carlton I. Phelps, Jr.",
+          "votes": 223
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "ASSESSOR - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel Thomas Murphy",
+          "votes": 463
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marcy Diane Culverwell",
+          "votes": 453
+        },
+        {
+          "name_original": "Paul H. Kendall",
+          "votes": 412
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 235,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF LIBRARY TRUSTEES - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bonnie D. Mitchell",
+          "votes": 477
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF HEALTH - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Byrnes III",
+          "votes": 462
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF HEALTH - 2 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maurice Aaron Krasner",
+          "votes": 446
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "PLANNING BOARD - 5 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Camilo Espitia",
+          "votes": 417
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 133,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2025-05-20",
+      "office_original": "PLANNING BOARD - 2 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sambasiva Pemmaraju",
+          "votes": 87
+        },
+        {
+          "name_original": "Scott Pelletier",
+          "votes": 125
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 338,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ashland2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashland2025.pdf",
+  "ballots_cast": 550,
+  "ballots_cast_source": "derived_from_contests"
+}

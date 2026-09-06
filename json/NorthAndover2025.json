@@ -1,0 +1,70 @@
+{
+  "elections": [
+    {
+      "municipality": "North Andover",
+      "date": "2025-03-25",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rosemary Connelly Smedile",
+          "votes": 889
+        },
+        {
+          "name_original": "Shannon M. Gately",
+          "votes": 24
+        },
+        {
+          "name_original": "Others",
+          "votes": 104,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 264,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2025-03-25",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Hicks",
+          "votes": 822
+        },
+        {
+          "name_original": "Shannon M. Gately",
+          "votes": 311
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAndover2025",
+  "_source_pdf": "",
+  "ballots_cast": 1281,
+  "ballots_cast_source": "derived_from_contests"
+}

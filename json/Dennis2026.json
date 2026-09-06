@@ -1,0 +1,151 @@
+{
+  "elections": [
+    {
+      "municipality": "Dennis",
+      "date": "2026-05-12",
+      "office_original": "SELECT BOARD MEMBER",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CARLYN MICHELE CAREY",
+          "votes": 1129
+        },
+        {
+          "name_original": "PAUL RICHARD McCORMICK",
+          "votes": 1065
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 912,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2026-05-12",
+      "office_original": "HOUSING AUTHORITY MEMBER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CYNTHIA E. STEAD",
+          "votes": 1167
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 391,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2026-05-12",
+      "office_original": "DENNIS-YARMOUTH REGIONAL SCHOOL COMMITTEE MEMBER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MARILYN BEMIS",
+          "votes": 971
+        },
+        {
+          "name_original": "BURT FISHER",
+          "votes": 394
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2026-05-12",
+      "office_original": "OLD KINGS HIGHWAY REGIONAL HISTORIC DISTRICT COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "ERIC A. OMAN",
+          "votes": 864
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 232,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2026-05-12",
+      "office_original": "WATER DISTRICT COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOSEPH P. WALKER, II",
+          "votes": 1305
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 254,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dennis2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dennis2026.pdf",
+  "ballots_cast": 1569,
+  "ballots_cast_source": "derived_from_contests"
+}

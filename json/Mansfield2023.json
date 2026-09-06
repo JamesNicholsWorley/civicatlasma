@@ -1,0 +1,147 @@
+{
+  "elections": [
+    {
+      "municipality": "Mansfield",
+      "date": "2023-05-09",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph C. Britt",
+          "votes": 125
+        },
+        {
+          "name_original": "Mark Corsillo",
+          "votes": 397
+        },
+        {
+          "name_original": "Maureen R. Doherty",
+          "votes": 895
+        },
+        {
+          "name_original": "Kostas Dimitrios Loukos",
+          "votes": 573
+        },
+        {
+          "name_original": "Patrick Westaway McCue",
+          "votes": 94
+        },
+        {
+          "name_original": "Brendan A. Roche",
+          "votes": 690
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 262,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2023-05-09",
+      "office_original": "Mansfield School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven W. Schoonveld",
+          "votes": 1032
+        },
+        {
+          "name_original": "Jenifer Sellon",
+          "votes": 1103
+        },
+        {
+          "name_original": "Others",
+          "votes": 57,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 852,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2023-05-09",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory Penesis",
+          "votes": 725
+        },
+        {
+          "name_original": "Robert H. Saquet",
+          "votes": 686
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2023-05-09",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin J. Doyle",
+          "votes": 1150
+        },
+        {
+          "name_original": "Ryan Barry",
+          "votes": 12
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 351,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mansfield2023",
+  "ballots_cast": 1522,
+  "ballots_cast_source": "derived_from_contests"
+}

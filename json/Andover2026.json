@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover, Massachusetts",
+      "date": "2026-03-24",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 1931
+        },
+        {
+          "name_original": "John R. Riley",
+          "votes": 5
+        },
+        {
+          "name_original": "Keith M. Saxon",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 490,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 67,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover, Massachusetts",
+      "date": "2026-03-24",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Laura M. Gregory",
+          "votes": 1435
+        },
+        {
+          "name_original": "Lawrence J. Bruce",
+          "votes": 210
+        },
+        {
+          "name_original": "George K. Thorlin",
+          "votes": 711
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover, Massachusetts",
+      "date": "2026-03-24",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "David M. Crow",
+          "votes": 1242
+        },
+        {
+          "name_original": "Timothy M. McCarron",
+          "votes": 1192
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover, Massachusetts",
+      "date": "2026-03-24",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Richard J. Padova",
+          "votes": 1459
+        },
+        {
+          "name_original": "Emily EP Dicesaro",
+          "votes": 1435
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2093,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover, Massachusetts",
+      "date": "2026-03-24",
+      "office_original": "ANDOVER HOUSING AUTHORITY - 5 YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Daniel T. Grams",
+          "votes": 1897
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 591,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2026.pdf",
+  "ballots_cast": 2504,
+  "ballots_cast_source": "derived_from_contests"
+}

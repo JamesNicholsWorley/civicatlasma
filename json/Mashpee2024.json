@@ -1,0 +1,185 @@
+{
+  "document": {
+    "heading_verbatim": "Mashpee funding for sewer, police station plans: Here are Saturday's town election results",
+    "election_type": "Regular",
+    "election_type_evidence": "The document refers to \"annual town meeting last week\" and \"Saturday's town election\" in the context of regular municipal offices and ballot questions.",
+    "date_verbatim": "Saturday",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "date_corroboration": {
+      "source": "publication date + the article's own weekday",
+      "value": "2024-05-11",
+      "strength": "corroborated",
+      "quote": "Cape Cod Times: \"Mashpee voters overwhelmingly passed two Proposition 2 1/2 overrides during Saturday's town election\", filed 12 May 2024 (a Sunday); the Saturday before is 11 May 2024",
+      "note": "established 2026-08-24"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Brian Weeden",
+          "votes": 1444
+        },
+        {
+          "name_original": "Kelly S. Robson",
+          "votes": 1110
+        },
+        {
+          "name_original": "Michael S. Valois",
+          "votes": 860
+        },
+        {
+          "name_original": "Christopher Santos",
+          "votes": 763
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mary Waygan",
+          "votes": 1472
+        },
+        {
+          "name_original": "Dennis Balzarini",
+          "votes": 1502
+        },
+        {
+          "name_original": "Stacey Ducharme",
+          "votes": 1263
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Planning Board Associate Member",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Robert W. Hansen",
+          "votes": 2010
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "John J. Cotton",
+          "votes": 1968
+        },
+        {
+          "name_original": "Thomas F. O'Hara",
+          "votes": 1912
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1180,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jill E. Allen",
+          "votes": 1276
+        },
+        {
+          "name_original": "B. Lynne Barbee",
+          "votes": 1029
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ann M. Macdonald",
+          "votes": 2080
+        },
+        {
+          "name_original": "Mary L. Hillerich",
+          "votes": 1722
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Mashpee",
+      "date": "2024-05-11",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ronald Gangemi",
+          "votes": 2044
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Mashpee2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

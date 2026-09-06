@@ -1,0 +1,207 @@
+{
+  "document": {
+    "heading_verbatim": "With no contests, Conway voters largely reelect crew of incumbents",
+    "date_verbatim": "June 12, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Thursday?s election, when residents largely reelected incumbents seeking to retain their seats in Town Hall. There were no contested races in Thursday?s election.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 10,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "There were no contested races in Thursday?s election"
+  },
+  "elections": [
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Selectboard, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erica Goleman",
+          "votes": 153
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Board of Assessors, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George Forcier",
+          "votes": 156
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Board of Assessors, two-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Board of Health, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hanna Sherman",
+          "votes": 152
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Conway Grammar School Committee, two seats with three-year terms",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia Vinchesi",
+          "votes": 148
+        },
+        {
+          "name_original": "Laurie Farkas",
+          "votes": 146
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Moderator, one-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Recore",
+          "votes": 159
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Planning Board, two seats with three-year terms",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cheryl Case",
+          "votes": 148
+        },
+        {
+          "name_original": "Jeffrey Lacy",
+          "votes": 147
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Planning Board, two-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lara Moebius",
+          "votes": 143
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Planning Board, one-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Phyllis Craine",
+          "votes": 18
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Conway",
+      "date": "2026-06-12",
+      "office_original": "Tree warden, three-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Walter Goodridge",
+          "votes": 157
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Conway2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Conway2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,71 @@
+{
+  "elections": [
+    {
+      "municipality": "Granby",
+      "date": "2022-05-16",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Crystal L. Dufresne",
+          "votes": 447
+        },
+        {
+          "name_original": "Jennifer A. Silva",
+          "votes": 164
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2022-05-16",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "William A. Shaheen",
+          "votes": 468
+        },
+        {
+          "name_original": "Seamus M. Connolly",
+          "votes": 126
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2022-05-16",
+      "office_original": "Commissioner of Burial Grounds",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Ronald L. Harrop",
+          "votes": 400
+        },
+        {
+          "name_original": "Stuart Bailly",
+          "votes": 141
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Granby2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

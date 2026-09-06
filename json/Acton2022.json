@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JO-ANN M. BERRY",
+          "votes": 824
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DEAN A. CHARTER",
+          "votes": 788
+        },
+        {
+          "name_original": "DAVID D. MARTIN",
+          "votes": 684
+        },
+        {
+          "name_original": "JON BENSON",
+          "votes": 6
+        },
+        {
+          "name_original": "LEO FOCHTMAN",
+          "votes": 5
+        },
+        {
+          "name_original": "TIM SHEA",
+          "votes": 10
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 344,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GINNY SINKEL KREMER",
+          "votes": 696
+        },
+        {
+          "name_original": "REBECCAH R. WILSON",
+          "votes": 689
+        },
+        {
+          "name_original": "JOHN PETERSEN",
+          "votes": 52
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 402,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTINA W. STOVAL",
+          "votes": 483
+        },
+        {
+          "name_original": "TYSON KNOWLES",
+          "votes": 290
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "ACTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NANCY M. KOLB",
+          "votes": 795
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 131,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2022-03-29",
+      "office_original": "WATER DISTRICT COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BARRY R. ROSEN",
+          "votes": 805
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Acton2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Acton2022.pdf",
+  "ballots_cast": 934,
+  "ballots_cast_source": "derived_from_contests"
+}

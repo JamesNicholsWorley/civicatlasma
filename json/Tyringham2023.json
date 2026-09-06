@@ -1,0 +1,210 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Election",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Monday, May 15, 2023",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Slater Jr.",
+          "votes": 34
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Curtin",
+          "votes": 33
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alan Wilcox",
+          "votes": 33
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Cemetry Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noah Choquette",
+          "votes": 5
+        },
+        {
+          "name_original": "Katie Curtin",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Louisa Gilder Marsh",
+          "votes": 35
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Park Commisioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Molly Curtin-Schaefer",
+          "votes": 34
+        },
+        {
+          "name_original": "Noah Choquette",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steve Adams",
+          "votes": 15
+        },
+        {
+          "name_original": "William Roche",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tyringham",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Clark",
+          "votes": 5
+        },
+        {
+          "name_original": "Louisa Gilder Marsh",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tyringham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Tyringham2023.pdf",
+  "ballots_cast": 36,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,154 @@
+{
+  "elections": [
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn Hill Holdgate",
+          "votes": 842
+        },
+        {
+          "name_original": "Rick Atherton",
+          "votes": 834
+        },
+        {
+          "name_original": "Clifford Williams",
+          "votes": 570
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Iverson",
+          "votes": 1292
+        },
+        {
+          "name_original": "Campbell Sutton",
+          "votes": 876
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura Gallagher Byrne",
+          "votes": 1512
+        },
+        {
+          "name_original": "Esmeralda Martinez",
+          "votes": 1396
+        },
+        {
+          "name_original": "Diane Flaherty",
+          "votes": 802
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "Land Bank Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Stackpole",
+          "votes": 903
+        },
+        {
+          "name_original": "John Bartlett",
+          "votes": 882
+        },
+        {
+          "name_original": "Kelly Steffen",
+          "votes": 365
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "Historic District Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Angus MacLeod",
+          "votes": 1209
+        },
+        {
+          "name_original": "Joseph Paul",
+          "votes": 735
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Nantucket",
+      "date": "2024-05-21",
+      "office_original": "Community Preservation Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Neville Richen",
+          "votes": 1203
+        },
+        {
+          "name_original": "Timothy Soverino",
+          "votes": 1148
+        },
+        {
+          "name_original": "Jesse Dutra",
+          "votes": 770
+        },
+        {
+          "name_original": "Kit Murphy",
+          "votes": 685
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Nantucket2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

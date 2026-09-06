@@ -1,0 +1,90 @@
+{
+  "document": {
+    "heading_verbatim": "OFFICIAL Election Results",
+    "election_type": "Regular",
+    "election_type_evidence": "All candidates appearing on the ballot were elected.",
+    "date_verbatim": "May 14, 2022",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All candidates appearing on the ballot were elected.",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "office_original": "Board of Selectmen",
+      "num_winners": 1,
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "Rowe",
+      "date": "2022-05-14",
+      "candidates": [
+        {
+          "name_original": "Ed Silva",
+          "votes": 21
+        }
+      ],
+      "extraction_confidence": 0.6,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Finance Committee, 3 Years",
+      "num_winners": 1,
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "Rowe",
+      "date": "2022-05-14",
+      "candidates": [
+        {
+          "name_original": "Lauren Werner",
+          "votes": 10
+        }
+      ],
+      "extraction_confidence": 0.6,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Finance Committee, 1 Year",
+      "num_winners": 1,
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "Rowe",
+      "date": "2022-05-14",
+      "candidates": [
+        {
+          "name_original": "Daniel Pallotta",
+          "votes": 5
+        }
+      ],
+      "extraction_confidence": 0.6,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Park Commission",
+      "num_winners": 1,
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "municipality": "Rowe",
+      "date": "2022-05-14",
+      "candidates": [
+        {
+          "name_original": "Christopher \"Selmi\" Hyytinen",
+          "votes": 13
+        }
+      ],
+      "extraction_confidence": 0.6,
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Rowe2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

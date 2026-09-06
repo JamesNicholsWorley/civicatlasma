@@ -1,0 +1,261 @@
+{
+  "elections": [
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory P Verga",
+          "votes": 5836
+        },
+        {
+          "name_original": "Sefatia Romeo Theken",
+          "votes": 4048
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jason M Grow",
+          "votes": 4454
+        },
+        {
+          "name_original": "James W O'Hara Jr",
+          "votes": 4349
+        },
+        {
+          "name_original": "Tony M Gross",
+          "votes": 4121
+        },
+        {
+          "name_original": "Jeffrey T Worthley",
+          "votes": 3503
+        },
+        {
+          "name_original": "Peter Cannavo",
+          "votes": 3301
+        },
+        {
+          "name_original": "Robin J Hubbard",
+          "votes": 2838
+        },
+        {
+          "name_original": "Carleton B Mckay Jr",
+          "votes": 2170
+        },
+        {
+          "name_original": "Others",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "WARD 1 COUNCILOR",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "R. Scott Memhard",
+          "votes": 1334
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "WARD 2 COUNCILOR",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracy J O'Neil",
+          "votes": 639
+        },
+        {
+          "name_original": "Barrett S Barry Pett",
+          "votes": 637
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "WARD 3 COUNCILOR",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Francesco Margiotta",
+          "votes": 666
+        },
+        {
+          "name_original": "Adam J Orlando",
+          "votes": 437
+        },
+        {
+          "name_original": "Robert D Whynott",
+          "votes": 151
+        },
+        {
+          "name_original": "Terence Cudney",
+          "votes": 29
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "WARD 4 COUNCILOR",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "V. Hanson Gilman",
+          "votes": 1751
+        },
+        {
+          "name_original": "Others",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "WARD 5 COUNCILOR",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Nolan",
+          "votes": 1716
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gloucester",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "S. Verga Watson",
+          "votes": 5765
+        },
+        {
+          "name_original": "Kathleen A Clancy",
+          "votes": 5203
+        },
+        {
+          "name_original": "Laura B Wiessen",
+          "votes": 4907
+        },
+        {
+          "name_original": "William W Melvin Jr",
+          "votes": 3804
+        },
+        {
+          "name_original": "M.J. Teixeira Prince",
+          "votes": 3735
+        },
+        {
+          "name_original": "Keith Alan Mineo",
+          "votes": 3172
+        },
+        {
+          "name_original": "Thomas A Stein",
+          "votes": 2898
+        },
+        {
+          "name_original": "Richard J Roberts Jr",
+          "votes": 2512
+        },
+        {
+          "name_original": "Others",
+          "votes": 81,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Gloucester2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gloucester2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

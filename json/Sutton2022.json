@@ -1,0 +1,162 @@
+{
+  "document": {
+    "heading_verbatim": "Precinct 1 Precinct 2 Precinct 3 TOTAL Board of Selectmen 3 yrs. Vote for 1",
+    "election_type": "Regular",
+    "election_type_evidence": "Standard municipal election with multiple offices on ballot; no heading indicating special election",
+    "date_verbatim": "",
+    "offices_on_ballot": 5,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false,
+    "date_corroboration": {
+      "source": "the same document, on a page outside the crop",
+      "value": "2022-05-24",
+      "strength": "corroborated",
+      "quote": "the crop prints no date; the facing page of the same annual report reads \"Annual Town Election May 24, 2022 7am to 2pm\". Verified 2026-08-25.",
+      "citation": "https://archives.lib.state.ma.us/server/api/core/bitstreams/4ea165aa-87dd-47c1-99c3-7d3edf2890d9/content",
+      "note": "established 2026-08-25 by src/land_ingest9.py, verified against the source PDF"
+    }
+  },
+  "elections": [
+    {
+      "office_original": "Board of Selectmen",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Bannon, Jeffrey",
+          "votes": 413
+        },
+        {
+          "name_original": "Stevenson, Brian",
+          "votes": 255
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "date": "2022-05-24",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 338,
+          "tally_row": true
+        },
+        {
+          "name_original": "Edwards, Bruce",
+          "votes": 344
+        },
+        {
+          "name_original": "Darling, Jennifer",
+          "votes": 515
+        },
+        {
+          "name_original": "Goss, John",
+          "votes": 234
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "date": "2022-05-24",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 159,
+          "tally_row": true
+        },
+        {
+          "name_original": "Baker, Walter",
+          "votes": 556
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "date": "2022-05-24",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blume, Margaret",
+          "votes": 560
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "date": "2022-05-24",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        },
+        {
+          "name_original": "Bjorn Jr., Burton",
+          "votes": 583
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "date": "2022-05-24",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sutton2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sutton2022.pdf",
+  "ballots_cast": 722,
+  "ballots_cast_source": "derived_from_contests"
+}

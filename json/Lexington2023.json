@@ -1,0 +1,767 @@
+{
+  "elections": [
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DOUGLAS M. LUCENTE",
+          "votes": 1527
+        },
+        {
+          "name_original": "MARK SANDEEN",
+          "votes": 1478
+        },
+        {
+          "name_original": "Lin Jensen",
+          "votes": 7
+        },
+        {
+          "name_original": "All Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 999
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DEBORAH J. BROWN",
+          "votes": 1574
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 437
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SARA CUTHBERTSON",
+          "votes": 1442
+        },
+        {
+          "name_original": "All Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 542
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBERT KEVIN CREECH",
+          "votes": 1476
+        },
+        {
+          "name_original": "CHARLES HORNIG",
+          "votes": 1040
+        },
+        {
+          "name_original": "Lin D. Jensen",
+          "votes": 619
+        },
+        {
+          "name_original": "All Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 873
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NOAH S. MICHELSON",
+          "votes": 96
+        },
+        {
+          "name_original": "MARGARET MUCKENSHOUPT",
+          "votes": 93
+        },
+        {
+          "name_original": "JOHN C. BARTENSTEIN",
+          "votes": 90
+        },
+        {
+          "name_original": "ALBERT P. ZABIN",
+          "votes": 88
+        },
+        {
+          "name_original": "JAMES C. LUKER",
+          "votes": 84
+        },
+        {
+          "name_original": "JOHN F. ROSSI",
+          "votes": 82
+        },
+        {
+          "name_original": "BELLA D. TSVETKOVA",
+          "votes": 76
+        },
+        {
+          "name_original": "Jeffrey Paul Fennelly",
+          "votes": 1
+        },
+        {
+          "name_original": "Joel David Moore",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 305
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CAROLYN M. GOLDSTEIN",
+          "votes": 205
+        },
+        {
+          "name_original": "SARAH S. DAGGETT",
+          "votes": 194
+        },
+        {
+          "name_original": "MARK ALLAN MANASAS",
+          "votes": 186
+        },
+        {
+          "name_original": "JONATHAN E. SUBER",
+          "votes": 186
+        },
+        {
+          "name_original": "Laura Swain",
+          "votes": 182
+        },
+        {
+          "name_original": "JEFFREY C. HOWRY",
+          "votes": 155
+        },
+        {
+          "name_original": "AVRAM S. BASKIN",
+          "votes": 152
+        },
+        {
+          "name_original": "CHARLES HORNIG",
+          "votes": 119
+        },
+        {
+          "name_original": "Michael C. Coln",
+          "votes": 1
+        },
+        {
+          "name_original": "Liam Andrew Hefferman",
+          "votes": 1
+        },
+        {
+          "name_original": "Laura C. Lewis",
+          "votes": 1
+        },
+        {
+          "name_original": "Andrew McAleer",
+          "votes": 1
+        },
+        {
+          "name_original": "Anita Parillo Shine",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 761
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NORMAN P. COHEN",
+          "votes": 147
+        },
+        {
+          "name_original": "CYNTHIA E. ARENS",
+          "votes": 144
+        },
+        {
+          "name_original": "STEVEN P. HEINRICH",
+          "votes": 100
+        },
+        {
+          "name_original": "HENRY S. LAU",
+          "votes": 79
+        },
+        {
+          "name_original": "BRONTE M. ABRAHAM",
+          "votes": 76
+        },
+        {
+          "name_original": "ANDREW ZOLTAN JUHASZ",
+          "votes": 70
+        },
+        {
+          "name_original": "STANLEY YAP",
+          "votes": 69
+        },
+        {
+          "name_original": "DELANOT BASTIEN",
+          "votes": 67
+        },
+        {
+          "name_original": "Michael Martignetti",
+          "votes": 13
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 865
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KATHRYN R. COLBURN",
+          "votes": 157
+        },
+        {
+          "name_original": "ALESSANDRO A. ALESSANDRINI",
+          "votes": 156
+        },
+        {
+          "name_original": "NANCY ANN SHEPARD",
+          "votes": 154
+        },
+        {
+          "name_original": "KATIE PONTY CUTLER",
+          "votes": 153
+        },
+        {
+          "name_original": "MICHAEL P. BOUDETT",
+          "votes": 146
+        },
+        {
+          "name_original": "HEATHER LYNN HARTSHORN",
+          "votes": 147
+        },
+        {
+          "name_original": "RUTH S. THOMAS",
+          "votes": 143
+        },
+        {
+          "name_original": "Wenjie Hu",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 564
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PAMELA B. LYONS",
+          "votes": 120
+        },
+        {
+          "name_original": "JUDITH A. CROCKER",
+          "votes": 118
+        },
+        {
+          "name_original": "NANCY CORCORAN-RONCHETTI",
+          "votes": 117
+        },
+        {
+          "name_original": "ANTHONY GRANT GALAITSIS",
+          "votes": 114
+        },
+        {
+          "name_original": "LIN XU",
+          "votes": 114
+        },
+        {
+          "name_original": "LILY MANHUA YAN",
+          "votes": 112
+        },
+        {
+          "name_original": "STEVEN B. KAUFMAN",
+          "votes": 110
+        },
+        {
+          "name_original": "Archana Dayalu",
+          "votes": 1
+        },
+        {
+          "name_original": "Wendy Ernst",
+          "votes": 1
+        },
+        {
+          "name_original": "David A. Ernst",
+          "votes": 1
+        },
+        {
+          "name_original": "Edward A. Ganshirt",
+          "votes": 1
+        },
+        {
+          "name_original": "Sirarpi Heghinian-Walzer",
+          "votes": 1
+        },
+        {
+          "name_original": "Daniel M. Koretz",
+          "votes": 1
+        },
+        {
+          "name_original": "Martin CH Kullgren",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard W. Wagner",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 334
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRIDGER E. McGAW",
+          "votes": 188
+        },
+        {
+          "name_original": "DINESH PATEL",
+          "votes": 187
+        },
+        {
+          "name_original": "JONATHAN ANDREW HIMMEL",
+          "votes": 181
+        },
+        {
+          "name_original": "INNESSA ANNE MANNING",
+          "votes": 174
+        },
+        {
+          "name_original": "THOMAS C. BARRY",
+          "votes": 167
+        },
+        {
+          "name_original": "MORTON G. KAHAN",
+          "votes": 167
+        },
+        {
+          "name_original": "RYAN SAMUEL WISE",
+          "votes": 158
+        },
+        {
+          "name_original": "Theodore Dickenson",
+          "votes": 1
+        },
+        {
+          "name_original": "Anne L. Fenton",
+          "votes": 1
+        },
+        {
+          "name_original": "Angel Garcia-Manso",
+          "votes": 1
+        },
+        {
+          "name_original": "James Edward Lenhart",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert A. Light",
+          "votes": 1
+        },
+        {
+          "name_original": "Mihran Ara Yenikomshian",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 529
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TINA M. McBRIDE",
+          "votes": 212
+        },
+        {
+          "name_original": "PAM HOFFMAN",
+          "votes": 186
+        },
+        {
+          "name_original": "SARA CUTHBERTSON",
+          "votes": 156
+        },
+        {
+          "name_original": "HARRY CLARKE FORSDICK",
+          "votes": 140
+        },
+        {
+          "name_original": "SAMITA A. MANDELIA",
+          "votes": 129
+        },
+        {
+          "name_original": "RAUL MARQUES-PASCUAL",
+          "votes": 118
+        },
+        {
+          "name_original": "UMESH SHELAT",
+          "votes": 100
+        },
+        {
+          "name_original": "BENJAMIN CHARLES LEES",
+          "votes": 100
+        },
+        {
+          "name_original": "Doris Wong",
+          "votes": 27
+        },
+        {
+          "name_original": "Michae David Barg",
+          "votes": 2
+        },
+        {
+          "name_original": "Edna C. Luther",
+          "votes": 2
+        },
+        {
+          "name_original": "Julian Eliot Blat",
+          "votes": 1
+        },
+        {
+          "name_original": "Mary RS Hutton",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 667
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "num_winners": 7,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBERT M. AVALLONE",
+          "votes": 181
+        },
+        {
+          "name_original": "GANG CHEN",
+          "votes": 175
+        },
+        {
+          "name_original": "LAUREN DEEMS BLACK",
+          "votes": 174
+        },
+        {
+          "name_original": "SHAILESH CHANDRA",
+          "votes": 172
+        },
+        {
+          "name_original": "ANDREI RADULESCU-BANU",
+          "votes": 164
+        },
+        {
+          "name_original": "Thomas R. Diaz",
+          "votes": 66
+        },
+        {
+          "name_original": "Robin L. Lovett",
+          "votes": 35
+        },
+        {
+          "name_original": "Jan Kautz",
+          "votes": 30
+        },
+        {
+          "name_original": "Gordon Stewart",
+          "votes": 7
+        },
+        {
+          "name_original": "Patricia A. Jenness",
+          "votes": 3
+        },
+        {
+          "name_original": "Karen Mahoney",
+          "votes": 3
+        },
+        {
+          "name_original": "Rae Andre",
+          "votes": 1
+        },
+        {
+          "name_original": "Curt J. Barrentine",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard K. Scalise, Jr.",
+          "votes": 1
+        },
+        {
+          "name_original": "Guy Shechter",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam W. Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Rebecca Anne Weiler",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 705
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2023-03-06",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SUZANNE D. LAU",
+          "votes": 149
+        },
+        {
+          "name_original": "TODD O. BURGER",
+          "votes": 148
+        },
+        {
+          "name_original": "ALICE J. ADLER",
+          "votes": 142
+        },
+        {
+          "name_original": "SHIREEN AHMED",
+          "votes": 141
+        },
+        {
+          "name_original": "JEANNE P. CANALE",
+          "votes": 139
+        },
+        {
+          "name_original": "LISAH SUSAN SCHMIDT RHODES",
+          "votes": 139
+        },
+        {
+          "name_original": "MARK VALERIAN ANDERSEN",
+          "votes": 134
+        },
+        {
+          "name_original": "DIANA J. DONOVAN",
+          "votes": 134
+        },
+        {
+          "name_original": "Ethan P. Kiczek",
+          "votes": 2
+        },
+        {
+          "name_original": "Alicia M. Morris",
+          "votes": 2
+        },
+        {
+          "name_original": "Edward G. Denk",
+          "votes": 1
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank Votes",
+          "votes": 598
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lexington2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lexington2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,126 @@
+{
+  "elections": [
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2023-04-13",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dion Alley",
+          "votes": 427
+        },
+        {
+          "name_original": "Thomas Hallahan",
+          "votes": 404
+        },
+        {
+          "name_original": "Mark Leonard",
+          "votes": 356
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oak Bluffs",
+      "date": "2023-04-13",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean DeBettencourt",
+          "votes": 401
+        },
+        {
+          "name_original": "Robert Fehl",
+          "votes": 159
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Edgartown",
+      "date": "2023-04-13",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alan Gowell",
+          "votes": 366
+        },
+        {
+          "name_original": "James Joyce",
+          "votes": 113
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Edgartown",
+      "date": "2023-04-13",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Scott Morgan",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Edgartown",
+      "date": "2023-04-13",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Margaret Serpa",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "West Tisbury",
+      "date": "2023-04-13",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jessica Miller",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "OakBluffs2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

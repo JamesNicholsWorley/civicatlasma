@@ -1,0 +1,97 @@
+{
+  "elections": [
+    {
+      "municipality": "Yarmouth",
+      "date": "2025-05-20",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Dabney Argo",
+          "votes": 1174
+        },
+        {
+          "name_original": "Dorcas C. McGurrin",
+          "votes": 1084
+        },
+        {
+          "name_original": "Gerald Joseph O'Connell",
+          "votes": 950
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 624,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Yarmouth",
+      "date": "2025-05-20",
+      "office_original": "DENNIS-YARMOUTH REGIONAL SCHOOL DISTRICT COMMITTEE MEMBER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tomas A. Tolentino",
+          "votes": 1395
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 512,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Yarmouth",
+      "date": "2025-05-20",
+      "office_original": "YARMOUTH HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Hoagland Krauss",
+          "votes": 1372
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 530,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Yarmouth2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Yarmouth2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

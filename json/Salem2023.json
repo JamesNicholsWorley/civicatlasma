@@ -1,0 +1,341 @@
+{
+  "elections": [
+    {
+      "municipality": "Salem",
+      "date": "2023-05-16",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "DOMINICK PANGALLO",
+          "votes": 4827
+        },
+        {
+          "name_original": "NEIL J. HARRINGTON",
+          "votes": 4300
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "ROBERT K. MCCARTHY",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 7958,
+          "tally_row": true
+        },
+        {
+          "name_original": "ALICE ROSE MERKL",
+          "votes": 3940
+        },
+        {
+          "name_original": "CONRAD J. PROSNIEWSKI",
+          "votes": 3489
+        },
+        {
+          "name_original": "TY HAPWORTH",
+          "votes": 3394
+        },
+        {
+          "name_original": "FILIPE ZAMBORLINI",
+          "votes": 1772
+        },
+        {
+          "name_original": "KYLE ALEXANDER DAVIS",
+          "votes": 3041
+        },
+        {
+          "name_original": "DOMINGO J. DOMINGUEZ",
+          "votes": 2931
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 7578,
+          "tally_row": true
+        },
+        {
+          "name_original": "MARY A. MANNING",
+          "votes": 3758
+        },
+        {
+          "name_original": "AJ HOFFMAN",
+          "votes": 2595
+        },
+        {
+          "name_original": "H. MEHMET GULERGUN",
+          "votes": 2578
+        },
+        {
+          "name_original": "VERONICA JOY MIRANDA",
+          "votes": 3385
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE COUNCILLOR",
+      "district_original": "Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "CYNTHIA A. JERZYLO",
+          "votes": 598
+        },
+        {
+          "name_original": "C.J. MALSTROM, JR.",
+          "votes": 484
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO COUNCILLOR",
+      "district_original": "Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 82,
+          "tally_row": true
+        },
+        {
+          "name_original": "CHRISTOPHER FUCCIONE",
+          "votes": 224
+        },
+        {
+          "name_original": "CAROLINE WATSON-FELT",
+          "votes": 892
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD THREE",
+      "district_original": "Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "JOSEPH A. CULTRERA",
+          "votes": 391
+        },
+        {
+          "name_original": "PATRICIA R. MORSILLO",
+          "votes": 494
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD FOUR",
+      "district_original": "Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "IAN MICHAEL MCLEOD",
+          "votes": 555
+        },
+        {
+          "name_original": "JOHN C. HARVEY",
+          "votes": 562
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD FIVE",
+      "district_original": "Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 172,
+          "tally_row": true
+        },
+        {
+          "name_original": "JEFFREY M. COHEN",
+          "votes": 693
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD SIX",
+      "district_original": "Ward Six",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 177,
+          "tally_row": true
+        },
+        {
+          "name_original": "MEGAN STOTT",
+          "votes": 752
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salem",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD SEVEN",
+      "district_original": "Ward Seven",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BLANKS",
+          "votes": 130,
+          "tally_row": true
+        },
+        {
+          "name_original": "ANDREW W. VARELA",
+          "votes": 592
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Salem2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Salem2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

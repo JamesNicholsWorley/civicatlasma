@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Board of Assessors - three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melsi Xhengo",
+          "votes": 1124
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 514,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Board of Health - three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Delshaune Flipp",
+          "votes": 571
+        },
+        {
+          "name_original": "Kathleen D. Dauphinais",
+          "votes": 837
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 245,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Board of Selectmen - 3 years, vote for two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David R. Delaney",
+          "votes": 1009
+        },
+        {
+          "name_original": "Steven R. Louko, Jr.",
+          "votes": 896
+        },
+        {
+          "name_original": "David E. Sawin",
+          "votes": 613
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 756,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Moderator - 1 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas T. Thomson",
+          "votes": 1249
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 385,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Planning Board - 5 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bernie R. Campbell",
+          "votes": 1151
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 502,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "School Committee - 3 years, vote for two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth R. Corbo",
+          "votes": 912
+        },
+        {
+          "name_original": "John R. Geary",
+          "votes": 844
+        },
+        {
+          "name_original": "Ryan M. Hall",
+          "votes": 891
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 656,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hanover",
+      "date": "2021-05-08",
+      "office_original": "Trustee of the Public Library - 3 Yrs.",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeanne M. Cianciola",
+          "votes": 1265
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 384,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hanover2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hanover2021.pdf",
+  "ballots_cast": 1656,
+  "ballots_cast_source": "derived_from_contests"
+}

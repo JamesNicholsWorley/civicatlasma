@@ -1,0 +1,137 @@
+{
+  "document": {
+    "heading_verbatim": "Tolland, Massachusetts -- Town Election Results, Tuesday June 3, 2025",
+    "election_type": "Regular",
+    "election_type_evidence": "Town Election Results, Tuesday June 3, 2025",
+    "date_verbatim": "Tuesday June 3, 2025",
+    "offices_on_ballot": 4,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Tolland",
+      "date": "2025-06-03",
+      "office_original": "Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ed Deming",
+          "votes": 55
+        },
+        {
+          "name_original": "David Pickhardt",
+          "votes": 1
+        },
+        {
+          "name_original": "Stacy Moura",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2025-06-03",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenny Whitehead",
+          "votes": 63
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2025-06-03",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arend Overbeeke",
+          "votes": 52
+        },
+        {
+          "name_original": "Anthony Moura",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2025-06-03",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Andrea DeSanto",
+          "votes": 63
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tolland2025",
+  "_source_pdf": "",
+  "ballots_cast": 66,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,394 @@
+OFFICIAL RESULTS - MUNICIPAL GENERAL ELECTION - NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 19.18% 
+!Eligible Voters I 18991 20131 16481 21591 22781 23381 22881 24571 20841 21661 22121 17871 16971 21721 29,1981 
+CITY CLERK 1A 18 2A 28 3A 38 4A 48 SA 58 SA 68 7A 78 Total 
+Total Vote 282 411 130 515 490 517 531 683 346 380 441 283 182 410 5601 
+Blanks 71 90 21 135 100 114 113 149 70 74 105 69 34 83 1228 
+MICHELE M. BENJAMIN 77.57% 210 319 107 380 386 397 418 530 274 304 335 211 147 327 4345 
+Mike Daly 1 1 
+Robert Bernardo 1 1 
+R_yan Scaggo 1 1 
+William Erwin 1 1 
+Eric Brassard 1 1 
+Mark O'Brien 1 1 
+Chelsea Handler 1 1 
+Jody Phillips 1 1 
+Kevin Pink 1 3 1 5 
+Charles Engell 1 1 
+Jack Callahan 1 1 
+Bernie Barran 1 1 
+David Webber 1 1 
+Hannah King 1 1 
+Kim Esposito 1 1 
+Caine Clayton 1 1 
+Audre Cutler 1 1 
+Heather Brazeau 1 1 
+Brenda Landis 1 1 
+Thomas Marint 1 1 
+James Wren 1 1 
+Craig Gaetani 1 1 
+Mary Flynn 1 1 
+Zabian Powell 1 1 
+Total Vote 282 411 130 515 490 517 531 683 346 380 441 283 182 410 5601 
+
+COUNCILOR AT -LARGE 
+Total Vote 
+Blanks 
+YUKI COHEN 
+PETER T. WHITE 
+PETER M. MARCHETTI 
+CRAIG BENOIT 
+EARL PERSIP 
+OFFICIAL RESULTS -MUNICIPAL GENERAL ELECTION - NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 
+1A 18 2A 28 3A 38 4A 48 SA 58 SA 
+1128 1644 520 2060 1960 2068 2124 2732 1384 1520 1764 
+278 328 110 483 366 398 377 499 272 301 361 
+97 132 59 132 194 141 210 207 114 125 145 
+64.10% 163 267 84 314 318 326 338 438 235 245 292 
+69.51% 190 290 82 338 351 350 375 489 249 253 300 
+123 192 48 271 219 272 232 324 139 176 177 
+59.31% 149 227 67 268 298 314 361 448 206 217 271 
+KAREN M. KALINOWSKY 47.72% 123 206 66 252 208 260 230 322 156 202 217 
+Meg Bossong 1 
+Mike Daly 1 
+Kevin Sherman 1 
+Chris Connell 1 
+Kathleen Schoenber g 1 
+Peter Arlos 1 
+Donald Trum p 1 
+Tom Gilardi 1 
+Kronick 1 
+Wilson 1 
+Damien Esposito 1 
+James Cummins 1 
+Justin Esposito 1 
+Juliana Roy 5 
+Josh Cutler 1 1 
+Joe Durwin 1 
+Daniel Miraglia 1 
+Scott Nugui 1 
+Mark Brennan 1 
+Mike Burton 1 
+Tim Burke 1 
+Carrie Holland 1 
+Melissa Mazzeo 1 1 
+Charles Engel 
+Tom McMann 
+Eric Durant 1 
+Collin Young 1 
+Kevin Pink 1 1 
+Sandra Wheat 1 
+Matt Bishop 1 
+19.18% 
+68 7A 78 Total 
+1132 728 1640 22404 
+241 137 297 4448 
+110 49 130 1845 
+184 122 264 3590 
+195 133 298 3893 
+99 104 204 2580 
+168 96 232 3322 
+132 85 214 2673 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+5 
+2 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 3 
+1 1 
+1 1 
+1 
+1 
+2 
+1 
+1 
+
+OFFICIAL RESULTS-MUNICIPAL GENERAL ELECTION-NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 
+COUNCILOR AT -LARGE 1A 18 2A 28 3A 38 4A 48 SA 58 6A 
+Stephen Taglieri 1 
+Bill Engle 1 
+Luis Hoose 1 
+Kenny Warren 1 
+David Webber 1 
+Craig Gaetani 1 
+Joe Nicholas 1 
+Jacob Klein 1 
+Patrick Walsh 1 
+Donald Trump 1 
+adam vilos 1 
+Thomas Marini 1 
+George Hannah 
+Total Vote 1128 1644 520 2060 1960 2068 2124 2732 1384 1520 1764 
+SCHOOL COMMITTEE 1A 18 2A 28 3A 38 4A 48 SA 58 6A 
+Total Vote 1692 2466 780 3090 2940 3102 3186 4098 2076 2280 2646 
+Blanks 556 798 234 1050 930 959 920 1135 595 701 824 
+WILLIAM J. CAMERON 54.90% 130 228 59 253 272 259 327 410 200 204 270 
+MARK BRAZEAU 57.99% 166 256 66 287 280 314 316 436 190 218 237 
+VICKY M. SMITH 48.10% 136 163 67 254 225 236 244 334 162 185 225 
+KATIE E. LAUZON 69 102 37 134 126 130 131 158 98 93 98 
+NYANNAL.SLAUGHTER 58 61 35 96 89 102 100 114 76 88 102 
+ALISON McGEE 47.72% 134 174 74 223 233 236 280 356 177 188 196 
+SARA L. HATHAWAY 54.87% 148 221 66 270 262 285 300 392 198 207 237 
+KAREN REIS KAVENEY MURRAY 67 109 43 117 138 130 137 165 98 92 114 
+DANIEL C. ELIAS 50.24% 127 219 51 248 251 274 279 383 185 179 209 
+BILL TYER 101 134 47 157 132 174 150 207 93 124 132 
+Jonathan King 1 
+Kevin Kushi 1 
+Christopher Flynn 1 
+, Dennis Powell 1 1 
+Zach Cutler 1 
+James Cutler 1 
+AI Laurent 1 
+Kathleen Yon 1 
+19.18% 
+68 7A 78 Total 
+1 
+1 
+1 
+1 
+1 
+2 3 
+1 
+1 
+1 
+1 
+11 
+1 
+1 1 
+1132 7~ ~40 22404 
+68 7A 78 Total 
+1698 1092 2460 33606 
+520 333 736 10291 
+156 100 207 3075 
+140 105 236 3247 
+158 85 220 2694 
+66 56 105 1403 
+61 35 81 1098 
+126 85 191 2673 
+167 93 227 3073 
+84 47 129 1470 
+127 87 195 2814 
+92 65 133 1741 
+1 
+1 
+1 
+1 3 
+1 
+1 
+1 
+1 - -
+
+OFFICIAL RESULTS - MUNICIPAL GENERAL ELECTION - NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 
+SCHOOL COMMITTEE 1A 18 2A 28 3A 38 4A 48 SA 58 SA 
+Kevin Matter 
+James Magri 1 
+Ralph Magri 1 
+Heather Aslbere 1 
+Jackson Schneider 1 
+Jessica Ditomasso 1 
+Joe Bennett 1 
+Bernie Baran 1 
+Donald Trum p 1 
+Joshua Cutler 1 
+Jen Tichert 1 
+Tom Marini 1 
+Mike Albano 1 
+Zach Cutler 1 
+Walter Kimbo 1 
+Ronnie Mund 1 
+James Wren 1 
+Total Vote 1692 2466 780 3090 2940 3102 3186 4098 2076 228Q_ 2646 
+CITY COUNCILOR WARD 1 1A 18 
+Total Vote 282 411 
+Blanks 18 25 
+KENNETH G. WARREN, JR 65.37% 182 271 
+ANDREA CHRISTEEN WILSON 80 112 
+Mark Grace 1 0 
+Helen Moon 1 2 
+Mark Wrzenski 0 1 
+Total Vote 282 _ 411 0 0 0 0 0 0 0 0 0 
+---- ---
+19.18% 
+68 7A 78 Total 
+1 1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+1698 1092 2460 33606 
+Total 
+693 
+43 
+453 
+192 
+1 
+3 
+1 
+0 0 0 693 
+
+OFFICIAL RESULTS - MUNICIPAL GENERAL ELECTION - NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 
+CITY COUNCILOR WARD 2 2A 2B 
+Total Vote 130 515 
+Blanks 7 16 
+MATTHEW RYAN KUDLATE 63 186 
+CHARLES I. KRONICK 57.67% 59 313 
+David Webber 1 0 
+LTotal Vote 0 0 130 515 0 0 0 0 0 0 0 
+CITY COUNCILOR WARD 3 3A 3B 
+Total Vote 490 517 
+Blanks 112 99 
+KEVIN J. SHERMAN 78.05% 372 414 
+Robert Everhart 1 
+Randy Farmer 3 
+Dan Mirgilia 1 
+Nick Caccamo 1 
+Mike Rodney 1 
+Erin Sullivan 1 
+Emma King 1 
+Bob Fitch 1 
+Total Vote 0 0 0 0 490 517 0 0 0 0 0 
+CITY COUNCILOR WARD 4 4A 4B 
+Total Vote 531 683 
+Blanks 42 40 
+ANDREW M. WRJNN 201 299 
+JAMES B. CONANT 51.81% 286 343 
+Kyle McDonald 1 0 
+Mahatma Ghandi 1 0 
+Amy Breimaier 0 1 
+Total Vote 0 
+L_~~ 
+0 0 0 0 0 531 68~ 0 0 0 -
+19.18% 
+Total 
+645 
+23 
+249 
+372 
+1 
+0 0 0 645 
+Total 
+1007 
+211 
+786 
+1 
+3 
+1 
+1 
+1 
+1 
+1 
+1 
+0 0 0 1007 
+Total 
+1214 
+82 
+500 
+629 
+1 
+1 
+1 
+0 0 0 1214 
+
+OFFICIAL RESULTS - MUNICIPAL GENERAL ELECTION -NOVEMBER 02, 2021 
+CITY OF PITTSFIELD, MASSACHUSETTS 
+CITY COUNCILOR WARD 5 SA 58 
+Total Vote 346 380 
+Blanks 67 78 
+PATRICK KAVEY 78.93% 276 297 
+Kelan O'Brien 1 0 
+Kurt Raimer 1 0 
+Arthur Washburn 1 0 
+Jonathan Lothrop 0 2 
+Alicia Provencher 0 2 
+Andrea Huxtable 0 1 
+Total Vote 0 0 0 0 0 0 0 0 346 380 0 
+CITY COUNCILOR WARD 6 SA 
+Total Vote 441 
+Blanks 34 
+DINA GUIEL LAMPIASI 60.50% 251 
+EDWARD JAMES CARMEL 156 
+Scott Graves 0 
+Total Vote 0 0 0 0 0 0 0 0 0 0 441 
+--
+CITY COUNCILOR WARD 7 
+Total Vote 
+Blanks 
+ANTHONY V. MAFFUCCIO 67.40% 
+Stephen Nukorchuk 
+Frank McKeever 
+Tim Heath 
+Stan Knysh 
+James Pshenisky 
+Jane Winn 
+Michael Filipi 
+Tony Simonelli 
+Cara Kolbasoek 
+Total Vote 0 0 0 0 0 0 0 0 0 0 0 
+19.18% 
+Total 
+726 
+145 
+573 
+1 
+1 
+1 
+2 
+2 
+1 
+0 0 0 726 
+68 Total 
+283 724 
+21 55 
+187 438 
+74 230 
+1 1 
+0 
+283 0 0 724 
+7A 78 Total 
+182 410 592 
+50 132 182 
+129 270 399 
+1 0 1 
+1 0 1 
+1 0 1 
+1 1 
+1 1 
+2 2 
+1 1 
+2 2 
+1 1 
+0 182 410 592 

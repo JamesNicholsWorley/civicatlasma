@@ -1,0 +1,108 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of East Longmeadow",
+      "date": "2026-06-02",
+      "office_original": "Town Council - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Jacob Boucher",
+          "votes": 672
+        },
+        {
+          "name_original": "Jonathan J. Torcia",
+          "votes": 714
+        },
+        {
+          "name_original": "Carolyn Ferros",
+          "votes": 657
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 464,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of East Longmeadow",
+      "date": "2026-06-02",
+      "office_original": "School Committee - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kerri Lynn Jarzabski",
+          "votes": 807
+        },
+        {
+          "name_original": "William Barrett Strother",
+          "votes": 750
+        },
+        {
+          "name_original": "Others",
+          "votes": 127,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 848,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of East Longmeadow",
+      "date": "2026-06-02",
+      "office_original": "School Committee - One Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Ann Truoiolo",
+          "votes": 645
+        },
+        {
+          "name_original": "Christina Cooper",
+          "votes": 346
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 264,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastLongmeadow2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastLongmeadow2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

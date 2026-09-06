@@ -1,0 +1,254 @@
+{
+  "document": {
+    "heading_verbatim": "Town Election Results",
+    "date_verbatim": "April 27, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Town Election Results dated April 27, 2021 - annual municipal election",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 9,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Keith Glenny",
+          "votes": 815
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 201,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "BOARD OF SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rosemarie Eldridge Meissner",
+          "votes": 779
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 222,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Flanagan",
+          "votes": 720
+        },
+        {
+          "name_original": "Francis J. McLaughlin",
+          "votes": 698
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 623,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen P. Coswell",
+          "votes": 811
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 205,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "LIBRARY TRUSTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katie Stevens",
+          "votes": 715
+        },
+        {
+          "name_original": "JoAnn Piedrafite",
+          "votes": 624
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 704,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Hogan",
+          "votes": 778
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 242,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "REGIONAL SCHOOL COMMITTEE WESTMINSTER MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Courtney Rose McGee",
+          "votes": 739
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 275,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashburnham",
+      "date": "2021-04-27",
+      "office_original": "REGIONAL SCHOOL COMMITTEE ASHBURNHAM MEMBER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Winifred Kender",
+          "votes": 559
+        },
+        {
+          "name_original": "Nathan D. Comeau",
+          "votes": 459
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ashburnham2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashburnham2021.pdf",
+  "ballots_cast": 1024,
+  "ballots_cast_source": "derived_from_contests"
+}

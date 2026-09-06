@@ -1,0 +1,1409 @@
+{
+  "elections": [
+    {
+      "municipality": "Cambridge",
+      "date": "2023-11-07",
+      "office_original": "City Council - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Sumbul Siddiqui",
+          "votes": 3353,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Burhan Azeem",
+          "votes": 2250,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Patricia M. Nolan",
+          "votes": 2156,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Marc C. McGovern",
+          "votes": 2064,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Paul F. Toner",
+          "votes": 1987,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 11
+        },
+        {
+          "name_original": "Jivan G. Sobrinho-Wheeler",
+          "votes": 1486,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 15
+        },
+        {
+          "name_original": "E. Denise Simmons",
+          "votes": 1450,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 16
+        },
+        {
+          "name_original": "Ayesha M. Wilson",
+          "votes": 1168,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 17
+        },
+        {
+          "name_original": "Joan F. Pickett",
+          "votes": 932,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 17
+        },
+        {
+          "name_original": "Ayah A. Al-Zubi",
+          "votes": 829,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 16
+        },
+        {
+          "name_original": "Catherine Zusy",
+          "votes": 784,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 15
+        },
+        {
+          "name_original": "Dan J. Totten",
+          "votes": 770,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "Joe McGuirk",
+          "votes": 699,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "John Hanratty",
+          "votes": 610,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Adrienne Klein",
+          "votes": 455,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 11
+        },
+        {
+          "name_original": "Douglas P. Brown",
+          "votes": 407,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 10
+        },
+        {
+          "name_original": "Vernon K. Walker",
+          "votes": 352,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Federico Muchnik",
+          "votes": 334,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Robert Winters",
+          "votes": 316,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Carrie E. Pasquarello",
+          "votes": 256,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Hao Wang",
+          "votes": 256,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Frantz Pierre",
+          "votes": 224,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 4
+        },
+        {
+          "name_original": "Peter Hsu",
+          "votes": 151,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Gregg J. Moree",
+          "votes": 27,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 1",
+          "votes": 22,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 2",
+          "votes": 1,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 3",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 4",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 6",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 7",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 8",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 9",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 2334,
+        "valid_ballots": 23339,
+        "seats": 9,
+        "report": "https://www.cambridgema.gov/Election2023/Official/Council%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Sumbul Siddiqui": 3353,
+              "Burhan Azeem": 2250,
+              "Patricia M. Nolan": 2156,
+              "Marc C. McGovern": 2064,
+              "Paul F. Toner": 1987,
+              "Jivan G. Sobrinho-Wheeler": 1486,
+              "E. Denise Simmons": 1450,
+              "Ayesha M. Wilson": 1168,
+              "Joan F. Pickett": 932,
+              "Ayah A. Al-Zubi": 829,
+              "Catherine Zusy": 784,
+              "Dan J. Totten": 770,
+              "Joe McGuirk": 699,
+              "John Hanratty": 610,
+              "Adrienne Klein": 455,
+              "Douglas P. Brown": 407,
+              "Vernon K. Walker": 352,
+              "Federico Muchnik": 334,
+              "Robert Winters": 316,
+              "Carrie E. Pasquarello": 256,
+              "Hao Wang": 256,
+              "Frantz Pierre": 224,
+              "Peter Hsu": 151,
+              "Gregg J. Moree": 27,
+              "Write-in 1": 22,
+              "Write-in 2": 1,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Sumbul Siddiqui"
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2253,
+              "Patricia M. Nolan": 2225,
+              "Paul F. Toner": 2016,
+              "E. Denise Simmons": 1618,
+              "Jivan G. Sobrinho-Wheeler": 1611,
+              "Ayesha M. Wilson": 1323,
+              "Joan F. Pickett": 938,
+              "Ayah A. Al-Zubi": 877,
+              "Dan J. Totten": 802,
+              "Catherine Zusy": 795,
+              "Joe McGuirk": 723,
+              "John Hanratty": 613,
+              "Adrienne Klein": 477,
+              "Douglas P. Brown": 413,
+              "Vernon K. Walker": 365,
+              "Federico Muchnik": 337,
+              "Robert Winters": 320,
+              "Hao Wang": 262,
+              "Carrie E. Pasquarello": 259,
+              "Frantz Pierre": 235,
+              "Peter Hsu": 157,
+              "Gregg J. Moree": 28,
+              "Write-in 1": 23,
+              "Write-in 2": 1,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Burhan Azeem"
+            ],
+            "eliminated": [
+              "Gregg J. Moree",
+              "Write-in 1",
+              "Write-in 2",
+              "Write-in 3",
+              "Write-in 4",
+              "Write-in 5",
+              "Write-in 6",
+              "Write-in 7",
+              "Write-in 8",
+              "Write-in 9"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2256,
+              "Patricia M. Nolan": 2228,
+              "Paul F. Toner": 2018,
+              "E. Denise Simmons": 1620,
+              "Jivan G. Sobrinho-Wheeler": 1614,
+              "Ayesha M. Wilson": 1324,
+              "Joan F. Pickett": 942,
+              "Ayah A. Al-Zubi": 878,
+              "Dan J. Totten": 803,
+              "Catherine Zusy": 798,
+              "Joe McGuirk": 728,
+              "John Hanratty": 614,
+              "Adrienne Klein": 477,
+              "Douglas P. Brown": 414,
+              "Vernon K. Walker": 365,
+              "Federico Muchnik": 342,
+              "Robert Winters": 320,
+              "Carrie E. Pasquarello": 263,
+              "Hao Wang": 262,
+              "Frantz Pierre": 236,
+              "Peter Hsu": 158,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Peter Hsu"
+            ],
+            "exhausted": 11
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2274,
+              "Patricia M. Nolan": 2241,
+              "Paul F. Toner": 2022,
+              "E. Denise Simmons": 1624,
+              "Jivan G. Sobrinho-Wheeler": 1622,
+              "Ayesha M. Wilson": 1331,
+              "Joan F. Pickett": 947,
+              "Ayah A. Al-Zubi": 886,
+              "Dan J. Totten": 807,
+              "Catherine Zusy": 800,
+              "Joe McGuirk": 738,
+              "John Hanratty": 615,
+              "Adrienne Klein": 492,
+              "Douglas P. Brown": 419,
+              "Vernon K. Walker": 369,
+              "Federico Muchnik": 345,
+              "Robert Winters": 320,
+              "Hao Wang": 288,
+              "Carrie E. Pasquarello": 266,
+              "Frantz Pierre": 239,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Frantz Pierre"
+            ],
+            "exhausted": 26
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2290,
+              "Patricia M. Nolan": 2250,
+              "Paul F. Toner": 2035,
+              "E. Denise Simmons": 1683,
+              "Jivan G. Sobrinho-Wheeler": 1634,
+              "Ayesha M. Wilson": 1377,
+              "Joan F. Pickett": 951,
+              "Ayah A. Al-Zubi": 891,
+              "Dan J. Totten": 811,
+              "Catherine Zusy": 802,
+              "Joe McGuirk": 745,
+              "John Hanratty": 615,
+              "Adrienne Klein": 504,
+              "Douglas P. Brown": 422,
+              "Vernon K. Walker": 382,
+              "Federico Muchnik": 347,
+              "Robert Winters": 320,
+              "Hao Wang": 293,
+              "Carrie E. Pasquarello": 269,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Carrie E. Pasquarello"
+            ],
+            "exhausted": 50
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2306,
+              "Patricia M. Nolan": 2258,
+              "Paul F. Toner": 2094,
+              "E. Denise Simmons": 1701,
+              "Jivan G. Sobrinho-Wheeler": 1634,
+              "Ayesha M. Wilson": 1388,
+              "Joan F. Pickett": 984,
+              "Ayah A. Al-Zubi": 892,
+              "Catherine Zusy": 820,
+              "Dan J. Totten": 812,
+              "Joe McGuirk": 756,
+              "John Hanratty": 636,
+              "Adrienne Klein": 507,
+              "Douglas P. Brown": 429,
+              "Vernon K. Walker": 386,
+              "Federico Muchnik": 352,
+              "Robert Winters": 339,
+              "Hao Wang": 304,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Hao Wang"
+            ],
+            "exhausted": 73
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2331,
+              "Patricia M. Nolan": 2298,
+              "Paul F. Toner": 2120,
+              "E. Denise Simmons": 1722,
+              "Jivan G. Sobrinho-Wheeler": 1637,
+              "Ayesha M. Wilson": 1410,
+              "Joan F. Pickett": 1005,
+              "Ayah A. Al-Zubi": 902,
+              "Catherine Zusy": 840,
+              "Dan J. Totten": 818,
+              "Joe McGuirk": 763,
+              "John Hanratty": 651,
+              "Adrienne Klein": 516,
+              "Douglas P. Brown": 447,
+              "Vernon K. Walker": 388,
+              "Federico Muchnik": 365,
+              "Robert Winters": 352,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Robert Winters"
+            ],
+            "exhausted": 106
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2179,
+              "E. Denise Simmons": 1739,
+              "Jivan G. Sobrinho-Wheeler": 1639,
+              "Ayesha M. Wilson": 1423,
+              "Joan F. Pickett": 1046,
+              "Ayah A. Al-Zubi": 905,
+              "Catherine Zusy": 887,
+              "Dan J. Totten": 822,
+              "Joe McGuirk": 769,
+              "John Hanratty": 680,
+              "Adrienne Klein": 522,
+              "Douglas P. Brown": 479,
+              "Vernon K. Walker": 392,
+              "Federico Muchnik": 386,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Marc C. McGovern",
+              "Patricia M. Nolan"
+            ],
+            "eliminated": [
+              "Federico Muchnik"
+            ],
+            "exhausted": 135
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2238,
+              "E. Denise Simmons": 1761,
+              "Jivan G. Sobrinho-Wheeler": 1651,
+              "Ayesha M. Wilson": 1447,
+              "Joan F. Pickett": 1105,
+              "Catherine Zusy": 945,
+              "Ayah A. Al-Zubi": 919,
+              "Dan J. Totten": 831,
+              "Joe McGuirk": 786,
+              "John Hanratty": 718,
+              "Adrienne Klein": 529,
+              "Douglas P. Brown": 509,
+              "Vernon K. Walker": 406,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Vernon K. Walker"
+            ],
+            "exhausted": 158
+          },
+          {
+            "round": 10,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2254,
+              "E. Denise Simmons": 1801,
+              "Jivan G. Sobrinho-Wheeler": 1712,
+              "Ayesha M. Wilson": 1519,
+              "Joan F. Pickett": 1110,
+              "Ayah A. Al-Zubi": 978,
+              "Catherine Zusy": 963,
+              "Dan J. Totten": 893,
+              "Joe McGuirk": 806,
+              "John Hanratty": 723,
+              "Adrienne Klein": 545,
+              "Douglas P. Brown": 521,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Douglas P. Brown"
+            ],
+            "exhausted": 178
+          },
+          {
+            "round": 11,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "E. Denise Simmons": 1826,
+              "Jivan G. Sobrinho-Wheeler": 1744,
+              "Ayesha M. Wilson": 1550,
+              "Joan F. Pickett": 1150,
+              "Catherine Zusy": 1057,
+              "Ayah A. Al-Zubi": 988,
+              "Dan J. Totten": 903,
+              "Joe McGuirk": 828,
+              "John Hanratty": 804,
+              "Adrienne Klein": 580,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Paul F. Toner"
+            ],
+            "eliminated": [
+              "Adrienne Klein"
+            ],
+            "exhausted": 239
+          },
+          {
+            "round": 12,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "E. Denise Simmons": 1894,
+              "Jivan G. Sobrinho-Wheeler": 1887,
+              "Ayesha M. Wilson": 1610,
+              "Joan F. Pickett": 1175,
+              "Catherine Zusy": 1081,
+              "Ayah A. Al-Zubi": 1048,
+              "Dan J. Totten": 956,
+              "Joe McGuirk": 888,
+              "John Hanratty": 816,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "John Hanratty"
+            ],
+            "exhausted": 314
+          },
+          {
+            "round": 13,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "E. Denise Simmons": 1947,
+              "Jivan G. Sobrinho-Wheeler": 1898,
+              "Ayesha M. Wilson": 1664,
+              "Joan F. Pickett": 1560,
+              "Catherine Zusy": 1201,
+              "Ayah A. Al-Zubi": 1065,
+              "Dan J. Totten": 970,
+              "Joe McGuirk": 937,
+              "John Hanratty": 0,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Joe McGuirk"
+            ],
+            "exhausted": 427
+          },
+          {
+            "round": 14,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "E. Denise Simmons": 2134,
+              "Jivan G. Sobrinho-Wheeler": 2051,
+              "Ayesha M. Wilson": 1830,
+              "Joan F. Pickett": 1643,
+              "Catherine Zusy": 1254,
+              "Ayah A. Al-Zubi": 1120,
+              "Dan J. Totten": 1043,
+              "Joe McGuirk": 0,
+              "John Hanratty": 0,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Dan J. Totten"
+            ],
+            "exhausted": 594
+          },
+          {
+            "round": 15,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "Jivan G. Sobrinho-Wheeler": 2334,
+              "E. Denise Simmons": 2244,
+              "Ayesha M. Wilson": 1962,
+              "Joan F. Pickett": 1658,
+              "Ayah A. Al-Zubi": 1453,
+              "Catherine Zusy": 1293,
+              "Dan J. Totten": 0,
+              "Joe McGuirk": 0,
+              "John Hanratty": 0,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Jivan G. Sobrinho-Wheeler"
+            ],
+            "eliminated": [
+              "Catherine Zusy"
+            ],
+            "exhausted": 725
+          },
+          {
+            "round": 16,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "Jivan G. Sobrinho-Wheeler": 2334,
+              "E. Denise Simmons": 2334,
+              "Ayesha M. Wilson": 2221,
+              "Joan F. Pickett": 2141,
+              "Ayah A. Al-Zubi": 1525,
+              "Catherine Zusy": 0,
+              "Dan J. Totten": 0,
+              "Joe McGuirk": 0,
+              "John Hanratty": 0,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "E. Denise Simmons"
+            ],
+            "eliminated": [
+              "Ayah A. Al-Zubi"
+            ],
+            "exhausted": 1114
+          },
+          {
+            "round": 17,
+            "tally": {
+              "Sumbul Siddiqui": 2334,
+              "Burhan Azeem": 2334,
+              "Marc C. McGovern": 2334,
+              "Patricia M. Nolan": 2334,
+              "Paul F. Toner": 2334,
+              "Jivan G. Sobrinho-Wheeler": 2334,
+              "E. Denise Simmons": 2334,
+              "Ayesha M. Wilson": 2334,
+              "Joan F. Pickett": 2248,
+              "Ayah A. Al-Zubi": 0,
+              "Catherine Zusy": 0,
+              "Dan J. Totten": 0,
+              "Joe McGuirk": 0,
+              "John Hanratty": 0,
+              "Adrienne Klein": 0,
+              "Douglas P. Brown": 0,
+              "Vernon K. Walker": 0,
+              "Federico Muchnik": 0,
+              "Robert Winters": 0,
+              "Hao Wang": 0,
+              "Carrie E. Pasquarello": 0,
+              "Frantz Pierre": 0,
+              "Peter Hsu": 0,
+              "Gregg J. Moree": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Ayesha M. Wilson",
+              "Joan F. Pickett"
+            ],
+            "eliminated": [],
+            "exhausted": 2419
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cambridge",
+      "date": "2023-11-07",
+      "office_original": "School Committee - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Rachel B. Weinstein",
+          "votes": 3651,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Elizabeth Clark Polner Hudson",
+          "votes": 3516,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Caroline M. Hunter",
+          "votes": 2112,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "David J. Weinstein",
+          "votes": 2016,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "José Luis Rojas Villarreal",
+          "votes": 1979,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Richard Harding, Jr.",
+          "votes": 1879,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Andrew R. King",
+          "votes": 2035,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Eugenia Schraa Huh",
+          "votes": 1833,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Robert Vincent Travers, Jr.",
+          "votes": 910,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Frantz Pierre",
+          "votes": 866,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Alborz Bejnood",
+          "votes": 413,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 4
+        },
+        {
+          "name_original": "Write-in 1",
+          "votes": 41,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 2",
+          "votes": 3,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 4",
+          "votes": 1,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 3",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 6",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 3037,
+        "valid_ballots": 21255,
+        "seats": 6,
+        "report": "https://www.cambridgema.gov/Election2023/Official/School%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Rachel B. Weinstein": 3651,
+              "Elizabeth Clark Polner Hudson": 3516,
+              "Caroline M. Hunter": 2112,
+              "Andrew R. King": 2035,
+              "David J. Weinstein": 2016,
+              "José Luis Rojas Villarreal": 1979,
+              "Richard Harding, Jr.": 1879,
+              "Eugenia Schraa Huh": 1833,
+              "Robert Vincent Travers, Jr.": 910,
+              "Frantz Pierre": 866,
+              "Alborz Bejnood": 413,
+              "Write-in 1": 41,
+              "Write-in 2": 3,
+              "Write-in 4": 1,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Rachel B. Weinstein",
+              "Elizabeth Clark Polner Hudson"
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3516,
+              "Caroline M. Hunter": 2230,
+              "David J. Weinstein": 2227,
+              "Andrew R. King": 2096,
+              "José Luis Rojas Villarreal": 2075,
+              "Richard Harding, Jr.": 1931,
+              "Eugenia Schraa Huh": 1874,
+              "Robert Vincent Travers, Jr.": 920,
+              "Frantz Pierre": 879,
+              "Alborz Bejnood": 424,
+              "Write-in 1": 42,
+              "Write-in 2": 3,
+              "Write-in 4": 1,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "David J. Weinstein": 2286,
+              "Caroline M. Hunter": 2280,
+              "José Luis Rojas Villarreal": 2159,
+              "Andrew R. King": 2135,
+              "Eugenia Schraa Huh": 1988,
+              "Richard Harding, Jr.": 1966,
+              "Robert Vincent Travers, Jr.": 985,
+              "Frantz Pierre": 886,
+              "Alborz Bejnood": 450,
+              "Write-in 1": 42,
+              "Write-in 2": 3,
+              "Write-in 4": 1,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Write-in 1",
+              "Write-in 2",
+              "Write-in 4",
+              "Write-in 3",
+              "Write-in 5",
+              "Write-in 6"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "David J. Weinstein": 2287,
+              "Caroline M. Hunter": 2281,
+              "José Luis Rojas Villarreal": 2161,
+              "Andrew R. King": 2136,
+              "Eugenia Schraa Huh": 1991,
+              "Richard Harding, Jr.": 1966,
+              "Robert Vincent Travers, Jr.": 987,
+              "Frantz Pierre": 887,
+              "Alborz Bejnood": 450,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Alborz Bejnood"
+            ],
+            "exhausted": 35
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "David J. Weinstein": 2337,
+              "Caroline M. Hunter": 2319,
+              "José Luis Rojas Villarreal": 2219,
+              "Andrew R. King": 2169,
+              "Eugenia Schraa Huh": 2096,
+              "Richard Harding, Jr.": 2042,
+              "Robert Vincent Travers, Jr.": 995,
+              "Frantz Pierre": 906,
+              "Alborz Bejnood": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Frantz Pierre"
+            ],
+            "exhausted": 98
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "Caroline M. Hunter": 2435,
+              "David J. Weinstein": 2408,
+              "José Luis Rojas Villarreal": 2383,
+              "Andrew R. King": 2235,
+              "Eugenia Schraa Huh": 2167,
+              "Richard Harding, Jr.": 2164,
+              "Robert Vincent Travers, Jr.": 1033,
+              "Frantz Pierre": 0,
+              "Alborz Bejnood": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Robert Vincent Travers, Jr."
+            ],
+            "exhausted": 356
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "Caroline M. Hunter": 2601,
+              "José Luis Rojas Villarreal": 2564,
+              "David J. Weinstein": 2521,
+              "Andrew R. King": 2354,
+              "Richard Harding, Jr.": 2352,
+              "Eugenia Schraa Huh": 2231,
+              "Robert Vincent Travers, Jr.": 0,
+              "Frantz Pierre": 0,
+              "Alborz Bejnood": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Eugenia Schraa Huh"
+            ],
+            "exhausted": 558
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "David J. Weinstein": 3037,
+              "Caroline M. Hunter": 2961,
+              "José Luis Rojas Villarreal": 2920,
+              "Richard Harding, Jr.": 2632,
+              "Andrew R. King": 2624,
+              "Eugenia Schraa Huh": 0,
+              "Robert Vincent Travers, Jr.": 0,
+              "Frantz Pierre": 0,
+              "Alborz Bejnood": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "David J. Weinstein"
+            ],
+            "eliminated": [
+              "Andrew R. King"
+            ],
+            "exhausted": 1007
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Rachel B. Weinstein": 3037,
+              "Elizabeth Clark Polner Hudson": 3037,
+              "David J. Weinstein": 3037,
+              "Caroline M. Hunter": 3037,
+              "José Luis Rojas Villarreal": 3037,
+              "Richard Harding, Jr.": 3037,
+              "Andrew R. King": 0,
+              "Eugenia Schraa Huh": 0,
+              "Robert Vincent Travers, Jr.": 0,
+              "Frantz Pierre": 0,
+              "Alborz Bejnood": 0,
+              "Write-in 1": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 3": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Caroline M. Hunter",
+              "José Luis Rojas Villarreal",
+              "Richard Harding, Jr."
+            ],
+            "eliminated": [],
+            "exhausted": 3033
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Cambridge2023",
+  "_source_url": "https://www.cambridgema.gov/Election2023/Official/Council%20Round.htm",
+  "_count_method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+  "_votes_basis": "first-preference count; winners carry elected=true",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

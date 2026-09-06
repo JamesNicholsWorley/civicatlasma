@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Board of Health",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arleen Read",
+          "votes": 248
+        },
+        {
+          "name_original": "Mary E David",
+          "votes": 112
+        },
+        {
+          "name_original": "Wm Levine",
+          "votes": 136
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 119,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Cemetery Commission",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan P Millinger",
+          "votes": 267
+        },
+        {
+          "name_original": "Dina Stander",
+          "votes": 259
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 83,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Library Trustee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kate Cell",
+          "votes": 260
+        },
+        {
+          "name_original": "Timothy Logan",
+          "votes": 258
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 93,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Municipal Light Plant/Broadband Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Schmidt",
+          "votes": 271
+        },
+        {
+          "name_original": "Graeme Sephton",
+          "votes": 274
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nathan Murphy",
+          "votes": 251
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Malcolm-Brown",
+          "votes": 245
+        },
+        {
+          "name_original": "Bethany Rose",
+          "votes": 256
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 106,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2021-06-12",
+      "office_original": "Selectboard",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric Stocker",
+          "votes": 201
+        },
+        {
+          "name_original": "Don Wokoluk",
+          "votes": 92
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Shutesbury2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Shutesbury2021.pdf",
+  "ballots_cast": 308,
+  "ballots_cast_source": "derived_from_contests"
+}

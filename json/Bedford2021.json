@@ -1,0 +1,135 @@
+{
+  "elections": [
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Maureen Richichi",
+          "votes": 1408
+        },
+        {
+          "name_original": "Anita Raj",
+          "votes": 1100
+        },
+        {
+          "name_original": "Catherine Van Praagh",
+          "votes": 0
+        },
+        {
+          "name_original": "Allison O'Connell",
+          "votes": 0
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Chris Gittins",
+          "votes": 1077
+        },
+        {
+          "name_original": "Armen Zildjian",
+          "votes": 878
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Dan Brosgol",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "Board of Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Michael Pulizzi",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Fahad Alden",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "Shawsheen Technical High School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Brian O'Donnell",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bedford",
+      "date": "2021-03-13",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.65,
+      "candidates": [
+        {
+          "name_original": "Kim Lovy",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Bedford2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,417 @@
+{
+  "elections": [
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Edward Marggraf",
+          "votes": 1403
+        },
+        {
+          "name_original": "Kassandra Megan Gove",
+          "votes": 2601
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor at Large",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott B. Mandeville",
+          "votes": 2355
+        },
+        {
+          "name_original": "Claudel Frederique",
+          "votes": 2128
+        },
+        {
+          "name_original": "Steven J. Stanganelli",
+          "votes": 2426
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5205,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela Gilday",
+          "votes": 529
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 189,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Rinaldi",
+          "votes": 494
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 172,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Owen Matthew Corcoran",
+          "votes": 584
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 236,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas E. Wheeler",
+          "votes": 391
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Redfern",
+          "votes": 489
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Councilor",
+      "district_original": "D6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Austin Hogg",
+          "votes": 444
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 165,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "School Committee 4YR",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maryann L. Welch",
+          "votes": 2739
+        },
+        {
+          "name_original": "Kebbi S. Nowland",
+          "votes": 867
+        },
+        {
+          "name_original": "Katherine Anne Slater",
+          "votes": 2667
+        },
+        {
+          "name_original": "Brock M. Omohundro",
+          "votes": 2435
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3424,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "School Committee 2YR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory L. Noyes",
+          "votes": 2748
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1287,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "School Committee 2YR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kurt Mansperger",
+          "votes": 1164
+        },
+        {
+          "name_original": "Cheryl P. Comeau",
+          "votes": 887
+        },
+        {
+          "name_original": "Ian C. Gillis",
+          "votes": 935
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1057,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Planning Board",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael L. Jewell",
+          "votes": 2149
+        },
+        {
+          "name_original": "Lorri Katherina Krebs",
+          "votes": 2107
+        },
+        {
+          "name_original": "David G. Frick",
+          "votes": 2410
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5471,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amesbury",
+      "date": "2023-11-07",
+      "office_original": "Library Trustees",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brenda L. Rich",
+          "votes": 2486
+        },
+        {
+          "name_original": "Delia Anne Rinaldi",
+          "votes": 2475
+        },
+        {
+          "name_original": "Mary A. Chatigny",
+          "votes": 2325
+        },
+        {
+          "name_original": "Jessica Mary Ducrow",
+          "votes": 2195
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6711,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Amesbury2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Amesbury2023.pdf",
+  "ballots_cast": 4050,
+  "ballots_cast_source": "derived_from_contests"
+}

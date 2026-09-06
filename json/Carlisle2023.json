@@ -1,0 +1,186 @@
+{
+  "elections": [
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "Select Board – Two for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Seth D Model",
+          "votes": 329
+        },
+        {
+          "name_original": "Katherine T Reid",
+          "votes": 334
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 58,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "Board of Assessors – One for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Robert Boardman",
+          "votes": 321
+        },
+        {
+          "name_original": "Paul Bertin Boussu",
+          "votes": 17
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "Board of Health – One for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Hope Wall",
+          "votes": 346
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "Library Trustee – One for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen M Gettings",
+          "votes": 348
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "Planning Board – Two for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sara Cassidy Smith",
+          "votes": 340
+        },
+        {
+          "name_original": "Christopher Paul Geggis",
+          "votes": 326
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 71,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Carlisle",
+      "date": "2023-05-16",
+      "office_original": "School Committee – Two for Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie M Viola",
+          "votes": 349
+        },
+        {
+          "name_original": "Brian P Waterson",
+          "votes": 349
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Carlisle2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Carlisle2023.pdf",
+  "ballots_cast": 370,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,117 @@
+{
+  "elections": [
+    {
+      "municipality": "East Longmeadow",
+      "date": "2022-06-07",
+      "office_original": "Town Council - Three Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen G Hill",
+          "votes": 1082
+        },
+        {
+          "name_original": "Anna T Jones",
+          "votes": 997
+        },
+        {
+          "name_original": "Ralph E Page",
+          "votes": 853
+        },
+        {
+          "name_original": "Terri A Leone",
+          "votes": 650
+        },
+        {
+          "name_original": "Samuel Stoughton",
+          "votes": 293
+        },
+        {
+          "name_original": "Others",
+          "votes": 215,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1115,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "East Longmeadow",
+      "date": "2022-06-07",
+      "office_original": "Town Council - Two Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Boucher",
+          "votes": 298
+        },
+        {
+          "name_original": "Sid Starks",
+          "votes": 234
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1131,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "East Longmeadow",
+      "date": "2022-06-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Antonella Raschilla",
+          "votes": 1155
+        },
+        {
+          "name_original": "Aimee Dalenta",
+          "votes": 1008
+        },
+        {
+          "name_original": "Carlos J Rios",
+          "votes": 566
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 702,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastLongmeadow2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastLongmeadow2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

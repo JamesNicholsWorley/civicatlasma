@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Town Clerk - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elisabeth E. Horan",
+          "votes": 1622
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 545,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Select Board - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Natalie A. Mello",
+          "votes": 1127
+        },
+        {
+          "name_original": "Richard Francis Trapilo",
+          "votes": 986
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "School Committee - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erik J. Andersen",
+          "votes": 1046
+        },
+        {
+          "name_original": "Brendalee A. Smith",
+          "votes": 703
+        },
+        {
+          "name_original": "Kelly McGowan Ochoa",
+          "votes": 1107
+        },
+        {
+          "name_original": "Patricia Ann Pacella",
+          "votes": 633
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 861,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Board of Health - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cristina Maria Lopes",
+          "votes": 906
+        },
+        {
+          "name_original": "Brian C. Meneses",
+          "votes": 1026
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 238,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Commissioner of Trust Funds - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara A. Acksen",
+          "votes": 1323
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 841,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Board of Public Works - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Morton Smith",
+          "votes": 1418
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 738,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Fairhaven",
+      "date": "2025-04-07",
+      "office_original": "Planning Board - 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cathy Jean Melanson",
+          "votes": 958
+        },
+        {
+          "name_original": "Miles F. Grant",
+          "votes": 1142
+        },
+        {
+          "name_original": "Sean M. Powers",
+          "votes": 1106
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1140,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Fairhaven2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Fairhaven2025.pdf",
+  "ballots_cast": 2177,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,355 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Election Results - May 8, 2023",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election Results",
+    "date_verbatim": "May 8, 2023",
+    "offices_on_ballot": 14,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Selectman for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "June M. Lynds",
+          "votes": 31
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Assessor for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elliot Ring",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Moderator for one year",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua Wachtel",
+          "votes": 28
+        },
+        {
+          "name_original": "Mark DeMaranville",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Clerk for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brenda A. Emerson-Camp",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Vocational School Committee for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan E. Strong",
+          "votes": 27
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Almoner of Charitable Funds for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan F. Forgea",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Commissioner of Trust Funds for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth L. Howes",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Water Commissioner for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dann Emerson",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Trustee Bryant Library for five years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eliza J. Dragon",
+          "votes": 30
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Finance Committee two for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis W. Forgea",
+          "votes": 26
+        },
+        {
+          "name_original": "June M. Lynds",
+          "votes": 31
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Board of Health for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith C. Bogart",
+          "votes": 29
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Planning Board for five years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kalyan Uprichard",
+          "votes": 29
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Recreation Committee three for three years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey L. Mackowiak",
+          "votes": 29
+        },
+        {
+          "name_original": "Eliza J. Dragon",
+          "votes": 30
+        },
+        {
+          "name_original": "Jennifer A. O'Neill",
+          "votes": 27
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Cummington",
+      "date": "2023-05-08",
+      "office_original": "Municipal Light Plant Board two for 3 years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brenda S. Arbib",
+          "votes": 29
+        },
+        {
+          "name_original": "Michael A. Perkins II",
+          "votes": 29
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Cummington2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Cummington2023.pdf",
+  "ballots_cast": 31,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,216 @@
+{
+  "elections": [
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frederick A. George",
+          "votes": 1802
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 284,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julianne S. Hirsh",
+          "votes": 1405
+        },
+        {
+          "name_original": "Thomas Edward Dalton",
+          "votes": 142
+        },
+        {
+          "name_original": "Vikram Verma",
+          "votes": 830
+        },
+        {
+          "name_original": "Kristen Patricia Wixted",
+          "votes": 1229
+        },
+        {
+          "name_original": "Timothy M. Kaelin",
+          "votes": 248
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 356,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kerri Martinek",
+          "votes": 1324
+        },
+        {
+          "name_original": "Anthony Ziton",
+          "votes": 1283
+        },
+        {
+          "name_original": "Theresa K. Capobianco",
+          "votes": 787
+        },
+        {
+          "name_original": "Glenn Odone",
+          "votes": 725
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 92,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lauren Catherine Bailey-Jones",
+          "votes": 1562
+        },
+        {
+          "name_original": "Kelly L. Guenette",
+          "votes": 1549
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1076,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Northborough",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Howland",
+          "votes": 1233
+        },
+        {
+          "name_original": "Karen A. Ares",
+          "votes": 1194
+        },
+        {
+          "name_original": "Mariam Ibrahimi",
+          "votes": 1161
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 609,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2021-05-11",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Southborough",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen A. Harragan",
+          "votes": 1473
+        },
+        {
+          "name_original": "Cathy A. Kea",
+          "votes": 1439
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1280,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northborough2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northborough2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

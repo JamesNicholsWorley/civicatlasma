@@ -1,0 +1,138 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF CHATHAM THURSDAY, JUNE 17, 2021 ANNUAL TOWN ELECTION MINUTES",
+    "election_type": "Regular",
+    "election_type_evidence": "This Annual Town Election, called by the Board of Selectmen as required by law",
+    "date_verbatim": "THURSDAY, JUNE 17, 2021",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Chatham",
+      "date": "2021-06-17",
+      "office_original": "BOARD OF SELECTMEN (2)",
+      "district_original": "Chatham",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 296,
+          "tally_row": true
+        },
+        {
+          "name_original": "Cory J. Metters",
+          "votes": 832
+        },
+        {
+          "name_original": "Dean P. Nicastro",
+          "votes": 685
+        },
+        {
+          "name_original": "Thomas J. Wilson",
+          "votes": 406
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2021-06-17",
+      "office_original": "MODERATOR",
+      "district_original": "Chatham",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 137,
+          "tally_row": true
+        },
+        {
+          "name_original": "William G. Litchfield",
+          "votes": 966
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2021-06-17",
+      "office_original": "MONOMOY REGIONAL SCHOOL COMMITTEE",
+      "district_original": "Chatham",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 230,
+          "tally_row": true
+        },
+        {
+          "name_original": "Danielle B. Tolley",
+          "votes": 876
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2021-06-17",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": "Chatham",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        },
+        {
+          "name_original": "Shirley L. Smith",
+          "votes": 883
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chatham2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chatham2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

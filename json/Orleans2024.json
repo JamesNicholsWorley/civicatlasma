@@ -1,0 +1,194 @@
+{
+  "elections": [
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin F. Galligan",
+          "votes": 1213
+        },
+        {
+          "name_original": "Todd Squire",
+          "votes": 32
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 269,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Watson Hartung",
+          "votes": 1157
+        },
+        {
+          "name_original": "Asa H. Nadeau",
+          "votes": 1174
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 727,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "NAUSET REG SCHOOL",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Cole",
+          "votes": 1224
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 302,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "ELEMENTARY SCHOOL",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine J. Towry-McNamara",
+          "votes": 1191
+        },
+        {
+          "name_original": "Ian Mack",
+          "votes": 52
+        },
+        {
+          "name_original": "All Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1805,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "TRUSTEE FOR SNOW LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James F. Balliett",
+          "votes": 939
+        },
+        {
+          "name_original": "Mark Steven Ziomek",
+          "votes": 810
+        },
+        {
+          "name_original": "Cheryl G. Bryan",
+          "votes": 816
+        },
+        {
+          "name_original": "Betsy Mitman Sorenson",
+          "votes": 736
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1282,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2024-05-21",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Keith Clark",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1461,
+          "tally_row": true
+        },
+        {
+          "name_original": "All Others",
+          "votes": 62,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orleans2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orleans2024.pdf",
+  "ballots_cast": 1530,
+  "ballots_cast_source": "derived_from_contests"
+}

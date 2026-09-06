@@ -1,0 +1,120 @@
+{
+  "elections": [
+    {
+      "municipality": "Somerset",
+      "date": "2023-04-10",
+      "office_original": "Selectmen",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jamison Souza",
+          "votes": 1344
+        },
+        {
+          "name_original": "Lorne Lawless",
+          "votes": 1093
+        },
+        {
+          "name_original": "Paul Healey",
+          "votes": 338
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Somerset",
+      "date": "2023-04-10",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jennifer Ashley",
+          "votes": 1625
+        },
+        {
+          "name_original": "Robert Gaw",
+          "votes": 1621
+        },
+        {
+          "name_original": "James Nasto",
+          "votes": 1013
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Somerset",
+      "date": "2023-04-10",
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Lucia Casey",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Somerset",
+      "date": "2023-04-10",
+      "office_original": "Water and Sewer Commission",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Robert Lima",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Somerset",
+      "date": "2023-04-10",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sonya Barbosa",
+          "votes": 464
+        },
+        {
+          "name_original": "Thomas Rodriguez Jr.",
+          "votes": 460
+        },
+        {
+          "name_original": "Frank Baptista Jr.",
+          "votes": 424
+        }
+      ],
+      "locale_original": "Swansea",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Somerset2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

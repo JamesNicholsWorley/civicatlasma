@@ -1,0 +1,154 @@
+{
+  "elections": [
+    {
+      "municipality": "Palmer",
+      "date": "2026-06-09",
+      "office_original": "Councilor at Large - 3 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 378,
+          "tally_row": true
+        },
+        {
+          "name_original": "Ryan Gauthier",
+          "votes": 150
+        },
+        {
+          "name_original": "Lucas McDiarmid",
+          "votes": 145
+        },
+        {
+          "name_original": "Write In: * all others",
+          "votes": 35
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2026-06-09",
+      "office_original": "Councilor at Large - 1 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 251,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jan Marie McCoy",
+          "votes": 426
+        },
+        {
+          "name_original": "Write In: * all others",
+          "votes": 31
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2026-06-09",
+      "office_original": "School Committee - 3 year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 397,
+          "tally_row": true
+        },
+        {
+          "name_original": "Bonny B. Rathbone",
+          "votes": 502
+        },
+        {
+          "name_original": "Matthew James Lovell",
+          "votes": 505
+        },
+        {
+          "name_original": "Write In: * all others",
+          "votes": 12
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2026-06-09",
+      "office_original": "Planning Board - 3 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 286,
+          "tally_row": true
+        },
+        {
+          "name_original": "Lori B. Walder",
+          "votes": 350
+        },
+        {
+          "name_original": "Michael F. Matthieu",
+          "votes": 310
+        },
+        {
+          "name_original": "Scott C. Day",
+          "votes": 454
+        },
+        {
+          "name_original": "Write In: * all others",
+          "votes": 16
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2026-06-09",
+      "office_original": "District 1 Councilor - 3 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 191,
+          "tally_row": true
+        },
+        {
+          "name_original": "Philip Hebert",
+          "votes": 4
+        },
+        {
+          "name_original": "Write In: * all others",
+          "votes": 23
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Palmer2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Palmer2026.pdf",
+  "ballots_cast": 708,
+  "ballots_cast_source": "derived_from_contests"
+}

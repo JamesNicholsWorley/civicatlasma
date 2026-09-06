@@ -1,0 +1,290 @@
+{
+  "document": {
+    "heading_verbatim": "CHESTER TOWN ELECTION OFFICIAL RESULTS",
+    "date_verbatim": "May 7, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual town election with standard municipal offices (Selectman, School Committee, Moderator, etc.) on the ballot, typical of regular town elections held in May.",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 10,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Board of Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Sutton",
+          "votes": 90
+        },
+        {
+          "name_original": "Frank Pero",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Richard Holzman",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Pease Huntoon",
+          "votes": 53
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Terry Murphy",
+          "votes": 3
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Board of Health (3 Years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas Chiusano",
+          "votes": 121
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Karen Savoy",
+          "votes": 143
+        },
+        {
+          "name_original": "Jane Sutton",
+          "votes": 116
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Electric Light Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Terry Murphy",
+          "votes": 137
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Water Commissioner (1 year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lyle Snide",
+          "votes": 136
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Water Commissioner (2 year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donald Bean",
+          "votes": 143
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chester",
+      "date": "2022-05-07",
+      "office_original": "Water Commissioner (3 year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Daley",
+          "votes": 136
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chester2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chester2022.pdf",
+  "ballots_cast": 166,
+  "ballots_cast_source": "derived_from_contests"
+}

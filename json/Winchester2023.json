@@ -1,0 +1,804 @@
+{
+  "elections": [
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "MODERATOR (one to be elected for one year)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Heather R. Von Mering",
+          "votes": 1111
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 469,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "SELECT BOARD (one to be elected for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vincent Lawrence Dixon",
+          "votes": 199
+        },
+        {
+          "name_original": "Michelle Prior",
+          "votes": 1224
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 157,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "ASSESSOR (one to be elected for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Michienzi",
+          "votes": 995
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 585,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "ASSESSOR (one to be elected for 2 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George Nowell, Jr.",
+          "votes": 1066
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 514,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "BOARD OF HEALTH (one to be elected for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory Sawicki",
+          "votes": 1018
+        },
+        {
+          "name_original": "Jennifer Infurna",
+          "votes": 81
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 481,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "PLANNING BOARD (two to be elected for 3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas J. Rossettos",
+          "votes": 920
+        },
+        {
+          "name_original": "Keri Layton",
+          "votes": 616
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1624,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "SCHOOL COMMITTEE (one to be elected for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michelle D. Bergstrom",
+          "votes": 980
+        },
+        {
+          "name_original": "John Dobbins",
+          "votes": 88
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 512,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "LIBRARY BOARD OF TRUSTEE (two to be elected for 3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Angela Y. Murdough",
+          "votes": 927
+        },
+        {
+          "name_original": "Victoria Garcia-Albea",
+          "votes": 818
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1415,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "HOUSING AUTHORITY (one to be elected for 5 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1580,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amanda Lewis",
+          "votes": 114
+        },
+        {
+          "name_original": "Enzo Rascionato",
+          "votes": 111
+        },
+        {
+          "name_original": "Marilyn Gagalis",
+          "votes": 95
+        },
+        {
+          "name_original": "Meredith Mason-Crowley",
+          "votes": 91
+        },
+        {
+          "name_original": "John Richard",
+          "votes": 80
+        },
+        {
+          "name_original": "Gregory Sawicki",
+          "votes": 92
+        },
+        {
+          "name_original": "Roger Wilson, Jr.",
+          "votes": 107
+        },
+        {
+          "name_original": "Christa Anzalone Russo",
+          "votes": 103
+        },
+        {
+          "name_original": "Ann Sera",
+          "votes": 86
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 697,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Ryan",
+          "votes": 81
+        },
+        {
+          "name_original": "Kathleen Duncan",
+          "votes": 50
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jay Melkonian",
+          "votes": 105
+        },
+        {
+          "name_original": "Richard Rohan",
+          "votes": 101
+        },
+        {
+          "name_original": "Brian Sogoloff",
+          "votes": 91
+        },
+        {
+          "name_original": "Soumya Ganapathy",
+          "votes": 92
+        },
+        {
+          "name_original": "David S. Judelson",
+          "votes": 89
+        },
+        {
+          "name_original": "Michael P. Galvin",
+          "votes": 97
+        },
+        {
+          "name_original": "Michelle Blumsack",
+          "votes": 93
+        },
+        {
+          "name_original": "Benjamin D. Keeler",
+          "votes": 16
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 572,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Menina Widom",
+          "votes": 91
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shukong Ou",
+          "votes": 107
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Theodore Michalski",
+          "votes": 92
+        },
+        {
+          "name_original": "Elisa Jazan",
+          "votes": 143
+        },
+        {
+          "name_original": "Lance R. Grenzeback",
+          "votes": 171
+        },
+        {
+          "name_original": "Heather S. Mango",
+          "votes": 150
+        },
+        {
+          "name_original": "Joan M. Grenzeback",
+          "votes": 170
+        },
+        {
+          "name_original": "Susan Kopman Lewis",
+          "votes": 179
+        },
+        {
+          "name_original": "Vincent Lawrence Dixon",
+          "votes": 78
+        },
+        {
+          "name_original": "John M. Looney",
+          "votes": 117
+        },
+        {
+          "name_original": "Lauren Costello",
+          "votes": 151
+        },
+        {
+          "name_original": "Michelle D. Bergstrom",
+          "votes": 163
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 874,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meghan Sheehan",
+          "votes": 66
+        },
+        {
+          "name_original": "Lauren Kuzmak-Herrmann",
+          "votes": 48
+        },
+        {
+          "name_original": "Sarah Gannon",
+          "votes": 85
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jared Cumming",
+          "votes": 124
+        },
+        {
+          "name_original": "Brian McCarthy",
+          "votes": 124
+        },
+        {
+          "name_original": "My Linh Truong",
+          "votes": 122
+        },
+        {
+          "name_original": "Susan Schwartz",
+          "votes": 126
+        },
+        {
+          "name_original": "Stephen Engel",
+          "votes": 124
+        },
+        {
+          "name_original": "Steven Bonnell",
+          "votes": 131
+        },
+        {
+          "name_original": "Brian A. Vernaglia",
+          "votes": 146
+        },
+        {
+          "name_original": "Thomas Schrule",
+          "votes": 19
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 796,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel D. McGurl",
+          "votes": 70
+        },
+        {
+          "name_original": "Mariano Goluboff",
+          "votes": 106
+        },
+        {
+          "name_original": "Kathryn Hughes",
+          "votes": 81
+        },
+        {
+          "name_original": "I-Ching Katie Scott",
+          "votes": 99
+        },
+        {
+          "name_original": "Peter Cheimets",
+          "votes": 91
+        },
+        {
+          "name_original": "Heidi R. Rutstein Dileo",
+          "votes": 74
+        },
+        {
+          "name_original": "Charlene C. Band",
+          "votes": 97
+        },
+        {
+          "name_original": "Janice A. Dolan",
+          "votes": 89
+        },
+        {
+          "name_original": "Alan H. Field",
+          "votes": 83
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 778,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jason Roeder",
+          "votes": 90
+        },
+        {
+          "name_original": "Stefanie Mnayarji",
+          "votes": 62
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine Cote Tomey",
+          "votes": 80
+        },
+        {
+          "name_original": "Patrick Matteson",
+          "votes": 83
+        },
+        {
+          "name_original": "Taylor Tinmouth",
+          "votes": 76
+        },
+        {
+          "name_original": "Richard M. Mucci",
+          "votes": 73
+        },
+        {
+          "name_original": "Michael Bettencourt",
+          "votes": 83
+        },
+        {
+          "name_original": "Robert E. Colt",
+          "votes": 64
+        },
+        {
+          "name_original": "Philip Frattaroli",
+          "votes": 101
+        },
+        {
+          "name_original": "James A. Johnson III",
+          "votes": 75
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 677,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kristopher Galletta",
+          "votes": 17
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Hopcroft",
+          "votes": 103
+        },
+        {
+          "name_original": "Lauren L. L'Esperance",
+          "votes": 97
+        },
+        {
+          "name_original": "Isobel Magee",
+          "votes": 96
+        },
+        {
+          "name_original": "Leigh Hurd",
+          "votes": 104
+        },
+        {
+          "name_original": "Stephen P. Campbell",
+          "votes": 104
+        },
+        {
+          "name_original": "Jean S. Jones",
+          "votes": 110
+        },
+        {
+          "name_original": "Jennifer Haefeli",
+          "votes": 115
+        },
+        {
+          "name_original": "Brian Rowan",
+          "votes": 99
+        },
+        {
+          "name_original": "Megan Blackwell",
+          "votes": 112
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 964,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchester",
+      "date": "2023-03-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca J. Slisz",
+          "votes": 92
+        },
+        {
+          "name_original": "Catherine C. Bauer",
+          "votes": 93
+        },
+        {
+          "name_original": "Raegan E. McCain",
+          "votes": 89
+        },
+        {
+          "name_original": "Alison H. Swallow",
+          "votes": 90
+        },
+        {
+          "name_original": "Donald P. Bradford",
+          "votes": 86
+        },
+        {
+          "name_original": "Wei Chen",
+          "votes": 93
+        },
+        {
+          "name_original": "Michael Creane",
+          "votes": 71
+        },
+        {
+          "name_original": "Russell J. Gay",
+          "votes": 86
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Winchester2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winchester2023.pdf",
+  "ballots_cast": 1580,
+  "ballots_cast_source": "derived_from_contests"
+}

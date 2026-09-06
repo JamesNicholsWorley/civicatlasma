@@ -1,0 +1,236 @@
+{
+  "elections": [
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "MODERATOR (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Kanaga",
+          "votes": 1301
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 295,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "SELECT BOARD (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Allen Herman",
+          "votes": 1215
+        },
+        {
+          "name_original": "Mark William Mathison",
+          "votes": 1225
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 749,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "CONSTABLE (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott McFarland",
+          "votes": 117
+        },
+        {
+          "name_original": "Kevin Higgins",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3062,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "BOARD OF HEALTH (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John P. Smith Jr.",
+          "votes": 1234
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 377,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "NAUSET REG SCHOOL COMMITTEE (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Dawn Paine",
+          "votes": 1210
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 398,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Virginia E. Stribula",
+          "votes": 1213
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 395,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "TRUSTEE FOR SNOW LIBRARY (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracy O. Murphy",
+          "votes": 1258
+        },
+        {
+          "name_original": "William Francis Powers, Jr.",
+          "votes": 1170
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 796,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2025-05-20",
+      "office_original": "HOUSING AUTHORITY (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Lipman",
+          "votes": 8
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1556,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orleans2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orleans2025.pdf",
+  "ballots_cast": 1615,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,212 @@
+{
+  "elections": [
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Daniel F. Nason",
+          "votes": 1714
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 944,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Stephanie R. Mulroy",
+          "votes": 1146
+        },
+        {
+          "name_original": "Christopher Faulkner",
+          "votes": 1488
+        },
+        {
+          "name_original": "William K. Holmes",
+          "votes": 1442
+        },
+        {
+          "name_original": "Eric P. Latham",
+          "votes": 954
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 302,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Trustees of Damon Memorial",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Virginia B. Powell-Brasier",
+          "votes": 1641
+        },
+        {
+          "name_original": "Katye Brier",
+          "votes": 1452
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2228,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Wachusett Regional School District",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Jana T. Brennan",
+          "votes": 1698
+        },
+        {
+          "name_original": "Maleah FT Gustafson",
+          "votes": 1502
+        },
+        {
+          "name_original": "George A. Kaminski",
+          "votes": 864
+        },
+        {
+          "name_original": "William H. Fisher",
+          "votes": 1448
+        },
+        {
+          "name_original": "Lindsey Lukason",
+          "votes": 800
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1639,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Holden Housing Authority",
+      "district_original": "5 Year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vanya Seiss",
+          "votes": 8
+        },
+        {
+          "name_original": "Eric Gustafson",
+          "votes": 61
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2483,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2025-05-12",
+      "office_original": "Holden Housing Authority",
+      "district_original": "3 Year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Lola Seiss",
+          "votes": 8
+        },
+        {
+          "name_original": "Eric Gustafson",
+          "votes": 117
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2444,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 100,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holden2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holden2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

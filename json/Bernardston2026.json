@@ -1,0 +1,177 @@
+{
+  "document": {
+    "heading_verbatim": "No surprises in Bernardston election - Greenfield Recorder",
+    "election_type": "Regular",
+    "election_type_evidence": "Monday's election ballot with multiple town offices",
+    "date_verbatim": "Monday",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 10,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "With no contested races on Monday's election ballot",
+    "date_corroboration": {
+      "source": "publication date",
+      "value": "2026-05-04",
+      "quote": "'Monday's election ballot', published Tuesday 5 May 2026",
+      "note": "read 2026-08-24 by src/close_ingest_holds.py",
+      "published": "2026-05-05"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Brian Keir",
+          "votes": 42
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Melissa Murphy",
+          "votes": 43
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Trisha Earl",
+          "votes": 42
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mark Gilmore",
+          "votes": 42
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Geoffrey Wilson",
+          "votes": 39
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Recreation Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Franc Kromholz",
+          "votes": 41
+        },
+        {
+          "name_original": "Kayla Lapine",
+          "votes": 5
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Powers Institute trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kristina Streeter",
+          "votes": 43
+        },
+        {
+          "name_original": "Donna Eddy",
+          "votes": 41
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Bernardston",
+      "date": "2026-05-04",
+      "office_original": "Cushman Library trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Beth Watrous",
+          "votes": 44
+        },
+        {
+          "name_original": "Justin Lawrence",
+          "votes": 43
+        },
+        {
+          "name_original": "Kristen Peterson",
+          "votes": 43
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Bernardston2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

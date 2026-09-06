@@ -1,0 +1,136 @@
+{
+  "elections": [
+    {
+      "municipality": "Ipswich",
+      "date": "2025-05-20",
+      "office_original": "Moderator 1 yr (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 273,
+          "tally_row": true
+        },
+        {
+          "name_original": "James Engel",
+          "votes": 1292
+        },
+        {
+          "name_original": "Write-In",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Thomas Murphy",
+          "votes": 14
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2025-05-20",
+      "office_original": "Select Board 3yr (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 383,
+          "tally_row": true
+        },
+        {
+          "name_original": "Carl G. Nylen",
+          "votes": 1228
+        },
+        {
+          "name_original": "Charles D. Surpitski",
+          "votes": 1305
+        },
+        {
+          "name_original": "Paul David Calebaugh",
+          "votes": 258
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Joanne Soffron",
+          "votes": 11
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2025-05-20",
+      "office_original": "School Committee 3yr (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1018,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jennifer K. Donahue",
+          "votes": 1082
+        },
+        {
+          "name_original": "Dianna M. Freehan",
+          "votes": 1082
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2025-05-20",
+      "office_original": "Housing Authority 5yr (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 533,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jacqueline E. Hayward",
+          "votes": 1063
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ipswich2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ipswich2025.pdf",
+  "ballots_cast": 1600,
+  "ballots_cast_source": "derived_from_contests"
+}

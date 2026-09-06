@@ -1,0 +1,200 @@
+{
+  "elections": [
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frederick A. George",
+          "votes": 754
+        },
+        {
+          "name_original": "Joanne M. Stocklin",
+          "votes": 449
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa M. Maselli",
+          "votes": 826
+        },
+        {
+          "name_original": "Laura A. Ziton",
+          "votes": 877
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 659,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Millie Milton",
+          "votes": 899
+        },
+        {
+          "name_original": "Amy B. Poretsky",
+          "votes": 881
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 624,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan G. Frank",
+          "votes": 865
+        },
+        {
+          "name_original": "Gigi Lisa Howell",
+          "votes": 436
+        },
+        {
+          "name_original": "Kristen N. Willems-Tietjen",
+          "votes": 767
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 358,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Northborough Candidate",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher D. Covino",
+          "votes": 930
+        },
+        {
+          "name_original": "Sean P. O'Shea",
+          "votes": 922
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 576,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2023-05-09",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Southborough Candidate",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul H. Desmond",
+          "votes": 854
+        },
+        {
+          "name_original": "John F. Wysocki",
+          "votes": 822
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 753,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northborough2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northborough2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

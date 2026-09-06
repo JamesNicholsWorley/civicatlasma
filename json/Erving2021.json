@@ -1,0 +1,145 @@
+{
+  "document": {
+    "heading_verbatim": "Former board member re-elected to Erving Selectboard after hiatus",
+    "election_type": "Regular",
+    "election_type_evidence": "The Selectboard race was the only contest in the annual town election on Monday.",
+    "date_verbatim": "Monday",
+    "offices_on_ballot": 5,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Also in the election, several incumbents were re-elected without contest.",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Scott Bastarache",
+          "votes": 45
+        },
+        {
+          "name_original": "Janice Vega-Liros",
+          "votes": 25
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Selectboard Chair",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Jacob Smith",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Richard Newton",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Richard Peabody",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Erving School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "David Chagnon",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Catherine McLaughlin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Erving",
+      "date": "2021-05-03",
+      "office_original": "Erving School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Katelyn Little",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Erving2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Erving2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

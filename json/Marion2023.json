@@ -1,0 +1,134 @@
+{
+  "elections": [
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Old Rochester Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Margaret McSweeny",
+          "votes": 469
+        },
+        {
+          "name_original": "Jennifer Stewart",
+          "votes": 190
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Marion School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nichole Nye McGaffey",
+          "votes": 479
+        },
+        {
+          "name_original": "Mary Beauregard",
+          "votes": 460
+        },
+        {
+          "name_original": "Mirian Nawoichik",
+          "votes": 167
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Norm Hills",
+          "votes": 532
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Patricia Ann DeCosta",
+          "votes": 545
+        },
+        {
+          "name_original": "Peter Winters",
+          "votes": 523
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Albin Johnson",
+          "votes": 521
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2023-05-12",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Eileen Marum",
+          "votes": 444
+        },
+        {
+          "name_original": "Ryan Burke",
+          "votes": 460
+        },
+        {
+          "name_original": "William Dale Jones",
+          "votes": 390
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Marion2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

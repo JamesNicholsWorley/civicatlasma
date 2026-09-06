@@ -1,0 +1,686 @@
+{
+  "elections": [
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Selectboard",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicole Casolari",
+          "votes": 1780
+        },
+        {
+          "name_original": "Andrea Miles",
+          "votes": 1792
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 720,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lynda Pickbourn Smith",
+          "votes": 1732
+        },
+        {
+          "name_original": "Daniel Vieu",
+          "votes": 332
+        },
+        {
+          "name_original": "Lily Newman",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 114,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lawrence Dixon",
+          "votes": 1693
+        },
+        {
+          "name_original": "Daniel Vieu",
+          "votes": 44
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 409,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Board of Health",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerald Judge",
+          "votes": 1760
+        },
+        {
+          "name_original": "Karen Pio",
+          "votes": 1787
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 771,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Municipal Light Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Hine",
+          "votes": 1751
+        },
+        {
+          "name_original": "Ronald Coutu",
+          "votes": 7
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Municipal Light Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald Coutu",
+          "votes": 108
+        },
+        {
+          "name_original": "Others",
+          "votes": 142,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1916,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Taugher",
+          "votes": 1748
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 403,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Trustee Free Public Library",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Morrell",
+          "votes": 1378
+        },
+        {
+          "name_original": "Susan Obremski-Crowther",
+          "votes": 1548
+        },
+        {
+          "name_original": "Gillian Woldorf",
+          "votes": 1393
+        },
+        {
+          "name_original": "Anne Moore",
+          "votes": 981
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1190,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Planning Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Supczak-Mulvaney",
+          "votes": 1740
+        },
+        {
+          "name_original": "Nathan Therien",
+          "votes": 1719
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 858,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct A",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Regina Hall",
+          "votes": 296
+        },
+        {
+          "name_original": "Abigail Jaffe",
+          "votes": 303
+        },
+        {
+          "name_original": "Gena Lomelin",
+          "votes": 304
+        },
+        {
+          "name_original": "Hector Lomelin",
+          "votes": 302
+        },
+        {
+          "name_original": "Mitchel Malinowski Jr",
+          "votes": 299
+        },
+        {
+          "name_original": "Nina Nedrebo",
+          "votes": 3
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1345,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct B",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexis Allen",
+          "votes": 432
+        },
+        {
+          "name_original": "Paul Dobosh",
+          "votes": 435
+        },
+        {
+          "name_original": "John Kelly",
+          "votes": 405
+        },
+        {
+          "name_original": "Kurt Schenker",
+          "votes": 417
+        },
+        {
+          "name_original": "Rudolf Ternbach",
+          "votes": 410
+        },
+        {
+          "name_original": "Thomas Terry",
+          "votes": 428
+        },
+        {
+          "name_original": "Robert Ouellette Jr",
+          "votes": 405
+        },
+        {
+          "name_original": "Theresa Walsh Jr",
+          "votes": 412
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 889,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct B",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Bosman",
+          "votes": 424
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct C",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Camp",
+          "votes": 373
+        },
+        {
+          "name_original": "Jeffrey Cyr",
+          "votes": 385
+        },
+        {
+          "name_original": "Kelley Fike",
+          "votes": 362
+        },
+        {
+          "name_original": "Eric Friesner",
+          "votes": 360
+        },
+        {
+          "name_original": "John Hine",
+          "votes": 377
+        },
+        {
+          "name_original": "Kevin Taugher",
+          "votes": 381
+        },
+        {
+          "name_original": "Michael Wozniak",
+          "votes": 363
+        },
+        {
+          "name_original": "Audrey Maney-Hernandez",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1275,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct C",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alfred Zuffoletti",
+          "votes": 392
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 96,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct D",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Bristol",
+          "votes": 232
+        },
+        {
+          "name_original": "Richard Constant",
+          "votes": 218
+        },
+        {
+          "name_original": "Beverly Gagne",
+          "votes": 215
+        },
+        {
+          "name_original": "Peter Gagne",
+          "votes": 219
+        },
+        {
+          "name_original": "Stephen Hamlin",
+          "votes": 216
+        },
+        {
+          "name_original": "Marie Rohan",
+          "votes": 208
+        },
+        {
+          "name_original": "Michael Rosner",
+          "votes": 207
+        },
+        {
+          "name_original": "Joan Vohl Hamilton",
+          "votes": 195
+        },
+        {
+          "name_original": "Michelle Darling",
+          "votes": 13
+        },
+        {
+          "name_original": "Bradford Hutchinson",
+          "votes": 10
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 619,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct D",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carlene Hamlin",
+          "votes": 225
+        },
+        {
+          "name_original": "Brad Hutchinson",
+          "votes": 25
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct E",
+      "num_winners": 8,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Berwick",
+          "votes": 372
+        },
+        {
+          "name_original": "Brian Cahillane",
+          "votes": 355
+        },
+        {
+          "name_original": "Marilyn Ishler",
+          "votes": 375
+        },
+        {
+          "name_original": "Gerald Judge",
+          "votes": 367
+        },
+        {
+          "name_original": "Linda Young",
+          "votes": 385
+        },
+        {
+          "name_original": "Michelle Therouz",
+          "votes": 363
+        },
+        {
+          "name_original": "Mark Adams",
+          "votes": 54
+        },
+        {
+          "name_original": "Kenneth Picotte",
+          "votes": 10
+        },
+        {
+          "name_original": "Others",
+          "votes": 57,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1590,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "South Hadley",
+      "date": "2023-04-18",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct E",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Holmes",
+          "votes": 366
+        },
+        {
+          "name_original": "Mark Adams",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 106,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "SouthHadley2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/SouthHadley2023.pdf",
+  "ballots_cast": 2166,
+  "ballots_cast_source": "derived_from_contests"
+}

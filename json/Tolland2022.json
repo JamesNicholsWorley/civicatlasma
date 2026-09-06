@@ -1,0 +1,174 @@
+{
+  "elections": [
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Selectmen for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edwin Deming",
+          "votes": 79
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Treasurer for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Margaret McClellan",
+          "votes": 84
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Town Clerk for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan H. Voudren",
+          "votes": 85
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Tax Collector for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Margaret McClellan",
+          "votes": 85
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Library Trustee for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrea DeSanto",
+          "votes": 88
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Assessor for term of 3 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan S. Moore",
+          "votes": 81
+        },
+        {
+          "name_original": "Michael Clarke",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Tolland",
+      "date": "2022-05-24",
+      "office_original": "Planning Board for term of 5 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "James Deming",
+          "votes": 17
+        },
+        {
+          "name_original": "Michael Sullivan",
+          "votes": 1
+        },
+        {
+          "name_original": "Edwin Deming",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tolland2022",
+  "_source_pdf": "",
+  "ballots_cast": 92,
+  "ballots_cast_source": "derived_from_contests"
+}

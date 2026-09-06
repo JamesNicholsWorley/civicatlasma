@@ -1,0 +1,276 @@
+{
+  "document": {
+    "date_verbatim": "TOWN ELECTION --- 4/22/25",
+    "election_type": "Regular",
+    "ballots_cast": 996,
+    "clerk": "Pamela A. Labonte, CMMC, Town Clerk",
+    "precincts": [
+      "PREC I",
+      "PREC 2A",
+      "PREC II",
+      "PREC III"
+    ]
+  },
+  "elections": [
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robert J. Hinckley",
+          "votes": 756,
+          "votes_by_precinct": {
+            "PREC I": 224,
+            "PREC 2A": 29,
+            "PREC II": 271,
+            "PREC III": 232
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Liberio DaSilva Soares",
+          "votes": 692,
+          "votes_by_precinct": {
+            "PREC I": 216,
+            "PREC 2A": 27,
+            "PREC II": 245,
+            "PREC III": 204
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Thomas J. Fortin",
+          "votes": 735,
+          "votes_by_precinct": {
+            "PREC I": 220,
+            "PREC 2A": 28,
+            "PREC II": 261,
+            "PREC III": 226
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "seats_on_ballot": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ebony R. McGlynn",
+          "votes": 633,
+          "votes_by_precinct": {
+            "PREC I": 191,
+            "PREC 2A": 27,
+            "PREC II": 226,
+            "PREC III": 189
+          }
+        },
+        {
+          "name_original": "Jesse C. Ellis (Write-in)",
+          "votes": null,
+          "evidence": "campaign+roster",
+          "status": "write_in_winner"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Commissioner of Trust Funds",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Commissioner of Trust Funds (unexpired term ending April 27, 2027)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Planning Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Mark P. Francois",
+          "votes": 668,
+          "votes_by_precinct": {
+            "PREC I": 203,
+            "PREC 2A": 25,
+            "PREC II": 242,
+            "PREC III": 198
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Cemetery Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Charlene Fortin",
+          "votes": 720,
+          "votes_by_precinct": {
+            "PREC I": 217,
+            "PREC 2A": 28,
+            "PREC II": 261,
+            "PREC III": 214
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Trustee of Free Public Library",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "seats_on_ballot": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nancy A. Francis (Write-in)",
+          "votes": null,
+          "evidence": "minutes+roster",
+          "status": "write_in_winner"
+        },
+        {
+          "name_original": "Eileen Wilmarth-Guerette (Write-in)",
+          "votes": null,
+          "evidence": "minutes+roster",
+          "status": "write_in_winner"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Park Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christopher A. Hopkins (Write-in)",
+          "votes": null,
+          "evidence": "roster",
+          "status": "write_in_winner"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Acushnet",
+      "date": "2025-04-22",
+      "office_original": "Tree Warden (unexpired term ending April 28, 2026)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "seats_on_ballot": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lucas Paul Correia",
+          "votes": 684,
+          "votes_by_precinct": {
+            "PREC I": 207,
+            "PREC 2A": 30,
+            "PREC II": 242,
+            "PREC III": 205
+          }
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Acushnet2025",
+  "_source_url": "https://www.acushnet.ma.us/documentcenter/view/898",
+  "_status": "PRELIMINARY by the document's own statement -- 'the figures listed below are preliminary and will be finalized within four days following the election'. Four offices read TBD and were probably settled by write-in after this sheet was written.",
+  "_corroboration": [
+    {
+      "url": "https://fairhavenneighborhoodnews.com/acushnet-voters-soundly-reject-debt-exclusion-for-school-bldg/",
+      "finding": "Fairhaven Neighborhood News 2025-04-23 reports the same election, the same seven winners and the same ballot-question result (754-229). It prints the School Committee winner as Evony McGlynn; the clerk's sheet reads Ebony R. McGlynn and the clerk is preferred."
+    }
+  ],
+  "_derivation": "town clerk's POLLS CALL IN SHEET, https://www.acushnet.ma.us/documentcenter/view/898; per-precinct figures transcribed and each candidate's sum verified against the sheet's printed TOTALS column; ballots_cast is the newspaper's 996 because the clerk's turnout boxes are blank; the ballot question is out of scope and not landed",
+  "_dead_end": "https://www.acushnet.ma.us/sites/g/files/vyhlif2721/f/uploads/4-22-2025_town_election_results_to_fax.pdf has zero captures in Wayback and zero records in Common Crawl; it is unrecoverable, not untried",
+  "_writein_seats": "WRITE-IN WINNERS LANDED 2026-08-22 (owner instruction) at the -3 sentinel (qa/STANDARD.md: write-in winner, individual count not separable; excluded from closure math, may coexist with numeric rows). Ellis corrected from -1 to -3 -- at -1 he tripped check C3, which flags an office mixing -1 with numeric votes. NO VOTE COUNT IS RECORDED for any of the five; the certified return that carries them is identified but unrecoverable (404 since the Nov 2025 Drupal->CivicEngage migration; absent from Wayback, CommonCrawl, the torn-down vendor origin and every search index tested). EVIDENCE PER SEAT: Ellis - announced pre-election write-in campaign for this seat plus four independent tenure corroborations; Francis and Wilmarth-Guerette - roster diff of the Library Trustees' own minutes (Reale present 2025-04-11, both women present 2025-05-15 and Reale never again), plain terms to 2028; Hopkins - incumbent, plain term to 2028; Lipsett and Ferreira - ROSTER ONLY AND THE WEAKEST PAIR: Lipsett's tenure is labelled 'Unexpired Term Ending 2028' though the 2025 ballot seat was a full three-year term, which is the signature of a mid-term appointment under M.G.L. c.41 s.11 rather than an election, and Acushnet demonstrably uses that mechanism (2023 and 2024 joint meetings survive in Wayback). Board of Selectmen minutes are unpublished for 2025-26, so no 2025 joint meeting can be ruled in or out. The FY2025 Annual Town Report will settle it -- Acushnet's reports print the full certified return per precinct with every write-in named and counted -- and is not yet published. NOTE ON B4: none of the five is printed on the cited source, which is the PRELIMINARY call-in sheet reading 'TBD' for all five seats; they are grounded in other documents and carry no vote count. || TRUST FUNDS REVERTED 2026-08-22, same day as landing: Tommy Lipsett and Diane Ferreira were APPOINTED, not elected, and are removed from the 2025 election record. Both Commissioner of Trust Funds races revert to candidates=[] -- no candidate on the ballot, seat not filled by election, the same documented outcome as Southampton 2025 'Failure to elect' and Conway 2025 'Remains vacant'. PROOF, counted on the town's own Elected Officials page (https://www.acushnet.ma.us/1200/Elected-Officials, retrieved 2026-08-22): 'Term Expires' appears 39 times, 'Unexpired Term Ending' appears exactly TWICE -- Ferreira 2027 and Lipsett 2028, nobody else -- and 'VACANCY' once, on the same board's third seat. Lipsett's 2025 ballot seat was a FULL three-year term to 2028; an elected full term reads 'Term Expires 2028', which is precisely what the four write-in winners who REMAIN landed all carry (Ellis, Francis, Wilmarth-Guerette, Hopkins, all 'Term Expires 2028' on that same page). The label contradicts the ballot, and the control sits inside the same document. Commissioner of Trust Funds chronically draws no candidate in this town: the 2023 return shows the seat won on 4 and 5 write-in votes, and the roster's 'VACANCY, Term Ending 2029' shows the 2026 seat drew nobody at all. Lipsett and Ferreira hold the seats -- that is a fact about tenure, sourced from a roster, and not a fact about the 2025 election.",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

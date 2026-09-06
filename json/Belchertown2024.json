@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Theresa A. Camerlin",
+          "votes": 1136
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Whitney Jorns Kuhnlenz",
+          "votes": 1017
+        },
+        {
+          "name_original": "Nicole Ann Miner",
+          "votes": 995
+        },
+        {
+          "name_original": "Others",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 330,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ruby Bansal",
+          "votes": 1043
+        },
+        {
+          "name_original": "Amy BW Lamothe",
+          "votes": 1043
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 302,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leonard D. Bilodeau",
+          "votes": 1052
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 146,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Tommila",
+          "votes": 42
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1129,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Collen M. Duroshea",
+          "votes": 1071
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 126,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2024-05-20",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marie Ciosek",
+          "votes": 22
+        },
+        {
+          "name_original": "David Fries",
+          "votes": 16
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2315,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Belchertown2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Belchertown2024.pdf",
+  "ballots_cast": 1199,
+  "ballots_cast_source": "derived_from_contests"
+}

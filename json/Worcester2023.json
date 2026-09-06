@@ -1,0 +1,424 @@
+{
+  "elections": [
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "JOSEPH M. PETTY",
+          "votes": 10706
+        },
+        {
+          "name_original": "KHRYSTIAN E. KING",
+          "votes": 5906
+        },
+        {
+          "name_original": "DONNA M. COLORIO",
+          "votes": 2919
+        },
+        {
+          "name_original": "BILL COLEMAN",
+          "votes": 1018
+        },
+        {
+          "name_original": "GUILLERMO CREAMER, JR",
+          "votes": 954
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 448,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.88,
+      "candidates": [
+        {
+          "name_original": "JOSEPH M. PETTY",
+          "votes": 11171
+        },
+        {
+          "name_original": "MORRIS A. BERGMAN",
+          "votes": 8668
+        },
+        {
+          "name_original": "KHRYSTIAN E. KING",
+          "votes": 10108
+        },
+        {
+          "name_original": "DONNA M. COLORIO",
+          "votes": 8767
+        },
+        {
+          "name_original": "DOMENICA F. PERRONE",
+          "votes": 6155
+        },
+        {
+          "name_original": "GUILLERMO CREAMER, JR",
+          "votes": 6189
+        },
+        {
+          "name_original": "MAYDEE MORALES",
+          "votes": 6041
+        },
+        {
+          "name_original": "KATE TOOMEY",
+          "votes": 10274
+        },
+        {
+          "name_original": "BILL COLEMAN",
+          "votes": 5036
+        },
+        {
+          "name_original": "THU NGUYEN",
+          "votes": 7793
+        },
+        {
+          "name_original": "JOHANNA HAMPTON-DANCE",
+          "votes": 4414
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47051,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR DISTRICT 1",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "JENNY PACILLO",
+          "votes": 3812
+        },
+        {
+          "name_original": "DAVID C. PETERSON",
+          "votes": 2432
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 487,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR DISTRICT 2",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "CANDY F. MERO-CARLSON",
+          "votes": 1556
+        },
+        {
+          "name_original": "ROBERT A. BILOTTA",
+          "votes": 1396
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR DISTRICT 3",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "GEORGE J. RUSSELL",
+          "votes": 2477
+        },
+        {
+          "name_original": "FEANNA JATTAN-SINGH",
+          "votes": 821
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR DISTRICT 4",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "LUIS ALBIZU OJEDA",
+          "votes": 922
+        },
+        {
+          "name_original": "KATIA GISELA NORFORD",
+          "votes": 844
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 187,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR DISTRICT 5",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "ETEL HAXHIAJ",
+          "votes": 3237
+        },
+        {
+          "name_original": "JOSE ANTONIO RIVERA",
+          "votes": 3063
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 339,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.88,
+      "candidates": [
+        {
+          "name_original": "MAUREEN F. BINIENDA",
+          "votes": 11068
+        },
+        {
+          "name_original": "SUSAN M. MAILMAN",
+          "votes": 8568
+        },
+        {
+          "name_original": "TRACY O'CONNELL NOVICK",
+          "votes": 7491
+        },
+        {
+          "name_original": "LAURA B. CLANCEY",
+          "votes": 5575
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11200,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT A",
+      "district_original": "District A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "MOLLY O. MCCULLOUGH",
+          "votes": 4018
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1618,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT B",
+      "district_original": "District B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "VANESSA ZULEYMA ALVAREZ",
+          "votes": 1470
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 598,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT C",
+      "district_original": "District C",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "DIANNA BIANCHERIA",
+          "votes": 1994
+        },
+        {
+          "name_original": "JERMOH V. KAMARA",
+          "votes": 1422
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 240,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT D",
+      "district_original": "District D",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "ALEJANDRO GUARDIOLA, JR",
+          "votes": 1010
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 354,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT E",
+      "district_original": "District E",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN L. ROY",
+          "votes": 1565
+        },
+        {
+          "name_original": "NELLY MEDINA",
+          "votes": 1462
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 286,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Worcester",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE MEMBER DISTRICT F",
+      "district_original": "District F",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "JERMAINE LAMONT JOHNSON",
+          "votes": 4025
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1889,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Worcester2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worcester2023.pdf",
+  "_corrected": "2026-08-24: the Councilor At Large row read DONNA H. COLORIO; the summary sheet prints DONNA M. COLORIO, as the Mayor row in this same record already did",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

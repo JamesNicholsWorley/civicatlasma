@@ -1,0 +1,210 @@
+{
+  "document": {
+    "heading_verbatim": "Results: Annual Town Election",
+    "election_type": "Regular",
+    "election_type_evidence": "Results: Annual Town Election",
+    "date_verbatim": "May 20, 2024",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "SELECTMAN, SEWER COMMISSION",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles J. Garbiel II",
+          "votes": 45
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Storrow",
+          "votes": 44
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "CEMETERY COMMISSION",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan L. Pillsbury",
+          "votes": 46
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Isaac A. Bingham",
+          "votes": 43
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "LIBRARY TRUSTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anna E. Hendricks",
+          "votes": 45
+        },
+        {
+          "name_original": "Jacob B. Morrow",
+          "votes": 45
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey W. Blomstedt",
+          "votes": 46
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "TOWN CLERK",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Doreen J. Stevens",
+          "votes": 46
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "Representing Gill",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Delorenzo",
+          "votes": 44
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "Representing Montague",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lorilee Adams",
+          "votes": 27
+        },
+        {
+          "name_original": "Carol Jacobs",
+          "votes": 27
+        },
+        {
+          "name_original": "Scott Hyman",
+          "votes": 12
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gill",
+      "date": "2024-05-20",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "Representing Montague",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Clifford Spatcher",
+          "votes": 37
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Gill2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gill2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

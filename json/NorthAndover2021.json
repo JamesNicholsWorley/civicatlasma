@@ -1,0 +1,137 @@
+{
+  "document": {
+    "heading_verbatim": "NORTH ANDOVER ANNUAL TOWN ELECTION",
+    "date_verbatim": "MARCH 30, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 4,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-03-30",
+      "detail": "https://northandoverma.news/2021/03/31/march-30-2021-north-andover-annual-town-election-official-results/",
+      "quote": "from the March 30, 2021 North Andover Town Election",
+      "note": "verified 2026-08-23; local news outlet naming the town and the date"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "North Andover",
+      "date": "2021-03-30",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard M. Vaillancourt",
+          "votes": 2464
+        },
+        {
+          "name_original": "Joseph G. Finn",
+          "votes": 1867
+        },
+        {
+          "name_original": "Janice M. Phillips",
+          "votes": 2384
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1361,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2021-03-30",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark S. DiSalvo",
+          "votes": 3059
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 979,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2021-03-30",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Max Butterbrodt",
+          "votes": 2961
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1077,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2021-03-30",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Patrick McDevitt",
+          "votes": 1514
+        },
+        {
+          "name_original": "David Scott Brown",
+          "votes": 1218
+        },
+        {
+          "name_original": "Joseph Hicks",
+          "votes": 1441
+        },
+        {
+          "name_original": "Rebecca E. Stronck",
+          "votes": 1139
+        },
+        {
+          "name_original": "Pamela Marie Wall-Pietrowski",
+          "votes": 1764
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1000,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAndover2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthAndover2021.pdf",
+  "ballots_cast": 4038,
+  "ballots_cast_source": "derived_from_contests"
+}

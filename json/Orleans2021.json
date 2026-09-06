@@ -1,0 +1,182 @@
+{
+  "elections": [
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "SELECTBOARD (3 YR)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin F. Galligan",
+          "votes": 1282
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 254,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "BOARD OF HEALTH (3 YR)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Luke Chapman",
+          "votes": 1164
+        },
+        {
+          "name_original": "Joseph Watson Hartung",
+          "votes": 1246
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 675,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "NAUSET REGIONAL SCHOOL COMMITTEE (3 yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Griffin J. Ryder",
+          "votes": 1230
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 308,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "ORLEANS ELEMENTARY SCHOOL COMMITTEE (3yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ian B. Mack",
+          "votes": 1241
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 299,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "TRUSTEE FOR SNOW LIBRARY (3yrs)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Balliet",
+          "votes": 1189
+        },
+        {
+          "name_original": "Deirdre Ellen White",
+          "votes": 1187
+        },
+        {
+          "name_original": "Mark Steven Ziomek",
+          "votes": 1145
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1110,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2021-05-25",
+      "office_original": "ORLEANS HOUSING AUTHORITY (5yr)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David George Egli",
+          "votes": 1174
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 365,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orleans2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orleans2021.pdf",
+  "ballots_cast": 1546,
+  "ballots_cast_source": "derived_from_contests"
+}

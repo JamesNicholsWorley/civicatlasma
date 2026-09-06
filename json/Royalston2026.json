@@ -1,0 +1,44 @@
+{
+  "document": {
+    "heading_verbatim": "Royalston, MA — Annual Town Election, Monday 6 April 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election; the unexpired term is ordinary on an annual ballot and is not evidence of a special election",
+    "date_verbatim": "Monday 6 April 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Every other seat was uncontested"
+  },
+  "elections": [
+    {
+      "municipality": "Royalston",
+      "date": "2026-04-06",
+      "office_original": "Athol Royalston Regional School District Committee",
+      "district_original": "Athol seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mitch Grosky",
+          "votes": 61
+        },
+        {
+          "name_original": "Emily Meuse",
+          "votes": 37
+        },
+        {
+          "name_original": "Kiley Hall",
+          "votes": 37
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Royalston2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,10 @@
+# Never translate line endings.  A PDF that git decides is text gets its bytes
+# rewritten on checkout, and the file is silently corrupted -- which matters
+# doubly here because the Claude API fetches these PDFs during parsing.
+* -text
+*.pdf  binary
+*.xlsx binary
+*.xls  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary

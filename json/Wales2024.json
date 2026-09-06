@@ -1,0 +1,278 @@
+{
+  "document": {
+    "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION WALES, MASSACHUSETTS MAY 22, 2024",
+    "date_verbatim": "MAY 22, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "is_sample_ballot": false,
+    "turnout_verbatim": "313 Ballots Cast, 21% of voters (handwritten, signed by the Town Clerk)",
+    "transcription": "hand-written tallies on the ballot face, read from a 230 dpi render 2026-08-24; see src/transcribe_wales2024.py",
+    "offices_on_ballot": 15,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "BOARD OF SELECTMEN (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William J. Matchett III",
+          "votes": 144
+        },
+        {
+          "name_original": "Samuel John Champigny",
+          "votes": 20
+        },
+        {
+          "name_original": "Robyn Ann Chrabascz",
+          "votes": 144
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "BOARD OF ASSESSORS (1 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David W. Foote",
+          "votes": 265
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "BOARD OF ASSESSORS (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Leon Givner",
+          "votes": 269
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "PLANNING BOARD MEMBER (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sarah L. Ryan",
+          "votes": 254
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "PLANNING BOARD MEMBER (2 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sam Champigny",
+          "votes": 9
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "TREASURER (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Rodney A. Kincaid",
+          "votes": 257
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "TAX COLLECTOR (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Rebecca R. Smith",
+          "votes": 252
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "BOARD OF HEALTH MEMBER (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kenneth C. Moore II",
+          "votes": 247
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "CEMETERY COMMISSIONER (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Joel Robert Jette",
+          "votes": 212
+        },
+        {
+          "name_original": "Jill M. Davison",
+          "votes": 77
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "LIBRARY TRUSTEE (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Keridwyn E. Pitcher",
+          "votes": 246
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "SCHOOL COMMITTEE MEMBER (3 year term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Carolyn A. Boehne",
+          "votes": 183
+        },
+        {
+          "name_original": "John S. Croke",
+          "votes": 187
+        },
+        {
+          "name_original": "John A. Champigny",
+          "votes": 104
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "TANTASQUA REPRESENTATIVE (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael J. Valanzola",
+          "votes": 224
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "MODERATOR (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael J. Valanzola",
+          "votes": 219
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wales",
+      "date": "2024-05-22",
+      "office_original": "CONSTABLE (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Charles Smith III",
+          "votes": 264
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wales2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wales2024.pdf",
+  "_corrected": "2026-08-24: transcribed by eye. The gate held it BALLOT_NOT_RETURN, which describes the text layer and not the document -- Wales certifies its election by writing the tallies onto the ballot face. Selectmen is a TIE at 144.",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

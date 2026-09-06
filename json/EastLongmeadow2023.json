@@ -1,0 +1,72 @@
+{
+  "elections": [
+    {
+      "municipality": "East Longmeadow",
+      "date": "2023-06-06",
+      "office_original": "Town Council - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan J. Torcia",
+          "votes": 473
+        },
+        {
+          "name_original": "Marilyn M. Richards",
+          "votes": 574
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "East Longmeadow",
+      "date": "2023-06-06",
+      "office_original": "School Committee - Three Year",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen Lyons Leydon",
+          "votes": 512
+        },
+        {
+          "name_original": "Gregory Michael Thompson",
+          "votes": 462
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 428,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastLongmeadow2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastLongmeadow2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

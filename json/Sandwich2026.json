@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David D. Sullivan",
+          "votes": 389
+        },
+        {
+          "name_original": "David J. Sampson",
+          "votes": 400
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tobin Craig Wirt",
+          "votes": 396
+        },
+        {
+          "name_original": "Gerald Joseph Fortin",
+          "votes": 177
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Weston Memorial Fund Board of Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan David Finn",
+          "votes": 312
+        },
+        {
+          "name_original": "Joseph V. Maruca",
+          "votes": 229
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Anne C. McManus",
+          "votes": 407
+        },
+        {
+          "name_original": "Gregory G. Mazar",
+          "votes": 376
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Planning Board",
+      "district_original": "One-year unexpired term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Joshua J. Giampietro",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Public Library Board of Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robert E. King",
+          "votes": 472
+        },
+        {
+          "name_original": "Mark A. Wiklund",
+          "votes": 405
+        },
+        {
+          "name_original": "Jeanie M. Vander Pyl",
+          "votes": 403
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "William T. Flynn",
+          "votes": 431
+        },
+        {
+          "name_original": "Susan Fucarino Miller",
+          "votes": 430
+        },
+        {
+          "name_original": "Christopher J. Pino",
+          "votes": 390
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Brian David Miller II",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David R. Liskowsky",
+          "votes": 438
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Sandwich",
+      "date": "2026-05-07",
+      "office_original": "Housing Authority Board of Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christine Johnson-Staub",
+          "votes": 442
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Sandwich2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

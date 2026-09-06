@@ -1,0 +1,131 @@
+{
+  "elections": [
+    {
+      "municipality": "Rockland",
+      "date": "2023-04-09",
+      "office_original": "Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mike O'Loughlin",
+          "votes": 1050
+        },
+        {
+          "name_original": "John Ellard",
+          "votes": 856
+        },
+        {
+          "name_original": "Joe Ambrose",
+          "votes": 602
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2023-04-09",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Stephens",
+          "votes": 146
+        },
+        {
+          "name_original": "Matt Ryan",
+          "votes": 124
+        },
+        {
+          "name_original": "Michelle Manchini",
+          "votes": 82
+        },
+        {
+          "name_original": "Others",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2023-04-09",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Davis",
+          "votes": 889
+        },
+        {
+          "name_original": "Sally Shakespeare",
+          "votes": 479
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2023-04-09",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jamie Hennessy",
+          "votes": 864
+        },
+        {
+          "name_original": "Julie Minahan",
+          "votes": 606
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rockland",
+      "date": "2023-04-09",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah Dooner",
+          "votes": 995
+        },
+        {
+          "name_original": "Jesse Sellier",
+          "votes": 374
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Rockland2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

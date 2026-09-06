@@ -1,0 +1,138 @@
+{
+  "elections": [
+    {
+      "municipality": "Dracut",
+      "date": "2025-05-03",
+      "office_original": "SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer L. Kopcinski",
+          "votes": 930
+        },
+        {
+          "name_original": "Tony Archinski",
+          "votes": 974
+        },
+        {
+          "name_original": "Donald K. Plummer",
+          "votes": 1236
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 578,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2025-05-03",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Allison L. Volpe",
+          "votes": 983
+        },
+        {
+          "name_original": "Allison Stilian",
+          "votes": 775
+        },
+        {
+          "name_original": "Linda M. Trouville",
+          "votes": 1307
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 653,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2025-05-03",
+      "office_original": "DRACUT HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tom Bomil",
+          "votes": 1493
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 366,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2025-05-03",
+      "office_original": "TRUSTEE OF THE PUBLIC LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrea E. Grande",
+          "votes": 1363
+        },
+        {
+          "name_original": "Marietta M. Paquette",
+          "votes": 1467
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 888,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2025-05-03",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Flaherty",
+          "votes": 1399
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 460,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dracut2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dracut2025.pdf",
+  "ballots_cast": 1859,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "North Adams",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Macksey",
+          "votes": 2024
+        },
+        {
+          "name_original": "Scott Eric Berglund",
+          "votes": 903
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2025-11-04",
+      "office_original": "City Council",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Fitch",
+          "votes": 2073
+        },
+        {
+          "name_original": "Keith Bona",
+          "votes": 1826
+        },
+        {
+          "name_original": "Peter Breen",
+          "votes": 1766
+        },
+        {
+          "name_original": "Lisa Hall Blackmer",
+          "votes": 1733
+        },
+        {
+          "name_original": "Ashley Shade",
+          "votes": 1679
+        },
+        {
+          "name_original": "Marie McCarron",
+          "votes": 1589
+        },
+        {
+          "name_original": "Alexa MacDonald",
+          "votes": 1445
+        },
+        {
+          "name_original": "Lillian Shannon Panchishina Zavatsky",
+          "votes": 1343
+        },
+        {
+          "name_original": "Bryan Sapienza",
+          "votes": 1335
+        },
+        {
+          "name_original": "Virginia Riehl",
+          "votes": 1296
+        },
+        {
+          "name_original": "Peter Oleskiewicz",
+          "votes": 1248
+        },
+        {
+          "name_original": "Carrieann Ruth Crews",
+          "votes": 1213
+        },
+        {
+          "name_original": "Aprilyn Carsno",
+          "votes": 666
+        },
+        {
+          "name_original": "Others",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7888,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2025-11-04",
+      "office_original": "NA School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Daunis",
+          "votes": 2010
+        },
+        {
+          "name_original": "David Sookey",
+          "votes": 1829
+        },
+        {
+          "name_original": "Chelsey Lyn Ciolkowski",
+          "votes": 1289
+        },
+        {
+          "name_original": "Eric Wilson",
+          "votes": 794
+        },
+        {
+          "name_original": "Richard Joseph Alcombright",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3109,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2025-11-04",
+      "office_original": "McCann School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary Rivers",
+          "votes": 2236
+        },
+        {
+          "name_original": "Taylor Gibeau",
+          "votes": 1948
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1835,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAdams2025",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "town warrant / clerk calendar / town filename / statutory bracket",
+      "value": "2025-11-04",
+      "strength": "corroborated",
+      "quote": "THE WEAKEST OF THIS SET, and it rests on a bracket rather than a document. No source names the day: the cited clerk page, the city's 2025 elections index and its early-voting notices all print none. A Massachusetts city holds its biennial municipal election on the Tuesday after the first Monday in November of an odd-numbered year, and this corpus publishes North Adams 2021 as 2021-11-02 and 2023 as 2023-11-07 -- both exactly that Tuesday, bracketing 2025 on either side. The first Monday of November 2025 is the 3rd, so the Tuesday is the 4th.",
+      "citation": "",
+      "note": "established 2026-08-24 by src/resolve_searchable_padding_holds.py, after the _searchable padding fix let DATE_NOT_ON_PAGE run"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

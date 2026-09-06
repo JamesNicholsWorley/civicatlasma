@@ -1,0 +1,230 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Tamarin Laurel-Paine",
+          "votes": 82
+        },
+        {
+          "name_original": "Jay Swift",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Larry Pease",
+          "votes": 126
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Stephanie Simonowicz",
+          "votes": 121
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "FINANCE COMMITTEE 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Barry Bernard",
+          "votes": 110
+        },
+        {
+          "name_original": "Raymond Schneller",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "FINANCE COMMITTEE 1 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Eric Main",
+          "votes": 111
+        },
+        {
+          "name_original": "Ray Schgneller",
+          "votes": 4
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "LIBRARY TRUSTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Donna Breen",
+          "votes": 121
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michael Hitchcock",
+          "votes": 68
+        },
+        {
+          "name_original": "Michelle Main",
+          "votes": 90
+        },
+        {
+          "name_original": "Irene Rodriguez-Martin",
+          "votes": 48
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 52,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "TOWN MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Noreen Suriner",
+          "votes": 108
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2026-05-02",
+      "office_original": "SELECTBOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Tamarin Laurel-Paine",
+          "votes": 55
+        },
+        {
+          "name_original": "Sherri Venditti",
+          "votes": 73
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Middlefield2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Middlefield2026.pdf",
+  "ballots_cast": 129,
+  "ballots_cast_source": "derived_from_contests"
+}

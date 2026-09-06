@@ -1,0 +1,163 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION - MAY 12, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MAY 12, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 6,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "office_original": "SELECT BOARD (3 YEAR)",
+      "num_winners": 2,
+      "date": "2026-05-12",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEPHANIE A. BOYD",
+          "votes": 336
+        },
+        {
+          "name_original": "SHANA L. DIXON",
+          "votes": 322
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 149,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SELECT BOARD (1 YEAR)",
+      "num_winners": 1,
+      "date": "2026-05-12",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NATHANIEL B. BUDINGTON",
+          "votes": 336
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 68,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY TRUSTEE (3 YEAR)",
+      "num_winners": 2,
+      "date": "2026-05-12",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JANET M. CURRAN",
+          "votes": 219
+        },
+        {
+          "name_original": "MARTIN C. MITSOFF",
+          "votes": 97
+        },
+        {
+          "name_original": "KATHLEEN E. SCHULTZE",
+          "votes": 205
+        },
+        {
+          "name_original": "MICHAEL F. SUSSMAN",
+          "votes": 216
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 83,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "date": "2026-05-12",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHARLES STEPHEN DEW",
+          "votes": 326
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 77,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "date": "2026-05-12",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROGER TW LAWRENCE",
+          "votes": 320
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Williamstown2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Williamstown2026.pdf",
+  "ballots_cast": 411,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Easton",
+      "date": "2025-04-26",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DOTTIE A. FULGINITI",
+          "votes": 816
+        },
+        {
+          "name_original": "MARC BLAIN LAMB",
+          "votes": 824
+        },
+        {
+          "name_original": "Others",
+          "votes": 192,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 596,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easton",
+      "date": "2025-04-26",
+      "office_original": "BOARD OF ASSESSORS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHAEL J. MCKENNA",
+          "votes": 863
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 373,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easton",
+      "date": "2025-04-26",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTOPHER ANDREW MILLS",
+          "votes": 911
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 325,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easton",
+      "date": "2025-04-26",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JENNIFER STARR",
+          "votes": 543
+        },
+        {
+          "name_original": "JIM HAMILTON",
+          "votes": 824
+        },
+        {
+          "name_original": "COLLEEN QUISH PROUDLER",
+          "votes": 631
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 238,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easton",
+      "date": "2025-04-26",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SHERRAINE DIAZ",
+          "votes": 703
+        },
+        {
+          "name_original": "ROBERT JENKINS",
+          "votes": 680
+        },
+        {
+          "name_original": "ARTHUR JORDAN BAILIN",
+          "votes": 818
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1035,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Easton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Easton2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

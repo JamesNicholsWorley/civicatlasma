@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "office_original": "Moderator (3 yr)",
+      "num_winners": 1,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary-Jo Avellar",
+          "votes": 1010
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 303,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Select Board (3 yr)",
+      "num_winners": 1,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslie J. Sandberg",
+          "votes": 590
+        },
+        {
+          "name_original": "Lise A. Balk King",
+          "votes": 309
+        },
+        {
+          "name_original": "Oriana M. Conklin",
+          "votes": 443
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "School Committee (3 yr)",
+      "num_winners": 2,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eva Enos",
+          "votes": 1034
+        },
+        {
+          "name_original": "Ngina Lythcott",
+          "votes": 905
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 772,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Bd Library Trustees (3 yr)",
+      "num_winners": 2,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laurel Guadazno",
+          "votes": 25
+        },
+        {
+          "name_original": "Stephen Borkowski",
+          "votes": 10
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2650,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Housing Authority (5 yr)",
+      "num_winners": 1,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann E. Wood",
+          "votes": 1029
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 323,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Charter Compliance Commission (3 yr)",
+      "num_winners": 1,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julia L. Perry",
+          "votes": 934
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 417,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Charter Compliance Commission (1 yr)",
+      "num_winners": 1,
+      "date": "2021-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Oriana Conklin",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1343,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Provincetown",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Provincetown2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2021.pdf",
+  "ballots_cast": 1356,
+  "ballots_cast_source": "derived_from_contests"
+}

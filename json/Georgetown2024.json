@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Library Trustee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Walter Chris Laut III",
+          "votes": 1696
+        },
+        {
+          "name_original": "Kevin Francis Moran",
+          "votes": 1689
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 994,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Selectmen",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas W. Dawes",
+          "votes": 1204
+        },
+        {
+          "name_original": "Michael William Donahue",
+          "votes": 951
+        },
+        {
+          "name_original": "Bruce Fried",
+          "votes": 705
+        },
+        {
+          "name_original": "Laura Repplier",
+          "votes": 977
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 543,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Board Of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Bogden",
+          "votes": 1669
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 520,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael E. Hinchliffe",
+          "votes": 1244
+        },
+        {
+          "name_original": "Nicholas Hiltz",
+          "votes": 1016
+        },
+        {
+          "name_original": "Joseph P. Maribito",
+          "votes": 1299
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 818,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Light Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Dion",
+          "votes": 1752
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Liza Cameron",
+          "votes": 183
+        },
+        {
+          "name_original": "Kevin Wood",
+          "votes": 126
+        },
+        {
+          "name_original": "Teagan Gaeta",
+          "votes": 10
+        },
+        {
+          "name_original": "Cameron Dalley",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 94,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1778,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Georgetown",
+      "date": "2024-05-13",
+      "office_original": "Water Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas P. Lawler",
+          "votes": 1665
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 523,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Georgetown2024",
+  "ballots_cast": 2196,
+  "ballots_cast_source": "derived_from_contests"
+}

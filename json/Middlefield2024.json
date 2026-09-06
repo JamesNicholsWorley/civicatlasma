@@ -1,0 +1,222 @@
+{
+  "elections": [
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Moderator for one year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noreen Suriner",
+          "votes": 128
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Selectboard for three years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Curt Robie",
+          "votes": 81
+        },
+        {
+          "name_original": "Albert Sirard",
+          "votes": 67
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Assessor for three years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth Murray",
+          "votes": 114
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Library Trustee for three years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Baker Donnelly",
+          "votes": 116
+        },
+        {
+          "name_original": "Tanya Santaniello",
+          "votes": 16
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Cemetery Commission for three years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Pease",
+          "votes": 131
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Finance Committee for three years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Harris",
+          "votes": 91
+        },
+        {
+          "name_original": "Kenneth Murray",
+          "votes": 96
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 113,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Planning Board for three years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrea Tosi",
+          "votes": 91
+        },
+        {
+          "name_original": "Doreen Black",
+          "votes": 49
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Constable for 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Curt Robie",
+          "votes": 127
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middlefield",
+      "date": "2024-05-04",
+      "office_original": "Town Clerk for 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Suzanne C. Lemieux",
+          "votes": 77
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Middlefield2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Middlefield2024.pdf",
+  "ballots_cast": 150,
+  "ballots_cast_source": "derived_from_contests"
+}

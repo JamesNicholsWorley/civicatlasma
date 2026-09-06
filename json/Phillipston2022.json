@@ -1,0 +1,160 @@
+{
+  "document": {
+    "heading_verbatim": "Phillipston, MA - Annual Town Election, May 16, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election, May 16, 2022",
+    "date_verbatim": "May 16, 2022",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Brian S. Nason",
+          "votes": 105
+        },
+        {
+          "name_original": "Linda Ellis",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Garrett J. Foley",
+          "votes": 98
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Cemetery Commission",
+      "district_original": "3 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Garrett J. Foley",
+          "votes": 98
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Library Trustee",
+      "district_original": "2 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sylvia Haley",
+          "votes": 96
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Library Trustee",
+      "district_original": "3 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Daniel F. Sanden",
+          "votes": 92
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2022-05-16",
+      "office_original": "Planning Board",
+      "district_original": "5 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "John Telepciak",
+          "votes": 92
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Phillipston2022",
+  "_source_pdf": "",
+  "ballots_cast": 113,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,681 @@
+{
+  "document": {
+    "heading_verbatim": "Town of Holbrook - Annual Town Election",
+    "election_type": "Regular",
+    "election_type_evidence": "Heading states 'Annual Town Election'",
+    "date_verbatim": "Not explicitly stated in document",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "town file naming / publication date / town pattern",
+      "value": "2026-04-04",
+      "strength": "corroborated",
+      "quote": "the town's own file naming: View/239/April-6-2024-Town-Election-Results matches our published 2024-04-06, so View/1678/2026-44-Annual-Town-Election-Results is 4 April 2026 (a Saturday, as are 2024 and 2025)",
+      "note": "the document itself prints no date; established 2026-08-24 by src/date_undated_returns.py"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Holbrook",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James J. Curran, Jr.",
+          "votes": 726
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 275,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meaghan Walsh Harrington",
+          "votes": 523
+        },
+        {
+          "name_original": "Pamela B. Solis",
+          "votes": 438
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Treasurer-Collector",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tiffany A. Sheehan",
+          "votes": 634
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 357,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia E. Conway",
+          "votes": 552
+        },
+        {
+          "name_original": "Christopher Eddington",
+          "votes": 548
+        },
+        {
+          "name_original": "Daniel R. Lee",
+          "votes": 373
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 517,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William Marble",
+          "votes": 59
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 946,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara P. Davis",
+          "votes": 698
+        },
+        {
+          "name_original": "Frederick C. White",
+          "votes": 613
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 696,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan M. Murray",
+          "votes": 726
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 274,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "John Moses Quinn",
+          "votes": 52
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 953,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward S. Bertand",
+          "votes": 602
+        },
+        {
+          "name_original": "Eric W. Helfer",
+          "votes": 618
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 782,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael C. Bleheen",
+          "votes": 137
+        },
+        {
+          "name_original": "Robin M. Bleheen",
+          "votes": 134
+        },
+        {
+          "name_original": "Patricia L. Chisolm",
+          "votes": 132
+        },
+        {
+          "name_original": "Thomas C. Downey",
+          "votes": 111
+        },
+        {
+          "name_original": "Daniel R. Lee",
+          "votes": 131
+        },
+        {
+          "name_original": "Karin E. Mcdonough",
+          "votes": 136
+        },
+        {
+          "name_original": "Meaghan Walsh Harrington",
+          "votes": 187
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4674,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 555,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 843,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary A. Cavagnaro",
+          "votes": 110
+        },
+        {
+          "name_original": "Susan Curran",
+          "votes": 102
+        },
+        {
+          "name_original": "Donona L. Eliasson",
+          "votes": 95
+        },
+        {
+          "name_original": "James Graziano",
+          "votes": 100
+        },
+        {
+          "name_original": "Virginia Graziano",
+          "votes": 102
+        },
+        {
+          "name_original": "Charles Greely",
+          "votes": 108
+        },
+        {
+          "name_original": "Eric W. Helfer",
+          "votes": 104
+        },
+        {
+          "name_original": "Jessica M. Johnson",
+          "votes": 66
+        },
+        {
+          "name_original": "Cathy A. Lindley",
+          "votes": 92
+        },
+        {
+          "name_original": "Sara C. Stinson",
+          "votes": 97
+        },
+        {
+          "name_original": "Debra Zeboski",
+          "votes": 92
+        },
+        {
+          "name_original": "Stephen Zebowski",
+          "votes": 94
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3182,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1971,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 656,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judithe A. Coughlin",
+          "votes": 111
+        },
+        {
+          "name_original": "Colleen Cunningham",
+          "votes": 114
+        },
+        {
+          "name_original": "Jacqueline M. Doherty",
+          "votes": 111
+        },
+        {
+          "name_original": "Helen Flanders",
+          "votes": 106
+        },
+        {
+          "name_original": "Kristen Mary Fraser",
+          "votes": 110
+        },
+        {
+          "name_original": "Melanie Magoon",
+          "votes": 120
+        },
+        {
+          "name_original": "Michael F. Magoon",
+          "votes": 121
+        },
+        {
+          "name_original": "Mary Marks",
+          "votes": 105
+        },
+        {
+          "name_original": "David Martineau",
+          "votes": 111
+        },
+        {
+          "name_original": "Jonathan K. O'Brien",
+          "votes": 115
+        },
+        {
+          "name_original": "Kristine L. Ouimet",
+          "votes": 109
+        },
+        {
+          "name_original": "Pamela Vayda",
+          "votes": 121
+        },
+        {
+          "name_original": "Marion Woodman Rapoza",
+          "votes": 14
+        },
+        {
+          "name_original": "Walter Wnek, II",
+          "votes": 106
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3523,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2290,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara P. Davis",
+          "votes": 166
+        },
+        {
+          "name_original": "Donna E. Dresser",
+          "votes": 125
+        },
+        {
+          "name_original": "Michelle D. Grover Kanash",
+          "votes": 125
+        },
+        {
+          "name_original": "May W. Lai",
+          "votes": 132
+        },
+        {
+          "name_original": "Nasawania T. Ranatou",
+          "votes": 122
+        },
+        {
+          "name_original": "John A. Russo",
+          "votes": 140
+        },
+        {
+          "name_original": "Marie E. Russo",
+          "votes": 139
+        },
+        {
+          "name_original": "Tiffany A. Sheehan",
+          "votes": 140
+        },
+        {
+          "name_original": "Benjamin M. Wells",
+          "votes": 141
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3691,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 237,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-04-04",
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holbrook2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holbrook2026.pdf",
+  "ballots_cast": 1005,
+  "ballots_cast_source": "derived_from_contests"
+}

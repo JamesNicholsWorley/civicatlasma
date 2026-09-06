@@ -1,0 +1,538 @@
+{
+  "elections": [
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary J. Christenson",
+          "votes": 5557
+        },
+        {
+          "name_original": "Lissette Aracely Alvarado",
+          "votes": 2095
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 165,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen Colon Hayes",
+          "votes": 4194
+        },
+        {
+          "name_original": "Carey McDonald",
+          "votes": 4384
+        },
+        {
+          "name_original": "Craig Spadafora",
+          "votes": 4320
+        },
+        {
+          "name_original": "Dante J. Diserio",
+          "votes": 2353
+        },
+        {
+          "name_original": "Others",
+          "votes": 108,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peg Crowe",
+          "votes": 643
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 119,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul A. Condon",
+          "votes": 574
+        },
+        {
+          "name_original": "Sheila Rachels",
+          "votes": 362
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amanda Linehan",
+          "votes": 1059
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 279,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan J. O'Malley",
+          "votes": 573
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 104,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ari Taylor",
+          "votes": 807
+        },
+        {
+          "name_original": "Julie E. Turner",
+          "votes": 627
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Patrick Winslow",
+          "votes": 641
+        },
+        {
+          "name_original": "Jerry Leone",
+          "votes": 445
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Chris Simonelli",
+          "votes": 539
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 114,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCILLOR - W 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jadeane M. Sica",
+          "votes": 568
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 142,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Edward Drummey",
+          "votes": 609
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert S. McCarthy Jr.",
+          "votes": 787
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Marie Spadafora",
+          "votes": 1022
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 320,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn M. Macklin",
+          "votes": 550
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 139,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth J. Hortie",
+          "votes": 1104
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 338,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph S. Gray",
+          "votes": 884
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 247,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Keith Eric Bernard",
+          "votes": 554
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE - W 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sharyn Rose-Zeiberg",
+          "votes": 581
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 151,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Malden2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Malden2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

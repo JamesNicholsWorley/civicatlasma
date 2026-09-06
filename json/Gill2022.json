@@ -1,0 +1,291 @@
+{
+  "document": {
+    "heading_verbatim": "The Results of The Gill Annual Town Election:",
+    "election_type": "Regular",
+    "election_type_evidence": "The document explicitly states 'The Results of The Gill Annual Town Election:' and references the 'Annual Town Election'",
+    "date_verbatim": "Not provided in document",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Selectman",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Randy P. Crochier",
+          "votes": 56
+        },
+        {
+          "name_original": "Fred Chase",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William C. Tomb",
+          "votes": 58
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary A. Bourbeau",
+          "votes": 54
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tara L. Savoie",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Board of Health 3-year",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Erika Heilig",
+          "votes": 56
+        },
+        {
+          "name_original": "Jeffery Blomsted",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Board of Health 2-year",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jeffery Blomsted",
+          "votes": 20
+        },
+        {
+          "name_original": "Randy Crochier",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "Treasurer",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Turban",
+          "votes": 59
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "School Committee for three years",
+      "district_original": "Representing the Town of Gill",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jane Oakes",
+          "votes": 58
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "School Committee for three years",
+      "district_original": "Representing the Town of Montague",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Heather Katsoulis",
+          "votes": 49
+        },
+        {
+          "name_original": "Haley Anderson",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "School Committee for two years",
+      "district_original": "Representing the Town of Montague",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nicholas Licotta",
+          "votes": 5
+        },
+        {
+          "name_original": "Christina Marcalow",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gill",
+      "date": "2022-05-10",
+      "office_original": "School Committee for one year",
+      "district_original": "Representing the Town",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "John Irminger",
+          "votes": 50
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Gill2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gill2022.pdf",
+  "ballots_cast": 60,
+  "ballots_cast_source": "derived_from_contests"
+}

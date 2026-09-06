@@ -1,0 +1,301 @@
+{
+  "elections": [
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Peter Koch",
+          "votes": 10380
+        },
+        {
+          "name_original": "Anne M. Mahoney",
+          "votes": 8476
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "Councillor-At-Large",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noel DiBona",
+          "votes": 12869
+        },
+        {
+          "name_original": "Nina X. Liang",
+          "votes": 10744
+        },
+        {
+          "name_original": "Scott S. Campbell",
+          "votes": 9792
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23621,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 181,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David F. McCarthy",
+          "votes": 2946
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 989,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 169,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony J. Andronico",
+          "votes": 1094
+        },
+        {
+          "name_original": "Richard C. Ash",
+          "votes": 1149
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 77,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ian Charles Cain",
+          "votes": 2440
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 719,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James K. Devine",
+          "votes": 1499
+        },
+        {
+          "name_original": "Matthew J. Lyons",
+          "votes": 1111
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 130,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel James Minton",
+          "votes": 2381
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 727,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "City Councillor Ward 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William P. Harris",
+          "votes": 1892
+        },
+        {
+          "name_original": "Deborah A. Riley",
+          "votes": 1466
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 147,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Quincy",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul L. Bregoli",
+          "votes": 7575
+        },
+        {
+          "name_original": "Kathryn E. Hubley",
+          "votes": 8296
+        },
+        {
+          "name_original": "Frank Charles Santoro",
+          "votes": 7177
+        },
+        {
+          "name_original": "Courtney C. Perdios",
+          "votes": 8498
+        },
+        {
+          "name_original": "Liberty M. Schaaf",
+          "votes": 5300
+        },
+        {
+          "name_original": "Vincent Ho Tran",
+          "votes": 4579
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15707,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Quincy2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Quincy2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

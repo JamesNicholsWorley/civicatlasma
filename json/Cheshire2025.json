@@ -1,0 +1,169 @@
+{
+  "elections": [
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jason Levesque",
+          "votes": 370
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Astorino",
+          "votes": 350
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Board of Health - 3 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Warner",
+          "votes": 141
+        },
+        {
+          "name_original": "Michael Kruszyna",
+          "votes": 275
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Board of Health - 1 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Trudeau",
+          "votes": 328
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mickey Biagini",
+          "votes": 195
+        },
+        {
+          "name_original": "Colin Haas",
+          "votes": 167
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Cemetery Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen LaFogg",
+          "votes": 310
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ronald DeAngelis",
+          "votes": 9
+        },
+        {
+          "name_original": "E. Richard Scholz",
+          "votes": 7
+        },
+        {
+          "name_original": "Gary Trudeau",
+          "votes": 7
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cheshire",
+      "date": "2025-05-05",
+      "office_original": "HVRSD - Cheshire",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Emerson",
+          "votes": 371
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Cheshire2025",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-05-05",
+      "detail": "https://web.archive.org/web/20250616002950/https://www.cheshire-ma.gov/news-and-notices/page/2/",
+      "quote": "ay... Read more Voter Registration Last day to register to vote for the May 5, 2025 Annual Town Election is Friday, A",
+      "note": "archived capture of the town's own site, 2025-06-16"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

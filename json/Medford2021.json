@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "Medford",
+      "office_original": "FOR MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "BREANNA LUNGO-KOEHN",
+          "votes": 7352
+        },
+        {
+          "name_original": "JOHN C. FALCO, JR.",
+          "votes": 5768
+        },
+        {
+          "name_original": "Others",
+          "votes": 111,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 259,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-11-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medford",
+      "office_original": "FOR CITY COUNCIL",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ISAAC B. ZAC BEARS",
+          "votes": 6786
+        },
+        {
+          "name_original": "RICHARD F. CARAVIELLO",
+          "votes": 6119
+        },
+        {
+          "name_original": "ADAM KNIGHT",
+          "votes": 5859
+        },
+        {
+          "name_original": "NICOLE MORELL",
+          "votes": 7057
+        },
+        {
+          "name_original": "GEORGE A. SCARPELLI",
+          "votes": 5723
+        },
+        {
+          "name_original": "KELLY SHEEHAN CATALLO",
+          "votes": 4098
+        },
+        {
+          "name_original": "GEORGIANA CHEVRY",
+          "votes": 3921
+        },
+        {
+          "name_original": "KIT COLLINS",
+          "votes": 5304
+        },
+        {
+          "name_original": "ABIGAIL DICKSON",
+          "votes": 4988
+        },
+        {
+          "name_original": "JAMES F. HALLORAN",
+          "votes": 1499
+        },
+        {
+          "name_original": "DAVID J. MCKILLOP, SR.",
+          "votes": 3281
+        },
+        {
+          "name_original": "JEAN M. NUZZO",
+          "votes": 3924
+        },
+        {
+          "name_original": "DAVID ROBERT TODISCO",
+          "votes": 5236
+        },
+        {
+          "name_original": "JUSTIN TSENG",
+          "votes": 5978
+        },
+        {
+          "name_original": "Others",
+          "votes": 105,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24734,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-11-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Medford",
+      "office_original": "FOR SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "JENNY R. GRAHAM",
+          "votes": 7008
+        },
+        {
+          "name_original": "KATHLEEN P. KREATZ",
+          "votes": 5461
+        },
+        {
+          "name_original": "MELANIE P. MCLAUGHLIN",
+          "votes": 5769
+        },
+        {
+          "name_original": "MEA QUINN MUSTONE",
+          "votes": 6933
+        },
+        {
+          "name_original": "PAUL RUSSELL RUSEAU",
+          "votes": 6257
+        },
+        {
+          "name_original": "WILLIAM R. GIGLIO",
+          "votes": 3349
+        },
+        {
+          "name_original": "SHARON D. HAYS",
+          "votes": 5477
+        },
+        {
+          "name_original": "KERRY LAIDLAW",
+          "votes": 2869
+        },
+        {
+          "name_original": "ANDREW C. MILNE",
+          "votes": 4042
+        },
+        {
+          "name_original": "CHERYL A. RODRIGUEZ",
+          "votes": 3549
+        },
+        {
+          "name_original": "ROBERT EMMETT SKERRY, JR.",
+          "votes": 3962
+        },
+        {
+          "name_original": "COLIN S. WALSH",
+          "votes": 3120
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23228,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-11-02",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Medford2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medford2021.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-11-02",
+      "detail": "https://www.medfordma.org/departments/elections-commission/election-results",
+      "quote": "Official General Election Results (Citywide), November 2, 2021 Election",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

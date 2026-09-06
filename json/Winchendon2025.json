@@ -1,0 +1,183 @@
+{
+  "elections": [
+    {
+      "municipality": "Winchendon",
+      "date": "2025-05-05",
+      "office_original": "MODERATOR 3 YR. (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn J. LaRochelle",
+          "votes": 926
+        },
+        {
+          "name_original": "Rick Ward",
+          "votes": 379
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 451,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2025-05-05",
+      "office_original": "BOARD OF SELECTMEN 3 YR. (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Audrey LaBrie",
+          "votes": 716
+        },
+        {
+          "name_original": "Christine Haslam-Giovannucci",
+          "votes": 521
+        },
+        {
+          "name_original": "Tiffany Frances Newton",
+          "votes": 625
+        },
+        {
+          "name_original": "Yvonne M. Senecal",
+          "votes": 590
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1085,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2025-05-05",
+      "office_original": "SCHOOL COMMITTEE 3 YR. (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory Vine",
+          "votes": 121
+        },
+        {
+          "name_original": "Barbara Zisk",
+          "votes": 70
+        },
+        {
+          "name_original": "Michael Gaynor",
+          "votes": 63
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1471,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 69,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2025-05-05",
+      "office_original": "SCHOOL COMMITTEE 1 YR. (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tara N. Teixeia",
+          "votes": 983
+        },
+        {
+          "name_original": "Michael Gaynor",
+          "votes": 101
+        },
+        {
+          "name_original": "Gregory Vine",
+          "votes": 7
+        },
+        {
+          "name_original": "Barbara Zisk",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 653,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2025-05-05",
+      "office_original": "BOARD OF HEALTH 3 YR. (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn J. LaRochelle",
+          "votes": 1108
+        },
+        {
+          "name_original": "Barbara Zisk",
+          "votes": 49
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 592,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Winchendon2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winchendon2025.pdf",
+  "ballots_cast": 1794,
+  "ballots_cast_source": "derived_from_contests"
+}

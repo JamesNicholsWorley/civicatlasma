@@ -1,0 +1,116 @@
+{
+  "elections": [
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julianne Vanderhoop",
+          "votes": 79
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Benoit",
+          "votes": 78
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Planning Board",
+      "district_original": "2 positions - 3 year term",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Newman",
+          "votes": 72
+        },
+        {
+          "name_original": "James Wallen",
+          "votes": 75
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Planning Board",
+      "district_original": "1 position - 1 year term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Mahoney",
+          "votes": 11
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marjorie Spitz",
+          "votes": 75
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Aquinnah",
+      "date": "2023-05-11",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gabriella Camilleri",
+          "votes": 83
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Aquinnah2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

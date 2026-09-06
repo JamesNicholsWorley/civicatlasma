@@ -1,0 +1,205 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 9,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2022-04-23",
+      "detail": "https://www.town.raynham.ma.us/home/news/unofficial-town-election-results-april-23-2022",
+      "quote": "Unofficial Town Election Results -- April 23, 2022",
+      "note": "the town clerk's own news post announcing the results; the attached spreadsheet prints no date"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph R. Pacheco",
+          "votes": 304
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "A.J. Andrews",
+          "votes": 293
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 114,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Sewer Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey R. Kelleher",
+          "votes": 317
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 90,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian D. Oldfield",
+          "votes": 295
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 112,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Bridgewater-Raynham Regional District School Committee (Raynham Member)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan P. Prewandowski",
+          "votes": 187
+        },
+        {
+          "name_original": "Louis A. D'Amarino",
+          "votes": 201
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Park and Recreation Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher A. Shaw",
+          "votes": 310
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 97,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Housing Authority (Tenant Member)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cynthia Gowan",
+          "votes": 290
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2022-04-23",
+      "office_original": "Cemetery Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David F. Yelle",
+          "votes": 306
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Raynham2022",
+  "_source_pdf": "",
+  "ballots_cast": 407,
+  "ballots_cast_source": "derived_from_contests"
+}

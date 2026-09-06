@@ -1,0 +1,265 @@
+{
+  "document": {
+    "heading_verbatim": "2023 Town Elections & Annual Town Meeting Results",
+    "election_type": "Regular",
+    "election_type_evidence": "The document presents annual town elections and annual town meeting results, consistent with a regular/annual election held in 2023.",
+    "date_verbatim": "Not explicitly stated in the visible document content",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All non-contested offices were elected as shown.",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-05-06",
+      "detail": "https://worthington-ma.us/2023/04/vote-by-mail-annual-town-election/",
+      "quote": "BALLOTS MUST BE RECEIVED AT TOWN HALL BY 12:30PM ON MAY 6, 2023.",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: body text of the clerk's vote-by-mail notice, not the WordPress stamp (which reads April 12, 2023)"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Edward Ferguson",
+          "votes": 60
+        },
+        {
+          "name_original": "Ron Sampson",
+          "votes": 87
+        },
+        {
+          "name_original": "Stephen Smith",
+          "votes": 106
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Gary Ouimet",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Diane Brenner",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "CEMETERY COMMISSIONER-HISTORICAL CEMETERIES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mary Orisich",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nestor Mathews",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kate Bavelock",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Anna Maunz",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "WORTHINGTON SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ryan Neuhauser",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "CONSTABLE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ron Sampson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kevin O'Connor",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "TREE WARDEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ben Brown",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Worthington",
+      "date": "2023-05-06",
+      "office_original": "FINANCE COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Joseph Boudreau",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Gretchen Eliason",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Worthington2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worthington2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,240 @@
+{
+  "elections": [
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Higgins",
+          "votes": 1317
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrea Shaw Reed",
+          "votes": 1209
+        },
+        {
+          "name_original": "Mefford R. Runyon",
+          "votes": 1162
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 635,
+          "tally_row": true
+        },
+        {
+          "name_original": "David Currier",
+          "votes": 6
+        },
+        {
+          "name_original": "John Kanaga",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John D. Kanaga",
+          "votes": 967
+        },
+        {
+          "name_original": "Sims McGrath, Jr.",
+          "votes": 1017
+        },
+        {
+          "name_original": "Robert E. Gwin",
+          "votes": 435
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 631,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "NAUSET REG SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith S. Schumacher",
+          "votes": 1158
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 365,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gail M. Briere",
+          "votes": 1207
+        },
+        {
+          "name_original": "Sasandra H. Roche",
+          "votes": 1150
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 694,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "TRUSTEE FOR SNOW LIBRARY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan D. Francolini",
+          "votes": 1171
+        },
+        {
+          "name_original": "Lindsey Malatesta Goodman",
+          "votes": 1161
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 718,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2023-05-16",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1490,
+          "tally_row": true
+        },
+        {
+          "name_original": "Alan McClennan",
+          "votes": 3
+        },
+        {
+          "name_original": "Diane Fromm",
+          "votes": 2
+        },
+        {
+          "name_original": "Michael Betlinks",
+          "votes": 2
+        },
+        {
+          "name_original": "David Koskins",
+          "votes": 2
+        },
+        {
+          "name_original": "John Conden",
+          "votes": 2
+        },
+        {
+          "name_original": "Joseph Kerr",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orleans2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orleans2023.pdf",
+  "ballots_cast": 1526,
+  "ballots_cast_source": "derived_from_contests"
+}

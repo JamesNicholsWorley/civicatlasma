@@ -1,0 +1,194 @@
+{
+  "elections": [
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Victoria E. Duckworth",
+          "votes": 2151
+        },
+        {
+          "name_original": "Lucas Lee Nemutig",
+          "votes": 1597
+        },
+        {
+          "name_original": "Colleen McIntyre Roy",
+          "votes": 2101
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1928,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "SCHOOL COMMITTEE - GRAFTON PUBLIC SCHOOLS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca Susette Soco",
+          "votes": 1819
+        },
+        {
+          "name_original": "Lori D. Trahan",
+          "votes": 1760
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Alan",
+          "votes": 326
+        },
+        {
+          "name_original": "Shawn Peter McAvey",
+          "votes": 189
+        },
+        {
+          "name_original": "Others",
+          "votes": 158,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3239,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carrie Anne Nogan",
+          "votes": 2383
+        },
+        {
+          "name_original": "Stacie Leigh Herbert",
+          "votes": 2058
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3334,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn Christine Anderson",
+          "votes": 2655
+        },
+        {
+          "name_original": "Donna K. Stock",
+          "votes": 46
+        },
+        {
+          "name_original": "Others",
+          "votes": 92,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1119,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Grafton",
+      "date": "2026-05-19",
+      "office_original": "GRAFTON HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Paul Kelley",
+          "votes": 2664
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1201,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Grafton2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Grafton2026.pdf",
+  "ballots_cast": 3912,
+  "ballots_cast_source": "derived_from_contests"
+}

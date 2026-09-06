@@ -1,0 +1,152 @@
+{
+  "elections": [
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicholas Anzuoni",
+          "votes": 163
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tim Slowinski",
+          "votes": 9
+        },
+        {
+          "name_original": "Others",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "MTRSD Committee Member",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Chivers",
+          "votes": 155
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "Library Trustees (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Martin Dagoberto Lydgate Driggs",
+          "votes": 104
+        },
+        {
+          "name_original": "Hadley Looman",
+          "votes": 105
+        },
+        {
+          "name_original": "Melinda Connors",
+          "votes": 85
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Benjamin Eastman",
+          "votes": 167
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2025-05-13",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anna Lavarreda",
+          "votes": 85
+        },
+        {
+          "name_original": "Emma Coburn",
+          "votes": 95
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Colrain2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Colrain2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

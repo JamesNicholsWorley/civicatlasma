@@ -1,0 +1,231 @@
+{
+  "elections": [
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frederick A. George",
+          "votes": 1186
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julianne Hirsh",
+          "votes": 1103
+        },
+        {
+          "name_original": "Michael J. Tietjen",
+          "votes": 1080
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 535,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kerri Martinek",
+          "votes": 1033
+        },
+        {
+          "name_original": "Anthony W. Ziton",
+          "votes": 995
+        },
+        {
+          "name_original": "James Howell",
+          "votes": 375
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lauren Catherine Bailey-Jones",
+          "votes": 1041
+        },
+        {
+          "name_original": "Kelly L. Guenette",
+          "votes": 1087
+        },
+        {
+          "name_original": "Gigi Lisa Howell",
+          "votes": 367
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 244,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "NB/SB REGIONAL SCHOOL COMMITTEE",
+      "district_original": "Northborough",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Howland",
+          "votes": 1079
+        },
+        {
+          "name_original": "Gigi Lisa Howell",
+          "votes": 474
+        },
+        {
+          "name_original": "Christopher Allen Lacasse",
+          "votes": 909
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 274,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "NB/SB REGIONAL SCHOOL COMMITTEE",
+      "district_original": "Southborough",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen A. Harragan",
+          "votes": 1060
+        },
+        {
+          "name_original": "Jennifer Lane Primack",
+          "votes": 1051
+        },
+        {
+          "name_original": "Others",
+          "votes": 163,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 470,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2024-05-14",
+      "office_original": "ASSABET VALLEY SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Virginia S. George",
+          "votes": 1189
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 176,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northborough2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northborough2024.pdf",
+  "ballots_cast": 1372,
+  "ballots_cast_source": "derived_from_contests"
+}

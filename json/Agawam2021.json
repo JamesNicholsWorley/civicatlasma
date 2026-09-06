@@ -1,0 +1,154 @@
+{
+  "elections": [
+    {
+      "municipality": "Agawam",
+      "date": "2021-11-02",
+      "office_original": "AGAWAM MAYOR",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Sapelli",
+          "votes": 4359
+        },
+        {
+          "name_original": "Charles Alvanos",
+          "votes": 1002
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Agawam",
+      "date": "2021-11-02",
+      "office_original": "AGAWAM CITY COUNCIL",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 11,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Russo",
+          "votes": 2964
+        },
+        {
+          "name_original": "George Bitzas",
+          "votes": 2816
+        },
+        {
+          "name_original": "Cecilia Calabrese",
+          "votes": 2768
+        },
+        {
+          "name_original": "Christopher Johnson",
+          "votes": 2637
+        },
+        {
+          "name_original": "Paul Cavallo",
+          "votes": 2633
+        },
+        {
+          "name_original": "Dino Mercadante",
+          "votes": 2601
+        },
+        {
+          "name_original": "Rosemary Sandlin",
+          "votes": 2574
+        },
+        {
+          "name_original": "Anthony Suffriti",
+          "votes": 2464
+        },
+        {
+          "name_original": "Gina Letellier",
+          "votes": 2379
+        },
+        {
+          "name_original": "Robert Rossi",
+          "votes": 2331
+        },
+        {
+          "name_original": "Gerald Smith",
+          "votes": 2309
+        },
+        {
+          "name_original": "Thomas Hendrickson",
+          "votes": 2244
+        },
+        {
+          "name_original": "Mario Tedeschi",
+          "votes": 2235
+        },
+        {
+          "name_original": "Peter McNair",
+          "votes": 2146
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Agawam",
+      "date": "2021-11-02",
+      "office_original": "AGAWAM SCHOOL COMMITTEE",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shelley Borgatti-Reed",
+          "votes": 2981
+        },
+        {
+          "name_original": "AJ Christopher",
+          "votes": 2647
+        },
+        {
+          "name_original": "Wendy Rua",
+          "votes": 2535
+        },
+        {
+          "name_original": "Dawn Dube",
+          "votes": 2487
+        },
+        {
+          "name_original": "Kerri O'Connor",
+          "votes": 2251
+        },
+        {
+          "name_original": "Michael Perry",
+          "votes": 2005
+        },
+        {
+          "name_original": "Catherine Mcdougal",
+          "votes": 2000
+        },
+        {
+          "name_original": "Stephen Davis",
+          "votes": 1915
+        },
+        {
+          "name_original": "Robert Lawler",
+          "votes": 1612
+        },
+        {
+          "name_original": "Edward Champigny",
+          "votes": 1362
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Agawam2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Agawam2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

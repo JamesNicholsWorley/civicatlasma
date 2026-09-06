@@ -1,0 +1,40 @@
+{
+  "document": {
+    "heading_verbatim": "Hancock, MA — Annual Town Election, Monday 11 May 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Monday 11 May 2026",
+    "offices_on_ballot": -1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "It was the only contested race in the town election."
+  },
+  "elections": [
+    {
+      "municipality": "Hancock",
+      "date": "2026-05-11",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sherman L. Derby Sr.",
+          "votes": 220
+        },
+        {
+          "name_original": "Katherine Turner",
+          "votes": 107
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hancock2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

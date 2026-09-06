@@ -1,0 +1,186 @@
+{
+  "elections": [
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "BOARD OF ASSESSORS (1 seat-3YR TERM)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "JAMES CHABOT",
+          "votes": 787
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 425,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "MODERATOR (1 seat-1YR TERM)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "JOHN JACK CONWAY",
+          "votes": 878
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 340,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "PLANNING BOARD (3 seats-3YR TERM)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "CHRIS MOMANEY",
+          "votes": 53
+        },
+        {
+          "name_original": "ROB BALAZS",
+          "votes": 55
+        },
+        {
+          "name_original": "FRANK KEARNS",
+          "votes": 68
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 2309,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "SCHOOL COMMITTEE (1 seat-3YR TERM)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "JUSTINE CALLANAN",
+          "votes": 624
+        },
+        {
+          "name_original": "WALTER GROGAN",
+          "votes": 517
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "PLANNING BOARD (1 seat-1YR TERM)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "FRANK KEARNS",
+          "votes": 783
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 429,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norton",
+      "date": "2026-04-11",
+      "office_original": "SELECT BOARD (1 seat-3YR TERM)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "DENISE LUCIANO",
+          "votes": 585
+        },
+        {
+          "name_original": "MICHAEL LEONARD",
+          "votes": 566
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 71,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Norton2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norton2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,191 @@
+{
+  "document": {
+    "heading_verbatim": "Report of the Annual Town Election May 24th, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 24th, 2022",
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Board of Selectmen",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cynthia A. Bingham",
+          "votes": 759
+        },
+        {
+          "name_original": "David C. Whitney",
+          "votes": 712
+        },
+        {
+          "name_original": "Carol Marie Anderson",
+          "votes": 80
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Penny H. Holeman",
+          "votes": 676
+        },
+        {
+          "name_original": "David C. Bennett",
+          "votes": 619
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 386,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Brewster School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katie Miller Jacobus",
+          "votes": 684
+        },
+        {
+          "name_original": "Carol Brink Jelinek",
+          "votes": 598
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 397,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles L. Sumner",
+          "votes": 735
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 98,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roland W. Bassett, Jr.",
+          "votes": 704
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 137,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Brewster",
+      "date": "2022-05-24",
+      "office_original": "Recreation Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Allen J. Ryone",
+          "votes": 681
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Brewster2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brewster2022.pdf",
+  "ballots_cast": 842,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,120 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Concord",
+      "date": "2026-03-31",
+      "office_original": "MODERATOR for One Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KARLEN J. REED",
+          "votes": 2711
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 411,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Concord",
+      "date": "2026-03-31",
+      "office_original": "SELECT BOARD for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DEAN S. BANFIELD",
+          "votes": 1651
+        },
+        {
+          "name_original": "SAMUEL HIERSTEINER",
+          "votes": 1467
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Concord",
+      "date": "2026-03-31",
+      "office_original": "SCHOOL COMMITTEE for Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANDREW MAGLIOZZI",
+          "votes": 2668
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Concord",
+      "date": "2026-03-31",
+      "office_original": "HOUSING AUTHORITY for Five Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEPHAN BADER",
+          "votes": 2678
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 450,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Concord2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Concord2026.pdf",
+  "ballots_cast": 3152,
+  "ballots_cast_source": "derived_from_contests"
+}

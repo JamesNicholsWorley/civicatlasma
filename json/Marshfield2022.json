@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Fidler",
+          "votes": 962
+        },
+        {
+          "name_original": "Pecevich",
+          "votes": 282
+        },
+        {
+          "name_original": "Rohland",
+          "votes": 851
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Giaquinto",
+          "votes": 1548
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 581,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Armstrong",
+          "votes": 1499
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 630,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "BOARD OF PUBLIC WORKS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Murphy",
+          "votes": 773
+        },
+        {
+          "name_original": "Shaughnessy",
+          "votes": 1171
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 185,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Monaco",
+          "votes": 1525
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 604,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brait",
+          "votes": 1567
+        },
+        {
+          "name_original": "Greer",
+          "votes": 1270
+        },
+        {
+          "name_original": "KELLEY",
+          "votes": 683
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 738,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2022-04-30",
+      "office_original": "TRUSTEES OF VETERANS MEMORIALS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vaughan",
+          "votes": 1431
+        },
+        {
+          "name_original": "White",
+          "votes": 1614
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1213,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marshfield2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Marshfield2022.pdf",
+  "ballots_cast": 2129,
+  "ballots_cast_source": "derived_from_contests"
+}

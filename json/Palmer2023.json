@@ -1,0 +1,129 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Palmer",
+      "date": "2023-06-13",
+      "office_original": "COUNCILOR AT LARGE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert B. Lavoie",
+          "votes": 218
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2023-06-13",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott C. Day",
+          "votes": 220
+        },
+        {
+          "name_original": "Shelby Francis Lamothe",
+          "votes": 178
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2023-06-13",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew J. Lovell",
+          "votes": 182
+        },
+        {
+          "name_original": "Bonny B. Rathbone",
+          "votes": 170
+        },
+        {
+          "name_original": "Joseph P. Nompleggi",
+          "votes": 124
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 77,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2023-06-13",
+      "office_original": "DISTRICT 1 COUNCILOR",
+      "district_original": "District 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip J. Hebert",
+          "votes": 66
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Palmer2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Palmer2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

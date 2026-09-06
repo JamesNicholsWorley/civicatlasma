@@ -1,0 +1,40 @@
+{
+  "document": {
+    "heading_verbatim": "Petersham, MA — Annual Town Election, Monday 6 April 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Monday 6 April 2026",
+    "offices_on_ballot": 1,
+    "is_sample_ballot": false,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Petersham's other seats were uncontested and the roundup does not list them"
+  },
+  "elections": [
+    {
+      "municipality": "Petersham",
+      "date": "2026-04-06",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carole L. Hutchinson",
+          "votes": 83
+        },
+        {
+          "name_original": "Cindy Hopper",
+          "votes": 33
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Petersham2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

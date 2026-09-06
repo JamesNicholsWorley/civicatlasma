@@ -1,0 +1,142 @@
+{
+  "elections": [
+    {
+      "office_original": "SELECT BOARD - 3 yrs",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2025-06-03",
+      "municipality": "Longmeadow",
+      "candidates": [
+        {
+          "name_original": "Mark Phillip Gold",
+          "votes": 733
+        },
+        {
+          "name_original": "Dan Zwirko",
+          "votes": 1221
+        },
+        {
+          "name_original": "Maury Mitchell Garrett, Jr.",
+          "votes": 691
+        },
+        {
+          "name_original": "Shelly Marie Maynard-Dewolf",
+          "votes": 1152
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2025-06-03",
+      "municipality": "Longmeadow",
+      "candidates": [
+        {
+          "name_original": "Cheryl A. Thibodeau",
+          "votes": 1529
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE - 3 YRS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2025-06-03",
+      "municipality": "Longmeadow",
+      "candidates": [
+        {
+          "name_original": "Zachary Verriden",
+          "votes": 1377
+        },
+        {
+          "name_original": "Emily Hansen",
+          "votes": 1429
+        },
+        {
+          "name_original": "Joel Illouz",
+          "votes": 483
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE - 2 YRS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2025-06-03",
+      "municipality": "Longmeadow",
+      "candidates": [
+        {
+          "name_original": "H. Kate Bean",
+          "votes": 1231
+        },
+        {
+          "name_original": "Gregory C. Macdonald, III",
+          "votes": 627
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2025-06-03",
+      "municipality": "Longmeadow",
+      "candidates": [
+        {
+          "name_original": "Sanjiv Nandlal Reejhsinghani",
+          "votes": 1411
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Longmeadow2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Longmeadow2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

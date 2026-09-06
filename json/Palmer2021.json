@@ -1,0 +1,155 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Palmer",
+      "date": "2021-06-08",
+      "office_original": "COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lorinda L. Baker",
+          "votes": 189
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2021-06-08",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Norman Czech",
+          "votes": 175
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2021-06-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony R. Braden",
+          "votes": 187
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2021-06-08",
+      "office_original": "DISTRICT #2 COUNCILOR",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Barbara A. Barry",
+          "votes": 46
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2021-06-08",
+      "office_original": "DISTRICT #3 COUNCILOR",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Karl S. Williams",
+          "votes": 45
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Palmer2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Palmer2021.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "town warrant / clerk calendar / town filename / statutory bracket",
+      "value": "2021-06-08",
+      "strength": "corroborated",
+      "quote": "the date IS printed on the document and the derived text lost it: the PDF's top-left corner reads \"8-Jun-21\", beside the heading \"TOWN OF PALMER ANNUAL ELECTION OFFICIAL RESULTS\". It sits outside the results table, so docling dropped it. Read off the page rendered at 300 dpi 2026-08-24. Palmer votes the second Tuesday in June every published year (2022-06-14, 2023-06-13, 2024-06-11, 2025-06-10, 2026-06-09) and 2021-06-08 is that Tuesday.",
+      "citation": "",
+      "note": "established 2026-08-24 by src/resolve_searchable_padding_holds.py, after the _searchable padding fix let DATE_NOT_ON_PAGE run"
+    }
+  },
+  "ballots_cast": 203,
+  "ballots_cast_source": "derived_from_contests"
+}

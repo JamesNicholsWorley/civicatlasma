@@ -1,0 +1,184 @@
+{
+  "document": {
+    "heading_verbatim": "Official Results of the Annual Town Election May 21, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 21, 2024",
+    "offices_on_ballot": 7,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Assessor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Russell Kaphan",
+          "votes": 104
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Planning Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexandra Glover",
+          "votes": 98
+        },
+        {
+          "name_original": "Andrew Sodroski",
+          "votes": 80
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy Rae Henden-Wilson",
+          "votes": 55
+        },
+        {
+          "name_original": "Bruce Schreiber",
+          "votes": 58
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexandra Glover",
+          "votes": 106
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Ortwein",
+          "votes": 103
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lenita Cobb",
+          "votes": 4
+        },
+        {
+          "name_original": "Joelle Douglas",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Alford",
+      "date": "2024-05-21",
+      "office_original": "Finance Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Cobb",
+          "votes": 98
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Alford2024",
+  "_source_pdf": "",
+  "ballots_cast": 117,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,189 @@
+OFFICE
+NAME
+ A
+ B
+ C
+ D
+ E
+ TOTAL
+SELECT BOARD
+JOSHUA Y. LEVINE
+ 270
+ 248
+ 203
+ 234
+ 208
+ 1163
+ *
+ANDREW LAM
+ 369
+ 345
+ 323
+ 328
+ 347
+ 1712
+ *
+LEAH PETERSON
+ 275
+ 269
+ 185
+ 169
+ 212
+ 1110
+Blanks
+ 188
+ 175
+ 152
+ 130
+ 189
+ 834
+(All Other Votes/Write ins)
+ 4
+ 3
+ 1
+ 1
+ 2
+ 11
+ totals
+ 1106
+ 1040
+ 864
+ 862
+ 958
+ 4830
+SCHOOL COMMITTEE
+JAMIE M. HENSCH
+ 278
+ 283
+ 237
+ 239
+ 262
+ 1299
+ *
+MARY KATHLEEN KEANE
+ 253
+ 255
+ 240
+ 205
+ 212
+ 1165
+ *
+JOSE J. RODRIGUEZ
+ 287
+ 239
+ 197
+ 214
+ 210
+ 1147
+Blanks
+ 280
+ 261
+ 186
+ 201
+ 274
+ 1202
+(All Other Votes/Write ins)
+ 8
+ 2
+ 4
+ 3
+ 0
+ 17
+ totals
+ 1106
+ 1040
+ 864
+ 862
+ 958
+ 4830
+PLANNING BOARD
+CHRISTOPHER DAVID LEGIADRE
+ 372
+ 377
+ 320
+ 324
+ 333
+ 1726
+ *
+Blanks
+ 170
+ 139
+ 105
+ 102
+ 143
+ 659
+(All Other Votes/Write ins)
+ 11
+ 4
+ 7
+ 5
+ 3
+ 30
+ totals
+ 553
+ 520
+ 432
+ 431
+ 479
+ 2415
+HOUSING AUTHORITY
+(NO CANDIDATE)
+ -
+ -
+ -
+ -
+ -
+ 0
+Blanks
+ 509
+ 482
+ 391
+ 384
+ 444
+ 2210
+(All Other Votes/Write ins)
+ 44
+ 38
+ 41
+ 47
+ 35
+ 205
+ totals
+ 553
+ 520
+ 432
+ 431
+ 479
+ 2415
+MODERATOR
+REBECCA TOWNSEND
+ 441
+ 444
+ 360
+ 354
+ 385
+ 1984
+*
+Blanks
+ 104
+ 69
+ 72
+ 77
+ 92
+ 414
+(All Other Votes/Write ins)
+ 8
+ 7
+ 0
+ 0
+ 2
+ 17
+ totals
+ 553
+ 520
+ 432
+ 431
+ 479
+ 2415
+* Denotes the person(s) elected
+ OFFICIAL RESULTS OF THE JUNE 11, 2024 ANNUAL TOWN ELECTION

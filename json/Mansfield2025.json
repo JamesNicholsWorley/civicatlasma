@@ -1,0 +1,136 @@
+{
+  "elections": [
+    {
+      "municipality": "Mansfield",
+      "date": "2025-05-13",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Feck",
+          "votes": 1571
+        },
+        {
+          "name_original": "Kostas Loukos",
+          "votes": 1766
+        },
+        {
+          "name_original": "Gregory Penesis",
+          "votes": 830
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1630,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2025-05-13",
+      "office_original": "Mansfield School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lynn Cavicchi",
+          "votes": 1368
+        },
+        {
+          "name_original": "Nicole Burch",
+          "votes": 1023
+        },
+        {
+          "name_original": "Diane Elice Ready",
+          "votes": 1717
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1696,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2025-05-13",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Austin Horowitz",
+          "votes": 268
+        },
+        {
+          "name_original": "Robert H. Saquet",
+          "votes": 78
+        },
+        {
+          "name_original": "Others",
+          "votes": 205,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2373,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2025-05-13",
+      "office_original": "Housing Authority",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Snyder",
+          "votes": 1899
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 988,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mansfield2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Mansfield2025.pdf",
+  "ballots_cast": 2924,
+  "ballots_cast_source": "derived_from_contests"
+}

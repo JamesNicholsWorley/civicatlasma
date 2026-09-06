@@ -1,0 +1,236 @@
+{
+  "elections": [
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "SELECTBOARD FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen G. Cruise",
+          "votes": 717
+        },
+        {
+          "name_original": "Edwin B. Carlson",
+          "votes": 392
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "ASSESSOR FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy R. Hammond",
+          "votes": 912
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "ELECTRIC LIGHT COMMISSIONER FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip Gordon Gott",
+          "votes": 902
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "TRUSTEE OF TRUST FUNDS FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William C. Holder",
+          "votes": 911
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 205,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "TRUSTEE OF TRUST FUNDS FOR TWO YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bryan David Acuto",
+          "votes": 859
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 258,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "PLANNING BOARD FOR THREE YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Corey E. Burnham-Howard",
+          "votes": 743
+        },
+        {
+          "name_original": "Lawrence Louis Deblois",
+          "votes": 714
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 772,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Harry A. Pape",
+          "votes": 938
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 179,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Princeton",
+      "date": "2024-05-13",
+      "office_original": "WACHUSETT REGIONAL SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dana Lorway",
+          "votes": 606
+        },
+        {
+          "name_original": "Stephanie Jordan",
+          "votes": 377
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Princeton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Princeton2024.pdf",
+  "ballots_cast": 1121,
+  "ballots_cast_source": "derived_from_contests"
+}

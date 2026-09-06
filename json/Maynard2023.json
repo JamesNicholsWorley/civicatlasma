@@ -1,0 +1,182 @@
+{
+  "elections": [
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David D. Gavin",
+          "votes": 918
+        },
+        {
+          "name_original": "Jeffrey C. Swanberg, Jr.",
+          "votes": 824
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 365,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "SELECT BOARD - 1 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheena M. McNamara",
+          "votes": 159
+        },
+        {
+          "name_original": "Michael Stevens",
+          "votes": 891
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary S. Brannelly",
+          "votes": 882
+        },
+        {
+          "name_original": "Natasha Rivera",
+          "votes": 780
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 443,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "ASSABET VALLEY REP",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela J. Reiniger",
+          "votes": 881
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Francis S. Wyman",
+          "votes": 914
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 144,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2023-05-02",
+      "office_original": "HOUSING AUTHORITY 4 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew J. Preys",
+          "votes": 882
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 177,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Maynard2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Maynard2023.pdf",
+  "ballots_cast": 1061,
+  "ballots_cast_source": "derived_from_contests"
+}

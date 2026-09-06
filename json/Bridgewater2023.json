@@ -1,0 +1,178 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF BRIDGEWATER, MA 02324 ANNUAL TOWN ELECTION - APRIL 22, 2023 RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION - APRIL 22, 2023 RESULTS",
+    "date_verbatim": "APRIL 22, 2023",
+    "offices_on_ballot": 5,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Bridgewater",
+      "date": "2023-04-22",
+      "office_original": "TOWN COUNCIL DISTRICT TWO",
+      "district_original": "District Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mark E. Linde",
+          "votes": 127
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2023-04-22",
+      "office_original": "TOWN COUNCIL AT LARGE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Susan W. Robinson",
+          "votes": 617
+        },
+        {
+          "name_original": "Paul Murphy Jr.",
+          "votes": 591
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 741,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2023-04-22",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE (BRIDGEWATER)",
+      "district_original": "Bridgewater",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Cleonie Mainvielle",
+          "votes": 575
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 146,
+          "tally_row": true
+        },
+        {
+          "name_original": "Paula Murphy Linhares",
+          "votes": 222
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2023-04-22",
+      "office_original": "BRIDGEWATER-RAYNHAM REGIONAL DISTRICT SCHOOL COMMITTEE (Raynham)",
+      "district_original": "Raynham",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Eric J. Haikola",
+          "votes": 335
+        },
+        {
+          "name_original": "Jessica Julius Davenport",
+          "votes": 372
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 266,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bridgewater",
+      "date": "2023-04-22",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nancy E. Donnelly",
+          "votes": 637
+        },
+        {
+          "name_original": "Constance H. Franciosi",
+          "votes": 665
+        },
+        {
+          "name_original": "Joan S. Carson",
+          "votes": 636
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1001,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bridgewater2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bridgewater2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

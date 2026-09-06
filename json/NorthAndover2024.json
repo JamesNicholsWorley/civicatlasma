@@ -1,0 +1,97 @@
+{
+  "elections": [
+    {
+      "municipality": "North Andover",
+      "date": "2024-03-26",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janice Martin Phillips",
+          "votes": 1638
+        },
+        {
+          "name_original": "David S. Kres",
+          "votes": 1320
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 775,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2024-03-26",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly M. Cormier",
+          "votes": 1597
+        },
+        {
+          "name_original": "Edward H. Moscovitch",
+          "votes": 1311
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 820,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Andover",
+      "date": "2024-03-26",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark S. DiSalvo",
+          "votes": 1652
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 201,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthAndover2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthAndover2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

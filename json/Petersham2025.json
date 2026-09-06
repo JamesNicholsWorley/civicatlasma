@@ -1,0 +1,139 @@
+{
+  "document": {
+    "heading_verbatim": "MARCH 3, 2025 ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "MARCH 3, 2025 ANNUAL TOWN ELECTION",
+    "date_verbatim": "MARCH 3, 2025",
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Deborah Poodry",
+          "votes": 108
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jean Robinson",
+          "votes": 111
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Richard Nicoletti",
+          "votes": 110
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "MAHAR REGIONAL SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.5,
+      "candidates": [],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "PETERSHAM SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jill Wessel",
+          "votes": 109
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Donna Byron",
+          "votes": 107
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Petersham",
+      "date": "2025-03-03",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Claudette Bishop",
+          "votes": 108
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Petersham2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Petersham2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

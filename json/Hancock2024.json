@@ -1,0 +1,313 @@
+{
+  "document": {
+    "heading_verbatim": "Town Election",
+    "election_type": "Regular",
+    "election_type_evidence": "Described as 'Town Election' with no designation of Special or Preliminary",
+    "date_verbatim": "2024-05-13",
+    "offices_on_ballot": 8,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Fairbank",
+          "votes": 88
+        },
+        {
+          "name_original": "James Rodda",
+          "votes": 1
+        },
+        {
+          "name_original": "Peter Morin",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Donald Rancatti",
+          "votes": 72
+        },
+        {
+          "name_original": "Katherine Turner",
+          "votes": 9
+        },
+        {
+          "name_original": "Will Dowdy",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Weiner",
+          "votes": 1
+        },
+        {
+          "name_original": "Alex Kastrinakis",
+          "votes": 1
+        },
+        {
+          "name_original": "Tom Trimarchi",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Elisabeth Kryskow",
+          "votes": 70
+        },
+        {
+          "name_original": "Katherine Tirner",
+          "votes": 74
+        },
+        {
+          "name_original": "Donald Duck",
+          "votes": 1
+        },
+        {
+          "name_original": "Pete Morin",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "LIBRARY TRUSTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Connie Chase",
+          "votes": 92
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Melissa Leab",
+          "votes": 85
+        },
+        {
+          "name_original": "John Quimby",
+          "votes": 92
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "FINANCE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Danielle Chretien",
+          "votes": 55
+        },
+        {
+          "name_original": "James Rodda",
+          "votes": 33
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "ASSESSOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Felicity Cassavaugh",
+          "votes": 82
+        },
+        {
+          "name_original": "Therese Rodda",
+          "votes": 86
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Christie Derby",
+          "votes": 83
+        },
+        {
+          "name_original": "Barbara Markessinis",
+          "votes": 77
+        },
+        {
+          "name_original": "James Rodda",
+          "votes": 1
+        },
+        {
+          "name_original": "John Quimby",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-05-13",
+      "office_original": "CEMETERY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Tom Trimarchi",
+          "votes": 1
+        },
+        {
+          "name_original": "John Quimby",
+          "votes": 2
+        },
+        {
+          "name_original": "Don Cassavaugh",
+          "votes": 1
+        },
+        {
+          "name_original": "Lydia Cassavaugh",
+          "votes": 1
+        },
+        {
+          "name_original": "Sherman L Derby III",
+          "votes": 5
+        },
+        {
+          "name_original": "Sky Goodrich",
+          "votes": 1
+        },
+        {
+          "name_original": "Jim Rodda",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hancock2024",
+  "_source_pdf": "",
+  "ballots_cast": 94,
+  "ballots_cast_source": "derived_from_contests"
+}

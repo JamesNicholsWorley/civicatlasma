@@ -1,0 +1,101 @@
+{
+  "elections": [
+    {
+      "municipality": "Ipswich",
+      "date": "2022-05-17",
+      "office_original": "Moderator 1 yr (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Murphy",
+          "votes": 1464
+        },
+        {
+          "name_original": "Others",
+          "votes": 84,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 647,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2022-05-17",
+      "office_original": "Select Board 3 yr (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tammy Jones",
+          "votes": 1501
+        },
+        {
+          "name_original": "Kerry L. Mackin",
+          "votes": 1519
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1342,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2022-05-17",
+      "office_original": "School Committee 3 yr (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Donahue",
+          "votes": 1465
+        },
+        {
+          "name_original": "Dianna Freehan",
+          "votes": 1447
+        },
+        {
+          "name_original": "Lisa Roth",
+          "votes": 78
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1372,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ipswich2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ipswich2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

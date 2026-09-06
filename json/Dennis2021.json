@@ -1,0 +1,224 @@
+{
+  "elections": [
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Selectman-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 63,
+          "tally_row": true
+        },
+        {
+          "name_original": "Christopher Richard Flanagan",
+          "votes": 509
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Town Clerk-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Theresa T. Bunce",
+          "votes": 538
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "D-Y Regional School Committee - 3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 83,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jennifer M. Rose",
+          "votes": 494
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "D-Y Regional School Committee - 2 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 105,
+          "tally_row": true
+        },
+        {
+          "name_original": "Marilyn Bemis",
+          "votes": 475
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Dennis Housing Authority Commissioner - 5 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        },
+        {
+          "name_original": "Cynthia E. Stead",
+          "votes": 482
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Old Kings Highway Regional Historic District Commissioner-4 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        },
+        {
+          "name_original": "James M. Pazakis Jr.",
+          "votes": 340
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Water District Commissioner-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        },
+        {
+          "name_original": "Peter L. McDowell",
+          "votes": 435
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dennis",
+      "date": "2021-05-11",
+      "office_original": "Water District Moderator-3 Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 81,
+          "tally_row": true
+        },
+        {
+          "name_original": "William Bradford Crowell",
+          "votes": 497
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dennis2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dennis2021.pdf",
+  "ballots_cast": 581,
+  "ballots_cast_source": "derived_from_contests"
+}

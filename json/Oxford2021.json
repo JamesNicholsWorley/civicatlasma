@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Oxford",
+      "date": "2021-05-18",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis E. Lemarche",
+          "votes": 202
+        },
+        {
+          "name_original": "Timothy Shannon Moriarty",
+          "votes": 109
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Oxford",
+      "date": "2021-05-18",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Bowes",
+          "votes": 274
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Oxford",
+      "date": "2021-05-18",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Palmina Elizabeth Griffin",
+          "votes": 232
+        },
+        {
+          "name_original": "Molly Ann Cook",
+          "votes": 70
+        },
+        {
+          "name_original": "Kelly K. Kimball",
+          "votes": 17
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 346,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Oxford",
+      "date": "2021-05-18",
+      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David H. Grenier",
+          "votes": 271
+        },
+        {
+          "name_original": "Molly Ann Cook",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 62,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oxford2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oxford2021.pdf",
+  "ballots_cast": 339,
+  "ballots_cast_source": "derived_from_contests"
+}

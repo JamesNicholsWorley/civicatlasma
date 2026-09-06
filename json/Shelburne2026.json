@@ -1,0 +1,197 @@
+{
+  "document": {
+    "heading_verbatim": "Shelburne elects new moderator",
+    "election_type": "Regular",
+    "election_type_evidence": "Tuesday's town election",
+    "date_verbatim": "May 20, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "There were no other contested races in Tuesday's election, and a five-year seat on the Recreation Committee and a two-year position as Shelburne Free Public Library trustee attracted no ballot candidates."
+  },
+  "elections": [
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Hollings",
+          "votes": 148
+        },
+        {
+          "name_original": "Roland Giguere",
+          "votes": 134
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Selectboard",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rick LaPierre",
+          "votes": 236
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maya Winfrey",
+          "votes": 240
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Town clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joe Judd",
+          "votes": 289
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Shelburne Free Public Library trustee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Theodore Sicker",
+          "votes": 253
+        },
+        {
+          "name_original": "Debra Washer",
+          "votes": 257
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Geoff Stack",
+          "votes": 244
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Tree warden",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Garth LaPointe",
+          "votes": 259
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Mohawk Trail Regional School District School Committee",
+      "district_original": "Shelburne",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Willow Cohen",
+          "votes": 256
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Raymond Boron",
+          "votes": 259
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Shelburne",
+      "date": "2026-05-20",
+      "office_original": "Recreation Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Walter Chadwick",
+          "votes": 35
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Shelburne2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Shelburne2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

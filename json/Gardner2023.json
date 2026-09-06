@@ -1,0 +1,401 @@
+{
+  "elections": [
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly Ann Blake",
+          "votes": 1189
+        },
+        {
+          "name_original": "Michael Joseph Nicholson",
+          "votes": 2459
+        },
+        {
+          "name_original": "Josh Cormier",
+          "votes": 2
+        },
+        {
+          "name_original": "Martin Gray",
+          "votes": 4
+        },
+        {
+          "name_original": "Neil Jansen",
+          "votes": 1
+        },
+        {
+          "name_original": "Dwayne Bouchard",
+          "votes": 1
+        },
+        {
+          "name_original": "Scott Graves",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Hawke",
+          "votes": 1
+        },
+        {
+          "name_original": "April Agnelli",
+          "votes": 1
+        },
+        {
+          "name_original": "Jonathan Teken",
+          "votes": 1
+        },
+        {
+          "name_original": "Anthony Agnelli",
+          "votes": 1
+        },
+        {
+          "name_original": "Gerald St. Hilaire",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carolyn A. Kamuda",
+          "votes": 1696
+        },
+        {
+          "name_original": "George C. Tyros",
+          "votes": 1818
+        },
+        {
+          "name_original": "Ronald F. Cormier",
+          "votes": 1742
+        },
+        {
+          "name_original": "Elizabeth J. Kazinskas",
+          "votes": 2094
+        },
+        {
+          "name_original": "Brad E. Heglin",
+          "votes": 1497
+        },
+        {
+          "name_original": "Judy A. Mack",
+          "votes": 1807
+        },
+        {
+          "name_original": "James M. Hunt",
+          "votes": 1197
+        },
+        {
+          "name_original": "Calvin D. Brooks",
+          "votes": 1683
+        },
+        {
+          "name_original": "Craig R. Cormier",
+          "votes": 1722
+        },
+        {
+          "name_original": "Brian Andrew",
+          "votes": 1
+        },
+        {
+          "name_original": "Glenn Rediker",
+          "votes": 1
+        },
+        {
+          "name_original": "Katherine Margoles",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Chester",
+          "votes": 1
+        },
+        {
+          "name_original": "Scott J. Graves",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7149,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "WARD ONE COUNCILLOR",
+      "district_original": "Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David R. Thibault-Munoz",
+          "votes": 355
+        },
+        {
+          "name_original": "James F. Wallgren",
+          "votes": 333
+        },
+        {
+          "name_original": "Peter Sargent",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "WARD TWO COUNCILLOR",
+      "district_original": "Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dana M. Heath",
+          "votes": 646
+        },
+        {
+          "name_original": "John M. Curran",
+          "votes": 1
+        },
+        {
+          "name_original": "Guy McDonald",
+          "votes": 1
+        },
+        {
+          "name_original": "Val Cormier",
+          "votes": 1
+        },
+        {
+          "name_original": "Kylee Caruso",
+          "votes": 1
+        },
+        {
+          "name_original": "Ed Perry",
+          "votes": 1
+        },
+        {
+          "name_original": "Steve Rockwood",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "WARD THREE COUNCILLOR",
+      "district_original": "Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Michael Palmieri",
+          "votes": 322
+        },
+        {
+          "name_original": "Paul Gerard Tassone",
+          "votes": 373
+        },
+        {
+          "name_original": "Scott Rak",
+          "votes": 1
+        },
+        {
+          "name_original": "Pryore Felse",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "WARD FOUR COUNCILLOR",
+      "district_original": "Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen G. Hardern",
+          "votes": 421
+        },
+        {
+          "name_original": "Mark Monahan",
+          "votes": 2
+        },
+        {
+          "name_original": "Mark Metzger",
+          "votes": 2
+        },
+        {
+          "name_original": "Mark White",
+          "votes": 1
+        },
+        {
+          "name_original": "Tim Horrigan",
+          "votes": 1
+        },
+        {
+          "name_original": "Mike Horrigan",
+          "votes": 1
+        },
+        {
+          "name_original": "Matthew P. Jee",
+          "votes": 1
+        },
+        {
+          "name_original": "Tony Hawk",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 143,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "WARD FIVE COUNCILLOR",
+      "district_original": "Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aleksander H. Dernalowicz",
+          "votes": 577
+        },
+        {
+          "name_original": "Daniel Forte",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Gardner",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John M. LaFreniere",
+          "votes": 1663
+        },
+        {
+          "name_original": "Stephen P. Sandoval",
+          "votes": 933
+        },
+        {
+          "name_original": "Robert J. Swartz",
+          "votes": 1402
+        },
+        {
+          "name_original": "Margaret Bissonnette",
+          "votes": 1330
+        },
+        {
+          "name_original": "Brandon Richard Hughey",
+          "votes": 1155
+        },
+        {
+          "name_original": "Rachel Ann Cormier",
+          "votes": 2025
+        },
+        {
+          "name_original": "Jason Carl",
+          "votes": 1
+        },
+        {
+          "name_original": "Ayesha Coaxum",
+          "votes": 4
+        },
+        {
+          "name_original": "Mark Monahan",
+          "votes": 1
+        },
+        {
+          "name_original": "Joseph R. Lyman II",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Chester",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2689,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Gardner2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gardner2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

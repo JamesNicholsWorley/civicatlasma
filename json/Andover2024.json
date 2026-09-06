@@ -1,0 +1,210 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 3938
+        },
+        {
+          "name_original": "Keith M. Saxon",
+          "votes": 26
+        },
+        {
+          "name_original": "Joel Gary Blumstein",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin T. Coffey",
+          "votes": 2950
+        },
+        {
+          "name_original": "Ellen J. Keller",
+          "votes": 2192
+        },
+        {
+          "name_original": "George K. Thorlin",
+          "votes": 1579
+        },
+        {
+          "name_original": "Ellen Marie Townson",
+          "votes": 2289
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1257,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Kathleen Mccready",
+          "votes": 1840
+        },
+        {
+          "name_original": "Lauren Rossi Diffenbach",
+          "votes": 1997
+        },
+        {
+          "name_original": "Jayashree Mohandas",
+          "votes": 1528
+        },
+        {
+          "name_original": "Shuana H. Murray",
+          "votes": 2420
+        },
+        {
+          "name_original": "Christopher C. Shepley",
+          "votes": 1325
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1157,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michele Ippolito Karlberg",
+          "votes": 3401
+        },
+        {
+          "name_original": "Eric Stubenhaus",
+          "votes": 3293
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3570,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "ANDOVER HOUSING AUTHORITY - 5 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Walsh",
+          "votes": 3620
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1504,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2024-03-26",
+      "office_original": "GREATER LAWRENCE REGIONAL VOCATIONAL TECHNICAL SCHOOL DISTRICT COMMITTEE - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Marie Faris",
+          "votes": 3693
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1432,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2024.pdf",
+  "ballots_cast": 5142,
+  "ballots_cast_source": "derived_from_contests"
+}

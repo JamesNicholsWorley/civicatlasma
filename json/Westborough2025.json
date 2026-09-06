@@ -1,0 +1,233 @@
+{
+  "elections": [
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "SELECT BOARD [vote 2]",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly Collins",
+          "votes": 1306
+        },
+        {
+          "name_original": "Boyd Conklin",
+          "votes": 129
+        },
+        {
+          "name_original": "Mark Silverberg",
+          "votes": 1454
+        },
+        {
+          "name_original": "Patrick Welch",
+          "votes": 1458
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "SCHOOL COMMITTEE [vote 2]",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anjana Chennagiri",
+          "votes": 603
+        },
+        {
+          "name_original": "Boyd Conklin",
+          "votes": 144
+        },
+        {
+          "name_original": "Stephen Doret",
+          "votes": 1330
+        },
+        {
+          "name_original": "Kris Kumsi",
+          "votes": 725
+        },
+        {
+          "name_original": "Jane Owens",
+          "votes": 1553
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "PLANNING BOARD 5-year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Gelcich",
+          "votes": 1954
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 342,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "PLANNING BOARD 1-year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christina Kelleher",
+          "votes": 1954
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "LIBRARY TRUSTEES [vote 3]",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Baldwin",
+          "votes": 1933
+        },
+        {
+          "name_original": "Kathleen Daly",
+          "votes": 1915
+        },
+        {
+          "name_original": "Mary Johnston",
+          "votes": 1933
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1126,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "SOLDIERS MEMORIALS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Gallinah",
+          "votes": 1991
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 315,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Westborough",
+      "date": "2025-03-11",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan Pavolis",
+          "votes": 1967
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 334,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Westborough2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Westborough2025.pdf",
+  "ballots_cast": 2310,
+  "ballots_cast_source": "derived_from_contests"
+}

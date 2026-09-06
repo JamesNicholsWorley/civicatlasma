@@ -1,0 +1,211 @@
+{
+  "elections": [
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel R. Silverman",
+          "votes": 798
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "SELECTBOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan D. Curley",
+          "votes": 544
+        },
+        {
+          "name_original": "Jeanne M. Maclaughlin",
+          "votes": 305
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura Beth Baghetti",
+          "votes": 699
+        },
+        {
+          "name_original": "Martha D. Gordon",
+          "votes": 731
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 395,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Freeman",
+          "votes": 694
+        },
+        {
+          "name_original": "Robin A. Robinson",
+          "votes": 697
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 436,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy L. Vail",
+          "votes": 773
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles E. Annett",
+          "votes": 336
+        },
+        {
+          "name_original": "Richard A. Davis",
+          "votes": 274
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 290,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2023-05-01",
+      "office_original": "Nauset Regional School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher M. Easley",
+          "votes": 707
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": 914,
+  "ballots_cast_source": "derived_from_contests"
+}

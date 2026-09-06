@@ -1,0 +1,146 @@
+{
+  "elections": [
+    {
+      "municipality": "Winchendon",
+      "date": "2023-05-01",
+      "office_original": "BOARD OF SELECTMEN 3 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Melissa S. Blanchard",
+          "votes": 246
+        },
+        {
+          "name_original": "Edward W. Ford, Jr.",
+          "votes": 42
+        },
+        {
+          "name_original": "Sharon LaRochelle",
+          "votes": 92
+        },
+        {
+          "name_original": "Matthew Hawkins",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2023-05-01",
+      "office_original": "SCHOOL COMMITTEE 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Karen E. Kast-McBride",
+          "votes": 175
+        },
+        {
+          "name_original": "Michael Barbaro",
+          "votes": 159
+        },
+        {
+          "name_original": "David A. LaPointe",
+          "votes": 230
+        },
+        {
+          "name_original": "Matthew Hawkins",
+          "votes": 54
+        },
+        {
+          "name_original": "Kevin Hawkins",
+          "votes": 2
+        },
+        {
+          "name_original": "Ryan Forsythe",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 188,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2023-05-01",
+      "office_original": "BOARD OF HEALTH 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Tina M. Santos",
+          "votes": 318
+        },
+        {
+          "name_original": "Keith Kent",
+          "votes": 13
+        },
+        {
+          "name_original": "Ed Bond",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 448,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2023-05-01",
+      "office_original": "HOUSING AUTHORITY 5 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Leston J. Goodrich, Jr.",
+          "votes": 353
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Winchendon2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winchendon2023.pdf",
+  "ballots_cast": 405,
+  "ballots_cast_source": "derived_from_contests"
+}

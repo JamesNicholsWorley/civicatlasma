@@ -1,0 +1,120 @@
+{
+  "elections": [
+    {
+      "municipality": "Longmeadow",
+      "date": "2023-06-13",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Walter T Gunn",
+          "votes": 1387
+        },
+        {
+          "name_original": "Vineeth Shanker",
+          "votes": 330
+        },
+        {
+          "name_original": "Hema Vathi",
+          "votes": 1387
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2023-06-13",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Adam Rosenblum",
+          "votes": 1216
+        },
+        {
+          "name_original": "Kency Gilet",
+          "votes": 1495
+        },
+        {
+          "name_original": "Michael A Fitzgerald",
+          "votes": 328
+        },
+        {
+          "name_original": "Nicole M Choiniere",
+          "votes": 1420
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2023-06-13",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "SANJIV REEJHSINGHANI",
+          "votes": 31
+        },
+        {
+          "name_original": "Robert Bryant Miller",
+          "votes": 418
+        },
+        {
+          "name_original": "Others",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Longmeadow",
+      "date": "2023-06-13",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Nancy A Keeley-Maree",
+          "votes": 1325
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Longmeadow2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Longmeadow2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

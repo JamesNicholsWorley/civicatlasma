@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Massachusetts Civic Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#14110e; --ink-2:#4a443c; --ink-3:#7d766b;
+  --rule:#d5cec2; --rule-2:#ebe5d9; --paper:#faf7f0; --card:#fffdf8;
+  --accent:#8c2f1e;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Source Sans 3",-apple-system,Segoe UI,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+  font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 32px 100px}
+
+.mast{border-bottom:3px double var(--ink);padding:44px 0 16px}
+.mast h1{font-size:clamp(34px,5.4vw,58px);line-height:.98;margin:0;font-weight:700;
+  letter-spacing:-.022em}
+.mast h1 em{font-style:italic;font-weight:300}
+.mast .sub{display:flex;justify-content:space-between;align-items:baseline;
+  margin-top:14px;font-family:var(--sans);font-size:11.5px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-3);gap:24px;flex-wrap:wrap}
+.mast .sub b{color:var(--ink-2);font-weight:600}
+.standfirst{font-size:19.5px;color:var(--ink-2);max-width:68ch;margin:22px 0 0;
+  font-weight:300}
+.standfirst b{font-weight:600;color:var(--ink)}
+
+h2{font-size:13px;font-family:var(--sans);font-weight:600;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-3);margin:52px 0 16px;
+  padding-bottom:8px;border-bottom:1px solid var(--rule)}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(258px,1fr));gap:16px}
+a.card{display:block;background:var(--card);border:1px solid var(--rule);
+  border-radius:4px;padding:20px 22px;text-decoration:none;color:inherit;
+  transition:border-color .13s,transform .13s}
+a.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+a.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+a.card h3{margin:0 0 6px;font-size:20px;font-weight:600;letter-spacing:-.01em}
+a.card p{margin:0;font-size:15px;color:var(--ink-2);line-height:1.45}
+
+table{border-collapse:collapse;width:100%;font-size:15.5px;margin-top:4px}
+th{text-align:left;font-family:var(--sans);font-size:11px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-3);font-weight:600;padding:8px 12px 8px 0;
+  border-bottom:1px solid var(--rule)}
+td{padding:9px 12px 9px 0;border-bottom:1px solid var(--rule-2);vertical-align:top}
+td a{color:var(--accent);font-family:var(--sans);font-weight:600;font-size:14px}
+td.n{font-variant-numeric:tabular-nums;color:var(--ink-3);white-space:nowrap}
+
+p.note{max-width:70ch;color:var(--ink-2);font-size:16px}
+code{font-family:ui-monospace,Consolas,monospace;font-size:.86em;
+  background:var(--rule-2);padding:1.5px 5px;border-radius:3px}
+footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--rule);
+  font-family:var(--sans);font-size:13px;color:var(--ink-3);max-width:72ch}
+</style>
+<style>/* phone breakpoints v2 */
+@media (max-width: 680px) {
+  .wrap { padding-left: 15px; padding-right: 15px; }
+  table { font-size: 13.5px; }
+  th, td { padding-left: 0; padding-right: 8px; }
+  code { word-break: break-all; }
+}
+</style><style>
+@media (max-width: 680px) {
+  .wrap { padding-bottom: 60px; }
+  .mast { padding-top: 26px; }
+  .mast .sub { flex-direction: column; align-items: flex-start; gap: 5px; }
+  .cards { grid-template-columns: 1fr; gap: 11px; }
+  a.card { padding: 15px 17px; }
+  a.card h3 { font-size: 18px; }
+  .standfirst { font-size: 17px; }
+  h2 { margin-top: 34px; }
+  body { font-size: 16px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="mast">
+  <h1>Massachusetts <em>Civic Atlas</em></h1>
+  <div class="sub">
+    <span>Annual municipal election results</span>
+    <span><b>1,892</b> town-years &middot; <b>1,575</b> source documents</span>
+  </div>
+  <p class="standfirst">Massachusetts holds hundreds of municipal elections a year and nobody
+  collects the results. Each clerk publishes them however they like &mdash; a PDF, a scan, a page
+  on the town website, sometimes only a local newspaper &mdash; and a year later the link is often
+  gone. <b>This gathers them in one place and keeps the evidence.</b></p>
+</header>
+
+<h2>Look at the data</h2>
+<div class="cards">
+  <a class="card" href="mvp/">
+    <h3>The map &rarr;</h3>
+    <p>Every town, every year. Click a town for its results, click a name to see the
+    line of the document that figure came from.</p>
+  </a>
+  <a class="card" href="coverage.html">
+    <h3>Coverage &rarr;</h3>
+    <p>What has been found and what is still missing, town by town, with the sources
+    tried for each gap.</p>
+  </a>
+  <a class="card" href="audit.html">
+    <h3>Defect register &rarr;</h3>
+    <p>Records that failed a check, and why. Published openly rather than quietly
+    fixed or hidden.</p>
+  </a>
+</div>
+
+<h2>Download</h2>
+<table>
+  <thead><tr><th>Directory</th><th>What it holds</th><th></th></tr></thead>
+  <tbody>
+    <tr><td class="n">json/</td><td>One record per town-year, the structured results</td><td><a href="json/">browse</a></td></tr>
+    <tr><td class="n">pdfs/</td><td>The source document behind each record</td><td><a href="pdfs/">browse</a></td></tr>
+    <tr><td class="n">markdown/</td><td>Text extracted from those documents</td><td><a href="markdown/">browse</a></td></tr>
+    <tr><td class="n">xlsx/</td><td>Spreadsheet exports</td><td><a href="xlsx/">browse</a></td></tr>
+  </tbody>
+</table>
+<p class="note" style="margin-top:14px">Files are named by <b>stem</b> &mdash; the municipality
+without spaces, then the year: <code>Athol2023.json</code>, <code>Athol2023_d0.pdf</code>. The
+<code>_d0</code> suffix numbers the documents tried for a town-year; a <code>_d1</code> means a
+second, genuinely different document.</p>
+
+<h2>How to read a record</h2>
+<p class="note">Fields ending <code>_original</code> are transcribed from the document exactly as
+printed &mdash; including clerk typos and inconsistent office names. They are never edited, because
+every check works by finding them in the source. Corrections are recorded separately rather than
+overwriting what the document says.</p>
+<p class="note"><code>Blanks</code>, <code>Others</code> and <code>Write-ins</code> are tally rows,
+not people. A <code>votes</code> of <code>null</code> means no count was printed &mdash; the
+<code>status</code> field says whether the office was uncontested or won on write-ins.</p>
+
+<h2>Caveats worth reading</h2>
+<p class="note">This is a work in progress and it is better to say so than to imply otherwise.
+Coverage is incomplete. The quality-assurance system that checks these records against their source
+documents is being rebuilt, and while many records have been verified line by line, others have not.
+Where a figure could not be confirmed against a document, the aim is to record that rather than
+present the whole set as settled.</p>
+<p class="note">Annual municipal elections only. Special elections and preliminaries are collected
+but not published here. State, county and federal races are out of scope even where they appear on
+the same ballot.</p>
+<p class="note">If you find an error, the most useful thing you can send is the town, the year, and
+what the document actually says.</p>
+
+<footer>
+  Compiled from public records published by Massachusetts municipalities. Source documents are
+  included so any figure can be checked against what the town actually printed.
+</footer>
+
+</div>
+</body>
+</html>

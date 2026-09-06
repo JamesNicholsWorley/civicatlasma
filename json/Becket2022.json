@@ -1,0 +1,191 @@
+{
+  "elections": [
+    {
+      "municipality": "Becket",
+      "date": "2022-05-21",
+      "office_original": "For Member, Board of Selectmen (3-year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Swindlehurst",
+          "votes": 61
+        },
+        {
+          "name_original": "William Rodgers",
+          "votes": 5
+        },
+        {
+          "name_original": "Robert Ronzio",
+          "votes": 2
+        },
+        {
+          "name_original": "Gabriel Greenspan",
+          "votes": 1
+        },
+        {
+          "name_original": "Ann Krawet",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2022-05-21",
+      "office_original": "For Member, Board of Health (3-year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gale Labelle",
+          "votes": 71
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2022-05-21",
+      "office_original": "For Cemetery Commissioner (3-year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Cavanaugh",
+          "votes": 10
+        },
+        {
+          "name_original": "Damien Rogers",
+          "votes": 3
+        },
+        {
+          "name_original": "Dean Williams",
+          "votes": 2
+        },
+        {
+          "name_original": "Hollis Giles",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2022-05-21",
+      "office_original": "For Member, Finance Committee (3-year term)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald J. DeFoe",
+          "votes": 65
+        },
+        {
+          "name_original": "Daniel Parnell",
+          "votes": 66
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Becket",
+      "date": "2022-05-21",
+      "office_original": "For Member, Planning Board (5-year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alvin Blake",
+          "votes": 61
+        },
+        {
+          "name_original": "Karen Karlberg",
+          "votes": 1
+        },
+        {
+          "name_original": "Gale Labelle",
+          "votes": 1
+        },
+        {
+          "name_original": "William Rodgers",
+          "votes": 1
+        },
+        {
+          "name_original": "Gabriel Greenspoon",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Becket2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Becket2022.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "town warrant / clerk calendar / town filename / statutory bracket",
+      "value": "2022-05-21",
+      "strength": "corroborated",
+      "quote": "the return prints no date; the town's own filename does -- `annual-town-election-results-may-21-2022`. 21 May 2022 is a Saturday, and Becket votes on a Saturday in every published year (2021-05-15, 2023-05-20, 2024-05-18, 2025-05-17, 2026-05-09).",
+      "citation": "https://www.townofbecket.org/town-clerk/files/annual-town-election-results-may-21-2022",
+      "note": "established 2026-08-24 by src/resolve_searchable_padding_holds.py, after the _searchable padding fix let DATE_NOT_ON_PAGE run"
+    }
+  },
+  "ballots_cast": 79,
+  "ballots_cast_source": "derived_from_contests"
+}

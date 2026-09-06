@@ -1,0 +1,156 @@
+{
+  "elections": [
+    {
+      "municipality": "Fall River",
+      "date": "2021-11-02",
+      "office_original": "City Council",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Pereira",
+          "votes": 5704
+        },
+        {
+          "name_original": "Trott Lee",
+          "votes": 5542
+        },
+        {
+          "name_original": "Shawn Cadime",
+          "votes": 4888
+        },
+        {
+          "name_original": "Bradford Kilby",
+          "votes": 4437
+        },
+        {
+          "name_original": "Leo Pelletier",
+          "votes": 4369
+        },
+        {
+          "name_original": "Pam Laliberte-Lebeau",
+          "votes": 4356
+        },
+        {
+          "name_original": "Andrew Raposo",
+          "votes": 4180
+        },
+        {
+          "name_original": "Joseph Camara",
+          "votes": 3965
+        },
+        {
+          "name_original": "Michelle Dionne",
+          "votes": 3867
+        },
+        {
+          "name_original": "Christopher Peckham",
+          "votes": 3667
+        },
+        {
+          "name_original": "Laura Jean Washington",
+          "votes": 3014
+        },
+        {
+          "name_original": "Ricky Tith",
+          "votes": 2965
+        },
+        {
+          "name_original": "Paulo J. Amaral",
+          "votes": 2782
+        },
+        {
+          "name_original": "Gabriel Amaral",
+          "votes": 2702
+        },
+        {
+          "name_original": "Alexander Silva",
+          "votes": 2573
+        },
+        {
+          "name_original": "Matthew B. Springer",
+          "votes": 2522
+        },
+        {
+          "name_original": "Chrisanne Tyrrell",
+          "votes": 1853
+        },
+        {
+          "name_original": "Angel J. Pantoja Jr.",
+          "votes": 1537
+        },
+        {
+          "name_original": "Others",
+          "votes": 71,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fall River",
+      "date": "2021-11-02",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Aguiar",
+          "votes": 6313
+        },
+        {
+          "name_original": "Paul Hart",
+          "votes": 5354
+        },
+        {
+          "name_original": "Michelle Mimi Larrivee",
+          "votes": 5230
+        },
+        {
+          "name_original": "Shelli A. Pereira",
+          "votes": 4720
+        },
+        {
+          "name_original": "Sara Rodrigues",
+          "votes": 4086
+        },
+        {
+          "name_original": "Bobby Bailey",
+          "votes": 3922
+        },
+        {
+          "name_original": "Melissa Costa Doyle",
+          "votes": 3333
+        },
+        {
+          "name_original": "Collin Dias",
+          "votes": 3323
+        },
+        {
+          "name_original": "Charles M. Chase Jr.",
+          "votes": 2633
+        },
+        {
+          "name_original": "John Kaleski",
+          "votes": 2076
+        },
+        {
+          "name_original": "Others",
+          "votes": 53,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "FallRiver2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

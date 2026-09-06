@@ -1,0 +1,347 @@
+{
+  "elections": [
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Clifton A Braithwaite",
+          "votes": 10299
+        },
+        {
+          "name_original": "Henry Santana",
+          "votes": 34151
+        },
+        {
+          "name_original": "Catherine Vitale",
+          "votes": 8560
+        },
+        {
+          "name_original": "Julia Mejia",
+          "votes": 39817
+        },
+        {
+          "name_original": "Bridget M Nee-Walsh",
+          "votes": 26775
+        },
+        {
+          "name_original": "Shawn Nelson",
+          "votes": 10512
+        },
+        {
+          "name_original": "Ruthzee Louijeune",
+          "votes": 44641
+        },
+        {
+          "name_original": "Erin J Murphy",
+          "votes": 43548
+        },
+        {
+          "name_original": "Juwan Skeens",
+          "votes": 113
+        },
+        {
+          "name_original": "Others",
+          "votes": 1549,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 93971,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 1",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gabriela Gigi Coletta",
+          "votes": 5761
+        },
+        {
+          "name_original": "Others",
+          "votes": 262,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1806,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 2",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward M Flynn",
+          "votes": 7575
+        },
+        {
+          "name_original": "Others",
+          "votes": 169,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1509,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 3",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joel G Richards",
+          "votes": 3659
+        },
+        {
+          "name_original": "John M Fitzgerald",
+          "votes": 5151
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 334,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 4",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian J Worrell",
+          "votes": 4665
+        },
+        {
+          "name_original": "Others",
+          "votes": 119,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1132,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 5",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Enrique Pepen",
+          "votes": 5786
+        },
+        {
+          "name_original": "Jose A Ruiz",
+          "votes": 5149
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 637,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 6",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William A King",
+          "votes": 6099
+        },
+        {
+          "name_original": "Benjamin Jacob Weber",
+          "votes": 9584
+        },
+        {
+          "name_original": "Others",
+          "votes": 88,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 474,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 7",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Althea Garrison",
+          "votes": 1506
+        },
+        {
+          "name_original": "Tania Fernandes Anderson",
+          "votes": 3716
+        },
+        {
+          "name_original": "Roy A Owens Sr",
+          "votes": 25
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 400,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 8",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Montez D Haywood",
+          "votes": 1554
+        },
+        {
+          "name_original": "Sharon E Durkan",
+          "votes": 3836
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 369,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boston",
+      "date": "2023-11-07",
+      "office_original": "City Councillor - District 9",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Liz A Breadon",
+          "votes": 4419
+        },
+        {
+          "name_original": "Jacob Deblecourt",
+          "votes": 2228
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boston2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boston2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

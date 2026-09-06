@@ -1,0 +1,231 @@
+{
+  "document": {
+    "heading_verbatim": "April 8th Annual Town Election Official Results",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "April 8th",
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false,
+    "date_correction": {
+      "value": "2025-04-08",
+      "why": "the document prints the day and month but no year; the year is the slot, and April 8 2025 was a Tuesday",
+      "quote": "April 8th Annual Town Election Official Results"
+    }
+  },
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard P. Dalton",
+          "votes": 1089
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 465,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard J. O'Neil, Jr.",
+          "votes": 1157
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 934,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karin M. Round",
+          "votes": 1022
+        },
+        {
+          "name_original": "Stephanie Lynne Slate",
+          "votes": 1039
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Nunziato",
+          "votes": 1118
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 508,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward P. Champy III",
+          "votes": 1118
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1014,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly Baker-Donahue",
+          "votes": 1049
+        },
+        {
+          "name_original": "Kristen Grieco Elworthy",
+          "votes": 685
+        },
+        {
+          "name_original": "Jennifer Sheehan",
+          "votes": 655
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 846,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-04-08",
+      "office_original": "TOWN MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven M. Walsh",
+          "votes": 1194
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 434,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lynnfield2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lynnfield2025.pdf",
+  "ballots_cast": 1634,
+  "ballots_cast_source": "derived_from_contests"
+}

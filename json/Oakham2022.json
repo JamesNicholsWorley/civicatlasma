@@ -1,0 +1,209 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION MAY 16, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION MAY 16, 2022",
+    "date_verbatim": "MAY 16, 2022",
+    "offices_on_ballot": 7,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Selectmen, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lucy I Tessnau",
+          "votes": 65
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Assessor, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane M Perterson",
+          "votes": 64
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Board of Health, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diana C Vanoudenhove",
+          "votes": 64
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Cemetery Commission, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lucy I Tessnau",
+          "votes": 67
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Library Trustee, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Lisa D Huntington",
+          "votes": 25
+        },
+        {
+          "name_original": "Cheryl Benoit",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Benoit",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Constable, 3 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Denise R Collette",
+          "votes": 62
+        },
+        {
+          "name_original": "Tammy J Gehring",
+          "votes": 65
+        },
+        {
+          "name_original": "Edna Holloway",
+          "votes": 63
+        },
+        {
+          "name_original": "Sherry Bergin",
+          "votes": 8
+        },
+        {
+          "name_original": "Ward Holloway",
+          "votes": 9
+        },
+        {
+          "name_original": "Lucy Tessnau",
+          "votes": 1
+        },
+        {
+          "name_original": "Cheryl Benoit",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Benoit",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Oakham",
+      "date": "2022-05-16",
+      "office_original": "Planning Board, 5 Years",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy L Monson",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oakham2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oakham2022.pdf",
+  "ballots_cast": 69,
+  "ballots_cast_source": "derived_from_contests"
+}

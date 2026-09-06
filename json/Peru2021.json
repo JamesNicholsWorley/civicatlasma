@@ -1,0 +1,246 @@
+{
+  "elections": [
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward Munch, Jr.",
+          "votes": 67
+        },
+        {
+          "name_original": "Douglas Haskins",
+          "votes": 85
+        },
+        {
+          "name_original": "Collen Larochelle",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kimberly Wetherell",
+          "votes": 24
+        },
+        {
+          "name_original": "George Greuele",
+          "votes": 2
+        },
+        {
+          "name_original": "Dale Weeks",
+          "votes": 9
+        },
+        {
+          "name_original": "Vern Leach",
+          "votes": 1
+        },
+        {
+          "name_original": "Doug Haskins",
+          "votes": 5
+        },
+        {
+          "name_original": "Ed Munch",
+          "votes": 1
+        },
+        {
+          "name_original": "Bill Tatro",
+          "votes": 1
+        },
+        {
+          "name_original": "Darryl Darby",
+          "votes": 1
+        },
+        {
+          "name_original": "Sam Haupt",
+          "votes": 1
+        },
+        {
+          "name_original": "Pete Yetman",
+          "votes": 1
+        },
+        {
+          "name_original": "John Munch",
+          "votes": 1
+        },
+        {
+          "name_original": "Kevin Warner",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy White",
+          "votes": 135
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "FINANCE COMMITTEE, 1-YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kim Leach",
+          "votes": 125
+        },
+        {
+          "name_original": "Dale Weeks",
+          "votes": 12
+        },
+        {
+          "name_original": "Jim Kenney",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "TOWN CLERK",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kim Leach",
+          "votes": 141
+        },
+        {
+          "name_original": "Kim Wetherell",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "FINANCE COMMITTEE, 3-YEAR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel Haupt",
+          "votes": 132
+        },
+        {
+          "name_original": "Dale Weeks",
+          "votes": 2
+        },
+        {
+          "name_original": "Anna Drake",
+          "votes": 1
+        },
+        {
+          "name_original": "Jim Kenney",
+          "votes": 1
+        },
+        {
+          "name_original": "Doug Haskins",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peru",
+      "date": "2021-06-12",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy White",
+          "votes": 134
+        },
+        {
+          "name_original": "Coralie Pelkey",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Peru2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Peru2021.pdf",
+  "ballots_cast": 158,
+  "ballots_cast_source": "derived_from_contests"
+}

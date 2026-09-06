@@ -1,0 +1,143 @@
+{
+  "elections": [
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark J. Campos",
+          "votes": 754
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Select board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roy Cutrer Jr.",
+          "votes": 647
+        },
+        {
+          "name_original": "James J. Rogers",
+          "votes": 347
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Water commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roland M. Miller",
+          "votes": 725
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Planning board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elaine T. Miller",
+          "votes": 736
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Library trustee",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George J. Balco",
+          "votes": 663
+        },
+        {
+          "name_original": "Pamela S. Street",
+          "votes": 703
+        },
+        {
+          "name_original": "Janet K. Hefler",
+          "votes": 684
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Finance and advisory committee, 3 years",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy B. Gilfoy",
+          "votes": 696
+        },
+        {
+          "name_original": "Allen Vincent Rogers",
+          "votes": 600
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Tisbury",
+      "date": "2021-06-22",
+      "office_original": "Finance and advisory committee, 1 year",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachel F. Orr",
+          "votes": 680
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Tisbury2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

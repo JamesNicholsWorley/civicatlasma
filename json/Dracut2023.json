@@ -1,0 +1,108 @@
+{
+  "elections": [
+    {
+      "municipality": "Dracut",
+      "date": "2023-05-06",
+      "office_original": "SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alison Grace Genest",
+          "votes": 459
+        },
+        {
+          "name_original": "Heather J. Santiago Hutchings",
+          "votes": 458
+        },
+        {
+          "name_original": "Josh Taylor",
+          "votes": 15
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 274,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2023-05-06",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Renee Michelle Young",
+          "votes": 496
+        },
+        {
+          "name_original": "Sarah Powling",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2023-05-06",
+      "office_original": "DRACUT HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George M. Nangle",
+          "votes": 515
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Dracut",
+      "date": "2023-05-06",
+      "office_original": "TRUSTEE OF THE PUBLIC LIBRARY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Trouville",
+          "votes": 545
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 58,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Dracut2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dracut2023.pdf",
+  "ballots_cast": 603,
+  "ballots_cast_source": "derived_from_contests"
+}

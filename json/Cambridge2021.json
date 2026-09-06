@@ -1,0 +1,1128 @@
+{
+  "elections": [
+    {
+      "municipality": "Cambridge",
+      "date": "2021-11-02",
+      "office_original": "City Council - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Siddiqui, Sumbul",
+          "votes": 4124,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Nolan, Patricia M.",
+          "votes": 1971,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Simmons, E. Denise",
+          "votes": 1764,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Toner, Paul F.",
+          "votes": 1703,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "McGovern, Marc C.",
+          "votes": 1539,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Carlone, Dennis J.",
+          "votes": 1493,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Azeem, Burhan",
+          "votes": 1379,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Zondervan, Quinton Y.",
+          "votes": 1295,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Mallon, Alanna M.",
+          "votes": 1220,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Sobrinho-Wheeler, Jivan",
+          "votes": 1225,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Williams, Nicola A.",
+          "votes": 1159,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 11
+        },
+        {
+          "name_original": "Skeadas, Theodora Theo",
+          "votes": 813,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 10
+        },
+        {
+          "name_original": "McGuirk, Joe",
+          "votes": 611,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Bullister, Dana",
+          "votes": 520,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Hicks, Tonia D.",
+          "votes": 363,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Pierre, Frantz",
+          "votes": 355,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Levy, Ilan",
+          "votes": 97,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Moree, Gregg J.",
+          "votes": 80,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 4
+        },
+        {
+          "name_original": "Eckstut, Robert",
+          "votes": 70,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-In 1",
+          "votes": 32,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 9",
+          "votes": 1,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 2",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 3",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 4",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 6",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 7",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-In 8",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 2182,
+        "valid_ballots": 21814,
+        "seats": 9,
+        "report": "https://www.cambridgema.gov/election2021/ccouncil-official/21CouncilFinal%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Siddiqui, Sumbul": 4124,
+              "Nolan, Patricia M.": 1971,
+              "Simmons, E. Denise": 1764,
+              "Toner, Paul F.": 1703,
+              "McGovern, Marc C.": 1539,
+              "Carlone, Dennis J.": 1493,
+              "Azeem, Burhan": 1379,
+              "Zondervan, Quinton Y.": 1295,
+              "Sobrinho-Wheeler, Jivan": 1225,
+              "Mallon, Alanna M.": 1220,
+              "Williams, Nicola A.": 1159,
+              "Skeadas, Theodora Theo": 813,
+              "McGuirk, Joe": 611,
+              "Bullister, Dana": 520,
+              "Hicks, Tonia D.": 363,
+              "Pierre, Frantz": 355,
+              "Levy, Ilan": 97,
+              "Moree, Gregg J.": 80,
+              "Eckstut, Robert": 70,
+              "Write-In 1": 32,
+              "Write-In 9": 1,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [
+              "Siddiqui, Sumbul"
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Nolan, Patricia M.": 2143,
+              "Simmons, E. Denise": 2088,
+              "McGovern, Marc C.": 1768,
+              "Toner, Paul F.": 1756,
+              "Azeem, Burhan": 1566,
+              "Mallon, Alanna M.": 1552,
+              "Carlone, Dennis J.": 1544,
+              "Zondervan, Quinton Y.": 1431,
+              "Sobrinho-Wheeler, Jivan": 1363,
+              "Williams, Nicola A.": 1244,
+              "Skeadas, Theodora Theo": 911,
+              "McGuirk, Joe": 641,
+              "Bullister, Dana": 545,
+              "Hicks, Tonia D.": 409,
+              "Pierre, Frantz": 382,
+              "Levy, Ilan": 99,
+              "Moree, Gregg J.": 83,
+              "Eckstut, Robert": 74,
+              "Write-In 1": 32,
+              "Write-In 9": 1,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Write-In 1",
+              "Write-In 9",
+              "Write-In 2",
+              "Write-In 3",
+              "Write-In 4",
+              "Write-In 5",
+              "Write-In 6",
+              "Write-In 7",
+              "Write-In 8"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Nolan, Patricia M.": 2145,
+              "Simmons, E. Denise": 2089,
+              "McGovern, Marc C.": 1773,
+              "Toner, Paul F.": 1756,
+              "Azeem, Burhan": 1567,
+              "Mallon, Alanna M.": 1552,
+              "Carlone, Dennis J.": 1544,
+              "Zondervan, Quinton Y.": 1432,
+              "Sobrinho-Wheeler, Jivan": 1365,
+              "Williams, Nicola A.": 1244,
+              "Skeadas, Theodora Theo": 915,
+              "McGuirk, Joe": 641,
+              "Bullister, Dana": 548,
+              "Hicks, Tonia D.": 410,
+              "Pierre, Frantz": 382,
+              "Levy, Ilan": 99,
+              "Moree, Gregg J.": 83,
+              "Eckstut, Robert": 74,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Eckstut, Robert"
+            ],
+            "exhausted": 13
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Nolan, Patricia M.": 2151,
+              "Simmons, E. Denise": 2091,
+              "McGovern, Marc C.": 1776,
+              "Toner, Paul F.": 1759,
+              "Azeem, Burhan": 1569,
+              "Mallon, Alanna M.": 1556,
+              "Carlone, Dennis J.": 1550,
+              "Zondervan, Quinton Y.": 1436,
+              "Sobrinho-Wheeler, Jivan": 1372,
+              "Williams, Nicola A.": 1245,
+              "Skeadas, Theodora Theo": 915,
+              "McGuirk, Joe": 645,
+              "Bullister, Dana": 558,
+              "Hicks, Tonia D.": 419,
+              "Pierre, Frantz": 382,
+              "Levy, Ilan": 101,
+              "Moree, Gregg J.": 84,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Moree, Gregg J."
+            ],
+            "exhausted": 23
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Nolan, Patricia M.": 2159,
+              "Simmons, E. Denise": 2095,
+              "McGovern, Marc C.": 1785,
+              "Toner, Paul F.": 1771,
+              "Azeem, Burhan": 1570,
+              "Mallon, Alanna M.": 1562,
+              "Carlone, Dennis J.": 1554,
+              "Zondervan, Quinton Y.": 1436,
+              "Sobrinho-Wheeler, Jivan": 1373,
+              "Williams, Nicola A.": 1249,
+              "Skeadas, Theodora Theo": 917,
+              "McGuirk, Joe": 659,
+              "Bullister, Dana": 561,
+              "Hicks, Tonia D.": 420,
+              "Pierre, Frantz": 384,
+              "Levy, Ilan": 103,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Levy, Ilan"
+            ],
+            "exhausted": 34
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Nolan, Patricia M.": 2167,
+              "Simmons, E. Denise": 2103,
+              "McGovern, Marc C.": 1790,
+              "Toner, Paul F.": 1776,
+              "Azeem, Burhan": 1574,
+              "Mallon, Alanna M.": 1567,
+              "Carlone, Dennis J.": 1560,
+              "Zondervan, Quinton Y.": 1443,
+              "Sobrinho-Wheeler, Jivan": 1377,
+              "Williams, Nicola A.": 1258,
+              "Skeadas, Theodora Theo": 921,
+              "McGuirk, Joe": 665,
+              "Bullister, Dana": 574,
+              "Hicks, Tonia D.": 425,
+              "Pierre, Frantz": 384,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Pierre, Frantz"
+            ],
+            "exhausted": 48
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2178,
+              "McGovern, Marc C.": 1834,
+              "Toner, Paul F.": 1792,
+              "Mallon, Alanna M.": 1598,
+              "Azeem, Burhan": 1589,
+              "Carlone, Dennis J.": 1569,
+              "Zondervan, Quinton Y.": 1457,
+              "Sobrinho-Wheeler, Jivan": 1380,
+              "Williams, Nicola A.": 1299,
+              "Skeadas, Theodora Theo": 928,
+              "McGuirk, Joe": 682,
+              "Bullister, Dana": 582,
+              "Hicks, Tonia D.": 449,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [
+              "Simmons, E. Denise"
+            ],
+            "eliminated": [
+              "Hicks, Tonia D."
+            ],
+            "exhausted": 113
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "McGovern, Marc C.": 1855,
+              "Toner, Paul F.": 1801,
+              "Azeem, Burhan": 1643,
+              "Mallon, Alanna M.": 1641,
+              "Carlone, Dennis J.": 1580,
+              "Zondervan, Quinton Y.": 1502,
+              "Sobrinho-Wheeler, Jivan": 1429,
+              "Williams, Nicola A.": 1394,
+              "Skeadas, Theodora Theo": 977,
+              "McGuirk, Joe": 696,
+              "Bullister, Dana": 599,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [
+              "Nolan, Patricia M."
+            ],
+            "eliminated": [
+              "Bullister, Dana"
+            ],
+            "exhausted": 151
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "McGovern, Marc C.": 1887,
+              "Toner, Paul F.": 1813,
+              "Azeem, Burhan": 1743,
+              "Mallon, Alanna M.": 1713,
+              "Carlone, Dennis J.": 1663,
+              "Zondervan, Quinton Y.": 1549,
+              "Sobrinho-Wheeler, Jivan": 1475,
+              "Williams, Nicola A.": 1462,
+              "Skeadas, Theodora Theo": 1046,
+              "McGuirk, Joe": 727,
+              "Bullister, Dana": 0,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "McGuirk, Joe"
+            ],
+            "exhausted": 190
+          },
+          {
+            "round": 10,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "McGovern, Marc C.": 1973,
+              "Toner, Paul F.": 1952,
+              "Azeem, Burhan": 1810,
+              "Mallon, Alanna M.": 1805,
+              "Carlone, Dennis J.": 1702,
+              "Zondervan, Quinton Y.": 1592,
+              "Sobrinho-Wheeler, Jivan": 1534,
+              "Williams, Nicola A.": 1497,
+              "Skeadas, Theodora Theo": 1104,
+              "McGuirk, Joe": 0,
+              "Bullister, Dana": 0,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Skeadas, Theodora Theo"
+            ],
+            "exhausted": 299
+          },
+          {
+            "round": 11,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "McGovern, Marc C.": 2055,
+              "Toner, Paul F.": 2012,
+              "Azeem, Burhan": 1955,
+              "Mallon, Alanna M.": 1914,
+              "Zondervan, Quinton Y.": 1777,
+              "Carlone, Dennis J.": 1762,
+              "Sobrinho-Wheeler, Jivan": 1721,
+              "Williams, Nicola A.": 1690,
+              "Skeadas, Theodora Theo": 0,
+              "McGuirk, Joe": 0,
+              "Bullister, Dana": 0,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Williams, Nicola A."
+            ],
+            "exhausted": 382
+          },
+          {
+            "round": 12,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "Carlone, Dennis J.": 2182,
+              "McGovern, Marc C.": 2182,
+              "Zondervan, Quinton Y.": 2112,
+              "Azeem, Burhan": 2108,
+              "Toner, Paul F.": 2096,
+              "Mallon, Alanna M.": 2083,
+              "Sobrinho-Wheeler, Jivan": 1898,
+              "Williams, Nicola A.": 0,
+              "Skeadas, Theodora Theo": 0,
+              "McGuirk, Joe": 0,
+              "Bullister, Dana": 0,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [
+              "Carlone, Dennis J.",
+              "McGovern, Marc C."
+            ],
+            "eliminated": [
+              "Sobrinho-Wheeler, Jivan"
+            ],
+            "exhausted": 607
+          },
+          {
+            "round": 13,
+            "tally": {
+              "Siddiqui, Sumbul": 2182,
+              "Simmons, E. Denise": 2182,
+              "Nolan, Patricia M.": 2182,
+              "Carlone, Dennis J.": 2182,
+              "McGovern, Marc C.": 2182,
+              "Azeem, Burhan": 2182,
+              "Zondervan, Quinton Y.": 2182,
+              "Mallon, Alanna M.": 2182,
+              "Toner, Paul F.": 2182,
+              "Sobrinho-Wheeler, Jivan": 0,
+              "Williams, Nicola A.": 0,
+              "Skeadas, Theodora Theo": 0,
+              "McGuirk, Joe": 0,
+              "Bullister, Dana": 0,
+              "Hicks, Tonia D.": 0,
+              "Pierre, Frantz": 0,
+              "Levy, Ilan": 0,
+              "Moree, Gregg J.": 0,
+              "Eckstut, Robert": 0,
+              "Write-In 1": 0,
+              "Write-In 9": 0,
+              "Write-In 2": 0,
+              "Write-In 3": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0,
+              "Write-In 6": 0,
+              "Write-In 7": 0,
+              "Write-In 8": 0
+            },
+            "elected": [
+              "Azeem, Burhan",
+              "Zondervan, Quinton Y.",
+              "Mallon, Alanna M.",
+              "Toner, Paul F."
+            ],
+            "eliminated": [],
+            "exhausted": 2176
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cambridge",
+      "date": "2021-11-02",
+      "office_original": "School Committee - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Wilson, Ayesha",
+          "votes": 4184,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Fantini, Alfred B.",
+          "votes": 3070,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Bhambi, Akriti",
+          "votes": 3017,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Weinstein, Rachel B.",
+          "votes": 2950,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Weinstein, David J.",
+          "votes": 1617,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Villarreal, José Luis Rojas",
+          "votes": 1569,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Hunter, Caroline M.",
+          "votes": 1456,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Lim, Christopher",
+          "votes": 1093,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Johnson, Daria A.",
+          "votes": 1026,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Write-In 1",
+          "votes": 32,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Write-In 6",
+          "votes": 2,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Write-In 3",
+          "votes": 1,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Write-In 2",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Write-In 4",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Write-In 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 2860,
+        "valid_ballots": 20017,
+        "seats": 6,
+        "report": "https://www.cambridgema.gov/election2021/schoolcommittee-official/21SchoolFinal%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Wilson, Ayesha": 4184,
+              "Fantini, Alfred B.": 3070,
+              "Bhambi, Akriti": 3017,
+              "Weinstein, Rachel B.": 2950,
+              "Weinstein, David J.": 1617,
+              "Villarreal, José Luis Rojas": 1569,
+              "Hunter, Caroline M.": 1456,
+              "Lim, Christopher": 1093,
+              "Johnson, Daria A.": 1026,
+              "Write-In 1": 32,
+              "Write-In 6": 2,
+              "Write-In 3": 1,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [
+              "Wilson, Ayesha",
+              "Fantini, Alfred B.",
+              "Bhambi, Akriti",
+              "Weinstein, Rachel B."
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 3070,
+              "Bhambi, Akriti": 3017,
+              "Weinstein, Rachel B.": 2950,
+              "Villarreal, José Luis Rojas": 1942,
+              "Weinstein, David J.": 1927,
+              "Hunter, Caroline M.": 1676,
+              "Johnson, Daria A.": 1359,
+              "Lim, Christopher": 1181,
+              "Write-In 1": 32,
+              "Write-In 6": 2,
+              "Write-In 3": 1,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 3017,
+              "Weinstein, Rachel B.": 2950,
+              "Villarreal, José Luis Rojas": 2010,
+              "Weinstein, David J.": 1979,
+              "Hunter, Caroline M.": 1725,
+              "Johnson, Daria A.": 1370,
+              "Lim, Christopher": 1211,
+              "Write-In 1": 32,
+              "Write-In 6": 2,
+              "Write-In 3": 1,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2950,
+              "Villarreal, José Luis Rojas": 2051,
+              "Weinstein, David J.": 2019,
+              "Hunter, Caroline M.": 1760,
+              "Johnson, Daria A.": 1395,
+              "Lim, Christopher": 1227,
+              "Write-In 1": 32,
+              "Write-In 6": 2,
+              "Write-In 3": 1,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2860,
+              "Villarreal, José Luis Rojas": 2070,
+              "Weinstein, David J.": 2053,
+              "Hunter, Caroline M.": 1775,
+              "Johnson, Daria A.": 1406,
+              "Lim, Christopher": 1238,
+              "Write-In 1": 32,
+              "Write-In 6": 2,
+              "Write-In 3": 1,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Write-In 1",
+              "Write-In 6",
+              "Write-In 3",
+              "Write-In 2",
+              "Write-In 4",
+              "Write-In 5"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2860,
+              "Villarreal, José Luis Rojas": 2070,
+              "Weinstein, David J.": 2054,
+              "Hunter, Caroline M.": 1776,
+              "Johnson, Daria A.": 1407,
+              "Lim, Christopher": 1241,
+              "Write-In 1": 0,
+              "Write-In 6": 0,
+              "Write-In 3": 0,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Lim, Christopher"
+            ],
+            "exhausted": 29
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2860,
+              "Villarreal, José Luis Rojas": 2444,
+              "Weinstein, David J.": 2273,
+              "Hunter, Caroline M.": 1975,
+              "Johnson, Daria A.": 1532,
+              "Lim, Christopher": 0,
+              "Write-In 1": 0,
+              "Write-In 6": 0,
+              "Write-In 3": 0,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Johnson, Daria A."
+            ],
+            "exhausted": 353
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2860,
+              "Villarreal, José Luis Rojas": 2827,
+              "Weinstein, David J.": 2634,
+              "Hunter, Caroline M.": 2412,
+              "Johnson, Daria A.": 0,
+              "Lim, Christopher": 0,
+              "Write-In 1": 0,
+              "Write-In 6": 0,
+              "Write-In 3": 0,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Hunter, Caroline M."
+            ],
+            "exhausted": 704
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Wilson, Ayesha": 2860,
+              "Fantini, Alfred B.": 2860,
+              "Bhambi, Akriti": 2860,
+              "Weinstein, Rachel B.": 2860,
+              "Villarreal, José Luis Rojas": 2860,
+              "Weinstein, David J.": 2860,
+              "Hunter, Caroline M.": 0,
+              "Johnson, Daria A.": 0,
+              "Lim, Christopher": 0,
+              "Write-In 1": 0,
+              "Write-In 6": 0,
+              "Write-In 3": 0,
+              "Write-In 2": 0,
+              "Write-In 4": 0,
+              "Write-In 5": 0
+            },
+            "elected": [
+              "Villarreal, José Luis Rojas",
+              "Weinstein, David J."
+            ],
+            "eliminated": [],
+            "exhausted": 2857
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cambridge",
+      "date": "2022-12-01",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Hunter, Caroline M.",
+          "votes": 667
+        },
+        {
+          "name_original": "Johnson, Daria A.",
+          "votes": 499
+        },
+        {
+          "name_original": "Lim, Christopher",
+          "votes": 444
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Cambridge2021",
+  "_source_url": "https://www.cambridgema.gov/election2021/ccouncil-official/21CouncilFinal%20Round.htm",
+  "_count_method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+  "_votes_basis": "first-preference count; winners carry elected=true",
+  "_preserved": "A School Committee race dated 2022-12-01 -- a vacancy special filed under the wrong town-year -- is carried unchanged. Its disposition is open.",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

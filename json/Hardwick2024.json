@@ -1,0 +1,212 @@
+{
+  "elections": [
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "SELECTMAN - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William F. Tinker",
+          "votes": 121
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "BOARD OF ASSESSORS - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn W. Hosley",
+          "votes": 117
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "K-12 QUABBIN REG. SCHOOL CMTE. - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Van Arsdell",
+          "votes": 2
+        },
+        {
+          "name_original": "Colin Brown",
+          "votes": 1
+        },
+        {
+          "name_original": "Frank Hanson",
+          "votes": 1
+        },
+        {
+          "name_original": "Rodney Witkos",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "BOARD OF HEALTH MEMBER - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John S. Mott",
+          "votes": 124
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "PAIGE MEMORIAL LIBRARY TRUSTEE - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher M. Buelow",
+          "votes": 112
+        },
+        {
+          "name_original": "Jennifer E. Garvey",
+          "votes": 104
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "PAIGE MEMORIAL LIBRARY TRUSTEE - 1 YEAR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey A. Hill",
+          "votes": 113
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "PAIGE AGRICULTURAL FUND TRUSTEE - 5 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Halley E. Terry Stillman",
+          "votes": 120
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hardwick",
+      "date": "2024-05-04",
+      "office_original": "PLANNING BOARD MEMBER - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William R. Cole",
+          "votes": 119
+        },
+        {
+          "name_original": "Erik L. Fleming",
+          "votes": 101
+        },
+        {
+          "name_original": "Nelson Malin",
+          "votes": 1
+        },
+        {
+          "name_original": "Lucas Wright",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hardwick2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hardwick2024.pdf",
+  "ballots_cast": 128,
+  "ballots_cast_source": "derived_from_contests"
+}

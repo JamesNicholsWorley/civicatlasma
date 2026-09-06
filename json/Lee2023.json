@@ -1,0 +1,166 @@
+{
+  "document": {
+    "heading_verbatim": "Proceedings of the Town Elections",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election -May 15, 2023",
+    "date_verbatim": "May 15, 2023",
+    "offices_on_ballot": 5,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Lee",
+      "date": "2023-05-15",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Carlino",
+          "votes": 640
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 90,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2023-05-15",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean James Regnier",
+          "votes": 438
+        },
+        {
+          "name_original": "Anne M. Langlais",
+          "votes": 306
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2023-05-15",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "J. Buck Donovan",
+          "votes": 620
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 119,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2023-05-15",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 122,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 626,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lee",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Aaron R. Aubin",
+          "votes": 482
+        },
+        {
+          "name_original": "Nicole Lynn Kosiorek",
+          "votes": 527
+        },
+        {
+          "name_original": "Heidi M. Cooper",
+          "votes": 548
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 666,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lee2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lee2023.pdf",
+  "ballots_cast": 748,
+  "ballots_cast_source": "derived_from_contests"
+}

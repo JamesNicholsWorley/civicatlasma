@@ -1,0 +1,305 @@
+{
+  "elections": [
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "TOWN COUNCIL PRESIDENT AND MEMBER OF THE SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "MARK SIDERIS",
+          "votes": 4516
+        },
+        {
+          "name_original": "Others",
+          "votes": 143,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1510,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "COUNCIL - AT - LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "JOHN AIRASIAN",
+          "votes": 3177
+        },
+        {
+          "name_original": "CAROLINE J. BAYS",
+          "votes": 3176
+        },
+        {
+          "name_original": "ANTHONY PALOMBA",
+          "votes": 3251
+        },
+        {
+          "name_original": "DANIEL D'AMICO",
+          "votes": 2662
+        },
+        {
+          "name_original": "JAMES L. MELLO",
+          "votes": 1662
+        },
+        {
+          "name_original": "MEGAN S. O'HALLORAN",
+          "votes": 2349
+        },
+        {
+          "name_original": "JOHN G. GANNON",
+          "votes": 2916
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5463,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "DISTRICT A COUNCILLOR",
+      "district_original": "DISTRICT A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "NICOLE N. GARDNER",
+          "votes": 1109
+        },
+        {
+          "name_original": "MICHAEL J. HANLON, JR.",
+          "votes": 373
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "DISTRICT B COUNCILLOR",
+      "district_original": "DISTRICT B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "LISA J. FELTNER",
+          "votes": 924
+        },
+        {
+          "name_original": "TIFFANY YORK",
+          "votes": 439
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "DISTRICT C COUNCILLOR",
+      "district_original": "DISTRICT C",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "VINCENT J. PICCIRILLI, JR.",
+          "votes": 1091
+        },
+        {
+          "name_original": "Others",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 387,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "DISTRICT D COUNCILLOR",
+      "district_original": "DISTRICT D",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "CONSTANCE S. HENRY",
+          "votes": 454
+        },
+        {
+          "name_original": "EMILY C. IZZO",
+          "votes": 1095
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "LILY RAYMAN-READ",
+          "votes": 2825
+        },
+        {
+          "name_original": "RACHEL E. KAY",
+          "votes": 2127
+        },
+        {
+          "name_original": "COLLEEN MAHONEY FAHERTY",
+          "votes": 1705
+        },
+        {
+          "name_original": "JENNIFER A. NICHOLSON",
+          "votes": 2183
+        },
+        {
+          "name_original": "AMY B. DONOHUE",
+          "votes": 2924
+        },
+        {
+          "name_original": "JESSICA D. MIDDLEBROOK",
+          "votes": 2572
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4149,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Watertown",
+      "date": "2021-11-02",
+      "office_original": "LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "SARA A. KEARY",
+          "votes": 2764
+        },
+        {
+          "name_original": "ROSE MARY SU",
+          "votes": 2757
+        },
+        {
+          "name_original": "LEANNE HAMMONDS",
+          "votes": 3525
+        },
+        {
+          "name_original": "MAJA L. YOUNG",
+          "votes": 2406
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6866,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Watertown2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Watertown2021.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-11-02",
+      "detail": "https://www.watertown-ma.gov/election-results",
+      "quote": "Results of General Town Election November 2, 2021 (PDF) (PDF, 123.69 KB)",
+      "note": "the town's own election page names the date in the link text for this document"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

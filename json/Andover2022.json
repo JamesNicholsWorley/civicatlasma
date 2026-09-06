@@ -1,0 +1,167 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover",
+      "date": "2022-03-22",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 1532
+        },
+        {
+          "name_original": "Keith Saxon",
+          "votes": 1015
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 111,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2022-03-22",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alex Vispoli",
+          "votes": 1574
+        },
+        {
+          "name_original": "Melissa Danisch",
+          "votes": 1711
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1995,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2022-03-22",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erin Cash",
+          "votes": 1074
+        },
+        {
+          "name_original": "Emily Ep Dicesaro",
+          "votes": 1302
+        },
+        {
+          "name_original": "Jo A. Thorlin",
+          "votes": 673
+        },
+        {
+          "name_original": "Shishan Wang",
+          "votes": 536
+        },
+        {
+          "name_original": "Sandis H. Wright",
+          "votes": 1274
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 467,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2022-03-22",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn D. Gillette",
+          "votes": 1845
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 811,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2022-03-22",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Chip Gregory",
+          "votes": 1861
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 795,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2022.pdf",
+  "ballots_cast": 2665,
+  "ballots_cast_source": "derived_from_contests"
+}

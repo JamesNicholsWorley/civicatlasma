@@ -1,0 +1,460 @@
+{
+  "elections": [
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "SELECT BOARD FOR 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nathan P. Demers",
+          "votes": 593
+        },
+        {
+          "name_original": "Mark A. Germain",
+          "votes": 903
+        },
+        {
+          "name_original": "Thomas S. White",
+          "votes": 856
+        },
+        {
+          "name_original": "Sean Quinn",
+          "votes": 1
+        },
+        {
+          "name_original": "Nathan Mcdermott",
+          "votes": 1
+        },
+        {
+          "name_original": "Andrew Lincoln",
+          "votes": 1
+        },
+        {
+          "name_original": "John Crutchfield",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard Young",
+          "votes": 1
+        },
+        {
+          "name_original": "Leilani Dalpe",
+          "votes": 1
+        },
+        {
+          "name_original": "Wayne Pittsley",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 437,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "GAS & ELECTRIC COMMISSIONERS FOR 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellen M. Farley Wylie",
+          "votes": 1019
+        },
+        {
+          "name_original": "Mark Dorsey",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Sorgman",
+          "votes": 1
+        },
+        {
+          "name_original": "Matthew Foye",
+          "votes": 1
+        },
+        {
+          "name_original": "Mary Mills",
+          "votes": 1
+        },
+        {
+          "name_original": "Dakota Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Richard J. Young",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 370,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "SCHOOL COMMITTEE FOR 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Rae Chartoff",
+          "votes": 758
+        },
+        {
+          "name_original": "Allin J. Frawley",
+          "votes": 918
+        },
+        {
+          "name_original": "Eric Viera Machado",
+          "votes": 689
+        },
+        {
+          "name_original": "Charles Kowalker",
+          "votes": 1
+        },
+        {
+          "name_original": "Andrea Smythe",
+          "votes": 1
+        },
+        {
+          "name_original": "Teresa Farley",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 425,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "SCHOOL COMMITTEE FOR UNEXPIRED TERM TO 2025",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher W. Benson",
+          "votes": 858
+        },
+        {
+          "name_original": "Nicholas A. O'Roak",
+          "votes": 382
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "BOARD OF ASSESSORS FOR 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paula M. Burdick",
+          "votes": 965
+        },
+        {
+          "name_original": "William Wallace",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Rullo",
+          "votes": 1
+        },
+        {
+          "name_original": "Eric Faith",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicole Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 428,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "FINANCE COMMITTEE FOR 3 YEARS",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan Matthew Downey",
+          "votes": 909
+        },
+        {
+          "name_original": "Alan R. Kirschner",
+          "votes": 919
+        },
+        {
+          "name_original": "Matthew D. Phillips",
+          "votes": 923
+        },
+        {
+          "name_original": "Eric Robitaille",
+          "votes": 1
+        },
+        {
+          "name_original": "Lucas Parsons",
+          "votes": 1
+        },
+        {
+          "name_original": "Alice Elwell",
+          "votes": 1
+        },
+        {
+          "name_original": "Stephen Hilton",
+          "votes": 1
+        },
+        {
+          "name_original": "Kevin Carey",
+          "votes": 1
+        },
+        {
+          "name_original": "Christine Rivers",
+          "votes": 1
+        },
+        {
+          "name_original": "Joseph Osborne",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicole Phillips",
+          "votes": 1
+        },
+        {
+          "name_original": "Dakota Phillips",
+          "votes": 1
+        },
+        {
+          "name_original": "Chiara Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1430,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "PLANNING BOARD FOR 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John F. Healey",
+          "votes": 976
+        },
+        {
+          "name_original": "Stephen Mckinnon",
+          "votes": 1
+        },
+        {
+          "name_original": "Nathan Mcdermott",
+          "votes": 1
+        },
+        {
+          "name_original": "John Ferguson",
+          "votes": 1
+        },
+        {
+          "name_original": "Boaz Mcmahon",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicole Phillips",
+          "votes": 1
+        },
+        {
+          "name_original": "Cheryl Amaral",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 413,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "PARK COMMISSIONERS FOR 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith A. Bigelow-Costa",
+          "votes": 983
+        },
+        {
+          "name_original": "Dawn Mariann Savery",
+          "votes": 954
+        },
+        {
+          "name_original": "Gregory Ulrich",
+          "votes": 1
+        },
+        {
+          "name_original": "Aimee Logan",
+          "votes": 1
+        },
+        {
+          "name_original": "Gregory D. Thomas",
+          "votes": 1
+        },
+        {
+          "name_original": "David Cavanaugh",
+          "votes": 1
+        },
+        {
+          "name_original": "Leilani Dalpe",
+          "votes": 1
+        },
+        {
+          "name_original": "Glenn Montapert",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicole Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Dakota Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 848,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "HOUSING AUTHORITY FOR 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott Macdonald Bernard",
+          "votes": 953
+        },
+        {
+          "name_original": "Nicole Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Josephine Ruthwicz",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 441,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Middleborough",
+      "date": "2023-04-01",
+      "office_original": "HOUSING AUTHORITY FOR UNEXPIRED TERM TO 2024",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Special",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph T. Mandile",
+          "votes": 967
+        },
+        {
+          "name_original": "Robert Eatherton",
+          "votes": 1
+        },
+        {
+          "name_original": "Timothy Foye",
+          "votes": 1
+        },
+        {
+          "name_original": "Dakota Phillips",
+          "votes": 2
+        },
+        {
+          "name_original": "Josephine Ruthwicz",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 426,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Middleborough2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Middleborough2023.pdf",
+  "ballots_cast": 1396,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leonard H Golder",
+          "votes": 93
+        },
+        {
+          "name_original": "Brian Patuto",
+          "votes": 237
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen V. Sferra",
+          "votes": 209
+        },
+        {
+          "name_original": "Sarah Courtney",
+          "votes": 106
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "NASHOBA REGIONAL SCHOOL DISTRICT COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott Powell",
+          "votes": 262
+        },
+        {
+          "name_original": "Leonard H Golder",
+          "votes": 16
+        },
+        {
+          "name_original": "Patricia Crawford",
+          "votes": 11
+        },
+        {
+          "name_original": "All Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 365,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "RANDALL LIBRARY TRUSTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wisam Aisha Anderson",
+          "votes": 251
+        },
+        {
+          "name_original": "Megan Forbes",
+          "votes": 267
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 150,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "RANDALL LIBRARY TRUSTEE UNEXPIRED",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia Crawford",
+          "votes": 232
+        },
+        {
+          "name_original": "All Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Arsenault",
+          "votes": 290
+        },
+        {
+          "name_original": "All Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2026-05-16",
+      "office_original": "STOW HOUSING AUTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maureen Crawford",
+          "votes": 242
+        },
+        {
+          "name_original": "Richard Brown",
+          "votes": 22
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blank",
+          "votes": 67,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stow2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stow2026.pdf",
+  "ballots_cast": 337,
+  "ballots_cast_source": "derived_from_contests"
+}

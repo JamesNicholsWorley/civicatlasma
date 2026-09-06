@@ -1,0 +1,114 @@
+{
+  "elections": [
+    {
+      "municipality": "Salisbury",
+      "date": "2023-05-09",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Terence Marengi Jr.",
+          "votes": 393
+        },
+        {
+          "name_original": "Freeman Condon",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2023-05-09",
+      "office_original": "Triton Regional School Committee-Newbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul J. Myette",
+          "votes": 235
+        },
+        {
+          "name_original": "Josephine Antico",
+          "votes": 97
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2023-05-09",
+      "office_original": "Triton Regional School Committee-Rowley (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nerissa R. Wallen",
+          "votes": 309
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 146,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Salisbury",
+      "date": "2023-05-09",
+      "office_original": "Triton Regional School Committee-Salisbury (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Caitlin Hunter",
+          "votes": 381
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Salisbury2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Salisbury2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

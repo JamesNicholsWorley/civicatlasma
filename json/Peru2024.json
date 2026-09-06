@@ -1,0 +1,117 @@
+{
+  "document": {
+    "heading_verbatim": "June 8, 2024 Annual Town Election Results Voter turnout # 96",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "June 8, 2024",
+    "offices_on_ballot": 7,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel P. Haupt",
+          "votes": 90
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darryl Darby",
+          "votes": 22
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy I. White",
+          "votes": 90
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "FINANCE COMMITTEE",
+      "num_winners": 2,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel P. Haupt",
+          "votes": 79
+        },
+        {
+          "name_original": "Bruce W. Cullett",
+          "votes": 68
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "CONSTABLE",
+      "num_winners": 1,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Coralie Pelkey",
+          "votes": 25
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "date": "2024-06-08",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kim A. Leach",
+          "votes": 94
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Peru2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Peru2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

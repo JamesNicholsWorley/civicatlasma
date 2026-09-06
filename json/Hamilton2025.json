@@ -1,0 +1,211 @@
+{
+  "elections": [
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "Select Board (3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 598,
+          "tally_row": true
+        },
+        {
+          "name_original": "Thomas Brian Myers Jr.",
+          "votes": 1063
+        },
+        {
+          "name_original": "Angela Arvanites",
+          "votes": 796
+        },
+        {
+          "name_original": "Benjamin Galuza",
+          "votes": 850
+        },
+        {
+          "name_original": "Deborah P. Safford",
+          "votes": 799
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "Moderator (1 year)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 607,
+          "tally_row": true
+        },
+        {
+          "name_original": "William Francis Bowler",
+          "votes": 1386
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        },
+        {
+          "name_original": "Caroline Beaulieu",
+          "votes": 26
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "Board of Assessors (3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 584,
+          "tally_row": true
+        },
+        {
+          "name_original": "Christopher S. Campbell",
+          "votes": 1460
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "Planning Board (3 years)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 2387,
+          "tally_row": true
+        },
+        {
+          "name_original": "Emil Tuff Dahlquist",
+          "votes": 1219
+        },
+        {
+          "name_original": "Ellizabeth L. Herr",
+          "votes": 1263
+        },
+        {
+          "name_original": "William Cody Wheaton",
+          "votes": 1251
+        },
+        {
+          "name_original": "Others",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "H-W Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 573,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jane S. Kusel",
+          "votes": 1477
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2025-04-10",
+      "office_original": "H-W Regional School Committee (3 years)",
+      "district_original": "Hamilton",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 1084,
+          "tally_row": true
+        },
+        {
+          "name_original": "David I. Frenkel",
+          "votes": 1163
+        },
+        {
+          "name_original": "Amy Leone Kunberger",
+          "votes": 1090
+        },
+        {
+          "name_original": "David Joseph Polito",
+          "votes": 1109
+        },
+        {
+          "name_original": "Courtney Ashwood",
+          "votes": 830
+        },
+        {
+          "name_original": "Jeffrey M. Austin",
+          "votes": 874
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hamilton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hamilton2025.pdf",
+  "ballots_cast": 2058,
+  "ballots_cast_source": "derived_from_contests"
+}

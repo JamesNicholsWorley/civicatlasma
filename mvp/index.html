@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Massachusetts Civic Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300;1,8..60,400&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#14110e; --ink-2:#4a443c; --ink-3:#7d766b; --ink-4:#a49c8e;
+  --rule:#d5cec2; --rule-2:#ebe5d9; --paper:#faf7f0; --card:#fffdf8;
+  --accent:#8c2f1e;
+  --hi:#8c2f1e; --hi-bg:#f7e9e5;
+  --md:#8a6112; --md-bg:#f8f0df;
+  --lo:#46647f; --lo-bg:#eaf0f5;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Source Sans 3",-apple-system,Segoe UI,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{overflow-x:hidden}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+  font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1240px;margin:0 auto;padding:0 32px 110px}
+a{color:inherit}
+
+/* ---------- masthead ---------- */
+.mast{border-bottom:3px double var(--ink);padding:34px 0 14px}
+.mast h1{font-size:clamp(34px,5.4vw,60px);line-height:.95;margin:0;font-weight:700;
+  letter-spacing:-.022em}
+.mast h1 em{font-style:italic;font-weight:300}
+.mast .sub{display:flex;justify-content:space-between;align-items:baseline;
+  margin-top:14px;font-family:var(--sans);font-size:11.5px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-3);gap:24px;flex-wrap:wrap}
+.mast .sub b{color:var(--ink-2);font-weight:600}
+.standfirst{font-size:19px;color:var(--ink-2);max-width:70ch;margin:18px 0 0;
+  font-weight:300}
+.standfirst b{font-weight:600;color:var(--ink)}
+
+/* ---------- stat rail ---------- */
+.rail{display:grid;grid-template-columns:repeat(5,1fr);border-bottom:1px solid var(--rule);
+  border-top:1px solid var(--rule);font-family:var(--sans);margin-top:22px}
+.rail div{padding:13px 18px 15px;border-right:1px solid var(--rule-2)}
+.rail div:last-child{border-right:0}
+.rail .k{font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.rail .v{font-family:var(--serif);font-size:29px;font-weight:600;line-height:1.1;
+  font-variant-numeric:tabular-nums;margin-top:2px}
+.rail .n{font-size:12.5px;color:var(--ink-3);line-height:1.35;margin-top:3px}
+
+/* ---------- section furniture ---------- */
+section{padding-top:38px}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:22px;
+  flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:9px}
+.head h2{margin:0;font-size:27px;font-weight:600;letter-spacing:-.015em}
+.head .dek{font-family:var(--sans);font-size:13px;color:var(--ink-3);max-width:60ch}
+.lbl{font-family:var(--sans);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-3)}
+
+.seg{display:inline-flex;border:1px solid var(--rule);background:var(--card);border-radius:2px}
+.seg button{font-family:var(--sans);font-size:12.5px;padding:5px 13px;border:0;
+  background:none;cursor:pointer;color:var(--ink-2);border-right:1px solid var(--rule-2)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.controls{display:flex;gap:22px;align-items:center;flex-wrap:wrap;padding:16px 0 12px}
+.controls .grp{display:flex;gap:8px;align-items:center}
+
+/* ---------- map ---------- */
+.mapbox{display:grid;grid-template-columns:1fr 220px;gap:26px;align-items:start}
+.plate{background:var(--card);border:1px solid var(--rule);position:relative}
+svg.map{display:block;width:100%;height:auto}
+svg.map path{stroke:#231d18;stroke-width:220;stroke-linejoin:round;cursor:pointer;
+  vector-effect:non-scaling-stroke;stroke-width:.6px}
+svg.map path:hover{stroke:var(--ink);stroke-width:2px}
+svg.map path[data-sel=true]{stroke:var(--ink);stroke-width:2.6px}
+svg.map path.off{stroke:none;cursor:default}
+svg.map path.off:hover{stroke:none}
+/* The Commonwealth's own edge, drawn under the towns. Without it, an unlined
+   town on the coast or the state border leaves a hole and the map reads as
+   damaged rather than as sparse. */
+svg.map path.outline{fill:none;stroke:#231d18;stroke-width:1.1px;
+  vector-effect:non-scaling-stroke;pointer-events:none}
+.readout{position:absolute;left:14px;top:12px;font-family:var(--sans);font-size:13px;
+  background:rgba(255,253,248,.92);border:1px solid var(--rule);padding:7px 11px;
+  pointer-events:none;min-width:190px;line-height:1.4}
+.readout b{font-size:15px;font-family:var(--serif);display:block;font-weight:600}
+.readout .m{display:block;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+.legend{font-family:var(--sans);font-size:12.5px}
+.legend h4{margin:0 0 8px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:600}
+.legend .row{display:flex;align-items:center;gap:9px;padding:2.5px 0;color:var(--ink-2)}
+.legend .sw{width:22px;height:13px;border:1px solid #231d18;flex:none}
+.legend p{color:var(--ink-3);font-size:12px;line-height:1.45;margin:12px 0 0}
+.findbox{position:relative;flex:1 1 260px;max-width:340px}
+.findbox input[type=search]{width:100%;font-family:var(--sans);font-size:14px;
+  padding:5px 4px;border:0;border-bottom:1px solid var(--ink);background:transparent;
+  color:var(--ink);outline:none}
+.findbox .hits{position:absolute;left:0;right:0;top:100%;z-index:5;background:var(--card);
+  border:1px solid var(--rule);border-top:0;max-height:260px;overflow:auto;
+  box-shadow:0 10px 22px -14px rgba(20,17,14,.5)}
+.findbox .hits:empty{display:none}
+.findbox .hits button{padding:5px 10px}
+.statewide{margin-top:18px;font-family:var(--sans);font-size:12.5px;color:var(--ink-2);
+  border-top:1px solid var(--rule);padding-top:12px}
+.statewide .big{font-family:var(--serif);font-size:27px;font-weight:600;color:var(--ink);
+  font-variant-numeric:tabular-nums;line-height:1.1}
+.statewide .k{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:600}
+.statewide p{margin:6px 0 0;color:var(--ink-3);font-size:12px;line-height:1.45}
+.searchwrap{margin-top:16px}
+input[type=search]{width:100%;font:inherit;font-family:var(--sans);font-size:14px;
+  padding:6px 2px;border:0;border-bottom:1px solid var(--ink);background:transparent;
+  color:var(--ink);outline:none}
+input[type=search]::placeholder{color:var(--ink-4);font-style:italic}
+.hits{max-height:210px;overflow:auto;margin-top:6px;font-family:var(--sans);font-size:13.5px}
+.hits button{display:flex;justify-content:space-between;gap:10px;width:100%;text-align:left;
+  font:inherit;background:none;border:0;padding:3px 0;cursor:pointer;color:var(--ink-2)}
+.hits button:hover{color:var(--accent)}
+@keyframes flash{0%,100%{stroke-width:2.6px}50%{stroke-width:6px}}
+svg.map path.flash{stroke:var(--accent);animation:flash .4s ease-in-out 3}
+
+/* ---------- broadsheet ---------- */
+.paper{background:var(--card);border:1px solid var(--rule);padding:30px 34px 34px;
+  margin-top:20px}
+.paper .kicker{font-family:var(--sans);font-size:11px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);font-weight:600}
+.paper h3{font-size:clamp(28px,3.6vw,40px);margin:6px 0 0;font-weight:700;
+  letter-spacing:-.022em;line-height:1.02}
+.paper h3 .yr{font-weight:300;font-style:italic;color:var(--ink-3)}
+.lede{font-size:19px;color:var(--ink-2);max-width:68ch;margin:14px 0 0;font-weight:300}
+.lede b{font-weight:600;color:var(--ink)}
+.facts{display:flex;gap:0;flex-wrap:wrap;margin:20px 0 6px;border-top:1px solid var(--rule-2);
+  border-bottom:1px solid var(--rule-2)}
+.facts div{padding:10px 20px 11px 0;margin-right:20px;border-right:1px solid var(--rule-2);
+  font-family:var(--sans)}
+.facts div:last-child{border-right:0}
+.facts .k{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.facts .v{font-family:var(--serif);font-size:22px;font-weight:600;
+  font-variant-numeric:tabular-nums}
+.facts .n{font-size:11.5px;color:var(--ink-3)}
+
+.contests{column-count:2;column-gap:40px;margin-top:22px}
+@media(max-width:900px){.contests{column-count:1}}
+.contest{break-inside:avoid;margin-bottom:24px}
+.contest h4{margin:0;font-size:17.5px;font-weight:600;display:flex;
+  justify-content:space-between;gap:12px;align-items:baseline;
+  border-bottom:1px solid var(--ink);padding-bottom:3px}
+.contest h4 span{font-family:var(--sans);font-size:11px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-3);font-weight:600;white-space:nowrap}
+.contest h4 .scope{font-family:var(--sans);font-size:10.5px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--accent);font-weight:700;margin-left:6px;
+  white-space:nowrap}
+.crow{display:grid;grid-template-columns:1fr auto auto;gap:10px;align-items:baseline;
+  padding:4px 0;border-bottom:1px solid var(--rule-2);font-variant-numeric:tabular-nums}
+.crow .nm{font:inherit;background:none;border:0;padding:0;text-align:left;cursor:pointer;
+  color:var(--ink);border-bottom:1px dotted var(--ink-4);justify-self:start}
+.crow .nm:hover{color:var(--accent);border-bottom-color:var(--accent)}
+.crow.won .nm{font-weight:600}
+.crow.won::after{content:""}
+.crow .v{font-weight:600;position:relative}
+/* A dotted underline on the figure means the figure itself was found printed on
+   the line the name was found on -- a stricter claim than grounding the name. */
+.crow .v.grounded{border-bottom:1px solid var(--ok,#2f7a52)}
+/* Grounded only after correcting one character the scanner got wrong: shown, not
+   hidden, because it is a weaker claim than an exact match. */
+.crow .v.ocr{border-bottom:1px dashed var(--ok,#2f7a52)}
+.crow .v.ungrounded{border-bottom:1px dotted var(--ink-4)}
+/* Named in the document with no figure printed beside them: not a total we
+   failed to find, so it is not marked like one. */
+.crow .v.namedonly{border-bottom:1px dotted var(--ink-4);opacity:.72}
+table.conf{width:100%;border-collapse:collapse;margin:.4rem 0;font-size:.86rem}
+table.conf th{text-align:left;font-weight:600;padding:.2rem .4rem;border-bottom:1px solid #d8d2c4}
+table.conf td{padding:.2rem .4rem;vertical-align:top}
+table.conf td.alt{color:#8a6d3b}
+.resolved{font-size:.84rem;line-height:1.45;margin:.35rem 0 0;padding:.4rem .55rem;
+  border-left:3px solid #6b8f5e;background:#f3f6f1}
+.near{margin-top:6px;font-size:12.5px;line-height:1.5;color:var(--ink-2,#555)}
+.crow .v.sent{font-weight:600;font-size:12px;font-family:var(--sans);letter-spacing:.04em;
+  text-transform:uppercase;color:var(--accent)}
+.crow .p{color:var(--ink-3);font-size:14px;min-width:52px;text-align:right}
+.crow.tally{color:var(--ink-3);font-style:italic}
+.crow.tally .nm{color:var(--ink-3);border:0;cursor:default}
+.win{font-family:var(--sans);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--accent);font-weight:700;margin-left:7px;vertical-align:1.5px}
+.cnote{font-family:var(--sans);font-size:12px;color:var(--ink-3);margin-top:5px}
+
+/* ---------- flags ---------- */
+.flags{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px}
+.flag{font-family:var(--sans);font-size:11px;padding:2px 9px;border-radius:2px;
+  border:1px solid transparent;cursor:help}
+.flag.high{background:var(--hi-bg);color:var(--hi);border-color:#e5cdc7}
+.flag.medium{background:var(--md-bg);color:var(--md);border-color:#e8dcc0}
+.flag.low{background:var(--lo-bg);color:var(--lo);border-color:#cfdbe5}
+
+/* ---------- tables ---------- */
+table{width:100%;border-collapse:collapse;font-size:15px;font-variant-numeric:tabular-nums}
+th{font-family:var(--sans);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-3);text-align:left;padding:8px 10px 7px;border-bottom:1px solid var(--ink);
+  font-weight:600}
+td{padding:7px 10px;border-bottom:1px solid var(--rule-2);vertical-align:baseline}
+th.n,td.n{text-align:right}
+tbody tr:hover{background:#f4efe4}
+td .who{color:var(--ink-2);font-size:14px}
+td button.town{font:inherit;background:none;border:0;padding:0;cursor:pointer;
+  color:var(--ink);font-weight:600;border-bottom:1px dotted var(--ink-4)}
+td button.town:hover{color:var(--accent)}
+
+/* ---------- provenance drawer ---------- */
+.scrim{position:fixed;inset:0;background:rgba(20,17,14,.32);opacity:0;pointer-events:none;
+  transition:opacity .18s}
+.scrim[data-open=true]{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(560px,94vw);background:var(--card);
+  border-left:1px solid var(--rule);transform:translateX(102%);transition:transform .22s ease;
+  overflow:auto;z-index:20;box-shadow:-14px 0 40px rgba(20,17,14,.10)}
+.drawer[data-open=true]{transform:none}
+.drawer .dh{padding:26px 30px 16px;border-bottom:1px solid var(--rule);position:sticky;top:0;
+  z-index:3;background:var(--card);box-shadow:0 6px 12px -10px rgba(20,17,14,.5)}
+.drawer .body{position:relative;z-index:1}
+.drawer .dh .kicker{font-family:var(--sans);font-size:10.5px;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--ink-3)}
+.drawer .dh h3{margin:5px 0 0;font-size:26px;font-weight:600;letter-spacing:-.018em}
+.drawer .dh .sub{font-family:var(--sans);font-size:13px;color:var(--ink-2);margin-top:5px}
+.drawer .x{position:absolute;top:22px;right:26px;font:inherit;font-size:22px;background:none;
+  border:0;cursor:pointer;color:var(--ink-3);line-height:1}
+.drawer .body{padding:22px 30px 60px}
+.dsec{margin-bottom:26px}
+.dsec h5{font-family:var(--sans);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 10px;font-weight:600}
+.claim{font-size:20px;font-weight:300;color:var(--ink-2);border-left:3px solid var(--accent);
+  padding:2px 0 2px 15px;margin:0}
+.claim b{font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* the source facsimile */
+.fac{border:1px solid var(--rule);background:#fbf8f1}
+.fac .fh{display:flex;justify-content:space-between;align-items:center;gap:10px;
+  font-family:var(--sans);font-size:11px;color:var(--ink-3);padding:7px 12px;
+  border-bottom:1px solid var(--rule-2);letter-spacing:.04em}
+.fac .fh button{font:inherit;font-size:11px;background:none;border:1px solid var(--rule);
+  padding:2px 8px;cursor:pointer;color:var(--ink-2);border-radius:2px}
+.fac .cells{display:flex;flex-wrap:wrap;padding:4px}
+.fac .cell{padding:7px 12px;font-size:15px;line-height:1.45;border-right:1px solid var(--rule-2);
+  flex:1 1 auto;min-width:0;word-break:break-word}
+.fac .cell:last-child{border-right:0}
+.fac .cell.num{flex:0 0 auto;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+.fac mark{background:#f6e3b8;padding:0 2px;border-radius:2px}
+.fac .raw{font-family:ui-monospace,Consolas,monospace;font-size:12px;color:var(--ink-2);
+  padding:9px 12px;white-space:pre-wrap;word-break:break-word;border-top:1px dashed var(--rule)}
+.miss{font-size:15px;color:var(--ink-2);background:var(--md-bg);border-left:3px solid var(--md);
+  padding:10px 14px}
+
+.steps{list-style:none;margin:0;padding:0;counter-reset:s}
+.steps li{position:relative;padding:0 0 16px 34px;border-left:1px solid var(--rule);
+  margin-left:9px}
+.steps li:last-child{border-left-color:transparent;padding-bottom:0}
+.steps li::before{counter-increment:s;content:counter(s);position:absolute;left:-10px;top:0;
+  width:20px;height:20px;border-radius:50%;background:var(--ink);color:var(--paper);
+  font-family:var(--sans);font-size:11px;font-weight:600;display:flex;align-items:center;
+  justify-content:center}
+.steps .l{font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:600}
+.steps .t{font-size:15.5px;color:var(--ink-2);margin-top:2px}
+.steps a{font-family:var(--sans);font-size:12.5px;color:var(--accent);word-break:break-all;
+  display:inline-block;margin-top:3px}
+.gaps{list-style:none;margin:0;padding:0}
+.gaps li{font-size:14.5px;color:var(--ink-2);padding:7px 0 7px 22px;position:relative;
+  border-bottom:1px solid var(--rule-2)}
+.gaps li::before{content:"—";position:absolute;left:0;color:var(--md);font-weight:700}
+.qadef{border-left:3px solid var(--rule);padding:2px 0 6px 14px;margin-bottom:12px}
+.qadef.high{border-left-color:var(--hi)}
+.qadef.medium{border-left-color:var(--md)}
+/* A finding about a correct record, not a defect. Muted, and still shown. */
+.qadef.note{border-left-color:#b9b2a2}
+.qadef.low{border-left-color:var(--lo)}
+.qadef b{font-size:15px}
+.qadef p{margin:2px 0 0;font-size:14px;color:var(--ink-2)}
+
+footer{margin-top:56px;border-top:3px double var(--ink);padding-top:22px;
+  color:var(--ink-2);font-size:15.5px;max-width:76ch;font-weight:300}
+footer b{font-weight:600;color:var(--ink)}
+footer code{font-family:ui-monospace,Consolas,monospace;font-size:13px;background:#f1ece1;
+  padding:1px 5px}
+@media(max-width:1000px){.mapbox{grid-template-columns:1fr}.rail{grid-template-columns:repeat(2,1fr)}}
+</style>
+<style>/* phone breakpoints v2 */
+@media (max-width: 680px) {
+  .wrap { padding-left: 15px; padding-right: 15px; }
+  table { font-size: 13.5px; }
+  th, td { padding-left: 0; padding-right: 8px; }
+  code { word-break: break-all; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="mast">
+  <h1>The elections nobody <em>archives</em>.</h1>
+  <div class="sub">
+    <span>Massachusetts Civic Atlas &middot; working sample</span>
+    <span id="mastcount"></span>
+    <span>Annual town elections, <b>2021–2026</b></span>
+  </div>
+  <p class="standfirst">Select boards, school committees, library trustees, town meeting
+    seats: <b>the offices closest to where people live are the ones with no central record
+    at all</b>. Rebuilt from what each of the 351 municipalities published — and for every number, the line it came from.</p>
+  <div class="rail" id="rail"></div>
+</header>
+
+<section id="map">
+  <div class="head">
+    <div>
+      <h2>Where the votes were</h2>
+      <p class="dek">Click any municipality to open its election.</p>
+    </div>
+  </div>
+  <div class="controls">
+    <div class="grp"><span class="lbl">Year</span>
+      <div class="seg" id="segYear"></div></div>
+    <div class="grp"><span class="lbl">Shading</span>
+      <div class="seg" id="segMetric"></div></div>
+    <div class="grp findbox">
+      <input type="search" id="q" placeholder="Find a town — type any part of the name"
+             autocomplete="off" spellcheck="false">
+      <div class="hits" id="hits"></div>
+    </div>
+  </div>
+  <div class="mapbox">
+    <div class="plate">
+      <svg class="map" id="svg" role="img" aria-label="Map of Massachusetts municipalities"></svg>
+      <div class="readout" id="readout"></div>
+    </div>
+    <div>
+      <div class="legend" id="legend"></div>
+      <div class="statewide" id="statewide"></div>
+    </div>
+  </div>
+</section>
+
+<section id="town">
+  <div class="head">
+    <div><h2>The election</h2>
+      <p class="dek">Every name opens its provenance.</p></div>
+    <div class="seg" id="segTownYear"></div>
+  </div>
+  <div class="paper" id="paper"></div>
+</section>
+
+<section id="handful">
+  <div class="head">
+    <div><h2>Decided by a handful</h2>
+      <p class="dek">Both years. A tie is listed separately — it is a different event.</p></div>
+    <div class="controls" style="padding:0">
+      <div class="grp"><span class="lbl">Count a candidate if they cleared</span>
+        <div class="seg" id="segThr"></div></div>
+      <div class="seg" id="segDir"></div>
+      <div class="seg" id="segBy"></div>
+    </div>
+  </div>
+  <div id="marginTable"></div>
+</section>
+
+<section id="quality">
+  <div class="head">
+    <div><h2>What is wrong with this data</h2>
+      <p class="dek">Computed at build time; travels with the town it belongs to.</p></div>
+  </div>
+  <div id="qa"></div>
+</section>
+
+<footer id="foot"></footer>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="dh">
+    <button class="x" id="dx" aria-label="Close">&times;</button>
+    <div class="kicker" id="dkick"></div>
+    <h3 id="dname"></h3>
+    <div class="sub" id="dsub"></div>
+  </div>
+  <div class="body" id="dbody"></div>
+</aside>
+
+<script src="geo.js"></script>
+<script src="mvp-data.js"></script>
+<script>
+const M = window.MVP, G = window.GEO, S = M.stats;
+const $ = s => document.querySelector(s);
+const fmt = n => (n == null ? '—' : n.toLocaleString('en-US'));
+const pct = (x, d) => x == null ? '—' : (x * 100).toFixed(d === undefined ? 1 : d) + '%';
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const KEY = (t, y) => t + '|' + y;
+
+let YEAR = '2025', METRIC = 'turnout', TOWN = 'Provincetown',
+    DIR = 'close', BY = 'gap', THR = '0.05';
+
+/* qa/STANDARD.md A3: the votes field carries two reserved negatives. They are not
+   counts and are never printed as numbers. */
+const SENTINEL = {
+  '-1': 'Elected',
+  '-3': 'Write-in winner',
+};
+const isWin = v => v < 0;
+const seatsOf = r => r.eseats || r.seats;
+// `nc` is a contest whose candidates all hold 0 because the source published no
+// count for any of them -- not because they drew none. Showing `0` there tells
+// the reader something the document never said. See `nocounts` in build_mvp.
+const voteCell = (v, nc) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
+  : (nc && v === 0) ? 'not published' : fmt(v);
+
+/* =====================================================================
+   Scales. Turnout keeps the breaks of the printed map this is modelled on
+   (<10 / 10-20 / 20-30 / 30-40 / >40) so the two can be read side by side.
+   ===================================================================== */
+const RAMP_RED  = ['#43181a','#8f2b25','#d9503c','#ef9d84','#f7d6cb'];
+const RAMP_TEAL = ['#0f3b3a','#1f6360','#4b938d','#8fc0b8','#cfe3dd'];
+const RAMP_GOLD = ['#4a3410','#8a6112','#c08f2a','#e0bd72','#f2e2bd'];
+const NODATA = '#ded9d1', NOELECT = '#ffffff', ZERO = '#b9c2c9';
+
+const METRICS = {
+  turnout: {
+    lab: 'Turnout, % of registered voters',
+    legend: 'Turnout',
+    breaks: [.10, .20, .30, .40],
+    labels: ['under 10%', '10–20%', '20–30%', '30–40%', 'over 40%'],
+    ramp: RAMP_RED,
+    val: r => r && r.turnout,
+    show: v => v === 0 ? 'no counts published' : pct(v),
+    note: 'Ballots cast, over registered voters at the election date.',
+  },
+  contested: {
+    lab: 'Share of contests with a real choice',
+    legend: 'Contested',
+    breaks: [.001, .20, .40, .60],
+    labels: ['none at all', 'under 20%', '20–40%', '40–60%', 'over 60%'],
+    ramp: RAMP_TEAL,
+    val: r => r && r.n ? r.contested / r.n : null,
+    show: v => pct(v, 0),
+    note: 'More candidates clearing 5% of the ballots than there were seats.',
+  },
+  margin: {
+    lab: 'Closest margin in the town',
+    legend: 'Closest margin',
+    breaks: [.01, .025, .05, .10],
+    labels: ['under 1 pt', '1–2.5 pts', '2.5–5 pts', '5–10 pts', 'over 10 pts'],
+    ramp: RAMP_GOLD,
+    val: (r, k) => M.tmargin[k],
+    show: v => v == null ? '—' : (v * 100).toFixed(2) + ' pts',
+    note: 'Narrowest gap between the last winner and the runner-up.',
+  },
+  coverage: {
+    lab: 'Where a result exists at all',
+    cat: true,
+    legend: 'Source',
+    cats: [['official', '#3d5c46', 'Town’s own publication'],
+           ['news', '#7a5a2c', 'News report only'],
+           ['thirdparty', '#5c6f8b', 'Republished by a third party'],
+           ['other', '#8b8577', 'Source kind unrecorded'],
+           ['no_source', NODATA, 'Searched, nothing found'],
+           ['no_election', NOELECT, 'No election held']],
+    val: (r, k) => r ? (r.kind || 'other') : (M.cov[k] || 'no_source'),
+    show: v => ({official: 'Town’s own publication', news: 'News report only',
+                 thirdparty: 'Republished by a third party',
+                 other: 'Source kind unrecorded', no_source: 'Nothing found',
+                 no_election: 'No election held'}[v] || v),
+    note: 'A town shaded pale was searched and nothing found.',
+  },
+};
+
+function colorFor(name) {
+  const k = KEY(name, YEAR), r = M.ty[k], m = METRICS[METRIC];
+  const v = m.val(r, k);
+  if (m.cat) {
+    const c = m.cats.find(c => c[0] === v);
+    return [c ? c[1] : NODATA, v];
+  }
+  if (v == null) return [M.cov[k] === 'no_election' ? NOELECT : NODATA, null];
+  // A turnout of exactly zero is never a turnout. It is a town-year whose source
+  // named the winners and printed no counts, and shading it as the darkest band
+  // would put a measurement where there is only a silence.
+  if (METRIC === 'turnout' && v === 0) return [ZERO, 0];
+  let i = 0;
+  while (i < m.breaks.length && v >= m.breaks[i]) i++;
+  return [m.ramp[i], v];
+}
+
+/* ---------------- the map ----------------
+   GEO is already rotated onto the Commonwealth's minimum-area rectangle
+   (build_geo.py), so the only transform left here is the y-flip SVG needs. */
+const [X0, Y0, X1, Y1] = G.bbox, FLIP = Y0 + Y1;
+const PAD = 4000;
+
+function drawMap() {
+  const paths = Object.keys(G.towns).sort().map(name => {
+    const t = G.towns[name];
+    const d = t.r.map(ring =>
+      'M' + ring.map(p => p[0] + ',' + (FLIP - p[1])).join('L') + 'Z').join('');
+    const [c] = colorFor(name);
+    return '<path d="' + d + '" fill="' + c + '" data-t="' + esc(name) + '"' +
+           (name === TOWN ? ' data-sel="true"' : '') + '><title>' + esc(name) +
+           '</title></path>';
+  }).join('');
+  const outline = (G.outline || []).map(ring =>
+    'M' + ring.map(p => p[0] + ',' + (FLIP - p[1])).join('L') + 'Z').join('');
+  $('#svg').setAttribute('viewBox',
+    (X0 - PAD) + ' ' + (Y0 - PAD) + ' ' + (X1 - X0 + 2 * PAD) + ' ' + (Y1 - Y0 + 2 * PAD));
+  // Outline first so the towns paint over it, then again on top so the edge
+  // survives beside a town that has no stroke of its own.
+  $('#svg').innerHTML = '<path class="outline" d="' + outline + '"/>' + paths +
+    '<path class="outline" d="' + outline + '"/>';
+}
+
+function repaint() {
+  Object.keys(G.towns).forEach(name => {
+    const p = $('#svg path[data-t="' + CSS.escape(name) + '"]');
+    if (!p) return;
+    p.setAttribute('fill', colorFor(name)[0]);
+    // A town that held no election is not a category of result; it is absent from
+    // the question. Dropping its outline as well as its fill lets the map be read
+    // as "these are the towns that voted".
+    p.classList.toggle('off', M.cov[KEY(name, YEAR)] === 'no_election');
+  });
+  document.querySelectorAll('#svg path[data-t]').forEach(p =>
+    p.toggleAttribute('data-sel', p.dataset.t === TOWN));
+  drawLegend();
+  drawStatewide();
+  showReadout(TOWN);
+}
+
+function drawStatewide() {
+  const w = (M.statewide || {})[YEAR];
+  if (!w) { $('#statewide').innerHTML = ''; return; }
+  $('#statewide').innerHTML =
+    '<div class="k">Turnout, all of ' + YEAR + '</div>' +
+    '<div class="big">' + pct(w.ballots / w.registered) + '</div>' +
+    '<p><b>' + fmt(w.ballots) + '</b> ballots cast against <b>' + fmt(w.registered) +
+    '</b> registered voters, across the ' + fmt(w.towns) + ' municipalities with a ' +
+    'published result. ' + (w.held > w.towns
+      ? fmt(w.held - w.towns) + ' more held an election and published nothing; they are ' +
+        'in neither figure.'
+      : 'Every municipality that held one published a result.') + '</p>' +
+    // Every voter counted once, versus every town counted once. Boston moves the
+    // first and not the second, and the gap between them is the finding: the
+    // typical Massachusetts town runs below the statewide rate.
+    '<div class="k" style="margin-top:12px">The average town</div>' +
+    '<div class="big">' + pct(w.mean) + '</div>' +
+    '<p>Mean turnout with each municipality counted once, not each voter. Median ' +
+    '<b>' + pct(w.median) + '</b>.</p>';
+}
+
+function drawLegend() {
+  const m = METRICS[METRIC];
+  const rows = m.cat
+    ? m.cats.map(c => [c[1], c[2]])
+    : m.ramp.map((c, i) => [c, m.labels[i]])
+        .concat(METRIC === 'turnout' ? [[ZERO, 'No counts published']] : [])
+        .concat([[NODATA, 'No result found'], [NOELECT, 'No election held']]);
+  $('#legend').innerHTML = '<h4>' + esc(m.legend) + '</h4>' +
+    rows.map(([c, l]) => '<div class="row"><span class="sw" style="background:' + c +
+      '"></span>' + esc(l) + '</div>').join('') +
+    '<p>' + esc(m.note) + '</p>';
+}
+
+function showReadout(name) {
+  const k = KEY(name, YEAR), r = M.ty[k], m = METRICS[METRIC];
+  const v = m.val(r, k);
+  const co = (M.towns[name] || {}).co;
+  $('#readout').innerHTML = '<b>' + esc(name) + '</b>' +
+    '<span class="m">' + esc(m.legend) + ': ' +
+    (v == null ? (M.cov[k] === 'no_election' ? 'no election held' : 'no result found')
+               : esc(m.show(v))) + '</span>' +
+    (r ? '<span class="m">' + r.n + ' contest' + (r.n === 1 ? '' : 's') + ' · ' +
+         fmt(r.peak) + ' ballots</span>' : '') +
+    '<span class="m" style="color:var(--ink-3)">' + esc(co || '') + ' County</span>';
+}
+
+$('#svg').addEventListener('mousemove', e => {
+  const p = e.target.closest('path'); if (p) showReadout(p.dataset.t);
+});
+$('#svg').addEventListener('mouseleave', () => showReadout(TOWN));
+$('#svg').addEventListener('click', e => {
+  const p = e.target.closest('path'); if (!p) return;
+  TOWN = p.dataset.t; repaint(); drawTown();
+  $('#town').scrollIntoView({block: 'start'});
+});
+
+/* ---------------- segmented controls ---------------- */
+function seg(el, items, cur, cb) {
+  el.innerHTML = items.map(([v, l]) =>
+    '<button data-v="' + v + '" aria-pressed="' + (v === cur) + '">' + l + '</button>').join('');
+  el.onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    [...el.children].forEach(x => x.setAttribute('aria-pressed', x === b));
+    cb(b.dataset.v);
+  };
+}
+seg($('#segYear'), M.years.map(y => [y, y]), YEAR, v => { YEAR = v; repaint(); drawTown(); drawTownYearSeg(); });
+seg($('#segMetric'), Object.keys(METRICS).map(k => [k, METRICS[k].legend]), METRIC,
+    v => { METRIC = v; repaint(); });
+function drawTownYearSeg() {
+  seg($('#segTownYear'), M.years.map(y => [y, y]), YEAR,
+      v => { YEAR = v; [...$('#segYear').children].forEach(x =>
+               x.setAttribute('aria-pressed', x.dataset.v === v));
+             repaint(); drawTown(); });
+}
+
+/* ---------------- search ---------------- */
+const NAMES = Object.keys(M.towns).sort();
+function searchHits(q) {
+  const s = q.trim().toLowerCase();
+  if (!s) return [];
+  // Prefix first, then anywhere: typing "field" should still reach Springfield.
+  const pre = NAMES.filter(n => n.toLowerCase().startsWith(s));
+  const mid = NAMES.filter(n => !n.toLowerCase().startsWith(s) && n.toLowerCase().includes(s));
+  return pre.concat(mid).slice(0, 12);
+}
+function drawHits(q) {
+  $('#hits').innerHTML = searchHits(q).map(n => {
+    const r = M.ty[KEY(n, YEAR)];
+    return '<button data-t="' + esc(n) + '"><span>' + esc(n) + '</span><span>' +
+      (r ? r.n + ' contests' : M.cov[KEY(n, YEAR)] === 'no_election'
+           ? 'no election' : 'no result') + '</span></button>';
+  }).join('');
+}
+$('#q').addEventListener('input', e => drawHits(e.target.value));
+$('#q').addEventListener('keydown', e => {
+  if (e.key !== 'Enter') return;
+  const hit = searchHits(e.target.value)[0];
+  if (hit) { goTown(hit); e.target.value = ''; $('#hits').innerHTML = ''; }
+});
+$('#hits').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  goTown(b.dataset.t);
+});
+function goTown(name) {
+  TOWN = name; repaint(); drawTown(); showReadout(name);
+  const p = $('#svg path[data-t="' + CSS.escape(name) + '"]');
+  if (p) { p.classList.add('flash'); setTimeout(() => p.classList.remove('flash'), 1200); }
+  $('#town').scrollIntoView({block: 'start'});
+}
+
+/* =====================================================================
+   The broadsheet
+   ===================================================================== */
+function winners(r) {
+  const s = seatsOf(r);
+  return new Set(r.cands.filter((c, i) => isWin(c[1]) || (i < s && c[1] > 0)).map(c => c[0]));
+}
+
+function ledeFor(name, r) {
+  if (!r) {
+    const st = M.cov[KEY(name, YEAR)];
+    return st === 'no_election'
+      ? 'No municipal election was held in ' + name + ' in ' + YEAR + '.'
+      : 'No published result has been found for ' + name + ' in ' + YEAR + '. ' +
+        'The absence is recorded rather than asserted — the town was searched, and ' +
+        'nothing was located.';
+  }
+  const bits = [];
+  if (r.peak)
+    bits.push('<b>' + fmt(r.peak) + '</b> ballots across <b>' + r.n + '</b> contest' +
+              (r.n === 1 ? '' : 's') + ' on ' + longDate(r.date) + '.');
+  else
+    bits.push('<b>' + r.n + '</b> contest' + (r.n === 1 ? '' : 's') + ' on ' +
+              longDate(r.date) + '. ' + ({
+      floor: '<b>The officers were elected on the floor of Town Meeting</b>, so no ' +
+             'ballots were cast and there is no turnout to report. The minutes ' +
+             'record only that a quorum was deemed present.',
+      preballot: '<b>No counts were published</b>: the record here comes from the ' +
+                 'town’s sample ballot, which names who stood and cannot say ' +
+                 'who won or how many voted.',
+      nocounts: '<b>No counts were published</b> — the source named who was ' +
+                'elected and printed no numbers.',
+    }[r.nocount_why] || '<b>No counts were published.</b>'));
+  if (r.turnout && !r.nocount)
+    bits.push('<b>' + pct(r.turnout) + '</b> of ' + fmt(r.reg) + ' registered.');
+  const unc = r.n - r.contested;
+  if (unc === r.n) bits.push('<b>Not one offered a choice.</b>');
+  else if (unc) bits.push('<b>' + unc + '</b> offered no choice.');
+  const closest = M.tmargin[KEY(name, YEAR)];
+  if (closest != null)
+    bits.push('Closest margin: ' + (closest * 100).toFixed(2) + ' points.');
+  return bits.join(' ');
+}
+
+const BASIS = {
+  snapshot: 'a count the Secretary of the Commonwealth published within six weeks ' +
+            'of polling day',
+  interpolated: 'interpolated between the published counts either side of polling day',
+  carried: 'the most recent count published before polling day, carried forward ' +
+           'unchanged rather than projected',
+  undefined: 'denominator basis not recorded',
+};
+
+function longDate(d) {
+  if (!d) return 'an unrecorded date';
+  const [y, m, dd] = d.split('-').map(Number);
+  return ['January','February','March','April','May','June','July','August',
+          'September','October','November','December'][m - 1] + ' ' + dd + ', ' + y;
+}
+
+function flagChips(codes, minSev) {
+  // Low-severity flags are near-universal (a term length is missing from most
+  // office strings in the corpus) and drown the page. They are not hidden: they
+  // are listed in full in the provenance drawer and in the table below.
+  const rank = {high: 0, medium: 1, low: 2, note: 3};
+  const keep = (codes || []).filter(c => M.qadefs[c] &&
+    rank[M.qadefs[c].sev] <= (minSev === undefined ? 1 : minSev));
+  if (!keep.length) return '';
+  return '<div class="flags">' + keep.map(c => {
+    const q = M.qadefs[c]; if (!q) return '';
+    return '<span class="flag ' + q.sev + '" title="' + esc(q.why) + '">' + esc(q.lab) + '</span>';
+  }).join('') + '</div>';
+}
+
+function drawTown() {
+  const name = TOWN, k = KEY(name, YEAR), r = M.ty[k];
+  const meta = M.towns[name] || {};
+  let h = '<div class="kicker">' + esc(meta.co || '') + ' County &middot; ' +
+          esc(meta.form || '') + '</div>' +
+          '<h3>' + esc(name) + ' <span class="yr">' + YEAR + '</span></h3>' +
+          '<p class="lede">' + ledeFor(name, r) + '</p>';
+
+  if (!r) { $('#paper').innerHTML = h; return; }
+
+  h += '<div class="facts">' + [
+    ['Ballots cast', r.peak ? fmt(r.peak) : '—',
+     r.peak_from_doc ? 'stated by the document' : r.peak ? 'busiest contest' : 'none published'],
+    ['Turnout', r.nocount ? 'n/a' : r.turnout == null ? '—' : pct(r.turnout),
+     r.nocount ? ({floor: 'no ballot was cast', preballot: 'sample ballot only'}
+                  [r.nocount_why] || 'no counts published') :
+       r.reg ? 'of ' + fmt(r.reg) + ' registered' : 'no denominator'],
+    ['Contests', String(r.n), r.contested + ' contested'],
+    ['Seats filled', String(r.seats), ''],
+    ['Source', r.pub || (r.kind === 'official' ? 'The municipality'
+                        : r.kind === 'news' ? 'A news outlet' : 'Not recorded'),
+     ({official: 'official', news: 'news report', thirdparty: 'republished'}[r.kind]
+       || 'unclassified') + ' · ' + (r.has_src ? 'text kept' : 'no text')],
+  ].map(([a, b, c]) => '<div><div class="k">' + a + '</div><div class="v">' + b +
+       '</div><div class="n">' + c + '</div></div>').join('') + '</div>';
+
+  if (r.printed) {
+    const p = r.printed, say = [];
+    if (p.cast) say.push(fmt(p.cast) + ' ballots cast');
+    if (p.reg) say.push(fmt(p.reg) + ' registered');
+    if (p.turnout) say.push(p.turnout.toFixed(2) + '% turnout');
+    h += '<p class="cnote" style="margin-top:12px">The document states its own figures — ' +
+         say.join(', ') + ' — which is an independent check on the two numbers above.</p>';
+  }
+
+  h += flagChips(r.qa);
+
+  h += '<div class="contests">' + r.races.map((race, ri) => {
+    const won = winners(race);
+    const rows = race.cands.map(c => {
+      const isw = won.has(c[0]);
+      const share = race.cast && c[1] > 0 ? c[1] / race.cast : null;
+      return '<div class="crow' + (isw ? ' won' : '') + '">' +
+        '<button class="nm" data-r="' + ri + '" data-c="' + esc(c[0]) + '">' + esc(c[0]) +
+        (isw ? '<span class="win">elected</span>' : '') + '</button>' +
+        '<span class="v' + (c[1] < 0 ? ' sent' : c[3] === 1 ? ' grounded'
+                            : c[3] === 2 ? ' ocr'
+                            : c[3] === 3 ? ' namedonly'
+                            : c[3] === 0 ? ' ungrounded' : '') + '" title="' +
+          (c[3] === 1 ? 'This figure is printed on the source line'
+           : c[3] === 2 ? 'The source prints ' + (c[6] || '') + ' — the same figure '
+             + 'with one character the scanner misread'
+           : c[3] === 3 ? 'The document names this candidate and prints no '
+             + 'figure beside them'
+           : c[3] === 0 ? 'The name is on the source line; this figure is not' : '') +
+          '">' + (c[5] != null ? esc(String(c[5])) : voteCell(c[1], race.nocounts)) + '</span>' +
+        '<span class="p">' + (share == null ? '' : pct(share, 1)) + '</span></div>';
+    }).join('');
+    const tally = race.extras.map(e =>
+      '<div class="crow tally"><span class="nm">' + esc(e[0]) + '</span>' +
+      '<span class="v">' + fmt(e[1]) + '</span><span class="p">' +
+      (race.cast ? pct(e[1] / race.cast, 1) : '') + '</span></div>').join('');
+    const sN = seatsOf(race);
+    const seatnote = sN + ' seat' + (sN === 1 ? '' : 's') +
+      (race.term ? ' · ' + race.term + '-year term' : '');
+    const notes = [];
+    if (race.cast) notes.push(fmt(race.cast) + ' votes counted');
+    if (race.eseats)
+      notes.push('seats from the arithmetic: ' + fmt(race.cast) + ' = ' + race.eseats +
+                 ' × ' + fmt(r.peak) + ' ballots, against ' + race.seats + ' on the record');
+    if (race.short != null)
+      notes.push('only ' + Math.round(race.short * 100) + '% of the ' + sN + ' × ' +
+                 fmt(r.peak) + ' marks this contest should hold');
+    if (!race.cands.length)
+      notes.push('no candidate stood');
+    else if (race.cands.length <= sN) notes.push('no more candidates than seats');
+    // The precinct or ward, where the office string carried one. Two contests
+    // called `Town Meeting Member` in the same town are only distinguishable by it.
+    const scope = race.scope ? ' <span class="scope">' + esc(race.scope) + '</span>' : '';
+    return '<div class="contest"><h4>' + esc(race.office) + scope + '<span>' + seatnote +
+      '</span></h4>' + rows + tally +
+      '<div class="cnote">' + notes.join(' · ') + '</div>' +
+      flagChips(race.qa) + '</div>';
+  }).join('') + '</div>';
+
+  $('#paper').innerHTML = h;
+  $('#paper').querySelectorAll('.crow .nm[data-c]').forEach(b =>
+    b.onclick = () => openProv(name, YEAR, +b.dataset.r, b.dataset.c));
+}
+
+/* =====================================================================
+   Provenance drawer — the point of the whole exercise
+   ===================================================================== */
+
+/* The converters routinely lose the spaces: `400MatthewRichardGunn-Elected`.
+   Respacing is a display aid and is labelled as one; the exact converted text is
+   always one click away. */
+function respace(s) {
+  return s
+    .replace(/([0-9])([A-Za-z])/g, '$1 $2')
+    .replace(/([A-Za-z])([0-9])/g, '$1 $2')
+    .replace(/([a-z.])([A-Z])/g, '$1 $2')
+    .replace(/\s*-\s*(Elected|Re-?elected|Write)/gi, ' — $1')
+    .replace(/\s+/g, ' ').trim();
+}
+
+function highlight(text, name) {
+  const parts = name.split(/\s+/).filter(w => w.replace(/\W/g, '').length > 2);
+  let out = esc(text);
+  const tryOne = w => {
+    const rx = new RegExp('(' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'i');
+    if (rx.test(out)) { out = out.replace(rx, '<mark>$1</mark>'); return true; }
+    return false;
+  };
+  if (!tryOne(esc(name))) parts.forEach(tryOne);
+  return out;
+}
+
+function facsimile(cells, name) {
+  let raw = cells.join(' | ');
+  const body = cells.map(c => {
+    const isNum = /^[\d,]+$/.test(c);
+    return '<div class="cell' + (isNum ? ' num' : '') + '">' +
+      highlight(respace(c), name) + '</div>';
+  }).join('');
+  return '<div class="fac"><div class="fh"><span>As printed in the source document ' +
+    '(spacing reconstructed)</span><button data-raw="1">exact text</button></div>' +
+    '<div class="cells">' + body + '</div>' +
+    '<div class="raw" hidden>' + esc(raw) + '</div></div>';
+}
+
+function openProv(name, year, ri, cname) {
+  const r = M.ty[KEY(name, year)], race = r.races[ri];
+  const c = race.cands.find(x => x[0] === cname);
+  const won = winners(race).has(cname);
+  const share = race.cast ? c[1] / race.cast : null;
+
+  $('#dkick').textContent = name + ' ' + year + ' · ' + race.office;
+  $('#dname').textContent = cname;
+  const share2 = race.cast && c[1] > 0 ? c[1] / race.cast : null;
+  $('#dsub').textContent = (won ? 'Elected. ' : '') +
+    (c[5] != null ? 'Vote value: ' + c[5]
+                  : c[1] < 0 ? 'No vote count published' : fmt(c[1]) + ' votes') +
+    (share2 == null ? '' : ' · ' + pct(share2, 1) + ' of ballots cast') +
+    ' · ' + longDate(race.date);
+
+  const grounded = c[3] === 2
+      ? 'The source prints <b>' + esc(String(c[6] || '')) + '</b> where the record '
+        + 'says <b>' + fmt(c[1]) + '</b> — the same figure with one character '
+        + 'the scanner misread. Shown rather than corrected.'
+    : c[3] === 1 && c[4] === c[2]
+      ? 'The vote total is printed on that line too.'
+    : c[3] === 1 ? 'The vote total is printed under the name, in a document laid '
+      + 'out one value to a line.'
+    : c[3] === 3 ? 'The document <b>names this candidate and prints no figure '
+      + 'for them</b>. The return lists this contest’s write-ins as bare '
+      + 'names and stops — there is no tally on the page to show, for '
+      + 'anyone in the list. That is what the clerk printed, not a figure this '
+      + 'page failed to find.'
+    : c[3] === 0 ? 'The name is on that line. <b>The figure is not</b> \u2014 the '
+      + 'total came from the parse, and this page cannot show it to you in the source.'
+    : '';
+  // The document spells the name differently by one letter. Say so, both ways
+  // round: sometimes the record carries the typo (`LaFlammme`), sometimes the
+  // scanner does (`kronholim`), and this page is not in a position to say which.
+  const nearName = c[7]
+    ? '<p class="near">Located by name with <b>one letter different</b>: the record '
+      + 'says <b>' + esc(c[0]) + '</b>, the document reads <b>' + esc(String(c[7]))
+      + '</b>. Shown rather than corrected — the difference may be a typo in '
+      + 'the record or a character the scanner misread, and nothing here can tell '
+      + 'which.</p>'
+    : '';
+  // The total is the sum of two printed rows. Needham 2024 splits every candidate
+  // into a machine count and a hand count, so the figure the record holds appears
+  // nowhere on its own -- but both of its parts do, one line under the other.
+  const splitNote = c[8]
+    ? '<p class="near">This total is the <b>sum of two printed rows</b>: '
+      + '<b>' + fmt(c[8][0]) + '</b> counted by machine and <b>' + fmt(c[8][1])
+      + '</b> by hand, on the line beneath. The figure itself is printed nowhere; '
+      + 'both of its parts are.</p>'
+    : '';
+  // The same person on two lines of the document, combined into one row.
+  const combinedNote = c[10]
+    ? '<p class="near">The return lists this candidate <b>twice</b> — '
+      + c[10].map(fmt).join(' and ') + ' — once among the candidates and '
+      + 'again in the write-in list. A write-in for someone already on the ballot '
+      + 'is still a vote for them, so the rows are combined here and both are '
+      + 'shown; the contest closes on the same total either way.</p>'
+    : '';
+  const claim = c[1] < 0
+    ? 'CivicAtlas says <b>' + esc(cname) + '</b> took <b>' + esc(race.office) + '</b> in ' +
+      esc(name) + ' on ' + longDate(race.date) + ' ' +
+      (c[1] === -3 ? 'as a write-in whose count the source did not separate from its All '
+                   + 'Others total' : 'unopposed, with no per-candidate count published') +
+      '. No vote total is claimed, because none exists.'
+    : 'CivicAtlas says <b>' + esc(cname) + '</b> received <b>' +
+      (c[5] != null ? esc(String(c[5])) : fmt(c[1])) + '</b> votes for <b>' +
+      esc(race.office) + '</b> in ' + esc(name) + ' on ' + longDate(race.date) +
+      (won ? ', and was elected' : '') + '.';
+  // OPEN THE DOCUMENT AT THE PAGE, NOT AT THE FRONT.
+  //
+  // The parser did not read these returns as text; it read them as IMAGES,
+  // through a vision model. So the most faithful evidence for a figure is the
+  // page it was printed on, and everything else here is a re-reading of that
+  // page in text. A thirteen-page scan opened at page one asks the reader to
+  // find the row themselves.
+  //
+  // Nothing is cropped and no images are stored: a PDF opened at `#page=N` is
+  // rendered by the browser from the document the town already serves. All this
+  // needs is the page each pooled line came off, which the readings this project
+  // renders already write as a `page N` rule between pages, and which was being
+  // thrown away.
+  //
+  // Only offered where the citation really is a PDF -- a results web page has no
+  // pages to open -- and only where a page is known.
+  function pageLink(r, c) {
+    const lp = r.linepages;
+    if (!lp) return '';
+    const i = (c[4] >= 0 ? c[4] : c[2]);
+    let pg = (i >= 0 && i < lp.length) ? lp[i] : null;
+    // A row with no page of its own takes the CONTEST's, where every other row of
+    // the contest agrees on one page. An inference rather than an observation, so
+    // it is worded as one below.
+    const byContest = (!pg && race && race.contestpage) ? race.contestpage : null;
+    if (byContest) pg = byContest;
+    if (!pg) return '';
+    const u = (r.chain || []).map(s => s.url).filter(Boolean)
+      .find(x => /\.pdf(\?|#|$)/i.test(x)) || (/\.pdf(\?|#|$)/i.test(r.url || '') ? r.url : '');
+    // WHAT THE PAGE IS EVIDENCE OF DEPENDS ON WHAT WAS FOUND. Where the figure
+    // itself was located, the page is the page it is printed on. Where only the
+    // NAME was located -- which is the case for 386 vote totals here -- saying
+    // `printed on page N` would assert of the figure exactly the thing this page
+    // has just finished saying it cannot show. The page is still worth offering,
+    // and is the most useful thing left to offer: it is where a reader can go and
+    // read the number off the document themselves.
+    const shown = c[4] >= 0;
+    const at = 'page ' + pg + ' of the document';
+    const lead = byContest ? 'Every other row of this contest is on '
+      : shown ? 'Printed on ' : 'The name is on ';
+    const tail = byContest
+      ? ', so this row is printed there too — neither the name nor the '
+        + 'figure could be found in our text of that page.'
+      : shown ? '.'
+      : ', where the figure can be read off the document directly — our '
+        + 'text of that page could not be read well enough to show it here.';
+    return u
+      ? '<p class="cnote">' + lead + '<a href="' + esc(u) + '#page=' + pg +
+        '" target="_blank" rel="noopener">' + at + '</a>' + tail + '</p>'
+      : '<p class="cnote">' + lead + at + tail + '</p>';
+  }
+
+  let h = '<div class="dsec"><h5>The claim</h5><p class="claim">' + claim + '</p></div>';
+
+  h += '<div class="dsec"><h5>The line it was read from</h5>' +
+    (c[2] >= 0 && r.lines[c[2]]
+      ? facsimile(r.lines[c[2]], cname) +
+        (c[4] >= 0 && c[4] !== c[2] && r.lines[c[4]]
+          ? '<p class="cnote" style="margin:6px 0 4px">and the figure, printed below ' +
+            'it in the same column:</p>' + facsimile(r.lines[c[4]], String(c[1]))
+          : '') +
+        (grounded ? '<p class="cnote" style="margin-top:6px">' + grounded + '</p>' : '') +
+        nearName + splitNote + combinedNote
+      : '<p class="miss">' + (r.has_src
+          ? 'This name could not be located anywhere in the converted source text. ' +
+            'The vote total may still be right — but on this page, it is unevidenced.'
+          : 'No converted source text was kept for this town-year, so the number cannot ' +
+            'be traced back to a printed line here.') + '</p>') +
+    (r.srcfile ? '<p class="cnote">' + esc(r.srcfile) + '</p>' : '') +
+    pageLink(r, c) + '</div>';
+
+  h += '<div class="dsec"><h5>How the document got here</h5>' +
+    (r.chain.length
+      ? '<ol class="steps">' + r.chain.map(s =>
+          '<li><div class="l">' + esc(s.lab) + '</div><div class="t">' + esc(s.v) + '</div>' +
+          (s.url ? '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
+                   esc(s.url) + '</a>' : '') + '</li>').join('') + '</ol>'
+      : '<p class="miss">No chain of custody was recorded for this town-year.</p>') + '</div>';
+
+  // TWO SOURCES, DIFFERENT NAMES. The flag for this has always said `both are
+  // shown; neither is silently preferred`, and nothing on the page showed either
+  // of them -- the disagreement existed only as a QA code. Show the two readings
+  // side by side, and where it has been settled, say so and say on what.
+  if (r.conflict && r.conflict.length)
+    h += '<div class="dsec"><h5>Where the sources disagree</h5>' +
+      '<table class="conf"><thead><tr><th>Office</th><th>This record</th>' +
+      '<th>The other account</th></tr></thead><tbody>' +
+      r.conflict.map(c => '<tr><td>' + esc(c.office) + '</td><td>' + esc(c.record) +
+        '</td><td class="alt">' + esc(c.other) + '</td></tr>').join('') +
+      '</tbody></table>' +
+      (r.conflict_src ? '<p class="cnote">' + esc(r.conflict_src) + '</p>' : '') +
+      (r.conflict_resolved
+        ? '<p class="resolved">' + esc(r.conflict_resolved) + '</p>'
+        : '<p class="cnote">Unresolved: neither account is preferred here.</p>') +
+      '</div>';
+
+  if (r.gaps && r.gaps.length)
+    h += '<div class="dsec"><h5>What we cannot show you</h5><ul class="gaps">' +
+      r.gaps.map(g => '<li>' + esc(g) + '</li>').join('') + '</ul></div>';
+
+  const codes = [...new Set([...(race.qa || []), ...(r.qa || [])])];
+  if (codes.length)
+    h += '<div class="dsec"><h5>Known defects touching this number</h5>' +
+      codes.map(q => M.qadefs[q] ? '<div class="qadef ' + M.qadefs[q].sev + '"><b>' +
+        esc(M.qadefs[q].lab) + '</b><p>' + esc(M.qadefs[q].why) + '</p></div>' : '').join('') +
+      '</div>';
+
+  h += '<div class="dsec"><h5>Extraction</h5><p class="cnote" style="font-size:14px">' +
+    'Office as printed: <i>' + esc(race.raw || race.office) + '</i>. Seats: ' +
+    (race.eseats ? race.eseats + ' (the record says ' + race.seats + '; the arithmetic ' +
+      'closes on ' + race.eseats + ')' : race.seats) + '. Extraction confidence: ' +
+    (race.conf == null ? 'not recorded' : race.conf) + '.</p></div>';
+
+  $('#dbody').innerHTML = h;
+  $('#dbody').querySelectorAll('[data-raw]').forEach(b => b.onclick = () => {
+    const raw = b.closest('.fac').querySelector('.raw');
+    const cells = b.closest('.fac').querySelector('.cells');
+    const showing = raw.hidden;
+    raw.hidden = !showing; cells.hidden = showing;
+    b.textContent = showing ? 'reconstructed' : 'exact text';
+  });
+  $('#drawer').setAttribute('data-open', 'true');
+  $('#drawer').setAttribute('aria-hidden', 'false');
+  $('#scrim').setAttribute('data-open', 'true');
+}
+function closeProv() {
+  $('#drawer').setAttribute('data-open', 'false');
+  $('#drawer').setAttribute('aria-hidden', 'true');
+  $('#scrim').setAttribute('data-open', 'false');
+}
+$('#dx').onclick = closeProv;
+$('#scrim').onclick = closeProv;
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeProv(); });
+
+/* =====================================================================
+   Decided by a handful
+   ===================================================================== */
+seg($('#segThr'), M.thresholds.map(t => [t, (+t * 100) + '%']), THR,
+    v => { THR = v; drawMargins(); });
+seg($('#segDir'), [['close', 'Closest'], ['wide', 'Widest']], DIR, v => { DIR = v; drawMargins(); });
+seg($('#segBy'), [['gap', 'By votes'], ['pct', 'By share']], BY, v => { BY = v; drawMargins(); });
+
+function drawMargins() {
+  const list = (M[DIR + (BY === 'pct' ? '_pct' : '')][THR] || []).slice(0, 15);
+  const rows = list.map(d =>
+    '<tr><td><button class="town" data-t="' + esc(d.muni) + '" data-y="' + d.year + '">' +
+      esc(d.muni) + '</button> <span class="who">' + d.year + '</span></td>' +
+    '<td>' + esc(d.office) + '</td>' +
+    '<td class="n"><b>' + fmt(d.gap) + '</b></td>' +
+    '<td class="n">' + (d.pct * 100).toFixed(2) + '%</td>' +
+    '<td class="who">' + esc(d.won) + ' ' + fmt(d.won_v) + ' &middot; ' +
+      esc(d.lost) + ' ' + fmt(d.lost_v) + '</td>' +
+    '<td class="n">' + fmt(d.cast) + '</td></tr>').join('');
+
+  const T = M.ties[THR] || [];
+  const ties = T.length ? '<p class="cnote" style="margin-top:10px"><b>' + T.length +
+    ' ended in an exact tie</b>: ' +
+    T.slice(0, 6).map(t => esc(t.muni) + ' ' + t.year + ' (' + esc(t.office) + ')').join('; ') +
+    '.</p>' : '';
+
+  $('#marginTable').innerHTML = '<table><thead><tr><th>Municipality</th><th>Office</th>' +
+    '<th class="n">Margin</th><th class="n">Share</th>' +
+    '<th>Winner of the last seat &middot; runner-up</th><th class="n">Ballots</th>' +
+    '</tr></thead><tbody>' + rows + '</tbody></table>' +
+    '<p class="cnote" style="margin-top:10px">' + fmt(M.contested_at[THR]) +
+    ' contested races at this threshold.</p>' + ties;
+  $('#marginTable').querySelectorAll('button.town').forEach(b => b.onclick = () => {
+    TOWN = b.dataset.t; YEAR = b.dataset.y;
+    [...$('#segYear').children].forEach(x => x.setAttribute('aria-pressed', x.dataset.v === YEAR));
+    drawTownYearSeg(); repaint(); drawTown();
+    $('#town').scrollIntoView({block: 'start'});
+  });
+}
+
+/* =====================================================================
+   Data quality
+   ===================================================================== */
+function drawQA() {
+  const count = {};
+  Object.values(M.ty).forEach(r => {
+    new Set([...(r.qa || []), ...r.races.flatMap(x => x.qa || [])]).forEach(q =>
+      count[q] = (count[q] || 0) + 1);
+  });
+  const order = Object.keys(M.qadefs).sort((a, b) =>
+    ({high: 0, medium: 1, low: 2, note: 3}[M.qadefs[a].sev] - {high: 0, medium: 1, low: 2, note: 3}[M.qadefs[b].sev])
+    || (count[b] || 0) - (count[a] || 0));
+  $('#qa').innerHTML =
+    '<table style="margin-top:14px"><thead><tr><th>Defect</th><th>Severity</th>' +
+    '<th class="n">Town-years</th><th>Why it matters</th></tr></thead><tbody>' +
+    order.map(q => '<tr><td><b>' + esc(M.qadefs[q].lab) + '</b></td>' +
+      '<td><span class="flag ' + M.qadefs[q].sev + '">' + M.qadefs[q].sev + '</span></td>' +
+      '<td class="n">' + fmt(count[q] || 0) + '</td>' +
+      '<td class="who">' + esc(M.qadefs[q].why) + '</td></tr>').join('') +
+    '</tbody></table>' +
+    '<p class="cnote" style="margin-top:12px;font-size:13.5px">' +
+    fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows (' +
+    pct(S.lines_matched / S.cands, 0) + ') trace to a literal line of source text. ' +
+    'Statewide register, 2021–2026: <a href="../audit.html">the defect register</a>.</p>';
+}
+
+/* =====================================================================
+   boot
+   ===================================================================== */
+$('#rail').innerHTML = [
+  ['Municipalities', fmt(S.towns_with), 'of the 351, with a result in at least one year'],
+  ['Contests', fmt(S.races), fmt(S.contested) + ' offered a real choice'],
+  ['Candidates', fmt(S.cands), fmt(S.lines_matched) + ' names traced to a line'],
+  ['Figures traced', fmt(S.figures_grounded),
+   'of ' + fmt(S.figures_checkable) + ' vote totals found on that same line'],
+  ['Votes counted', fmt(S.votes), 'across both years'],
+  ['Turnout coverage', fmt(S.with_reg), 'town-years with a registered-voter denominator'],
+  ['Fully confirmed', fmt(S.confirmed),
+   'town-years where every name and every number was found in the document'],
+].map(([k, v, n]) => '<div><div class="k">' + k + '</div><div class="v">' + v +
+    '</div><div class="n">' + n + '</div></div>').join('');
+$('#mastcount').innerHTML = '<b>' + fmt(S.town_years) + '</b> town-years &middot; <b>' +
+  fmt(S.races) + '</b> contests &middot; <b>' + fmt(S.cands) + '</b> candidates';
+
+$('#foot').innerHTML =
+  '<b>Results</b> from 351 municipal clerks, town websites, annual reports and local news, ' +
+  'mirrored and converted to text. <b>Registered voters</b> from the Secretary of the ' +
+  'Commonwealth: seven published snapshots, interpolated to each election date and ' +
+  'reconciled against every county total. <b>Boundaries</b> from the MassGIS municipal ' +
+  'survey, rotated ' + G.rotation.toFixed(1) + '\u00b0 onto the smallest rectangle that ' +
+  'encloses the Commonwealth. There is no state archive of these offices; PD43+ covers ' +
+  'state and federal races only.' +
+  '<br><br>Generated by <code>build_geo.py</code> and <code>build_mvp.py</code>, both ' +
+  'read-only over the published corpus \u2014 ' + M.generated + '. ' +
+  'Method: <a href="README.md">mvp/README.md</a>. ' +
+  'Other directions: <a href="../">the Civic Atlas index</a>.';
+
+drawMap(); repaint(); drawTown(); drawTownYearSeg(); drawMargins(); drawQA();
+</script>
+</body>
+</html>

@@ -1,0 +1,171 @@
+{
+  "document": {
+    "heading_verbatim": "Richmond, MA -- Annual Town Election, Saturday 20 May 2023 -- WINNERS ONLY",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Saturday 20 May 2023",
+    "offices_on_ballot": 10,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Every race was uncontested.",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roger Manzolini",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Town Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Martin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Karen Youdelman",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Ina Wilhelm",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Tom Forstner",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Nate Steele",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Finance Committee (Chairman)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Gniadek",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas Bruce",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn Wilson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2023-05-20",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laurence Cohen",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Claudia Ryan",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Richmond2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

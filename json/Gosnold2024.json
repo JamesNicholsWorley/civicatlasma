@@ -1,0 +1,113 @@
+{
+  "elections": [
+    {
+      "municipality": "Gosnold",
+      "date": "2024-05-20",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leo Roy",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gosnold",
+      "date": "2024-05-20",
+      "office_original": "Selectboard member, Board of Health member",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Win Sanford",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gosnold",
+      "date": "2024-05-20",
+      "office_original": "School Committee member",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paula DiMare",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Renata Davidson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gosnold",
+      "date": "2024-05-20",
+      "office_original": "Public Library Trustee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa Wright",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Jane Chalton",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Gosnold",
+      "date": "2024-05-20",
+      "office_original": "Harbor Committee member",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ralph Cataldo",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Paula DiMare",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Gosnold2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gosnold2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

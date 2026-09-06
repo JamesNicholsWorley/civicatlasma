@@ -1,0 +1,412 @@
+{
+  "elections": [
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "Councilor-At-Large",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 532,
+          "votes_by_precinct": {
+            "#1": 132,
+            "#2": 69,
+            "#3": 117,
+            "#4": 145,
+            "#5": 69
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Michael J. Marketti",
+          "votes": 483,
+          "votes_by_precinct": {
+            "#1": 109,
+            "#2": 51,
+            "#3": 98,
+            "#4": 174,
+            "#5": 51
+          }
+        },
+        {
+          "name_original": "George Philip Chenier",
+          "votes": 320,
+          "votes_by_precinct": {
+            "#1": 82,
+            "#2": 28,
+            "#3": 70,
+            "#4": 111,
+            "#5": 29
+          }
+        },
+        {
+          "name_original": "Nicholas J. Dadalt",
+          "votes": 353,
+          "votes_by_precinct": {
+            "#1": 91,
+            "#2": 37,
+            "#3": 62,
+            "#4": 130,
+            "#5": 33
+          }
+        },
+        {
+          "name_original": "Michael G. Montigny",
+          "votes": 605,
+          "votes_by_precinct": {
+            "#1": 130,
+            "#2": 60,
+            "#3": 150,
+            "#4": 214,
+            "#5": 51
+          }
+        },
+        {
+          "name_original": "Jasmin Rivas",
+          "votes": 473,
+          "votes_by_precinct": {
+            "#1": 117,
+            "#2": 52,
+            "#3": 103,
+            "#4": 143,
+            "#5": 58
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 3,
+          "votes_by_precinct": {
+            "#1": 2,
+            "#2": 0,
+            "#3": 0,
+            "#4": 1,
+            "#5": 0
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "School Committee - 3 Years",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 763,
+          "votes_by_precinct": {
+            "#1": 173,
+            "#2": 82,
+            "#3": 189,
+            "#4": 237,
+            "#5": 82
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Andrew Threlfal-Murch",
+          "votes": 453,
+          "votes_by_precinct": {
+            "#1": 115,
+            "#2": 45,
+            "#3": 86,
+            "#4": 160,
+            "#5": 47
+          }
+        },
+        {
+          "name_original": "Kathryn M. Lapriore",
+          "votes": 623,
+          "votes_by_precinct": {
+            "#1": 152,
+            "#2": 69,
+            "#3": 123,
+            "#4": 215,
+            "#5": 64
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 7,
+          "votes_by_precinct": {
+            "#1": 2,
+            "#2": 2,
+            "#3": 2,
+            "#4": 0,
+            "#5": 1
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "School Committee - 1 Years",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 797,
+          "votes_by_precinct": {
+            "#1": 187,
+            "#2": 84,
+            "#3": 201,
+            "#4": 242,
+            "#5": 83
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Timothy E. Messier",
+          "votes": 571,
+          "votes_by_precinct": {
+            "#1": 134,
+            "#2": 59,
+            "#3": 113,
+            "#4": 200,
+            "#5": 65
+          }
+        },
+        {
+          "name_original": "Wallace A. MacKenzie",
+          "votes": 473,
+          "votes_by_precinct": {
+            "#1": 118,
+            "#2": 55,
+            "#3": 86,
+            "#4": 169,
+            "#5": 45
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 5,
+          "votes_by_precinct": {
+            "#1": 3,
+            "#2": 0,
+            "#3": 0,
+            "#4": 1,
+            "#5": 1
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "Board of Assessors Office",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 261,
+          "votes_by_precinct": {
+            "#1": 64,
+            "#2": 27,
+            "#3": 69,
+            "#4": 74,
+            "#5": 27
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Diane E. Kokoszka",
+          "votes": 657,
+          "votes_by_precinct": {
+            "#1": 156,
+            "#2": 70,
+            "#3": 130,
+            "#4": 232,
+            "#5": 69
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 5,
+          "votes_by_precinct": {
+            "#1": 1,
+            "#2": 2,
+            "#3": 1,
+            "#4": 0,
+            "#5": 1
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "Southern Worc County Regional",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 186,
+          "votes_by_precinct": {
+            "#1": 39,
+            "#2": 19,
+            "#3": 44,
+            "#4": 64,
+            "#5": 20
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Helen I. Lenti",
+          "votes": 734,
+          "votes_by_precinct": {
+            "#1": 181,
+            "#2": 79,
+            "#3": 156,
+            "#4": 242,
+            "#5": 76
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 3,
+          "votes_by_precinct": {
+            "#1": 1,
+            "#2": 1,
+            "#3": 0,
+            "#4": 0,
+            "#5": 1
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "Sbdge Redev Authority - 5 yrs",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 316,
+          "votes_by_precinct": {
+            "#1": 79,
+            "#2": 31,
+            "#3": 80,
+            "#4": 98,
+            "#5": 28
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Andrew Threlfal-Murch",
+          "votes": 595,
+          "votes_by_precinct": {
+            "#1": 138,
+            "#2": 66,
+            "#3": 118,
+            "#4": 206,
+            "#5": 67
+          }
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 12,
+          "votes_by_precinct": {
+            "#1": 4,
+            "#2": 2,
+            "#3": 2,
+            "#4": 2,
+            "#5": 2
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2022-06-14",
+      "office_original": "Sbdge Housing Authority - 5 yrs",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 833,
+          "votes_by_precinct": {
+            "#1": 198,
+            "#2": 87,
+            "#3": 184,
+            "#4": 282,
+            "#5": 82
+          },
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 90,
+          "votes_by_precinct": {
+            "#1": 23,
+            "#2": 12,
+            "#3": 16,
+            "#4": 24,
+            "#5": 15
+          },
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Southbridge2022",
+  "document": {
+    "heading_verbatim": "Annual Town Election 2022",
+    "turnout_verbatim": "Total ballots cast 923; precincts 221 / 99 / 200 / 306 / 97",
+    "date_corroboration": {
+      "source": "Southbridge Home Rule Charter 11-1-1, bracketed by the corpus's own 2021 and 2023 Southbridge returns",
+      "value": "2022-06-14",
+      "strength": "corroborated",
+      "quote": "the table prints only \"2022\" and no document names the day. Southbridge Home Rule Charter 11-1-1: \"The regular election for all town offices shall be by official ballot held on the second Tuesday in June.\" The second Tuesday of June 2022 is 14 June. This is BRACKETED, not extrapolated: the corpus publishes Southbridge 2021-06-08 and 2023-06-13, both second Tuesdays, and the warrant printed on p21 of the 2021 Annual Town Report reads \"On Tuesday, June 8, 2021\" -- so the second-Tuesday rule was in force on both sides of 2022. (The 2003/2013 charter text said \"last Tuesday\", which is why the bracket and not the charter alone is the evidence.)",
+      "citation": "https://www.ci.southbridge.ma.us/DocumentCenter/View/5012/Southbridge-Home-Rule-Charter-with-revisions-from-2025-local-election-revised-31226",
+      "note": "the document itself prints no day; established 2026-08-24 by src/land_southbridge2022.py"
+    },
+    "provenance": "owner-supplied via Ingest 8: a Facebook group post of the clerk's results table. The scontent-iad6-1.xx.fbcdn.net JPEG was fetched 2026-08-24, six days before its oe= token expired (2026-08-29T07:16:13Z), at 601x936 -- the only resolution the signature permits. Read by vision; every printed total verified in both directions against 923 ballots."
+  },
+  "_source_pdf": "data/pdfs/Southbridge2022.pdf",
+  "ballots_cast": 923,
+  "ballots_cast_source": "derived_from_contests"
+}

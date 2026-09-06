@@ -1,0 +1,329 @@
+{
+  "elections": [
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott D. Galvin",
+          "votes": 4351
+        },
+        {
+          "name_original": "Ellen Crowley",
+          "votes": 2200
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Patrick Concannon",
+          "votes": 4251
+        },
+        {
+          "name_original": "Robert J. Ferullo, Jr.",
+          "votes": 3820
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5295,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia A. Chisholm",
+          "votes": 3365
+        },
+        {
+          "name_original": "Colleen Marie Cormier",
+          "votes": 3388
+        },
+        {
+          "name_original": "Christopher T. Kisiel",
+          "votes": 3325
+        },
+        {
+          "name_original": "Andrew Lipsett",
+          "votes": 3147
+        },
+        {
+          "name_original": "Michael P. Mulrenan",
+          "votes": 3833
+        },
+        {
+          "name_original": "Shaun D. O'Keeffe",
+          "votes": 2940
+        },
+        {
+          "name_original": "Others",
+          "votes": 61,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13436,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward One",
+      "district_original": "Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne E. Campbell",
+          "votes": 558
+        },
+        {
+          "name_original": "Kevin C. Meaney",
+          "votes": 328
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Two",
+      "district_original": "Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard F. Gately, Jr.",
+          "votes": 523
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Three",
+      "district_original": "Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey P. Dillon",
+          "votes": 1001
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 180,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Four",
+      "district_original": "Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph E. Demers",
+          "votes": 695
+        },
+        {
+          "name_original": "Anthony David Caliri",
+          "votes": 223
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Five",
+      "district_original": "Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darlene A. Mercer-Bruen",
+          "votes": 708
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 167,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Six",
+      "district_original": "Ward Six",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lou DiMambro",
+          "votes": 442
+        },
+        {
+          "name_original": "Kerstin J. D. Lochrie",
+          "votes": 253
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2021-11-02",
+      "office_original": "Alderman Ward Seven",
+      "district_original": "Ward Seven",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael J. Lannan",
+          "votes": 439
+        },
+        {
+          "name_original": "Charles Viola",
+          "votes": 733
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Woburn2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Woburn2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

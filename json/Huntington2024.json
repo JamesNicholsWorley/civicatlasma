@@ -1,0 +1,216 @@
+{
+  "elections": [
+    {
+      "office_original": "Board of Selectmen",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "John McVeigh",
+          "votes": 47
+        },
+        {
+          "name_original": "Anthony J. Loughran",
+          "votes": 42
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Regional School Committee",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Lisa Goding",
+          "votes": 85
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Board of Health",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "George Peterson III",
+          "votes": 84
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Moderator",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Board of Assessors",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christine Stochlinski",
+          "votes": 83
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Town Clerk",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Michelle Fieldstad-Booth",
+          "votes": 87
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Water & Sewer Commissioner",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "H. Daniel Oliveira",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Constable",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Charles Dazelle",
+          "votes": 83
+        },
+        {
+          "name_original": "Deresa Helems",
+          "votes": 6
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Trustee, Alphonso Pettis Fund",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Karen Wittshirk",
+          "votes": 84
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Trustee, Library",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Tree Warden",
+      "district_original": null,
+      "municipality": "Huntington",
+      "date": "2024-05-11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Henry Sarafin",
+          "votes": 2
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Huntington2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

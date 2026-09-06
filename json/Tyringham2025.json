@@ -1,0 +1,227 @@
+{
+  "document": {
+    "date_verbatim": "Monday, May 19, 2025",
+    "election_type": "Regular",
+    "registered_voters": 367,
+    "ballots_cast": 25,
+    "certified_by": "Heather Ketchen, Town Clerk"
+  },
+  "elections": [
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Slater, Jr.",
+          "votes": 24
+        },
+        {
+          "name_original": "Blank",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine Mardula",
+          "votes": 20
+        },
+        {
+          "name_original": "Blank",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Louisa Marsh (Write-In)",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Selectman",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Consolati",
+          "votes": 25
+        },
+        {
+          "name_original": "Blank",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Park Commisioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brody Hale",
+          "votes": 19
+        },
+        {
+          "name_original": "Blank",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Andy Slater (Write-In)",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Tvrdy",
+          "votes": 23
+        },
+        {
+          "name_original": "Blank",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carol Hardy-Fanta",
+          "votes": 21
+        },
+        {
+          "name_original": "Blank",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "Cemetary Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Robert Freeman (Write-In)",
+          "votes": 4
+        },
+        {
+          "name_original": "William Roche (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Ashley Rivers (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Noah Choquette (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Al Wilcox (Write-In)",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Tyringham",
+      "date": "2025-05-19",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Eden Curtin (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Ashley Rivers (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Julianna Willey (Write-In)",
+          "votes": 1
+        },
+        {
+          "name_original": "Ann Gallo (Write-In)",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Tyringham2025",
+  "_derivation": "one-page clerk-certified results sheet received by email 2026-08-11; offices paired to vote blocks visually because the PDF text layer interleaves the columns; every office totals 25, matching the participation line",
+  "ballots_cast": 25,
+  "ballots_cast_source": "derived_from_contests"
+}

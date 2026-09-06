@@ -1,0 +1,50 @@
+{
+  "document": {
+    "heading_verbatim": "Millis, MA — Annual Town Election, May 11, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 11, 2026",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Uncontested offices (winner only; no vote totals reported)",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Millis",
+      "date": "2026-05-11",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James F. McKay",
+          "votes": 840
+        },
+        {
+          "name_original": "Erin T. Underhill",
+          "votes": 570
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Millis2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

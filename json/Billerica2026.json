@@ -1,0 +1,83 @@
+{
+  "elections": [
+    {
+      "municipality": "Billerica",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Mike Riley",
+          "votes": 2951
+        },
+        {
+          "name_original": "Mike Rosa",
+          "votes": 2261
+        },
+        {
+          "name_original": "John Burrows",
+          "votes": 1483
+        },
+        {
+          "name_original": "Kelley Sardina",
+          "votes": 1482
+        }
+      ],
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Billerica",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Sandra Giroux",
+          "votes": 2466
+        },
+        {
+          "name_original": "John McKenna",
+          "votes": 1171
+        },
+        {
+          "name_original": "George Simolaris",
+          "votes": 1159
+        }
+      ],
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Billerica",
+      "office_original": "Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "Laureen Knowles",
+          "votes": 2254
+        },
+        {
+          "name_original": "Daniel Rosa",
+          "votes": 1988
+        }
+      ],
+      "date": "2026-04-11",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Billerica2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

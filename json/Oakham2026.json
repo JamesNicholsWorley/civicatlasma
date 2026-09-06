@@ -1,0 +1,204 @@
+{
+  "elections": [
+    {
+      "office_original": "BOARD OF SELECTMEN - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "DONALD A. HAAPAKOSKI",
+          "votes": 78
+        },
+        {
+          "name_original": "FREDERICK J. GEHRING JR.",
+          "votes": 309
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "MODERATOR - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "MARK M. TURNBULL",
+          "votes": 334
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF ASSESSOR - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "SUSAN B. TURNBULL",
+          "votes": 324
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 74,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF HEALTH - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "BARBARA A. PIUCCI",
+          "votes": 252
+        },
+        {
+          "name_original": "LUCILLE DILEO",
+          "votes": 54
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 92,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF HEALTH MEMBER - TWO YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "SUSAN COLLETTE",
+          "votes": 147
+        },
+        {
+          "name_original": "LUCILLE DILEO",
+          "votes": 190
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 61,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY TRUSTEE - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "DAWN R. THISTLE",
+          "votes": 351
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD - FIVE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "MATTHEW A. BRODERICK",
+          "votes": 332
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "CEMETERY COMMISSION",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "MATTHEW ZEBADIAH BRUNELLE",
+          "votes": 325
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE - THREE YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "WALTHER H. NUTTER",
+          "votes": 320
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "CONSTABLE - TWO YEARS",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 398,
+          "tally_row": true
+        }
+      ],
+      "date": "2026-05-18",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Oakham2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Oakham2026.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2026-05-18",
+      "detail": "https://oakham-ma.gov/DocumentCenter/View/1016/Official-Annual-Town-Election-Results-5-18-2026pdf",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 398,
+  "ballots_cast_source": "derived_from_contests"
+}

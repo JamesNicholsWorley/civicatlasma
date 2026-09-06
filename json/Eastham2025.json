@@ -1,0 +1,124 @@
+{
+  "elections": [
+    {
+      "municipality": "Eastham",
+      "date": "2025-05-20",
+      "office_original": "SELECT BOARD (vote for two)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Suzanne Bryan",
+          "votes": 369
+        },
+        {
+          "name_original": "Gerald Cerasale",
+          "votes": 401
+        },
+        {
+          "name_original": "Brian Earley",
+          "votes": 88
+        },
+        {
+          "name_original": "W. Davis Hobbs",
+          "votes": 224
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 56,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Eastham",
+      "date": "2025-05-20",
+      "office_original": "NAUSET REGIONAL SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Moira Noonan-Kerry",
+          "votes": 495
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 74,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Eastham",
+      "date": "2025-05-20",
+      "office_original": "EASTHAM ELEMENTARY SCHOOL COMMITTEE (Vote for two)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sara Rebecca Higgins",
+          "votes": 467
+        },
+        {
+          "name_original": "Lindsay Palmer",
+          "votes": 456
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 215,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Eastham",
+      "date": "2025-05-20",
+      "office_original": "LIBRARY TRUSTEE (vote for two)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sara Rebecca Higgins",
+          "votes": 409
+        },
+        {
+          "name_original": "Robert Harnett",
+          "votes": 143
+        },
+        {
+          "name_original": "Michael Narracci",
+          "votes": 137
+        },
+        {
+          "name_original": "Robin Rowe",
+          "votes": 249
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Eastham2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Eastham2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

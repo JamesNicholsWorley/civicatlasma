@@ -1,0 +1,81 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF YARMOUTH OFFICIAL TOWN ELECTION MAY 17 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "TOWN ELECTION MAY 17 2022",
+    "date_verbatim": "MAY 17 2022",
+    "offices_on_ballot": 2,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Yarmouth",
+      "date": "2022-05-17",
+      "office_original": "BOARD OF SELECTMAN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael F. Stone",
+          "votes": 1266
+        },
+        {
+          "name_original": "Joe B. Glynn",
+          "votes": 501
+        },
+        {
+          "name_original": "Dorcas C. McGurrin",
+          "votes": 1087
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 427,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Yarmouth",
+      "date": "2022-05-17",
+      "office_original": "DY SCHOOL COMMITTEE",
+      "district_original": "Dennis-Yarmouth",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Tomas A. Tolentino",
+          "votes": 1290
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 351,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Yarmouth2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Yarmouth2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,152 @@
+{
+  "elections": [
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.82,
+      "candidates": [
+        {
+          "name_original": "Glen Sexton",
+          "votes": 119
+        },
+        {
+          "name_original": "Nathaniel Masse",
+          "votes": 110
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Richard Bombardier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Gregg Leonard",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Nate Laflamme",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Michael Lawrence Durham",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Stephanie Parent",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "George Bahlke",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2023-05-15",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Nita Abbott",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Paula Laptite",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Kathryn Mercier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Granby2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

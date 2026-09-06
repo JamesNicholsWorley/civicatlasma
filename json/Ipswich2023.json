@@ -1,0 +1,175 @@
+{
+  "elections": [
+    {
+      "municipality": "Ipswich",
+      "date": "2023-05-16",
+      "office_original": "Moderator 1 yr",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Murphy",
+          "votes": 936
+        },
+        {
+          "name_original": "James Engel",
+          "votes": 1091
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 455,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2023-05-16",
+      "office_original": "Select Board 3 yr",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda D. Alexson",
+          "votes": 1488
+        },
+        {
+          "name_original": "William D. Whitmore",
+          "votes": 1105
+        },
+        {
+          "name_original": "Michael S. Dougherty",
+          "votes": 1438
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 919,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2023-05-16",
+      "office_original": "Select Board 2 yr",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory Scott Churchill",
+          "votes": 800
+        },
+        {
+          "name_original": "Carl G. Nylen",
+          "votes": 1488
+        },
+        {
+          "name_original": "Charles D. Surpitski",
+          "votes": 1663
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1008,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2023-05-16",
+      "office_original": "School Committee 3 yr",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenny L. Connolly",
+          "votes": 875
+        },
+        {
+          "name_original": "Karen LaFarge",
+          "votes": 849
+        },
+        {
+          "name_original": "Mathew B. Perry",
+          "votes": 1737
+        },
+        {
+          "name_original": "Sasha Sopic",
+          "votes": 1587
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2357,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2023-05-16",
+      "office_original": "Housing Authority 5 yr",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn C. Gibbs",
+          "votes": 1659
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 802,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ipswich2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ipswich2023.pdf",
+  "ballots_cast": 2485,
+  "ballots_cast_source": "derived_from_contests"
+}

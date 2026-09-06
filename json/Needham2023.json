@@ -1,0 +1,786 @@
+{
+  "elections": [
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Needham Select Board - 2 seats",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Marianne B. Cooley",
+          "votes": 2190
+        },
+        {
+          "name_original": "Catherine Reid Dowd",
+          "votes": 2079
+        },
+        {
+          "name_original": "Joshua W. Levy",
+          "votes": 1633
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1083,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Needham Planning Board - 1 seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Adam J. Block",
+          "votes": 1656
+        },
+        {
+          "name_original": "Robert S. Dangel",
+          "votes": 1595
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 243,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct A - 3 Year) - 8 Seats",
+      "district_original": "Precinct A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John D. Genova",
+          "votes": 152
+        },
+        {
+          "name_original": "Samuel Hart, Jr.",
+          "votes": 154
+        },
+        {
+          "name_original": "Walter D. Herrick",
+          "votes": 143
+        },
+        {
+          "name_original": "Norman F. O'Brien, Jr.",
+          "votes": 145
+        },
+        {
+          "name_original": "Rhonda K. Spector",
+          "votes": 167
+        },
+        {
+          "name_original": "Nicholas P. Sterling",
+          "votes": 142
+        },
+        {
+          "name_original": "Aimee Stone",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1042,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct A - 1 Year) - 1 Seats",
+      "district_original": "Precinct A",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aimee Stone",
+          "votes": 2
+        },
+        {
+          "name_original": "Carlos Rodrigues",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 227,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct B - 3 Year) - 8 Seats",
+      "district_original": "Precinct B",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stuart B. Agler",
+          "votes": 200
+        },
+        {
+          "name_original": "Orr Y. Bernstein",
+          "votes": 211
+        },
+        {
+          "name_original": "Marianna Borrelli",
+          "votes": 212
+        },
+        {
+          "name_original": "Mark N. Dorfman",
+          "votes": 208
+        },
+        {
+          "name_original": "Thomas M. Jacob",
+          "votes": 215
+        },
+        {
+          "name_original": "Sara R. Levy",
+          "votes": 206
+        },
+        {
+          "name_original": "Thomas Deriemer",
+          "votes": 76
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1372,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct C - 3 Year) - 8 Seats",
+      "district_original": "Precinct C",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carlos Agualimpia",
+          "votes": 168
+        },
+        {
+          "name_original": "Mark J. Gluesing",
+          "votes": 163
+        },
+        {
+          "name_original": "Paul David Isenberg",
+          "votes": 179
+        },
+        {
+          "name_original": "James D. Mastermind",
+          "votes": 174
+        },
+        {
+          "name_original": "Paul B Tillotson",
+          "votes": 163
+        },
+        {
+          "name_original": "Irene Berlinsky",
+          "votes": 168
+        },
+        {
+          "name_original": "Andrea Rose Dannenberg",
+          "votes": 190
+        },
+        {
+          "name_original": "Tod Neil Eyler",
+          "votes": 148
+        },
+        {
+          "name_original": "Elizabeth Ann Langford",
+          "votes": 165
+        },
+        {
+          "name_original": "Richard D. Pevear, Jr.",
+          "votes": 116
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1302,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct C - 1 Year) - 1 Seats",
+      "district_original": "Precinct C",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian James Collins",
+          "votes": 246
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct D - 3 Year) - 8 Seats",
+      "district_original": "Precinct D",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alexandra Rose Blauer",
+          "votes": 168
+        },
+        {
+          "name_original": "Karen L. Calton",
+          "votes": 144
+        },
+        {
+          "name_original": "Cynthia L. Conturie",
+          "votes": 120
+        },
+        {
+          "name_original": "Reginald C. Foster",
+          "votes": 131
+        },
+        {
+          "name_original": "Anna Giraldo-Kerr",
+          "votes": 152
+        },
+        {
+          "name_original": "Richard J. Lunetta",
+          "votes": 145
+        },
+        {
+          "name_original": "Robert A. Pettit",
+          "votes": 146
+        },
+        {
+          "name_original": "Thomas F. Soisson",
+          "votes": 122
+        },
+        {
+          "name_original": "Ross M. Donald",
+          "votes": 82
+        },
+        {
+          "name_original": "Christopher J. Gerstel",
+          "votes": 126
+        },
+        {
+          "name_original": "Erhardt Graeff",
+          "votes": 116
+        },
+        {
+          "name_original": "Kate Linzmeyer",
+          "votes": 145
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1234,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct E - 3 Year) - 8 Seats",
+      "district_original": "Precinct E",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam J. Block",
+          "votes": 224
+        },
+        {
+          "name_original": "Robert R. Braman",
+          "votes": 181
+        },
+        {
+          "name_original": "Julie Dale Mahr",
+          "votes": 218
+        },
+        {
+          "name_original": "Philip R Murray",
+          "votes": 192
+        },
+        {
+          "name_original": "Michael L. Niden",
+          "votes": 194
+        },
+        {
+          "name_original": "Ford H. Peckham",
+          "votes": 210
+        },
+        {
+          "name_original": "Ronald W. Ruth",
+          "votes": 203
+        },
+        {
+          "name_original": "Kathleen Cahill Allison",
+          "votes": 206
+        },
+        {
+          "name_original": "Victor Paul Seidel",
+          "votes": 145
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1089,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct F - 3 Year) - 8 Seats",
+      "district_original": "Precinct F",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gary Robert Ajamian",
+          "votes": 164
+        },
+        {
+          "name_original": "Lawrence J. Cohen",
+          "votes": 177
+        },
+        {
+          "name_original": "John P. Connelly",
+          "votes": 157
+        },
+        {
+          "name_original": "Jeffrey D. Heller",
+          "votes": 139
+        },
+        {
+          "name_original": "Katherine P. Jacques",
+          "votes": 202
+        },
+        {
+          "name_original": "Mary Ann MacMahon",
+          "votes": 181
+        },
+        {
+          "name_original": "Dennis Francis McCafferty",
+          "votes": 172
+        },
+        {
+          "name_original": "F. Timothy Hegarty, Jr.",
+          "votes": 163
+        },
+        {
+          "name_original": "Lars Mark Unhjem",
+          "votes": 185
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1397,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct G - 3 Year) - 8 Seats",
+      "district_original": "Precinct G",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Lewis Buell",
+          "votes": 279
+        },
+        {
+          "name_original": "Michael A. Distler",
+          "votes": 210
+        },
+        {
+          "name_original": "Robert John Fernandez",
+          "votes": 306
+        },
+        {
+          "name_original": "Kenneth B. Freundlich",
+          "votes": 247
+        },
+        {
+          "name_original": "Patrick Weston Tacelli",
+          "votes": 226
+        },
+        {
+          "name_original": "Christopher G. Thomas",
+          "votes": 229
+        },
+        {
+          "name_original": "Marshall Edward Fox",
+          "votes": 221
+        },
+        {
+          "name_original": "Jennifer L. Geraci",
+          "votes": 283
+        },
+        {
+          "name_original": "Marcus Jonathan Hughes",
+          "votes": 237
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1624,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct H - 3 Year) - 8 Seats",
+      "district_original": "Precinct H",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Molly Kastory Carter",
+          "votes": 150
+        },
+        {
+          "name_original": "Lynn Sara Feigenbaum",
+          "votes": 144
+        },
+        {
+          "name_original": "Thomas Edward Gillogley",
+          "votes": 125
+        },
+        {
+          "name_original": "Michael C. Kardok",
+          "votes": 146
+        },
+        {
+          "name_original": "John A. Kingston",
+          "votes": 122
+        },
+        {
+          "name_original": "Kumrae Helbig Lee",
+          "votes": 151
+        },
+        {
+          "name_original": "Eileen K. Orscheln",
+          "votes": 161
+        },
+        {
+          "name_original": "Amy M. Dixon",
+          "votes": 131
+        },
+        {
+          "name_original": "Gregory John Dunn, Jr.",
+          "votes": 130
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1100,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct I - 3 Year) - 8 Seats",
+      "district_original": "Precinct I",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James S. Bonasia",
+          "votes": 188
+        },
+        {
+          "name_original": "Claire Dee Ecsedy",
+          "votes": 194
+        },
+        {
+          "name_original": "Joel S. Golden",
+          "votes": 188
+        },
+        {
+          "name_original": "Glenn Alan Mulno",
+          "votes": 208
+        },
+        {
+          "name_original": "Peter J. Pingitore",
+          "votes": 223
+        },
+        {
+          "name_original": "David Paul Supple",
+          "votes": 200
+        },
+        {
+          "name_original": "Elizabeth H. Handel",
+          "votes": 250
+        },
+        {
+          "name_original": "John A. Kalin",
+          "votes": 141
+        },
+        {
+          "name_original": "John A. Terry",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1195,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct I - 1 Year) - 1 Seats",
+      "district_original": "Precinct I",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David J. Ecsedy",
+          "votes": 236
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Needham",
+      "date": "2023-04-11",
+      "office_original": "Town Meeting Member (Precinct J - 3 Year) - 8 Seats",
+      "district_original": "Precinct J",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Georgina A. Arrieta-Reutenik",
+          "votes": 170
+        },
+        {
+          "name_original": "David P. Montgomery",
+          "votes": 140
+        },
+        {
+          "name_original": "Jane B. Murphy",
+          "votes": 166
+        },
+        {
+          "name_original": "Henry G. Ragin",
+          "votes": 156
+        },
+        {
+          "name_original": "James R. Ruetenik",
+          "votes": 151
+        },
+        {
+          "name_original": "Lauren Soper",
+          "votes": 145
+        },
+        {
+          "name_original": "Wesley S. Soper",
+          "votes": 103
+        },
+        {
+          "name_original": "Sidonie Mia Xavier Granadillo",
+          "votes": 137
+        },
+        {
+          "name_original": "Lorraine M. Murphy",
+          "votes": 131
+        },
+        {
+          "name_original": "Gilad Skolnick",
+          "votes": 131
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1095,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Needham2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Needham2023.pdf",
+  "document": {
+    "date_correction": {
+      "corrected_on": "2026-08-23",
+      "was": [
+        "2023-04-04"
+      ],
+      "now": "2023-04-11",
+      "url": "https://www.needhamma.gov/5380/Preliminary-Tally-Sheet-for-the-Tuesday-",
+      "quote": "Preliminary Tally Sheet for the Tuesday, April 11, 2023 Annual Town Election",
+      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+      "note": ""
+    },
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-04-11",
+      "detail": "https://www.needhamma.gov/5380/Preliminary-Tally-Sheet-for-the-Tuesday-",
+      "quote": "Preliminary Tally Sheet for the Tuesday, April 11, 2023 Annual Town Election",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

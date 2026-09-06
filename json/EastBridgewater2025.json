@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "KATHERINE MULLEN",
+          "votes": 262
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "STEVEN R. SOLARI",
+          "votes": 214
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 91,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "ARON J. DANIELSON",
+          "votes": 204
+        },
+        {
+          "name_original": "CHRISTIE M. LAYTON",
+          "votes": 110
+        },
+        {
+          "name_original": "ELIZABETH A. STANSEL",
+          "votes": 117
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 176,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "LAUREN M. ROY",
+          "votes": 193
+        },
+        {
+          "name_original": "JENNIFER A. STEWART",
+          "votes": 198
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 216,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "THOMAS D. DUQUETTE",
+          "votes": 224
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 81,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.92,
+      "candidates": [
+        {
+          "name_original": "KEVIN M. REILLY",
+          "votes": 186
+        },
+        {
+          "name_original": "DWAYNE CROSBY",
+          "votes": 196
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2025-05-17",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 300,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "EastBridgewater2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/EastBridgewater2025.pdf",
+  "ballots_cast": 305,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,192 @@
+{
+  "elections": [
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Debra Megas",
+          "votes": 71
+        },
+        {
+          "name_original": "Craig Willis",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Levernoch",
+          "votes": 78
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John McElwain",
+          "votes": 78
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shaun Lennon",
+          "votes": 6
+        },
+        {
+          "name_original": "David Fish",
+          "votes": 3
+        },
+        {
+          "name_original": "Don Gagnon",
+          "votes": 3
+        },
+        {
+          "name_original": "Patricia Drugmand",
+          "votes": 2
+        },
+        {
+          "name_original": "Ed Neumuth",
+          "votes": 2
+        },
+        {
+          "name_original": "John Fish",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Burke",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard Spencer",
+          "votes": 1
+        },
+        {
+          "name_original": "Patricia Thornton",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 59,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Fish",
+          "votes": 72
+        },
+        {
+          "name_original": "Patricia Drugmand",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2022-05-21",
+      "office_original": "TREE WARDEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Willis",
+          "votes": 12
+        },
+        {
+          "name_original": "Sean Connors",
+          "votes": 6
+        },
+        {
+          "name_original": "Chet Thomas",
+          "votes": 1
+        },
+        {
+          "name_original": "Ed Neumuth",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 59,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Washington2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2022.pdf",
+  "ballots_cast": 79,
+  "ballots_cast_source": "derived_from_contests"
+}

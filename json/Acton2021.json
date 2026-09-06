@@ -1,0 +1,213 @@
+{
+  "elections": [
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JO-ANN M. BERRY",
+          "votes": 1967
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JON BENSON",
+          "votes": 1126
+        },
+        {
+          "name_original": "FRANCESCA A. ARSENAULT",
+          "votes": 1223
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BENJAMIN BLOOMENTHAL",
+          "votes": 1113
+        },
+        {
+          "name_original": "KARA OSSELMANN",
+          "votes": 590
+        },
+        {
+          "name_original": "ANDREW SCHWARTZ",
+          "votes": 1239
+        },
+        {
+          "name_original": "DANI FENG ZENG",
+          "votes": 1022
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 761,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PAMELA W. LYNN",
+          "votes": 1889
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 471,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "ACTON HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BERNICE BARAN",
+          "votes": 1853
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 509,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "WATER DISTRICT MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "WILLIAM C. MULLIN",
+          "votes": 1915
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 448,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Acton",
+      "date": "2021-03-30",
+      "office_original": "WATER DISTRICT COMMISSIONER",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ERIKA AMIR-LIN",
+          "votes": 1874
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 488,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Acton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Acton2021.pdf",
+  "ballots_cast": 2369,
+  "ballots_cast_source": "derived_from_contests"
+}

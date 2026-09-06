@@ -1,0 +1,968 @@
+{
+  "elections": [
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "SELECT BOARD (2 for 3 YRS)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Suzanne E. Barry",
+          "votes": 4242
+        },
+        {
+          "name_original": "Joseph N. Pato",
+          "votes": 3885
+        },
+        {
+          "name_original": "Kristopher Jong",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 66,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4145,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "MODERATOR (1 for 1 YR)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Deborah J. Brown",
+          "votes": 4271
+        },
+        {
+          "name_original": "Kristopher Jong",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1865,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "SCHOOL COMMITTEE (2 for 3 YRS)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Larry D. Freeman",
+          "votes": 3973
+        },
+        {
+          "name_original": "Eileen S. Jay",
+          "votes": 3545
+        },
+        {
+          "name_original": "Salvador Alexander Jaramillo",
+          "votes": 2492
+        },
+        {
+          "name_original": "Kristopher Jong",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2291,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "PLANNING BOARD (1 for 3 YRS)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Robert D. Peters",
+          "votes": 3880
+        },
+        {
+          "name_original": "Kristopher Jong",
+          "votes": 9
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2235,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT ONE (7 FOR 3 YRS/1 FOR 1 YR)",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Larry D. Freeman",
+          "votes": 367
+        },
+        {
+          "name_original": "Eric Jay Michelson",
+          "votes": 321
+        },
+        {
+          "name_original": "Valerie G. Overton",
+          "votes": 288
+        },
+        {
+          "name_original": "Katherine E. Reynolds",
+          "votes": 287
+        },
+        {
+          "name_original": "Lois Angelo",
+          "votes": 284
+        },
+        {
+          "name_original": "Hongbin Luo",
+          "votes": 283
+        },
+        {
+          "name_original": "Stephanie Hsu",
+          "votes": 60
+        },
+        {
+          "name_original": "Jay Luker",
+          "votes": 30
+        },
+        {
+          "name_original": "Layla Hariry",
+          "votes": 9
+        },
+        {
+          "name_original": "Alok Saldanha",
+          "votes": 4
+        },
+        {
+          "name_original": "Lydia Swan",
+          "votes": 4
+        },
+        {
+          "name_original": "James Avery",
+          "votes": 3
+        },
+        {
+          "name_original": "William Carlson",
+          "votes": 2
+        },
+        {
+          "name_original": "Markus Pinney",
+          "votes": 2
+        },
+        {
+          "name_original": "Michael Andade",
+          "votes": 1
+        },
+        {
+          "name_original": "Christina Burwell",
+          "votes": 1
+        },
+        {
+          "name_original": "Lisa Finston",
+          "votes": 1
+        },
+        {
+          "name_original": "F. Michael Harris",
+          "votes": 1
+        },
+        {
+          "name_original": "Mary Hill",
+          "votes": 1
+        },
+        {
+          "name_original": "Tracy Horn",
+          "votes": 1
+        },
+        {
+          "name_original": "Rachel Reed",
+          "votes": 1
+        },
+        {
+          "name_original": "David Wininger",
+          "votes": 1
+        },
+        {
+          "name_original": "Jennifer Zacharis",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2528,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT TWO (7 FOR 3 YRS)",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Matthew Cohen",
+          "votes": 464
+        },
+        {
+          "name_original": "Emilie Rinard Webster",
+          "votes": 446
+        },
+        {
+          "name_original": "Rita B. Goldberg",
+          "votes": 436
+        },
+        {
+          "name_original": "Betsey Weiss",
+          "votes": 407
+        },
+        {
+          "name_original": "Ricki Pappo",
+          "votes": 393
+        },
+        {
+          "name_original": "Matthew P. Daggett",
+          "votes": 389
+        },
+        {
+          "name_original": "Ajay T. Joseph",
+          "votes": 384
+        },
+        {
+          "name_original": "Charles Hornig",
+          "votes": 232
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2430,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT THREE (7 FOR 3 YRS/1 FOR 1 YR)",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Jeanne K. Krieger",
+          "votes": 312
+        },
+        {
+          "name_original": "Sallye F. Bleiberg",
+          "votes": 312
+        },
+        {
+          "name_original": "Thomas Ramiro Diaz",
+          "votes": 259
+        },
+        {
+          "name_original": "Courtney McCollum Apgar",
+          "votes": 202
+        },
+        {
+          "name_original": "Glenn P. Parker",
+          "votes": 190
+        },
+        {
+          "name_original": "Franklin E. Smith",
+          "votes": 181
+        },
+        {
+          "name_original": "Christopher B. Buenrostro",
+          "votes": 178
+        },
+        {
+          "name_original": "Delanot Bastien",
+          "votes": 177
+        },
+        {
+          "name_original": "Bronte M. Abraham",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1850,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT FOUR (7 FOR 3 YRS)",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Wendy Manz",
+          "votes": 475
+        },
+        {
+          "name_original": "Sandra J. Shaw",
+          "votes": 467
+        },
+        {
+          "name_original": "Nyles Nathan Barnert",
+          "votes": 465
+        },
+        {
+          "name_original": "Gerald Paul",
+          "votes": 464
+        },
+        {
+          "name_original": "Lawrence Chan",
+          "votes": 463
+        },
+        {
+          "name_original": "Kathryn A. Roy",
+          "votes": 425
+        },
+        {
+          "name_original": "Linda Boardman Liu",
+          "votes": 40
+        },
+        {
+          "name_original": "Susan McLeish",
+          "votes": 31
+        },
+        {
+          "name_original": "Mingcheng Xu",
+          "votes": 18
+        },
+        {
+          "name_original": "Satinder (Nani) McDonnell",
+          "votes": 11
+        },
+        {
+          "name_original": "Richard Petrosso",
+          "votes": 11
+        },
+        {
+          "name_original": "Mark Connor",
+          "votes": 7
+        },
+        {
+          "name_original": "Heather Hartshorn",
+          "votes": 2
+        },
+        {
+          "name_original": "Edith M. Craft",
+          "votes": 2
+        },
+        {
+          "name_original": "Madelyn C. Lucente",
+          "votes": 2
+        },
+        {
+          "name_original": "Peter David Shapiro",
+          "votes": 2
+        },
+        {
+          "name_original": "Houston Bernard Andrew",
+          "votes": 1
+        },
+        {
+          "name_original": "Steve Carbone",
+          "votes": 1
+        },
+        {
+          "name_original": "Frank Brian Cavatorta",
+          "votes": 1
+        },
+        {
+          "name_original": "Jerry L. Harris",
+          "votes": 1
+        },
+        {
+          "name_original": "Christiana A. Ixasere",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicholas Lauriat",
+          "votes": 1
+        },
+        {
+          "name_original": "Sivananda K. Reddy",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2760,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT FIVE (7 FOR 3 YRS)",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Marilyn M. Fenollosa",
+          "votes": 380
+        },
+        {
+          "name_original": "Melanie A. Thompson",
+          "votes": 386
+        },
+        {
+          "name_original": "John Zhiqiang Zhao",
+          "votes": 387
+        },
+        {
+          "name_original": "M. Masha Traber",
+          "votes": 397
+        },
+        {
+          "name_original": "Andrew Joseph Friedlich",
+          "votes": 404
+        },
+        {
+          "name_original": "Irene Margaret Dondley",
+          "votes": 415
+        },
+        {
+          "name_original": "Jerold S. Michelson",
+          "votes": 435
+        },
+        {
+          "name_original": "Frederic Boutaud",
+          "votes": 1
+        },
+        {
+          "name_original": "Archana Dayalu",
+          "votes": 1
+        },
+        {
+          "name_original": "Wendy Ernst",
+          "votes": 1
+        },
+        {
+          "name_original": "Tarla Neff",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Ocean",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard Wagner",
+          "votes": 1
+        },
+        {
+          "name_original": "Nicholas A. Warren",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2165,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT SIX (7 FOR 3 YRS)",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Sara G. Bothwell Allen",
+          "votes": 479
+        },
+        {
+          "name_original": "Margaret L. Counts-Klebe",
+          "votes": 455
+        },
+        {
+          "name_original": "Andrea J. Fribush",
+          "votes": 444
+        },
+        {
+          "name_original": "Deborah Cohen Strod",
+          "votes": 443
+        },
+        {
+          "name_original": "Frederic S. Johnson",
+          "votes": 441
+        },
+        {
+          "name_original": "Dawn E. McKenna",
+          "votes": 426
+        },
+        {
+          "name_original": "Eran Cohen Strod",
+          "votes": 380
+        },
+        {
+          "name_original": "Thomas Barry",
+          "votes": 4
+        },
+        {
+          "name_original": "Dipti Lenhart",
+          "votes": 1
+        },
+        {
+          "name_original": "Priscilla Ryder",
+          "votes": 1
+        },
+        {
+          "name_original": "Ryan Samuel Wise",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2193,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT SEVEN (7 FOR 3 YRS)",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Patricia Elen Costello",
+          "votes": 394
+        },
+        {
+          "name_original": "Mary Burnell",
+          "votes": 376
+        },
+        {
+          "name_original": "Christian L. Boutwell",
+          "votes": 368
+        },
+        {
+          "name_original": "Mary Causey Hamilton",
+          "votes": 364
+        },
+        {
+          "name_original": "Robert D. Peters",
+          "votes": 353
+        },
+        {
+          "name_original": "Robert K. Creech",
+          "votes": 350
+        },
+        {
+          "name_original": "Vikas Kinger",
+          "votes": 347
+        },
+        {
+          "name_original": "Suzanne Caton",
+          "votes": 1
+        },
+        {
+          "name_original": "Ethan Handwerker",
+          "votes": 1
+        },
+        {
+          "name_original": "Scott Lundahl",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1902,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT EIGHT (7 FOR 3 YRS)",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Betty J. Gau",
+          "votes": 428
+        },
+        {
+          "name_original": "Alan Mayer Levine",
+          "votes": 419
+        },
+        {
+          "name_original": "Margaret E. Coppe",
+          "votes": 415
+        },
+        {
+          "name_original": "Margaret S. Enders",
+          "votes": 401
+        },
+        {
+          "name_original": "Victoria C. Buckley",
+          "votes": 376
+        },
+        {
+          "name_original": "Sudhir Ranjan",
+          "votes": 368
+        },
+        {
+          "name_original": "Alix Obrien Fox",
+          "votes": 72
+        },
+        {
+          "name_original": "Gordon Stewart",
+          "votes": 30
+        },
+        {
+          "name_original": "Patricia Janess",
+          "votes": 5
+        },
+        {
+          "name_original": "Rebecca Weiler",
+          "votes": 5
+        },
+        {
+          "name_original": "Kris Jong",
+          "votes": 4
+        },
+        {
+          "name_original": "Todd Paris",
+          "votes": 2
+        },
+        {
+          "name_original": "Guy Shechter",
+          "votes": 2
+        },
+        {
+          "name_original": "Meredith Applegate",
+          "votes": 1
+        },
+        {
+          "name_original": "Eva Badra",
+          "votes": 1
+        },
+        {
+          "name_original": "Curt Barrentine",
+          "votes": 1
+        },
+        {
+          "name_original": "Larry Belvin",
+          "votes": 1
+        },
+        {
+          "name_original": "Shirley Bergey",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam Frank",
+          "votes": 1
+        },
+        {
+          "name_original": "Cheryl King",
+          "votes": 1
+        },
+        {
+          "name_original": "Tom King",
+          "votes": 1
+        },
+        {
+          "name_original": "Robin Lovett",
+          "votes": 1
+        },
+        {
+          "name_original": "Robert Melanson",
+          "votes": 1
+        },
+        {
+          "name_original": "Kirti Mukherjee",
+          "votes": 1
+        },
+        {
+          "name_original": "Joseph Reynolds",
+          "votes": 1
+        },
+        {
+          "name_original": "William Ribich",
+          "votes": 1
+        },
+        {
+          "name_original": "Yu Wu",
+          "votes": 1
+        },
+        {
+          "name_original": "Dongping Zhou",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2573,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Lexington",
+      "date": "2022-03-07",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT NINE (7 FOR 3 YRS/3 FOR 1 YR)",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 10,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Thomas O. Fenn",
+          "votes": 399
+        },
+        {
+          "name_original": "Victoria Lawrence Blier",
+          "votes": 380
+        },
+        {
+          "name_original": "Vineeta Kumar",
+          "votes": 371
+        },
+        {
+          "name_original": "David M. Sheehan",
+          "votes": 366
+        },
+        {
+          "name_original": "Janet M. Perry",
+          "votes": 361
+        },
+        {
+          "name_original": "Rodney Cole",
+          "votes": 358
+        },
+        {
+          "name_original": "Scott Foster Burson",
+          "votes": 337
+        },
+        {
+          "name_original": "Michael E. Schroeder",
+          "votes": 330
+        },
+        {
+          "name_original": "Mark V. Andersen",
+          "votes": 322
+        },
+        {
+          "name_original": "Susan M. Buckley Kingsbury",
+          "votes": 36
+        },
+        {
+          "name_original": "Pamela Joshi",
+          "votes": 17
+        },
+        {
+          "name_original": "Ethan Kiczek",
+          "votes": 16
+        },
+        {
+          "name_original": "Diana Donovan",
+          "votes": 15
+        },
+        {
+          "name_original": "Kimberly Ryan",
+          "votes": 9
+        },
+        {
+          "name_original": "Elizabeth Fray",
+          "votes": 7
+        },
+        {
+          "name_original": "Eric Shiple",
+          "votes": 4
+        },
+        {
+          "name_original": "Rita Clark",
+          "votes": 2
+        },
+        {
+          "name_original": "Howard Silver",
+          "votes": 2
+        },
+        {
+          "name_original": "Mark Vitunic",
+          "votes": 2
+        },
+        {
+          "name_original": "Dennahe Adler",
+          "votes": 1
+        },
+        {
+          "name_original": "David Bucskowski",
+          "votes": 1
+        },
+        {
+          "name_original": "Todd Burger",
+          "votes": 1
+        },
+        {
+          "name_original": "Edward Denk",
+          "votes": 1
+        },
+        {
+          "name_original": "Elizabeth Friedlander",
+          "votes": 1
+        },
+        {
+          "name_original": "David Timberlake",
+          "votes": 1
+        },
+        {
+          "name_original": "Marie Vitunic",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3723,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Lexington2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lexington2022.pdf",
+  "ballots_cast": 6173,
+  "ballots_cast_source": "derived_from_contests"
+}

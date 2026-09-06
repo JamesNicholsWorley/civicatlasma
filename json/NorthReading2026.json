@@ -1,0 +1,126 @@
+{
+  "elections": [
+    {
+      "municipality": "North Reading",
+      "date": "2026-05-05",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jack A. Carroll",
+          "votes": 94
+        },
+        {
+          "name_original": "Jeffrey P. Griffin",
+          "votes": 818
+        },
+        {
+          "name_original": "Charles Tyler",
+          "votes": 1153
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2026-05-05",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Murphy",
+          "votes": 1492
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 595,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2026-05-05",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie B. Elkins",
+          "votes": 1548
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 539,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2026-05-05",
+      "office_original": "COMMUNITY PLANNING COMMISSION -3YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ciara He",
+          "votes": 1569
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 517,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2026-05-05",
+      "office_original": "COMMUNITY PLANNING COMMISSION-1YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William M. Cannell Jr.",
+          "votes": 1565
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 522,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthReading2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthReading2026.pdf",
+  "ballots_cast": 2087,
+  "ballots_cast_source": "derived_from_contests"
+}

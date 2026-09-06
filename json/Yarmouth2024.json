@@ -1,0 +1,118 @@
+{
+  "elections": [
+    {
+      "municipality": "Yarmouth",
+      "date": "2024-05-21",
+      "office_original": "SELECT BOARD",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joyce Anne Flynn",
+          "votes": 1918
+        },
+        {
+          "name_original": "Keith B. Kesten",
+          "votes": 559
+        },
+        {
+          "name_original": "Thomas E. Nickinello, Sr.",
+          "votes": 1229
+        },
+        {
+          "name_original": "Tracy Ann Post",
+          "votes": 1865
+        },
+        {
+          "name_original": "Jeni M. Wheeler",
+          "votes": 1193
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1013,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Yarmouth",
+      "date": "2024-05-21",
+      "office_original": "DENNIS-YARMOUTH REGIONAL SCHOOL DISTRICT COMMITTEE MEMBER",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Glenn Martin",
+          "votes": 135
+        },
+        {
+          "name_original": "Irene Paine",
+          "votes": 58
+        },
+        {
+          "name_original": "Joyce Flynn",
+          "votes": 9
+        },
+        {
+          "name_original": "Joe B. Glynn",
+          "votes": 10
+        },
+        {
+          "name_original": "Joseph Goldstein",
+          "votes": 13
+        },
+        {
+          "name_original": "Brady Hill",
+          "votes": 8
+        },
+        {
+          "name_original": "Keith B. Kesten",
+          "votes": 6
+        },
+        {
+          "name_original": "Philip Morris",
+          "votes": 5
+        },
+        {
+          "name_original": "Christopher Kenney",
+          "votes": 6
+        },
+        {
+          "name_original": "Tracy Post",
+          "votes": 8
+        },
+        {
+          "name_original": "Jeni M. Wheeler",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 124,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3515,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Yarmouth2024",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

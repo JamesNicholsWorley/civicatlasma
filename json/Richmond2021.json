@@ -1,0 +1,161 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL REPORT 2021, TOWN OF RICHMOND, MASSACHUSETTS",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election held Saturday, May 22, 2021",
+    "date_verbatim": "Saturday, May 22, 2021",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "There were no contested races for town positions",
+    "is_sample_ballot": false,
+    "uncontested_ballot": {
+      "turnout_cast": 282,
+      "turnout_registered": 1245,
+      "quote": "The Berkshire Eagle, 24 May 2021: \"The turnout was nearly 23 percent of Richmond's 1,245 registered voters.\" The paper gives turnout as a PERCENTAGE, not as a ballot count, so the cast figure here is the total cast on the ballot question the same article prints in full -- 260 yes and 22 no, 282 votes. 282 of 1,245 is 22.65 percent, which is what \"nearly 23 percent\" describes. Treat 282 as the count the source supports, not as a figure the clerk certified."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Alan Hanson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Town Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "William E. Martin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Kimmie Leeco",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Anthony Segal",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Peter Lopez",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Stevan Patterson",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Robert Youdelman",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2021-05-22",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Katherine Keenum",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Richmond2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Richmond2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

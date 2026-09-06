@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Palmer",
+      "date": "2025-06-10",
+      "office_original": "Councillor at Large -3 year term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Rose Ferry",
+          "votes": 211
+        },
+        {
+          "name_original": "John Michael Comerford",
+          "votes": 85
+        },
+        {
+          "name_original": "Corin Latulippe",
+          "votes": 47
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2025-06-10",
+      "office_original": "School Committee - 3 year Term",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sandra Jean Noonan",
+          "votes": 275
+        },
+        {
+          "name_original": "Joseph P. Nompleggi",
+          "votes": 237
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2025-06-10",
+      "office_original": "Planning Board - 3 year term",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael C. Dee",
+          "votes": 168
+        },
+        {
+          "name_original": "Emily Mary Malcovsky",
+          "votes": 165
+        },
+        {
+          "name_original": "Robert S. Lucier",
+          "votes": 182
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 194,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Palmer",
+      "date": "2025-06-10",
+      "office_original": "District 4 Councillor - 3 year term",
+      "district_original": "District 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew J. Lemieux",
+          "votes": 52
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Palmer2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Palmer2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

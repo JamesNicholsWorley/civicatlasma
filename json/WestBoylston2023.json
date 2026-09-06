@@ -1,0 +1,229 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF WEST BOYLSTON Annual Local Election June 6, 2023 OFFICIAL RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Local Election June 6, 2023",
+    "date_verbatim": "June 6, 2023",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "SELECTBOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Morrisey",
+          "votes": 285
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Hubbard",
+          "votes": 280
+        },
+        {
+          "name_original": "Emily Lehman",
+          "votes": 270
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 180,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "CEMETERY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tara Lee Besahi",
+          "votes": 304
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "LIBRARY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sharon Hennessey",
+          "votes": 303
+        },
+        {
+          "name_original": "Patrick Novia",
+          "votes": 308
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin LaClaire",
+          "votes": 285
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "BOARD OF LIGHT COMMISSIONERS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James M. Pedone, Jr.",
+          "votes": 222
+        },
+        {
+          "name_original": "Patrick Brown",
+          "votes": 66
+        },
+        {
+          "name_original": "Jason Kunst",
+          "votes": 71
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Boylston",
+      "date": "2023-06-06",
+      "office_original": "WATER COMMISSIONER",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael H. Mard",
+          "votes": 316
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "WestBoylston2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBoylston2023.pdf",
+  "ballots_cast": 366,
+  "ballots_cast_source": "derived_from_contests"
+}

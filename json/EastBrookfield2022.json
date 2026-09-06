@@ -1,0 +1,199 @@
+{
+  "document": {
+    "heading_verbatim": "East Brookfield, Massachusetts -- Annual Town Election, May 10, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "May 10, 2022",
+    "is_sample_ballot": true,
+    "offices_on_ballot": 13,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "No office has more candidates than seats.",
+    "uncontested_ballot": {
+      "turnout_cast": 99,
+      "turnout_registered": 1647,
+      "quote": "The Town Clerk's figures, written by hand on the official ballot that East Brookfield posted as its results image (results_for_webpage_0.jpg): \"99 BALLOTS CAST / 1647 REGISTERED VOTERS / 6% TURNOUT\". Read by OCR at 6x magnification and confirmed from two independent crops and two page-segmentation modes; 99/1647 is 6.0 percent, which agrees with the printed percentage."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan V. Jacobs",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Harland L. Smith",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda V. LeBlanc",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark Morin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Cemetery Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca A. Gordon",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Trustee of Shade Trees & Cemetery Funds",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca A. Gordon",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Lynch",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Kowalczyk",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "East Brookfield",
+      "date": "2022-05-10",
+      "office_original": "Trustees of Public Library",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William C. Sullivan",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Karen A. Berard",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "EastBrookfield2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

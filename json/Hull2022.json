@@ -1,0 +1,83 @@
+{
+  "elections": [
+    {
+      "municipality": "Hull",
+      "date": "2022-05-17",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Jennifer Constable",
+          "votes": 842
+        },
+        {
+          "name_original": "Irwin Nessoff",
+          "votes": 792
+        },
+        {
+          "name_original": "John Reilly",
+          "votes": 626
+        },
+        {
+          "name_original": "Steven Greenberg",
+          "votes": 575
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2022-05-17",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lori West",
+          "votes": 1147
+        },
+        {
+          "name_original": "Pamela Flattich",
+          "votes": 452
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2022-05-17",
+      "office_original": "Light Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Thomas Burns",
+          "votes": 896
+        },
+        {
+          "name_original": "Daniel Ciccariello",
+          "votes": 852
+        },
+        {
+          "name_original": "Judeth Gilmore Van Hamm",
+          "votes": 765
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hull2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

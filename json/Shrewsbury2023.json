@@ -1,0 +1,816 @@
+{
+  "elections": [
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "BETH N. CASAVANT",
+          "votes": 1985
+        },
+        {
+          "name_original": "JAMES V. BROWN",
+          "votes": 536
+        },
+        {
+          "name_original": "SIOBHAN COSTELLO-WEBER",
+          "votes": 1132
+        },
+        {
+          "name_original": "CARLOS A. GARCIA",
+          "votes": 1661
+        },
+        {
+          "name_original": "RAJESH UPPALAPATI",
+          "votes": 1245
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1004,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "SANDRA M. FRYC",
+          "votes": 2361
+        },
+        {
+          "name_original": "RACHEL L. SHARIFIPOUR",
+          "votes": 1752
+        },
+        {
+          "name_original": "RAJESH VELAGAPUDI",
+          "votes": 1730
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1725,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "SHREWSBURY HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN C. McSWEENEY",
+          "votes": 2216
+        },
+        {
+          "name_original": "ANAND SHARMA",
+          "votes": 1385
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 184,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TRUSTEES OF PUBLIC LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ELIZABETH R. POWERS",
+          "votes": 2607
+        },
+        {
+          "name_original": "APRIL L. PRINCE",
+          "votes": 2478
+        },
+        {
+          "name_original": "BARBARA J. TRUDEL",
+          "votes": 2431
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3832,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 1",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "CHRISTA C. DUPREY",
+          "votes": 242
+        },
+        {
+          "name_original": "BERNARD J. FORLETTA",
+          "votes": 225
+        },
+        {
+          "name_original": "MAUREEN P. HARRINGTON",
+          "votes": 262
+        },
+        {
+          "name_original": "ERIN B. HOWARD",
+          "votes": 251
+        },
+        {
+          "name_original": "BENJAMIN T. JOSEPH",
+          "votes": 213
+        },
+        {
+          "name_original": "JONATHAN N. WENSKY",
+          "votes": 251
+        },
+        {
+          "name_original": "PAUL T. ZEKOS",
+          "votes": 241
+        },
+        {
+          "name_original": "LAURA M. BEATON",
+          "votes": 286
+        },
+        {
+          "name_original": "DAVID T. CANALE",
+          "votes": 138
+        },
+        {
+          "name_original": "STEPHEN G. WAITE",
+          "votes": 176
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1752,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 2",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "MICHAEL L. JASINSKI",
+          "votes": 182
+        },
+        {
+          "name_original": "ROBERT KREY",
+          "votes": 185
+        },
+        {
+          "name_original": "DAVID W. LAMBERT",
+          "votes": 160
+        },
+        {
+          "name_original": "THOMAS P. LUBY",
+          "votes": 195
+        },
+        {
+          "name_original": "MICHAEL P. VIZZO",
+          "votes": 163
+        },
+        {
+          "name_original": "WENDY J. ZIESEMANN",
+          "votes": 165
+        },
+        {
+          "name_original": "MICHAEL J. BURNS",
+          "votes": 191
+        },
+        {
+          "name_original": "JANE FAUCHER",
+          "votes": 184
+        },
+        {
+          "name_original": "DAVID S. MOORE",
+          "votes": 182
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1340,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 3",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "KATHLEEN M. KEOHANE",
+          "votes": 121
+        },
+        {
+          "name_original": "JUDITH L. POLITO",
+          "votes": 123
+        },
+        {
+          "name_original": "ANTHONY J. THOMAS",
+          "votes": 122
+        },
+        {
+          "name_original": "WALTER G. THOMAS II",
+          "votes": 117
+        },
+        {
+          "name_original": "MARK A. MAGGIORE",
+          "votes": 98
+        },
+        {
+          "name_original": "KENNETH F. POLITO",
+          "votes": 85
+        },
+        {
+          "name_original": "ROBERT SALLESE, JR.",
+          "votes": 94
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 414,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 4",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "JOSEPH T. DYER, JR.",
+          "votes": 236
+        },
+        {
+          "name_original": "LYNNE DETARANDO GRDEN",
+          "votes": 239
+        },
+        {
+          "name_original": "JONATHAN S. MACK",
+          "votes": 230
+        },
+        {
+          "name_original": "JAMES MCKIERNAN, JR.",
+          "votes": 228
+        },
+        {
+          "name_original": "MADHUP MISHRA",
+          "votes": 206
+        },
+        {
+          "name_original": "RAJEEV V. PAPPU",
+          "votes": 216
+        },
+        {
+          "name_original": "ANTHONY BONAVENTURA",
+          "votes": 200
+        },
+        {
+          "name_original": "NAVIN K. JAIN",
+          "votes": 203
+        },
+        {
+          "name_original": "RAJESH UPPALAPATI",
+          "votes": 231
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1001,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 5 - 3 YRS",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "ADAM J. CANDELA",
+          "votes": 216
+        },
+        {
+          "name_original": "ROBERT H. DUMAS",
+          "votes": 212
+        },
+        {
+          "name_original": "AMANDA R. LUYSTER",
+          "votes": 207
+        },
+        {
+          "name_original": "MICHAEL S. NELSON",
+          "votes": 219
+        },
+        {
+          "name_original": "JOHN H. PETRANGELO",
+          "votes": 187
+        },
+        {
+          "name_original": "L. PATRICK PITNEY",
+          "votes": 220
+        },
+        {
+          "name_original": "JAMES E. STENCEL",
+          "votes": 198
+        },
+        {
+          "name_original": "MICHAEL VESCERE",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1229,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 5 - 2 YRS to fill a vac.",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John M. Chenier",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 353,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 6 - 3 YRS",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "KARRAH A. ELLIS",
+          "votes": 223
+        },
+        {
+          "name_original": "JENNIE N. FISHMAN",
+          "votes": 210
+        },
+        {
+          "name_original": "STEPHEN FISHMAN",
+          "votes": 214
+        },
+        {
+          "name_original": "ANDREW C. HEISEN",
+          "votes": 194
+        },
+        {
+          "name_original": "AUTUMN M. HOTALING",
+          "votes": 196
+        },
+        {
+          "name_original": "LISA J. STEELE",
+          "votes": 213
+        },
+        {
+          "name_original": "CAROL C. SWYDAN",
+          "votes": 197
+        },
+        {
+          "name_original": "JAMES D. HOTALING",
+          "votes": 186
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1308,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 6 - 2 YRS to fill a vac.",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "BRIAN M. MOLTER",
+          "votes": 248
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 6 - 1 YR to fill a vac.",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "KARANDEEP S. DEHAL",
+          "votes": 233
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 131,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 7",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "FOTOUN ALBACH",
+          "votes": 213
+        },
+        {
+          "name_original": "BRIDGETTE L. HYLTON",
+          "votes": 231
+        },
+        {
+          "name_original": "DENIS M. O'CONNELL",
+          "votes": 246
+        },
+        {
+          "name_original": "KARYN L. ROSSACCI",
+          "votes": 229
+        },
+        {
+          "name_original": "DEBORAH M. SCANNELL-NELSON",
+          "votes": 225
+        },
+        {
+          "name_original": "DALE W. SCHAETZKE",
+          "votes": 222
+        },
+        {
+          "name_original": "SHANNON E. WALL",
+          "votes": 248
+        },
+        {
+          "name_original": "ANNETTE M. SHINE",
+          "votes": 247
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1576,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 8",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "DEBORAH L. DELDOTTO",
+          "votes": 248
+        },
+        {
+          "name_original": "MAX G. GERMAN",
+          "votes": 265
+        },
+        {
+          "name_original": "WILLIAM P. GOOLEY",
+          "votes": 227
+        },
+        {
+          "name_original": "STEPHEN G. HESS",
+          "votes": 220
+        },
+        {
+          "name_original": "ROBERT D. HOLLAND",
+          "votes": 241
+        },
+        {
+          "name_original": "KRISTINA M. PALOMBA",
+          "votes": 242
+        },
+        {
+          "name_original": "LYNNE M. PERREAULT",
+          "votes": 230
+        },
+        {
+          "name_original": "STEPHEN H. WALSH",
+          "votes": 209
+        },
+        {
+          "name_original": "LOUISE M. GARONE",
+          "votes": 148
+        },
+        {
+          "name_original": "KERRY M. SHEA",
+          "votes": 264
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1841,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 9",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "JENA ADAMS",
+          "votes": 159
+        },
+        {
+          "name_original": "PANKAJ ADAVAL",
+          "votes": 190
+        },
+        {
+          "name_original": "RYAN M. NEWELL",
+          "votes": 147
+        },
+        {
+          "name_original": "ANAND SHARMA",
+          "votes": 211
+        },
+        {
+          "name_original": "SCOTT L. AUEN",
+          "votes": 145
+        },
+        {
+          "name_original": "LISA D. S. GONZALEZ",
+          "votes": 145
+        },
+        {
+          "name_original": "DAVID REMINGTON",
+          "votes": 159
+        },
+        {
+          "name_original": "LUIS R. RODRIGUEZ FIGUEROA",
+          "votes": 4
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1213,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shrewsbury",
+      "date": "2023-05-02",
+      "office_original": "TOWN MEETING MEMBERS PRECINCT 10",
+      "district_original": "Precinct 10",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 8,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "SAQIB N. CHAUDHARY",
+          "votes": 181
+        },
+        {
+          "name_original": "DONALD A. HUTCHINS",
+          "votes": 189
+        },
+        {
+          "name_original": "VIJAY L. JAIN",
+          "votes": 194
+        },
+        {
+          "name_original": "JOHN J. MANZI",
+          "votes": 200
+        },
+        {
+          "name_original": "THOMAS H. R. MOORE",
+          "votes": 193
+        },
+        {
+          "name_original": "TIMOTHY RIORDAN",
+          "votes": 181
+        },
+        {
+          "name_original": "KATHLEEN J. FEENY-MOON",
+          "votes": 192
+        },
+        {
+          "name_original": "RAJESH VELAGAPUDI",
+          "votes": 240
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1241,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Shrewsbury2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Shrewsbury2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

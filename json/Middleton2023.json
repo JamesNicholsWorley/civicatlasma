@@ -1,0 +1,216 @@
+{
+  "elections": [
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ilene B. Twiss",
+          "votes": 1035
+        },
+        {
+          "name_original": "Others",
+          "votes": 192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "THE SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian M. Cresta",
+          "votes": 960
+        },
+        {
+          "name_original": "Laurie York",
+          "votes": 7
+        },
+        {
+          "name_original": "Others",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "BOARD OF ASSESSORS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meredith Stone",
+          "votes": 946
+        },
+        {
+          "name_original": "Others",
+          "votes": 281,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph P. Crowley",
+          "votes": 608
+        },
+        {
+          "name_original": "Emily R. Leblanc-Perrone",
+          "votes": 544
+        },
+        {
+          "name_original": "Others",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "REGIONAL SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew A. Alexander",
+          "votes": 663
+        },
+        {
+          "name_original": "Kendra Petrone",
+          "votes": 752
+        },
+        {
+          "name_original": "David Shapiro",
+          "votes": 524
+        },
+        {
+          "name_original": "Kosta E. Prentakis",
+          "votes": 159
+        },
+        {
+          "name_original": "Others",
+          "votes": 356,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ademar A. Vieira",
+          "votes": 903
+        },
+        {
+          "name_original": "Others",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "Electric Light Commissioner",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James J. Carbone",
+          "votes": 959
+        },
+        {
+          "name_original": "Frank W. Twiss",
+          "votes": 972
+        },
+        {
+          "name_original": "Others",
+          "votes": 523,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Middleton",
+      "date": "2023-05-16",
+      "office_original": "TRUSTEE OF THE FLINT PUBLIC LIBRARY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maria J. Paikos-Hantzis",
+          "votes": 683
+        },
+        {
+          "name_original": "Timothy Philip Houten",
+          "votes": 636
+        },
+        {
+          "name_original": "Susan Piccole",
+          "votes": 677
+        },
+        {
+          "name_original": "Others",
+          "votes": 458,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Middleton2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Middleton2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

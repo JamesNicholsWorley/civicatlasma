@@ -1,0 +1,59 @@
+{
+  "elections": [
+    {
+      "municipality": "Raynham",
+      "date": "2026-04-25",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Andrade",
+          "votes": 410
+        },
+        {
+          "name_original": "Lou Pacheco",
+          "votes": 396
+        },
+        {
+          "name_original": "Linda Brackett",
+          "votes": 296
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2026-04-25",
+      "office_original": "Bridgewater-Raynham Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James DuPont",
+          "votes": 689
+        },
+        {
+          "name_original": "Joshua Henrique",
+          "votes": 271
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Raynham2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

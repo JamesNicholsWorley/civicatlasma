@@ -1,0 +1,236 @@
+{
+  "elections": [
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Chad Peck",
+          "votes": 498
+        },
+        {
+          "name_original": "Kevin Roche",
+          "votes": 543
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Kennedy",
+          "votes": 785
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 283,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Bakinowski",
+          "votes": 812
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 255,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "KP School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric Harmon",
+          "votes": 774
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 296,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Beachkofski",
+          "votes": 763
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 306,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Norfolk School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Medora Champagne",
+          "votes": 565
+        },
+        {
+          "name_original": "Taiese Hickman",
+          "votes": 414
+        },
+        {
+          "name_original": "Peter Svalbe",
+          "votes": 719
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Montfort",
+          "votes": 784
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 280,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Norfolk",
+      "date": "2024-05-07",
+      "office_original": "Recreation Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Thoman",
+          "votes": 791
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 280,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Norfolk2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norfolk2024.pdf",
+  "ballots_cast": 1072,
+  "ballots_cast_source": "derived_from_contests"
+}

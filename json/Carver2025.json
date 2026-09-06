@@ -1,0 +1,228 @@
+{
+  "document": {
+    "heading_verbatim": "Carver Election Results",
+    "election_type": "Regular",
+    "election_type_evidence": "Saturday's annual town election",
+    "date_verbatim": "Saturday's annual town election",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All the other races were uncontested."
+  },
+  "elections": [
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Planning Board Member",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Curtis Lake",
+          "votes": 136
+        },
+        {
+          "name_original": "Allen Maynard",
+          "votes": 87
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Selectboard Member",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Cotter Jr.",
+          "votes": 186
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "School Committee Member",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelley Niemi",
+          "votes": 161
+        },
+        {
+          "name_original": "Kathleen Sullivan",
+          "votes": 163
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cara Dahill",
+          "votes": 226
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janet O'Connor",
+          "votes": 177
+        },
+        {
+          "name_original": "Margaret Wood",
+          "votes": 186
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Paduch",
+          "votes": 195
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barry Callis",
+          "votes": 197
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Redevelopment Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Moranville",
+          "votes": 159
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellen Sordillo",
+          "votes": 183
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "North Carver Water Commission",
+      "district_original": "One Year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kim Shea",
+          "votes": 161
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2025-04-26",
+      "office_original": "North Carver Water Commission",
+      "district_original": "Three Year Term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric Mueller",
+          "votes": 174
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Carver2025",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

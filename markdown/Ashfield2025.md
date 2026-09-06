@@ -1,0 +1,126 @@
+Total registered voters1,465
+Total votes cast211
+% Voter turnout14%
+Moderator (1 Year)
+STEWART EISENBERG 197
+WRITE-INS 0
+BLANKS 14
+TOTAL 211
+Tree Warden (1 Year)
+THOMAS POISSANT 108
+LUCAS LAFLEUR 89
+WRITE-INS 0
+BLANKS 14
+TOTAL 211
+Select Board (3 Years)
+THOMAS CARTER 190
+WRITE-INS 0
+BLANKS 21
+TOTAL 211
+Board of Assessors (3 Years)
+FAYE WHITNEY-LUSSIER 194
+WRITE-INS 0
+BLANKS 17
+TOTAL 211
+Board of Health (3 Years)
+EVELYN RESH 182
+WRITE-INS 0
+BLANKS 29
+TOTAL 211
+Board of Health (1 Year)
+JENNIFER WILLIAMS 185
+WRITE-INS 0
+BLANKS 26
+TOTAL 211
+Constable (3 Years)
+ELIZABETH LESURE 132
+LUCAS LAFLEUR 53
+WRITE-INS 0
+BLANKS 26
+TOTAL 211
+Finance Committee (3 Years)
+BENNETT MARKENS 181
+WRITE-INS 0
+BLANKS 30
+TOTAL 211
+ASHFIELD, MA
+Certified Results
+May 3, 2025 Annual Town Election
+
+ASHFIELD, MA
+Certified Results
+May 3, 2025 Annual Town Election
+Finance Committee (3 Years)
+LAURA STRAVINO 184
+WRITE-INS 0
+BLANKS 27
+TOTAL 211
+Finance Committee (2 Years)
+AYALA CARTER 180
+WRITE-INS 0
+BLANKS 31
+TOTAL 211
+Park Commission (3 Years)
+GAIL WIEDMANN 186
+WRITE-INS 0
+BLANKS 25
+TOTAL 211
+Park Commission (3 Years)
+JAIME ROGERS 188
+WRITE-INS 0
+BLANKS 23
+TOTAL 211
+School Committee (3 Years)
+PATRICIA BAYER 181
+WRITE-INS 0
+BLANKS 30
+TOTAL 211
+Sewer Commission (3 Years)
+RICHARD TAYLOR 186
+WRITE-INS 0
+BLANKS 25
+TOTAL 211
+Library Trustees (5 Years)
+ROBERT BARBA 184
+WRITE-INS 0
+BLANKS 27
+TOTAL 211
+Planning Board (5 Years)
+ADAM BRIGHT 175
+WRITE-INS 0
+BLANKS 36
+TOTAL 211
+Planning Board (2 Years)
+CARTER CARTER 187
+WRITE-INS 1
+BLANKS 23
+TOTAL 211
+
+ASHFIELD, MA
+Certified Results
+May 3, 2025 Annual Town Election
+Ballot Question #1 Retaining Wall
+YES 171
+NO 25
+BLANKS 15
+TOTAL 211
+Ballot Question #2 Tree Warden
+YES 139
+NO 60
+BLANKS 12
+TOTAL 211
+Ballot Question #3 Lake Weeds - Action
+YES 179
+NO 27
+BLANKS 5
+TOTAL 211
+Ballot Question #4 Lake Weeds - Herbicide
+YES 106
+NO 98
+BLANKS 7
+TOTAL 211
+Ballot Question #5 MTRSD - Sanderson
+YES 132
+NO 72
+BLANKS 7
+TOTAL 211

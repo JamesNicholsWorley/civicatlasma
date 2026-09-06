@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Belchertown",
+      "date": "2022-05-16",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward G. Boscher",
+          "votes": 785
+        },
+        {
+          "name_original": "Jennifer D. Turner",
+          "votes": 860
+        },
+        {
+          "name_original": "Christopher Luke Dunn",
+          "votes": 685
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 536,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2022-05-16",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Wayne Ritter",
+          "votes": 535
+        },
+        {
+          "name_original": "Natalie G. Santana",
+          "votes": 877
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2022-05-16",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth A. Pols",
+          "votes": 1030
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 414,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2022-05-16",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Raymond G. Goff",
+          "votes": 1006
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2022-05-16",
+      "office_original": "Board of Health",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LeeAnne Connolly",
+          "votes": 840
+        },
+        {
+          "name_original": "James Potter",
+          "votes": 792
+        },
+        {
+          "name_original": "Victoria J. Noble",
+          "votes": 682
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 584,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Belchertown2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Belchertown2022.pdf",
+  "ballots_cast": 1451,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,118 @@
+{
+  "elections": [
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Select Board 3-Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bonny B. DiTomasso",
+          "votes": 42
+        },
+        {
+          "name_original": "Edward Munch",
+          "votes": 68
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Board of Health 3-Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nanette Mone",
+          "votes": 106
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Constable 2-Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peggy L. White",
+          "votes": 116
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Finance Committee 3-Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Hickling",
+          "votes": 31
+        },
+        {
+          "name_original": "Robin Wadsworth",
+          "votes": 30
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Moderator 3 Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel Haupt",
+          "votes": 29
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Peru",
+      "date": "2023-06-10",
+      "office_original": "Planning Board 5-Yr. Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Hickling",
+          "votes": 6
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Peru2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Peru2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

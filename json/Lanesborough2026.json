@@ -1,0 +1,122 @@
+{
+  "elections": [
+    {
+      "municipality": "Lanesborough",
+      "date": "2026-06-16",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Juli Baker",
+          "votes": 258
+        },
+        {
+          "name_original": "Jeffery Walter",
+          "votes": 215
+        },
+        {
+          "name_original": "Michael Murphy",
+          "votes": 168
+        },
+        {
+          "name_original": "Scott Graves",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Christian Halley",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2026-06-16",
+      "office_original": "Finance Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Lyndon Moors",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2026-06-16",
+      "office_original": "Library Trustee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.6,
+      "candidates": [
+        {
+          "name_original": "Sherri Wilson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2026-06-16",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Audra Ladd",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Leanne Yinger",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lanesborough2026",
+  "_source_pdf": "",
+  "document": {
+    "date_correction": {
+      "corrected_on": "2026-08-23",
+      "was": [
+        "2026-05-20"
+      ],
+      "now": "2026-06-16",
+      "url": "https://www.iberkshires.com/story/82964/Lanesborough-Town-Election-Sees-Expanded-Select-Board.html",
+      "quote": "Tuesday, June 16, 2026",
+      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+      "note": ""
+    },
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2026-06-16",
+      "detail": "https://www.iberkshires.com/story/82964/Lanesborough-Town-Election-Sees-Expanded-Select-Board.html",
+      "quote": "Tuesday, June 16, 2026",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

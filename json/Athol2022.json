@@ -1,0 +1,273 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION RESULTS\nTOWN OF ATHOL, MASSACHUSETTS\nAPRIL 4, 2022",
+    "date_verbatim": "APRIL 4, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION RESULTS",
+    "offices_on_ballot": 8,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lawrence P. McLaughlin",
+          "votes": 212
+        },
+        {
+          "name_original": "Lee Chauvette",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam Tyler",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "SELECTMAN - 3 YEARS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen R. Raymond",
+          "votes": 183
+        },
+        {
+          "name_original": "Kala Fisher",
+          "votes": 168
+        },
+        {
+          "name_original": "Lee Chauvette",
+          "votes": 2
+        },
+        {
+          "name_original": "Ken Duffy",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam Tyler",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "SCHOOL COMMITTEE FROM ATHOL",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Tammy Duquette",
+          "votes": 158
+        },
+        {
+          "name_original": "Theodore J. Mallet, III",
+          "votes": 176
+        },
+        {
+          "name_original": "Laura Robinson",
+          "votes": 108
+        },
+        {
+          "name_original": "Frank Visco",
+          "votes": 29
+        },
+        {
+          "name_original": "Paula Robinson",
+          "votes": 2
+        },
+        {
+          "name_original": "James Pollard",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 239,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "SCHOOL COMMITTEE FROM ROYALSTON",
+      "district_original": "Royalston",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Brittany M. Newton",
+          "votes": 177
+        },
+        {
+          "name_original": "Roberta Newman",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sharon A. Brighenti",
+          "votes": 191
+        },
+        {
+          "name_original": "Margaret E. Feldman",
+          "votes": 196
+        },
+        {
+          "name_original": "Lee Chauvette",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam Tyler",
+          "votes": 1
+        },
+        {
+          "name_original": "Chris Coyle",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cathy A. Savoy",
+          "votes": 208
+        },
+        {
+          "name_original": "Lee Chauvette",
+          "votes": 1
+        },
+        {
+          "name_original": "Adam Tyler",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Athol",
+      "date": "2022-04-04",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Materas",
+          "votes": 197
+        },
+        {
+          "name_original": "Lee Chauvette",
+          "votes": 1
+        },
+        {
+          "name_original": "Sally Zettel",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Athol2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Athol2022.pdf",
+  "ballots_cast": 238,
+  "ballots_cast_source": "derived_from_contests"
+}

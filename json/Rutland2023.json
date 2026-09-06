@@ -1,0 +1,190 @@
+{
+  "elections": [
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Randy E. Jordan",
+          "votes": 1276
+        },
+        {
+          "name_original": "Others",
+          "votes": 219,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 219,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "SELECT BOARD- 3yr / 2seats",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leroy C. Clark",
+          "votes": 697
+        },
+        {
+          "name_original": "Jennifer A. Leger",
+          "votes": 852
+        },
+        {
+          "name_original": "Paul T. Mattson",
+          "votes": 711
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 752,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "SELECT BOARD - 1 yr",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Harry E. Sechman",
+          "votes": 689
+        },
+        {
+          "name_original": "Jason E. Taylor",
+          "votes": 511
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 300,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer Collard",
+          "votes": 3
+        },
+        {
+          "name_original": "Arthur Lincoln",
+          "votes": 9
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1421,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elliott L. Nadeau Jr",
+          "votes": 1104
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 396,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rutland",
+      "date": "2023-05-08",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Britton James Bradford",
+          "votes": 522
+        },
+        {
+          "name_original": "Keith M. Tuttle",
+          "votes": 739
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 244,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rutland2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rutland2023.pdf",
+  "ballots_cast": 1513,
+  "ballots_cast_source": "derived_from_contests"
+}

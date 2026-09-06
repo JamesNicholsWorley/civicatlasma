@@ -1,0 +1,155 @@
+{
+  "elections": [
+    {
+      "municipality": "Maynard",
+      "date": "2026-05-05",
+      "office_original": "SELECT BOARD - TWO for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DAVID D. GAVIN",
+          "votes": 291
+        },
+        {
+          "name_original": "JEFFREY CHARLES SWANBERG JR.",
+          "votes": 276
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2026-05-05",
+      "office_original": "SCHOOL COMMITTEE - TWO for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRYAN TYLER DELANEY",
+          "votes": 265
+        },
+        {
+          "name_original": "MARY BRANNELLY",
+          "votes": 117
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 275,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2026-05-05",
+      "office_original": "LIBRARY TRUSTEE - ONE for three years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KEVIN ANTHONY GERVAIS",
+          "votes": 49
+        },
+        {
+          "name_original": "RICHARD L. PEPIN",
+          "votes": 112
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2026-05-05",
+      "office_original": "HOUSING AUTHORITY - ONE for four years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHAEL E. CHAMBERS",
+          "votes": 79
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2026-05-05",
+      "office_original": "HOUSING AUTHORITY - ONE for five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PATRICK GREENE",
+          "votes": 96
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 220,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Maynard2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Maynard2026.pdf",
+  "ballots_cast": 332,
+  "ballots_cast_source": "derived_from_contests"
+}

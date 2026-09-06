@@ -1,0 +1,27 @@
+{
+  "elections": [
+    {
+      "municipality": "Agawam",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christopher C Johnson",
+          "votes": 3221
+        },
+        {
+          "name_original": "Cecilia Calabrese",
+          "votes": 2713
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

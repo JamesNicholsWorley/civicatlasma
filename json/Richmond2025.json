@@ -1,0 +1,200 @@
+{
+  "elections": [
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Neal Pilson",
+          "votes": 47
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 5
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Justin Winters",
+          "votes": 49
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 4
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Board of Health (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Linda Mitchell",
+          "votes": 52
+        },
+        {
+          "name_original": "Richard Rosenfeld",
+          "votes": 53
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 3
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Nanci McConnell",
+          "votes": 53
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "William E. Martin",
+          "votes": 47
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 7
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "Finance Committee (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Patricia Callahan",
+          "votes": 50
+        },
+        {
+          "name_original": "Eileen Martin",
+          "votes": 49
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 9
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2025-05-22",
+      "office_original": "School Committee (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Tom Forstner",
+          "votes": 48
+        },
+        {
+          "name_original": "Nate Steele",
+          "votes": 51
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Total Blanks",
+          "votes": 8
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

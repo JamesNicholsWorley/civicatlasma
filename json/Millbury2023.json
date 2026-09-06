@@ -1,0 +1,224 @@
+{
+  "elections": [
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "BOARD OF SELECTMEN 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRIAN A. SORA",
+          "votes": 572
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "SCHOOL COMMITTEE 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JESSICA L. BRISTOL",
+          "votes": 505
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "SCHOOL COMMITTEE 1 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 138,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 512,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "BOARD OF ASSESSORS 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JEAN L. MOROSKI",
+          "votes": 495
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 154,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "PLANNING BOARD 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TERRY BURKE DOTSON",
+          "votes": 248
+        },
+        {
+          "name_original": "RICHARD F. GOSSELIN, JR.",
+          "votes": 436
+        },
+        {
+          "name_original": "TONY NGO",
+          "votes": 423
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 186,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "BOARD OF HEALTH 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JAMES M. MORIN",
+          "votes": 529
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "LIBRARY TRUSTEES 3 YRS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SUSAN M. COPELAND",
+          "votes": 511
+        },
+        {
+          "name_original": "Others",
+          "votes": 58,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 731,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Millbury",
+      "date": "2023-04-25",
+      "office_original": "HOUSING AUTHORITY 5 YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SHERRY J. FORLEO",
+          "votes": 196
+        },
+        {
+          "name_original": "CHARLES HAMILTON",
+          "votes": 199
+        },
+        {
+          "name_original": "MICHAEL K. MICHALAK, SR",
+          "votes": 117
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": 650,
+  "ballots_cast_source": "derived_from_contests"
+}

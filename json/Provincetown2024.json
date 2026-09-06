@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslie Sandberg",
+          "votes": 746
+        },
+        {
+          "name_original": "Jere Miller",
+          "votes": 125
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Jo Avellar",
+          "votes": 792
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 121,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Charter Compliance",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julia L. Perry",
+          "votes": 713
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 218,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Housing Authority - 5 Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donna J. Szeke",
+          "votes": 720
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 208,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ngina Lythcott",
+          "votes": 502
+        },
+        {
+          "name_original": "Sean Ganas",
+          "votes": 417
+        },
+        {
+          "name_original": "Terese Nelson",
+          "votes": 527
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 423,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Housing Authority - 3 Year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert O'Malley",
+          "votes": 17
+        },
+        {
+          "name_original": "Laura Rood",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 64,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 860,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Provincetown",
+      "date": "2024-05-14",
+      "office_original": "Board of Library Trustee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Clayton Nottleman",
+          "votes": 22
+        },
+        {
+          "name_original": "Laura Guadazano",
+          "votes": 21
+        },
+        {
+          "name_original": "Others",
+          "votes": 113,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1735,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Provincetown2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Provincetown2024.pdf",
+  "ballots_cast": 937,
+  "ballots_cast_source": "derived_from_contests"
+}

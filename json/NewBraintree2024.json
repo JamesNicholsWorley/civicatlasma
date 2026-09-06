@@ -1,0 +1,158 @@
+{
+  "elections": [
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Selectboard for 3 Years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Joseph A. Chenevert",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Planning Board for 5 years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "David R. Thompson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Assessor for 3 Years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Jessica R. Monahan",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Finance Committee for 3 Years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "John H. Thomasian",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Board of Health for 3 years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Scott C. Metcalf",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Library Trustee for 3 years",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Christine M. Maio",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Judith C. Webb",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2024-05-06",
+      "office_original": "Constable for 3 years",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Rory J. Fitzgerald",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NewBraintree2024",
+  "_notes": "Source: the town's sample ballot, sample_ballot.docx(1).pdf, supplied by the owner. Read COLUMN BY COLUMN from word coordinates -- the PDF's text stream interleaves the two columns, so reading order attaches each candidate to the wrong office. Eight offices, all uncontested; landed the same way New Braintree 2025 already is, from the same town's sample ballot in the same directory, with the uncontested-winner sentinel. CEMETERY COMMISSIONER FOR 3 YEARS DREW NO CANDIDATE -- the office is printed on the ballot with an empty candidate area. That is a vacancy and is recorded here rather than as a zero-vote candidate. NO TURNOUT IS PUBLISHED for this election and none is inferred, so this record carries no ballot ceiling and nothing can be closed against it. DATE 2024-05-06 IS BRACKETED, not merely patterned: this corpus publishes New Braintree 2023 as 2023-05-01 and 2025 as 2025-05-05, both the first Monday in May, on either side of 2024; the town's own 2025 notice reads \"ANNUAL TOWN ELECTION Monday, May 5, 2025\"; and the Select Board held its post-election reorganization on Monday 13 May 2024, seating Joseph A. Chenevert -- this ballot's Selectboard candidate -- as Chair. The first Monday of May 2024 is the 6th.",
+  "document": {
+    "heading_verbatim": "Annual Town Election sample ballot, New Braintree, Massachusetts",
+    "turnout_verbatim": "not published",
+    "date_corroboration": {
+      "source": "the town's own annual report / this corpus's bracketing years",
+      "value": "2024-05-06",
+      "strength": "corroborated",
+      "quote": "bracketed by this corpus's own published New Braintree 2023 (2023-05-01) and 2025 (2025-05-05), both the first Monday in May, plus the town's 2025 notice \"ANNUAL TOWN ELECTION Monday, May 5, 2025\" and the Select Board's post-election reorganization on Monday 13 May 2024",
+      "note": "established 2026-08-28 by src/land_richmond_newbraintree_2024.py"
+    },
+    "uncontested_ballot": {
+      "turnout_cast": 0,
+      "turnout_registered": 0,
+      "seated_evidence": "Select Board minutes of Monday 13 May 2024, headed \"REORGANIZATION OF THE BOARD\": \"Motion to have Mr. Chenevert serve as Chair and Mr. Letendre as Vice-Chair and Mr. McQueston as Clerk\" -- Joseph A. Chenevert is this ballot's Selectboard candidate, seated at the town's first post-election meeting",
+      "seated_citation": "https://www.newbraintreema.us/vertical/Sites/%7BDB28C06A-9981-4746-94BD-D376054BB741%7D/uploads/BOSMIN051324(1).pdf",
+      "quote": "Every office on the ballot drew at most as many candidates as seats, so no tally was ever produced. NO TURNOUT WAS EVER PUBLISHED, and that is established rather than assumed: a Wayback capture of the town's single results file (uploads/ATE_REsults.pdf) taken in DECEMBER 2024 still holds \"FINAL RESULTS ANNUAL TOWN ELECTION 5/1/23 - 129 VOTERS\", so the town never replaced it with a 2024 return. The Barre Gazette issues of 9, 16 and 23 May 2024 -- recovered from Wayback after Turley purged its own 2024 archive -- carry no New Braintree results either.",
+      "note": "accepted 2026-08-29; seated-winner evidence in place of turnout"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

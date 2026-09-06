@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Moderator (1 for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David A. Lyttle",
+          "votes": 803
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 112,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Constable (1 for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary E. Stevens",
+          "votes": 780
+        },
+        {
+          "name_original": "All Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 140,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Select Board (2 for 3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Allen Herman",
+          "votes": 756
+        },
+        {
+          "name_original": "Mark W. Mathison",
+          "votes": 688
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 394,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Board of Health (1 for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John P. Smith, Jr.",
+          "votes": 753
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 170,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Nauset Regional School Committee (1 for 3 years)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua W. Stewart",
+          "votes": 742
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 179,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Orleans School Committee (2 for 3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Virginia E. Stribula",
+          "votes": 689
+        },
+        {
+          "name_original": "Maxine L. Minkoff",
+          "votes": 684
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 471,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Orleans",
+      "date": "2022-05-17",
+      "office_original": "Trustee for Snow Library (2 for 3 years)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela M. Ritchie",
+          "votes": 774
+        },
+        {
+          "name_original": "Mary Susan Lynch",
+          "votes": 87
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 977,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orleans2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orleans2022.pdf",
+  "ballots_cast": 923,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,550 @@
+{
+  "elections": [
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor At Large",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roberto Andres Jimenez-Rivera",
+          "votes": 1151
+        },
+        {
+          "name_original": "Leo Robinson",
+          "votes": 1043
+        },
+        {
+          "name_original": "Nicholas D. Gregoretti",
+          "votes": 595
+        },
+        {
+          "name_original": "Yesenia L. Alfaro",
+          "votes": 635
+        },
+        {
+          "name_original": "Kelly Chaney Garcia",
+          "votes": 1085
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2469,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District One",
+      "district_original": "District 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Todd B. Taylor",
+          "votes": 253
+        },
+        {
+          "name_original": "Christian A. De Jesus Franco",
+          "votes": 139
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Two",
+      "district_original": "District 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melinda M. Vega",
+          "votes": 147
+        },
+        {
+          "name_original": "Deron Hines",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Three",
+      "district_original": "District 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Norieliz D. Dejesus",
+          "votes": 203
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 52,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Four",
+      "district_original": "District 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tanairi Garcia",
+          "votes": 177
+        },
+        {
+          "name_original": "Marnie M. Macalpine",
+          "votes": 137
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Five",
+      "district_original": "District 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa A. Santagate",
+          "votes": 115
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Six",
+      "district_original": "District 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Giovanni A. Recupero",
+          "votes": 114
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Seven",
+      "district_original": "District 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Manuel Teshe",
+          "votes": 128
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "Councillor District Eight",
+      "district_original": "District 8",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Calvin T. Brown",
+          "votes": 252
+        },
+        {
+          "name_original": "Marceza Kotoni",
+          "votes": 246
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee At Large",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine Cabral",
+          "votes": 1745
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 581,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District One",
+      "district_original": "District 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hugo Perdomo",
+          "votes": 171
+        },
+        {
+          "name_original": "Shawn P. O'Regan",
+          "votes": 189
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 38,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Two",
+      "district_original": "District 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Elizabeth Neville",
+          "votes": 269
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 93,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Three",
+      "district_original": "District 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Daniel Gomez-Pereira",
+          "votes": 137
+        },
+        {
+          "name_original": "Katherine J. Palencia",
+          "votes": 83
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Four",
+      "district_original": "District 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mayra Balderas",
+          "votes": 246
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 90,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Five",
+      "district_original": "District 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Claryangeliz Covas Caraballo",
+          "votes": 119
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Six",
+      "district_original": "District 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ana E. Hernandez",
+          "votes": 122
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Seven",
+      "district_original": "District 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lucia Henriquez",
+          "votes": 134
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chelsea",
+      "date": "2025-11-04",
+      "office_original": "School Committee District Eight",
+      "district_original": "District 8",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacob J. Small",
+          "votes": 360
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 159,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chelsea2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chelsea2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

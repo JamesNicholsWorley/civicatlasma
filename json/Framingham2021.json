@@ -1,0 +1,653 @@
+{
+  "elections": [
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "Mayor (1 seat) for 4 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charlie Sisitsky",
+          "votes": 8283
+        },
+        {
+          "name_original": "Yvonne M. Spicer",
+          "votes": 3909
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 1 City Councilor (1 seat) for 2 years",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christine A. Long",
+          "votes": 1700
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 572,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 2 City Councilor (1 seat) for 2 years",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacob Binnall",
+          "votes": 679
+        },
+        {
+          "name_original": "Cesar G. Stewart-Morales",
+          "votes": 1058
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 130,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 3 City Councilor (1 seat) for 2 years",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Adam C. Steiner",
+          "votes": 997
+        },
+        {
+          "name_original": "Mary Kate Feeney",
+          "votes": 995
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 133,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 4 City Councilor (1 seat) for 2 years",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael P. Cannon",
+          "votes": 1090
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 369,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 5 City Councilor (1 seat) for 2 years",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Noval A. Alexander",
+          "votes": 628
+        },
+        {
+          "name_original": "Cheryl L. Gordon",
+          "votes": 509
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 106,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 6 City Councilor (1 seat) for 2 years",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip R. Ottaviani, Jr.",
+          "votes": 987
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 337,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 47,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 7 City Councilor (1 seat) for 2 years",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leora Rose Mallach",
+          "votes": 526
+        },
+        {
+          "name_original": "Magdalena K. Janus",
+          "votes": 285
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 69,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 8 City Councilor (1 seat) for 2 years",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John A. Stefanini",
+          "votes": 553
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 109,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 9 City Councilor (1 seat) for 2 years",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edgardo Angel Torres",
+          "votes": 77
+        },
+        {
+          "name_original": "Tracey Bryant",
+          "votes": 190
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 1 School Committee (1 seat) for 2 years",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Beverly K. Hugo",
+          "votes": 1655
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 616,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 2 School Committee (1 seat) for 2 years",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Albert Finlay",
+          "votes": 1284
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 542,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 3 School Committee (1 seat) for 2 years",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer A. Moshe",
+          "votes": 1461
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 635,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 4 School Committee (1 seat) for 2 years",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Lawrence Freudberg",
+          "votes": 1074
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 398,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 5 School Committee (1 seat) for 2 years",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Priscila Sousa",
+          "votes": 852
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 372,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 6 School Committee (1 seat) for 2 years",
+      "district_original": "District 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Valerie V. Ottaviani",
+          "votes": 979
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 358,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 7 School Committee (1 seat) for 2 years",
+      "district_original": "District 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tiffanie Dawn Maskell",
+          "votes": 646
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 219,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 8 School Committee (1 seat) for 2 years",
+      "district_original": "District 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica Stefanini Barnhill",
+          "votes": 539
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 128,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "District 9 School Committee (1 seat) for 2 years",
+      "district_original": "District 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William J. LaBarge",
+          "votes": 200
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 59,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "Library Trustee (6 seats) for 4 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Heather E. E. Woods",
+          "votes": 4752
+        },
+        {
+          "name_original": "Leslie S. White-Harvey",
+          "votes": 4646
+        },
+        {
+          "name_original": "Ruth S. Winett",
+          "votes": 6525
+        },
+        {
+          "name_original": "Trent Matthew Fortner",
+          "votes": 3024
+        },
+        {
+          "name_original": "Steven C. Malchman",
+          "votes": 5132
+        },
+        {
+          "name_original": "Isabella Lili Petroni",
+          "votes": 5469
+        },
+        {
+          "name_original": "Heather Klish",
+          "votes": 3473
+        },
+        {
+          "name_original": "Jenny Dimouro DeArcangelis",
+          "votes": 3741
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36676,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 116,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Framingham",
+      "date": "2021-11-02",
+      "office_original": "Cemetery Trustee (3 seats) for 4 years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie Ferrari",
+          "votes": 6535
+        },
+        {
+          "name_original": "Dennis W. Cardiff",
+          "votes": 7197
+        },
+        {
+          "name_original": "Nicholas Paganella",
+          "votes": 5678
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17287,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 80,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Framingham2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Framingham2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

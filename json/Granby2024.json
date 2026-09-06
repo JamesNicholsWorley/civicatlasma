@@ -1,0 +1,238 @@
+{
+  "document": {
+    "heading_verbatim": "Labonte wins tight Select Board race in Granby - Daily Hampshire Gazette",
+    "election_type": "Regular",
+    "election_type_evidence": "The article describes municipal election results from an annual election held on Monday (09-15-2023) with no indication this was a special election.",
+    "date_verbatim": "09-15-2023",
+    "offices_on_ballot": 12,
+    "is_sample_ballot": false,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All but two of the 12 races were uncontested",
+    "date_corroboration": {
+      "source": "publication date",
+      "value": "2024-05-20",
+      "quote": "'won a seat on the Select Board on Monday', published Tuesday 21 May 2024",
+      "note": "read 2026-08-24 by src/close_ingest_holds.py",
+      "published": "2024-05-21"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "David Alan Labonte",
+          "votes": 307
+        },
+        {
+          "name_original": "Micheline Turgeon",
+          "votes": 271
+        },
+        {
+          "name_original": "John Arcouette",
+          "votes": 191
+        },
+        {
+          "name_original": "Nathaniel Albin Masse",
+          "votes": 84
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Housing Authority Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Douglas Smith",
+          "votes": 292
+        },
+        {
+          "name_original": "Ronald Richard",
+          "votes": 269
+        },
+        {
+          "name_original": "Dakota Richards",
+          "votes": 141
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Planning Board",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "James Trompke",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "School Committee",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Jennifer Bartosz",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Jill Pelletier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Board of Health",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Lee Lalonde",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Town Moderator",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Lynn Mercier",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Board of Assessors",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Dakota Richards",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Town Collector",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Nicole Menard",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Commissioner of Burial Grounds",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Gordon Laundry",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Granby",
+      "date": "2024-05-20",
+      "office_original": "Library Trustees",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Denise Conti",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Bernadette Archambaull",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Jennifer Chavin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Granby2024",
+  "_source_pdf": "",
+  "ballots_cast": 874,
+  "ballots_cast_source": "stated_in_record"
+}

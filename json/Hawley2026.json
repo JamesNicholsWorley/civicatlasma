@@ -1,0 +1,126 @@
+{
+  "document": {
+    "heading_verbatim": "Hawley town clerk's position to be appointed following affirmative election vote",
+    "date_verbatim": "May 5, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Voters in Hawley's town election weren't presented with any contested races when they arrived to the polls on Monday. Three of the six positions that needed to be filled had ballot candidates",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 6,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Voters in Hawley's town election weren't presented with any contested races when they arrived to the polls on Monday"
+  },
+  "elections": [
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Selectboard/Zoning Board of Appeals/Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Will Cosby",
+          "votes": 25
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Hawlemont Regional School District School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ken Bertsch",
+          "votes": 33
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Mohawk Trail Regional School District School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Sears",
+          "votes": 34
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wayne Lemoine",
+          "votes": 20
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Auditor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jill Behringer",
+          "votes": 17
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hawley",
+      "date": "2026-05-05",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie Carantit",
+          "votes": 16
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hawley2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hawley2026.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

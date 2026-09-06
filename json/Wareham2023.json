@@ -1,0 +1,155 @@
+{
+  "elections": [
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Select Board (3 yr)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith Whiteside",
+          "votes": 419
+        },
+        {
+          "name_original": "Patricia Wurts",
+          "votes": 486
+        },
+        {
+          "name_original": "James Munise",
+          "votes": 358
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Assessor (3 yr)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James McCahill",
+          "votes": 516
+        },
+        {
+          "name_original": "Priscilla Porter",
+          "votes": 554
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "School Committee (3 yr)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joyce Bacchiocchi",
+          "votes": 543
+        },
+        {
+          "name_original": "Kevin Brogioli",
+          "votes": 564
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Constable (3 yr)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shelli Mobilia",
+          "votes": 491
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Non Sewer User Commissioner (3 yr)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bernard Pigeon",
+          "votes": 510
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Sewer User Commissioner (3 yr)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robert Scanlon",
+          "votes": 173
+        },
+        {
+          "name_original": "Robert Powilatis",
+          "votes": 7
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2023-05-02",
+      "office_original": "Housing Authority (5 yr)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Powilatis",
+          "votes": 534
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wareham2023",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-05-02",
+      "detail": "https://web.archive.org/web/20230606195200/https://www.wareham.ma.us/node/8/news",
+      "quote": "May 2, 2023 Specimen Ballot",
+      "note": "verified 2026-08-23. WEAKER THAN THE OTHERS AND ACCEPTED KNOWINGLY: this is a document TITLE in the clerk's own news listing, not a sentence. It clears the stamp test by a wide margin -- the posting timestamp beside it is 'April 12, 2023 - 6:25pm', three weeks EARLIER, so May 2 cannot be the CMS date -- and a specimen ballot is headed with the day of the election it is for. Wareham's own return prints only 'May-23' with the day illegible"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

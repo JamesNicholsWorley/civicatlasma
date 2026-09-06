@@ -1,0 +1,600 @@
+{
+  "elections": [
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "SELECT BOARD (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda Wollschlager",
+          "votes": 4976
+        },
+        {
+          "name_original": "Others",
+          "votes": 46,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2065,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "SCHOOL COMMITTEE (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine W. Brunell",
+          "votes": 5641
+        },
+        {
+          "name_original": "Shai Fuxman",
+          "votes": 5480
+        },
+        {
+          "name_original": "Donna M. McKenzie",
+          "votes": 673
+        },
+        {
+          "name_original": "James T. Roberts",
+          "votes": 1326
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1037,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "PLANNING BOARD (5 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter A. Nottonson",
+          "votes": 5018
+        },
+        {
+          "name_original": "Others",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2035,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "REC AND PARKS COMMISSION (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth W. Van Blarcom",
+          "votes": 5053
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2008,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "BOARD OF ASSESSORS (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Molly K. Reed",
+          "votes": 5019
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2047,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "BOARD OF HEALTH (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter A. Dellicolli",
+          "votes": 5178
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1889,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Brendan John Leahey",
+          "votes": 174
+        },
+        {
+          "name_original": "Charlotte Hannon",
+          "votes": 7
+        },
+        {
+          "name_original": "Daniel Gould",
+          "votes": 4
+        },
+        {
+          "name_original": "Jenny Sam",
+          "votes": 1
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Bruce A. Coggeshall",
+          "votes": 405
+        },
+        {
+          "name_original": "Paul L. Dellarocca",
+          "votes": 424
+        },
+        {
+          "name_original": "Ari Gottlieb",
+          "votes": 2
+        },
+        {
+          "name_original": "Rob J. Thompson",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Kasey E. Galligan",
+          "votes": 482
+        },
+        {
+          "name_original": "John David Wodeyla",
+          "votes": 431
+        },
+        {
+          "name_original": "Joseph S. Ranieri",
+          "votes": 483
+        },
+        {
+          "name_original": "William M. Monaghan",
+          "votes": 384
+        },
+        {
+          "name_original": "Others",
+          "votes": 72,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Moire V. Balsam",
+          "votes": 464
+        },
+        {
+          "name_original": "Dirk Coburn Jr",
+          "votes": 470
+        },
+        {
+          "name_original": "Grace Keeney",
+          "votes": 477
+        },
+        {
+          "name_original": "Frank H. Sanchez Jr",
+          "votes": 466
+        },
+        {
+          "name_original": "Mary Vasquez",
+          "votes": 12
+        },
+        {
+          "name_original": "Rachele Beth Manning",
+          "votes": 4
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Andrew W. Luke",
+          "votes": 380
+        },
+        {
+          "name_original": "Harriet S. Merkowitz",
+          "votes": 381
+        },
+        {
+          "name_original": "Robert A. Weithman",
+          "votes": 380
+        },
+        {
+          "name_original": "Victoria W. Grafflin",
+          "votes": 348
+        },
+        {
+          "name_original": "Kenneth E. Yang",
+          "votes": 342
+        },
+        {
+          "name_original": "Kelly L. McPherson",
+          "votes": 31
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Jennifer Paige Adams",
+          "votes": 419
+        },
+        {
+          "name_original": "Paul E. Connolly",
+          "votes": 408
+        },
+        {
+          "name_original": "Alyssa M. Isakower",
+          "votes": 400
+        },
+        {
+          "name_original": "Michael F. Linehan",
+          "votes": 382
+        },
+        {
+          "name_original": "Nancy A. Northgraves",
+          "votes": 397
+        },
+        {
+          "name_original": "Claudia Trevor-Wright",
+          "votes": 359
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Thomas L. Daly",
+          "votes": 686
+        },
+        {
+          "name_original": "Paul B. Griesmer",
+          "votes": 704
+        },
+        {
+          "name_original": "Steven R. Owens",
+          "votes": 658
+        },
+        {
+          "name_original": "Patricia Sciarra",
+          "votes": 391
+        },
+        {
+          "name_original": "Linda Wollschlager",
+          "votes": 644
+        },
+        {
+          "name_original": "Andrew M. Enright",
+          "votes": 487
+        },
+        {
+          "name_original": "Rebekah E. Stendahl",
+          "votes": 570
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Donald Branson",
+          "votes": 500
+        },
+        {
+          "name_original": "Edward R. Devereux",
+          "votes": 492
+        },
+        {
+          "name_original": "Donna M. McKenzie",
+          "votes": 519
+        },
+        {
+          "name_original": "Jayme A. Bastiansen",
+          "votes": 428
+        },
+        {
+          "name_original": "William G. Bastiansen",
+          "votes": 407
+        },
+        {
+          "name_original": "Robert Gregory Richard",
+          "votes": 454
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Jeffrey A. Alderson",
+          "votes": 512
+        },
+        {
+          "name_original": "Lawrence W. Forshner",
+          "votes": 526
+        },
+        {
+          "name_original": "Sandra Lafleur",
+          "votes": 520
+        },
+        {
+          "name_original": "Tien Lum",
+          "votes": 519
+        },
+        {
+          "name_original": "Heather S. Seiche",
+          "votes": 536
+        },
+        {
+          "name_original": "James M. Williamson",
+          "votes": 524
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Natick",
+      "date": "2024-03-26",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 10",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Edward J. Doherty",
+          "votes": 608
+        },
+        {
+          "name_original": "Charlene S. Foss",
+          "votes": 596
+        },
+        {
+          "name_original": "Reginald S. Leese",
+          "votes": 595
+        },
+        {
+          "name_original": "John M. Mangino",
+          "votes": 578
+        },
+        {
+          "name_original": "William J. Proia Jr",
+          "votes": 595
+        },
+        {
+          "name_original": "Kelly Elizabeth Quinlan",
+          "votes": 522
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Natick2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Natick2024.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2024-03-26",
+      "detail": "https://www.natickma.gov/DocumentCenter/View/17263/2024_ANNUAL-TOWN-ELECTION_OFFICIAL-RESULTS_3-26-24",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 7087,
+  "ballots_cast_source": "derived_from_contests"
+}

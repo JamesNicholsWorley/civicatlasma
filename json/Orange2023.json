@@ -1,0 +1,211 @@
+{
+  "elections": [
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew Fortier",
+          "votes": 164
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jane M. Peirce",
+          "votes": 145
+        },
+        {
+          "name_original": "Thomas J. Smith",
+          "votes": 158
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy Blackmer",
+          "votes": 172
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tim Sakach",
+          "votes": 6
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Elementary School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly Scot",
+          "votes": 160
+        },
+        {
+          "name_original": "Elizabeth Cross",
+          "votes": 34
+        },
+        {
+          "name_original": "Crystal Cooke",
+          "votes": 0
+        },
+        {
+          "name_original": "India Eadie",
+          "votes": 33
+        },
+        {
+          "name_original": "Adrienne Berry",
+          "votes": 0
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Ralph C. Mahar Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patrick Clark Davis",
+          "votes": 149
+        },
+        {
+          "name_original": "Katie Hunkler",
+          "votes": 8
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robin Shtulman",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Joanne Woodcock",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Josefa D'Vora Bashein Scherer",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Trustees of the Soldiers' Memorial",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bruce St. John",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Orange",
+      "date": "2023-03-06",
+      "office_original": "Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mercedes Clingerman",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Orange2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

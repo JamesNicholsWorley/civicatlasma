@@ -1,0 +1,142 @@
+{
+  "elections": [
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "STEPHEN CONSILVIO",
+          "votes": 479
+        },
+        {
+          "name_original": "MARYELLEN B. FAHEY",
+          "votes": 517
+        },
+        {
+          "name_original": "WAYNE PAGE",
+          "votes": 618
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "MARY KATHERINE DECOURCEY",
+          "votes": 1382
+        },
+        {
+          "name_original": "Others",
+          "votes": 78,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "LIBRARY TRUSTEES - 1 YR",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "LINDSAY MARIE BAKER",
+          "votes": 1380
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "CHARLES ALOYSIUS BAKER, JR.",
+          "votes": 946
+        },
+        {
+          "name_original": "GLENN J. FELDMAN",
+          "votes": 628
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "MEGHAN P. MCCRILLIS",
+          "votes": 1205
+        },
+        {
+          "name_original": "BROOKE L. WRENN",
+          "votes": 1233
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "SELECTMEN",
+      "num_winners": 3,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "SARA K. RUFLI",
+          "votes": 944
+        },
+        {
+          "name_original": "DANIEL S. CARPENTER",
+          "votes": 965
+        },
+        {
+          "name_original": "DANIEL E. LARGESSE",
+          "votes": 778
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Auburn",
+      "date": "2024-05-21",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "GINGER LEE BUTEAU",
+          "votes": 1375
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Auburn2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Auburn2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

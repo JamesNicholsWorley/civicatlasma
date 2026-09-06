@@ -1,0 +1,75 @@
+{
+  "elections": [
+    {
+      "municipality": "Carver",
+      "date": "2023-04-22",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Daniel Ryan",
+          "votes": 477
+        },
+        {
+          "name_original": "Jim Hoffman",
+          "votes": 409
+        },
+        {
+          "name_original": "Dan Ferrini",
+          "votes": 205
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2023-04-22",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Patricia Cooney",
+          "votes": 271
+        },
+        {
+          "name_original": "Laura Courage",
+          "votes": 223
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Carver",
+      "date": "2023-04-22",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ellen Sordillo",
+          "votes": 368
+        },
+        {
+          "name_original": "Philip Shannon",
+          "votes": 221
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Carver2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

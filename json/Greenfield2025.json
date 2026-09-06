@@ -1,0 +1,387 @@
+{
+  "elections": [
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor at Large",
+      "district_original": "At Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maisie Sibbison-Alves",
+          "votes": 2438
+        },
+        {
+          "name_original": "Sara Brown",
+          "votes": 2561
+        },
+        {
+          "name_original": "Others",
+          "votes": 164,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2919,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Marianne Bullock",
+          "votes": 416
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Patricia Wiliams",
+          "votes": 353
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 140,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sarah Bolduc",
+          "votes": 249
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 57,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Lora L. Wondolowski",
+          "votes": 244
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "City Councilor",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Max Webbe",
+          "votes": 179
+        },
+        {
+          "name_original": "Derek Helie",
+          "votes": 67
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "School Committee - 4 Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melodie Goodwin",
+          "votes": 1939
+        },
+        {
+          "name_original": "Jeffrey T. Diteman",
+          "votes": 1809
+        },
+        {
+          "name_original": "Adrienne Royse Craig-Williams",
+          "votes": 1680
+        },
+        {
+          "name_original": "David E. Moscaritolo",
+          "votes": 1351
+        },
+        {
+          "name_original": "Michael Terrounzo",
+          "votes": 1449
+        },
+        {
+          "name_original": "Elizabeth Ann DeNeeve",
+          "votes": 1726
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2142,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "School Committee - 2 Year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melissa Mckenzie Webb",
+          "votes": 2422
+        },
+        {
+          "name_original": "Others",
+          "votes": 57,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1562,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeremy Thomas Ebersole",
+          "votes": 2029
+        },
+        {
+          "name_original": "James H. Geisman",
+          "votes": 2067
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3963,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "Trustee of A.K. Warner Trust Fund",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sally M. Ahearn",
+          "votes": 2235
+        },
+        {
+          "name_original": "Martha Z. Maloney",
+          "votes": 1989
+        },
+        {
+          "name_original": "Barry McColgam",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 62,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7826,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "Elector under Will of Oliver Smith",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Quirk",
+          "votes": 27
+        },
+        {
+          "name_original": "Others",
+          "votes": 421,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3593,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Greenfield",
+      "date": "2025-11-04",
+      "office_original": "Trustee of Jennie L. Bascom Ed. Fund",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deborah A. Richards",
+          "votes": 2092
+        },
+        {
+          "name_original": "Ann Marie Mayo",
+          "votes": 1980
+        },
+        {
+          "name_original": "Glenn Johnson-Mussad",
+          "votes": 13
+        },
+        {
+          "name_original": "Others",
+          "votes": 55,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7983,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Greenfield2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Greenfield2025.pdf",
+  "_parser": "claude-sonnet-5 (2026-07-06 reparse of manual-verify failures)",
+  "ballots_cast": 4041,
+  "ballots_cast_source": "derived_from_contests"
+}

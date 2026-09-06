@@ -1,0 +1,63 @@
+{
+  "document": {
+    "heading_verbatim": "Election & Town Meeting Results",
+    "election_type": "Regular",
+    "election_type_evidence": "The document references '2024' annual town elections and annual town meeting, which are regular elections held annually.",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All other Officials were unopposed and were elected or reelected.",
+    "date_correction": {
+      "corrected_on": "2026-08-23",
+      "was": [
+        "2024-05-01"
+      ],
+      "now": "2024-05-04",
+      "url": "https://worthington-ma.us/2024/04/11208/",
+      "quote": "ANNUAL TOWN ELECTION IS ON SATURDAY MAY 4, 2024",
+      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+      "note": ""
+    },
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2024-05-04",
+      "detail": "https://worthington-ma.us/2024/04/11208/",
+      "quote": "ANNUAL TOWN ELECTION IS ON SATURDAY MAY 4, 2024",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Worthington",
+      "date": "2024-05-04",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Charley Rose",
+          "votes": 196
+        },
+        {
+          "name_original": "Gabriel Unger",
+          "votes": 172
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Worthington2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worthington2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

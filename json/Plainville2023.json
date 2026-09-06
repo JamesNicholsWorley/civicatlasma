@@ -1,0 +1,104 @@
+{
+  "elections": [
+    {
+      "municipality": "Plainville",
+      "date": "2023-04-03",
+      "office_original": "Board of selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Johnson",
+          "votes": 529
+        },
+        {
+          "name_original": "Brian Kelly",
+          "votes": 402
+        }
+      ],
+      "date_parsed_raw": "2018-04-02",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2023-04-03",
+      "office_original": "Plainville School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kristen Garrity",
+          "votes": 613
+        },
+        {
+          "name_original": "Michele Sharpe",
+          "votes": 436
+        },
+        {
+          "name_original": "Gregory Wehmeyer",
+          "votes": 322
+        },
+        {
+          "name_original": "Mary Rippberger",
+          "votes": 174
+        }
+      ],
+      "date_parsed_raw": "2018-04-02",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2023-04-03",
+      "office_original": "King Philip Regional District School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Bruce Cates",
+          "votes": 507
+        },
+        {
+          "name_original": "Carl Jacobsen",
+          "votes": 317
+        }
+      ],
+      "date_parsed_raw": "2018-04-02",
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Plainville",
+      "date": "2023-04-03",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Clinton Crocker",
+          "votes": 467
+        },
+        {
+          "name_original": "Paul Richard",
+          "votes": 400
+        }
+      ],
+      "date_parsed_raw": "2018-04-02",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Plainville2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

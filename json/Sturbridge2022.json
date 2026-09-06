@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Mary Dowling",
+          "votes": 654
+        },
+        {
+          "name_original": "Susan Shea",
+          "votes": 320
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Town Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 162,
+          "tally_row": true
+        },
+        {
+          "name_original": "Lynne Girouard",
+          "votes": 831
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 215,
+          "tally_row": true
+        },
+        {
+          "name_original": "H. Lorraine Herbert",
+          "votes": 774
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 227,
+          "tally_row": true
+        },
+        {
+          "name_original": "Richard Volpe",
+          "votes": 764
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Sturbridge School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 614,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jacqueline Chechile",
+          "votes": 681
+        },
+        {
+          "name_original": "Jenna Ventetuolo",
+          "votes": 624
+        },
+        {
+          "name_original": "Whitney Goodwin",
+          "votes": 48
+        },
+        {
+          "name_original": "Others",
+          "votes": 58,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Sturbridge School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        },
+        {
+          "name_original": "Whitney Goodwin",
+          "votes": 209
+        },
+        {
+          "name_original": "Lisa Meunier",
+          "votes": 686
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Sturbridge",
+      "date": "2022-04-11",
+      "office_original": "Tantasqua School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 540,
+          "tally_row": true
+        },
+        {
+          "name_original": "William J. Haggerty",
+          "votes": 717
+        },
+        {
+          "name_original": "Kristen M. Leo",
+          "votes": 718
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sturbridge2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sturbridge2022.pdf",
+  "ballots_cast": 993,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,148 @@
+{
+  "document": {
+    "heading_verbatim": "Taupier, Dowling win Selectboard seats in New Salem",
+    "election_type": "Regular",
+    "election_type_evidence": "Monday's election",
+    "date_verbatim": "May 2, 2023",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "All races in Monday's election were uncontested."
+  },
+  "elections": [
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Taupier",
+          "votes": 87
+        },
+        {
+          "name_original": "Zara Dowling",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Patrick Temple",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William Lafley",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Steven Blinder",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nancy Slator",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Mailand DeWitt",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Salem",
+      "date": "2023-05-02",
+      "office_original": "Municipal Light Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Cameron Dunbar",
+          "votes": 86
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NewSalem2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

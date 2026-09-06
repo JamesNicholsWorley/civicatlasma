@@ -1,0 +1,196 @@
+{
+  "elections": [
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frederick A. George",
+          "votes": 1475
+        },
+        {
+          "name_original": "Laura Ziton",
+          "votes": 176
+        },
+        {
+          "name_original": "Others",
+          "votes": 63,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 317,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslie S. Rutan",
+          "votes": 886
+        },
+        {
+          "name_original": "Mitchell S. Cohen",
+          "votes": 1085
+        },
+        {
+          "name_original": "Thomas E. Dalton",
+          "votes": 37
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jon Lien",
+          "votes": 966
+        },
+        {
+          "name_original": "William R. Pierce",
+          "votes": 1012
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gigi Lisa Howell",
+          "votes": 703
+        },
+        {
+          "name_original": "Bryce Adam MacKnight",
+          "votes": 1143
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Northborough Candidate",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joan G. Frank",
+          "votes": 1272
+        },
+        {
+          "name_original": "William Barlow Redfern II",
+          "votes": 665
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 91,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Northborough",
+      "date": "2022-05-10",
+      "office_original": "NB/SB REGIONAL SCHOOL",
+      "district_original": "Southborough Candidate",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew J. Spencer",
+          "votes": 1442
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 572,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Northborough2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northborough2022.pdf",
+  "ballots_cast": 2031,
+  "ballots_cast_source": "derived_from_contests"
+}

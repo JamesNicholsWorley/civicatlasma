@@ -1,0 +1,650 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF HOLBROOK ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "2-Apr-22",
+    "offices_on_ballot": 10,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "BOARD OF SELECTMEN 3 YRS. (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William F. Watkins",
+          "votes": 653
+        },
+        {
+          "name_original": "Paul Healey",
+          "votes": 332
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "BOARD OF ASSESSORS 3 YRS (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Domenico Crugnale",
+          "votes": 379
+        },
+        {
+          "name_original": "Tina Schaar",
+          "votes": 481
+        },
+        {
+          "name_original": "All Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "SCHOOL COMMITTEE 3 YRS (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ANN P. JACKMAN- POPPENGA",
+          "votes": 692
+        },
+        {
+          "name_original": "RENEE L. MALVESTI",
+          "votes": 204
+        },
+        {
+          "name_original": "ALL OTHERS",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 1078,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY 3 YRS (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kerry J. Sullivan",
+          "votes": 733
+        },
+        {
+          "name_original": "All Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 257,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "BOARD OF HEALTH 3 YRS (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Catherine F. Goldrick",
+          "votes": 636
+        },
+        {
+          "name_original": "Cristina Lucci-McShain",
+          "votes": 519
+        },
+        {
+          "name_original": "All Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 785,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "BOARD OF HEALTH 2 YRS (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher J. Nickerson",
+          "votes": 645
+        },
+        {
+          "name_original": "All Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 324,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "BOARD OF HEALTH 1 YR (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "EVELYN T. MAVILIA",
+          "votes": 145
+        },
+        {
+          "name_original": "All Others",
+          "votes": 86,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 798,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "PLANNING BOARD 5 YRS. (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cristopher J. Lade",
+          "votes": 629
+        },
+        {
+          "name_original": "All Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 360,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOHN CAPODILUPO, JR.",
+          "votes": 114
+        },
+        {
+          "name_original": "JANET E. DOHERTY",
+          "votes": 125
+        },
+        {
+          "name_original": "DAPHNE E. EMORD",
+          "votes": 107
+        },
+        {
+          "name_original": "ANNETTE M GRENNAN",
+          "votes": 110
+        },
+        {
+          "name_original": "JOANNA McGAUGHEY PARKER",
+          "votes": 112
+        },
+        {
+          "name_original": "DIANE McGAUGHEY PELLITTERI",
+          "votes": 109
+        },
+        {
+          "name_original": "REBECCAH T. SERINO-FARRY",
+          "votes": 102
+        },
+        {
+          "name_original": "RICHARD R. STAGNONE",
+          "votes": 105
+        },
+        {
+          "name_original": "ADRIANNE TEDESCHI",
+          "votes": 101
+        },
+        {
+          "name_original": "ELLEN DOHERTY WALSH",
+          "votes": 128
+        },
+        {
+          "name_original": "JAMES C. WARD",
+          "votes": 97
+        },
+        {
+          "name_original": "HAKIM I HARRIS, SR",
+          "votes": 115
+        },
+        {
+          "name_original": "KATHLEEN McWAIN",
+          "votes": 103
+        },
+        {
+          "name_original": "Patricia A. Pagel",
+          "votes": 20
+        },
+        {
+          "name_original": "LINDA L. AUSTIN",
+          "votes": 5
+        },
+        {
+          "name_original": "ROBERT P. HUSSEY",
+          "votes": 5
+        },
+        {
+          "name_original": "RENA M. BONOMI",
+          "votes": 2
+        },
+        {
+          "name_original": "ROBERT C. PRITCHARD",
+          "votes": 2
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 2738,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LAURA J. FABIAN",
+          "votes": 118
+        },
+        {
+          "name_original": "MICHAEL F. FLEMING, JR.",
+          "votes": 127
+        },
+        {
+          "name_original": "PATRICIA M. GREELY",
+          "votes": 124
+        },
+        {
+          "name_original": "DIANE HALEY",
+          "votes": 136
+        },
+        {
+          "name_original": "DONALD T. JORDAN",
+          "votes": 103
+        },
+        {
+          "name_original": "RONALD B. KAPLAN",
+          "votes": 99
+        },
+        {
+          "name_original": "DALE A. LEWIS",
+          "votes": 109
+        },
+        {
+          "name_original": "BRIAN F. McFARLAND",
+          "votes": 108
+        },
+        {
+          "name_original": "WILLIAM F. MERRIGAN",
+          "votes": 135
+        },
+        {
+          "name_original": "DANIEL F. MORIARTY, III",
+          "votes": 144
+        },
+        {
+          "name_original": "RUI VERISSIMO",
+          "votes": 100
+        },
+        {
+          "name_original": "JAMES F. BOYLE",
+          "votes": 107
+        },
+        {
+          "name_original": "LEO S. ELIASSON",
+          "votes": 8
+        },
+        {
+          "name_original": "MARSHA B. HOPKINS",
+          "votes": 6
+        },
+        {
+          "name_original": "LISA M. PAULSON",
+          "votes": 3
+        },
+        {
+          "name_original": "CHARLES A. DAMON",
+          "votes": 2
+        },
+        {
+          "name_original": "MICHAEL SCOTT ESHNER",
+          "votes": 2
+        },
+        {
+          "name_original": "SAMANTHA LOUISE ESHNER",
+          "votes": 2
+        },
+        {
+          "name_original": "GAVIN MICHAEL PALOWITCH",
+          "votes": 2
+        },
+        {
+          "name_original": "All Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 3471,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GERALDINE AMADO",
+          "votes": 124
+        },
+        {
+          "name_original": "ALISON A. BOWDEN",
+          "votes": 124
+        },
+        {
+          "name_original": "COLLEEN ALANNA CAHILL-VIEIRA",
+          "votes": 117
+        },
+        {
+          "name_original": "CHRISTINE L. GOLDEN",
+          "votes": 136
+        },
+        {
+          "name_original": "CHRISTOPHER GOLDEN",
+          "votes": 129
+        },
+        {
+          "name_original": "ROBIN MACCALLUM",
+          "votes": 137
+        },
+        {
+          "name_original": "JOAN M. MURPHY",
+          "votes": 120
+        },
+        {
+          "name_original": "PAUL C. MURPHY",
+          "votes": 122
+        },
+        {
+          "name_original": "CHRISTOPHER NICKERSON",
+          "votes": 123
+        },
+        {
+          "name_original": "LISA NICKERSON",
+          "votes": 125
+        },
+        {
+          "name_original": "DONALD K. STEWART",
+          "votes": 140
+        },
+        {
+          "name_original": "SHELLEY L. STEWART",
+          "votes": 137
+        },
+        {
+          "name_original": "TANYA VAYDA",
+          "votes": 132
+        },
+        {
+          "name_original": "JOHN F. WEST, JR.",
+          "votes": 166
+        },
+        {
+          "name_original": "ROBERT D. CHRISTIANSON",
+          "votes": 12
+        },
+        {
+          "name_original": "LYLE TROSETH",
+          "votes": 11
+        },
+        {
+          "name_original": "HELEN FALNDERS",
+          "votes": 8
+        },
+        {
+          "name_original": "LINDSY AMBER VAYDA",
+          "votes": 3
+        },
+        {
+          "name_original": "CAROL A. LEVEILLE",
+          "votes": 3
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 3647,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holbrook",
+      "date": "2022-04-02",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 20,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JON E. BRUGGER",
+          "votes": 121
+        },
+        {
+          "name_original": "PATRICIA BRUGGER",
+          "votes": 123
+        },
+        {
+          "name_original": "KEVIN COSTA",
+          "votes": 136
+        },
+        {
+          "name_original": "GREG M. DELUCA",
+          "votes": 116
+        },
+        {
+          "name_original": "MARY FIZSIMONS",
+          "votes": 113
+        },
+        {
+          "name_original": "MELISSA A. FOX",
+          "votes": 117
+        },
+        {
+          "name_original": "LEONEL LAROCHE",
+          "votes": 109
+        },
+        {
+          "name_original": "ERIC MASISON",
+          "votes": 109
+        },
+        {
+          "name_original": "CHERYL A. McAVENIA",
+          "votes": 107
+        },
+        {
+          "name_original": "JOHN McCOY",
+          "votes": 105
+        },
+        {
+          "name_original": "LINNEA V. McFADDEN",
+          "votes": 139
+        },
+        {
+          "name_original": "CRYSTAL N. OBIN",
+          "votes": 110
+        },
+        {
+          "name_original": "A. LEONARD OLSON",
+          "votes": 112
+        },
+        {
+          "name_original": "DOROTHY J. OLSON",
+          "votes": 117
+        },
+        {
+          "name_original": "HEIDI ANN PRISCO",
+          "votes": 122
+        },
+        {
+          "name_original": "THOMAS R. QUINLAN",
+          "votes": 102
+        },
+        {
+          "name_original": "DAVID REILLY",
+          "votes": 102
+        },
+        {
+          "name_original": "DEREK LADDERBUSH",
+          "votes": 17
+        },
+        {
+          "name_original": "COLIN SHEEHAN",
+          "votes": 5
+        },
+        {
+          "name_original": "ROCCO MINASI",
+          "votes": 3
+        },
+        {
+          "name_original": "ALL OTHERS",
+          "votes": 46,
+          "tally_row": true
+        },
+        {
+          "name_original": "BLANKS",
+          "votes": 3234,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holbrook2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holbrook2022.pdf",
+  "ballots_cast": 995,
+  "ballots_cast_source": "derived_from_contests"
+}

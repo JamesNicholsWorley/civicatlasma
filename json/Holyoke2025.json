@@ -1,0 +1,584 @@
+{
+  "elections": [
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joshua A. Garcia",
+          "votes": 3800
+        },
+        {
+          "name_original": "Kevin A. Jourdain",
+          "votes": 39
+        },
+        {
+          "name_original": "Others",
+          "votes": 108,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1468,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "City Clerk",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brenna Murphy Leary",
+          "votes": 3990
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1387,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "City Council At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer M. Keitt",
+          "votes": 2208
+        },
+        {
+          "name_original": "Mimi Panitch",
+          "votes": 2837
+        },
+        {
+          "name_original": "Kevin A. Jourdain",
+          "votes": 2130
+        },
+        {
+          "name_original": "Michael J. Sullivan",
+          "votes": 2321
+        },
+        {
+          "name_original": "Israel Rivera",
+          "votes": 2983
+        },
+        {
+          "name_original": "Christopher Dunay",
+          "votes": 1418
+        },
+        {
+          "name_original": "Tessa R. Murphy-Romboletti",
+          "votes": 3053
+        },
+        {
+          "name_original": "Patricia C. Devine",
+          "votes": 3111
+        },
+        {
+          "name_original": "Howard B. Greaney",
+          "votes": 2219
+        },
+        {
+          "name_original": "Patty Lubold",
+          "votes": 6
+        },
+        {
+          "name_original": "Others",
+          "votes": 115,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10077,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward One City Councilor",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Victor Machado",
+          "votes": 177
+        },
+        {
+          "name_original": "Jenny Rivera",
+          "votes": 196
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward One School Committee",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gladys Lebron-Martinez",
+          "votes": 299
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 89,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Two City Councilor",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nicole Marie Maisonet",
+          "votes": 222
+        },
+        {
+          "name_original": "Diosdado Lopez",
+          "votes": 10
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Two School Committee",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rosalee Tensley Williams",
+          "votes": 219
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 69,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Three City Councilor",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David K. Bartley",
+          "votes": 415
+        },
+        {
+          "name_original": "Anne Thalheimer",
+          "votes": 480
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Three School Committee",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yadilette Rivera-Colon",
+          "votes": 626
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 284,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Four City Councilor",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Diaz Jr.",
+          "votes": 154
+        },
+        {
+          "name_original": "Richard Paul Purcell",
+          "votes": 274
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Four School Committee",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Luis Orlando Isaza",
+          "votes": 340
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 99,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Five City Councilor",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda L. Vacon",
+          "votes": 815
+        },
+        {
+          "name_original": "Guy O'Donnell",
+          "votes": 81
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 292,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Five School Committee",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jens M. Michaelsen",
+          "votes": 620
+        },
+        {
+          "name_original": "Aida Luz Oquendo Oquendo",
+          "votes": 403
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 165,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Six City Councilor",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Juan C. Anderson-Burgos",
+          "votes": 600
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Six School Committee",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christian Carde",
+          "votes": 154
+        },
+        {
+          "name_original": "Patty Lubold",
+          "votes": 235
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 415,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Seven City Councilor",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meg Magrath-Smith",
+          "votes": 1104
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 248,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "Ward Seven School Committee",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eleanor Mary Wilson",
+          "votes": 972
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 383,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holyoke",
+      "date": "2025-11-04",
+      "office_original": "School Committee At-Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Devin Michael Sheehan",
+          "votes": 3817
+        },
+        {
+          "name_original": "Patty Lubold",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1549,
+          "tally_row": true
+        },
+        {
+          "name_original": "Mildred I. Lefebvre",
+          "votes": 3546
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holyoke2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holyoke2025.pdf",
+  "ballots_cast": 5415,
+  "ballots_cast_source": "derived_from_contests"
+}

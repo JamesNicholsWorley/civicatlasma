@@ -1,0 +1,202 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION OFFICIAL MINUTES APRIL 9, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "2022 ANNUAL TOWN ELECTION",
+    "date_verbatim": "April 9, 2022",
+    "offices_on_ballot": 6,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "BOARD OF SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Anthony J. Kinahan",
+          "votes": 560
+        },
+        {
+          "name_original": "James M. Holden",
+          "votes": 235
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "BOARD OF ASSESSORS",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Stephen William McCarthy",
+          "votes": 239
+        },
+        {
+          "name_original": "Deborah A. Cauley",
+          "votes": 545
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Kerri H. Milton",
+          "votes": 570
+        },
+        {
+          "name_original": "David Schmeer",
+          "votes": 442
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 609,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Patrick J. Galligan",
+          "votes": 462
+        },
+        {
+          "name_original": "Bruce L. Holmquist",
+          "votes": 636
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 528,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "BOARD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Linda J. Simpson",
+          "votes": 638
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 172,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "West Bridgewater",
+      "date": "2022-04-09",
+      "office_original": "PLANNING BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Gerald E. Stetson",
+          "votes": 602
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 207,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "WestBridgewater2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBridgewater2022.pdf",
+  "ballots_cast": 813,
+  "ballots_cast_source": "derived_from_contests"
+}

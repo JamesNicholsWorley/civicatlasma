@@ -1,0 +1,44 @@
+{
+  "document": {
+    "heading_verbatim": "Norwell Election Results",
+    "election_type": "Regular",
+    "election_type_evidence": "The heading indicates \"Norwell Election 2026\" and the article reports on a regular municipal election held on Saturday with school committee and select board races.",
+    "date_verbatim": "May 17, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "\"The other races were uncontested including the select board.\""
+  },
+  "elections": [
+    {
+      "municipality": "Norwell",
+      "date": "2026-05-17",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jana McCarthy",
+          "votes": 1014
+        },
+        {
+          "name_original": "Elizabeth Bersell",
+          "votes": 963
+        },
+        {
+          "name_original": "Kara Vautour",
+          "votes": 359
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Norwell2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

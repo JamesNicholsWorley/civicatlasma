@@ -1,0 +1,38 @@
+{
+  "elections": [
+    {
+      "municipality": "Alford",
+      "date": "2026-05-19",
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "James Hall",
+          "votes": 64
+        },
+        {
+          "name_original": "Timothy Ortwein",
+          "votes": 25
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Alford2026",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2026-05-19",
+      "detail": "https://www.iberkshires.com/story/82563/2026-Town-Meeting-Election-Briefs.html",
+      "quote": "Election : May 19, noon to 6 p.m., Alford Town Hall",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

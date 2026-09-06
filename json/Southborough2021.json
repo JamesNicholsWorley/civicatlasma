@@ -1,0 +1,76 @@
+{
+  "elections": [
+    {
+      "municipality": "Southborough",
+      "date": "2021-05-11",
+      "office_original": "Board of Selectmen",
+      "district_original": "3-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Dennington",
+          "votes": 462
+        },
+        {
+          "name_original": "Michael D. Weishan",
+          "votes": 439
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Southborough",
+      "date": "2021-05-11",
+      "office_original": "Northborough/Southborough Regional School Committee",
+      "district_original": "Southborough",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen M. Howland",
+          "votes": 514
+        },
+        {
+          "name_original": "Karen A. Ares",
+          "votes": 379
+        },
+        {
+          "name_original": "Mariam Ibrahimi",
+          "votes": 394
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1148,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Southborough2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

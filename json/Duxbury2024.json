@@ -1,0 +1,202 @@
+{
+  "elections": [
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cynthia Ladd Fiorini",
+          "votes": 1149
+        },
+        {
+          "name_original": "Fernando Guitart",
+          "votes": 1133
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 425,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda M Collari",
+          "votes": 1140
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 222,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn S Marshall",
+          "votes": 848
+        },
+        {
+          "name_original": "James E Mehegan",
+          "votes": 408
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Glenn Lincoln Carle",
+          "votes": 190
+        },
+        {
+          "name_original": "Robert Taggart Carpenter",
+          "votes": 601
+        },
+        {
+          "name_original": "Douglas John Carver",
+          "votes": 222
+        },
+        {
+          "name_original": "Steve Michael Gandt",
+          "votes": 433
+        },
+        {
+          "name_original": "Matthew David Ray",
+          "votes": 364
+        },
+        {
+          "name_original": "Lauren F Sirois",
+          "votes": 513
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 396,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "LIBRARY TRUSTEE - 3 Year Term",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Martha Dennison",
+          "votes": 1179
+        },
+        {
+          "name_original": "Lester Lloyd",
+          "votes": 1131
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 414,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Duxbury",
+      "date": "2024-03-23",
+      "office_original": "LIBRARY TRUSTEE - 2 Year Unexpired Term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cathleen Mary Seaman",
+          "votes": 1165
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 193,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Duxbury2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Duxbury2024.pdf",
+  "ballots_cast": 1365,
+  "ballots_cast_source": "derived_from_contests"
+}

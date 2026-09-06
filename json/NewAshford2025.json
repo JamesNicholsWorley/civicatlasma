@@ -1,0 +1,70 @@
+{
+  "elections": [
+    {
+      "municipality": "New Ashford",
+      "date": "2025-05-27",
+      "office_original": "Select Board - 3 year term",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Ken McInerney",
+          "votes": 28
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Ashford",
+      "date": "2025-05-27",
+      "office_original": "Board of Health - 3 year term",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Richard George",
+          "votes": 28
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "New Ashford",
+      "date": "2025-05-27",
+      "office_original": "Planning Board - 5 year term",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Lars Reinhard",
+          "votes": 28
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NewAshford2025",
+  "_notes": "Source: the Town Clerk's \"Results of elections\" sheet, supplied 2026-08-28 in answer to the owner's public-records request, covering 2022-2026. IT IS A WINNER-AND-COUNT LIST FOR THE PRINCIPAL TOWN OFFICES, NOT A RETURN: it carries no blanks, no write-in totals and no ballot questions, and it omits the School Committee in both years where an independent source shows one was elected (2023, per the Berkshire Eagle; 2026, per the town's own caucus notice nominating Jen Welch). The ballot figure is therefore a CEILING and no race can be closed against it. Election date 2025-05-27 established from the town's post of 2025-04-16, \"important upcoming town events\": \"ANNUAL TOWN ELECTION Tues. May 27 2-4 and 6-8 pm at the town hall\". SCHOOL COMMITTEE IS MISSING FROM THIS RECORD AND A SEAT WAS ALMOST CERTAINLY UP. The town's own posted ballots show a School Committee 3-year seat on the ballot in 2017 (Jen Welch, on write-ins), 2018 (Brenda Frye), 2019 (Lori Jayko) and 2021 (Frye again), and independent sources show one in 2023 (Eagle: Welch def. Scace) and 2026 (caucus notice: Jen Welch nominated). Three staggered three-year seats means one falls due EVERY year, so the office cannot legitimately vanish. The clerk's summary sheet simply does not carry it -- nor the Cemetery Committee, whose one-year terms are also up every year. This is NOT the 2021 restructure: that made the Town Clerk appointed (2021 ballot question, passed 44-36) and had already removed Tree Warden, Fire Warden and Library Trustee, but a School Committee is state-mandated and elected. See research/newashford_office_cycle.md.",
+  "document": {
+    "heading_verbatim": "Results of elections -- 2025",
+    "turnout_verbatim": "28 ballots cast (a ceiling; no blanks recorded)",
+    "date_corroboration": {
+      "source": "the town's own published notices",
+      "value": "2025-05-27",
+      "strength": "corroborated",
+      "quote": "the town's post of 2025-04-16, \"important upcoming town events\": \"ANNUAL TOWN ELECTION Tues. May 27 2-4 and 6-8 pm at the town hall\"",
+      "note": "established 2026-08-28 by src/land_newashford.py"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

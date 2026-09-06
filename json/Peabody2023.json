@@ -1,0 +1,416 @@
+{
+  "elections": [
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edward A. Bettencourt, Jr.",
+          "votes": 6065
+        },
+        {
+          "name_original": "Rochelle A. Agneta",
+          "votes": 1237
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 176,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR AT LARGE",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bukia Chalvire",
+          "votes": 3109
+        },
+        {
+          "name_original": "Thomas John Rossignoll",
+          "votes": 4583
+        },
+        {
+          "name_original": "Thomas L. Gould",
+          "votes": 5750
+        },
+        {
+          "name_original": "Ryan Melville",
+          "votes": 4432
+        },
+        {
+          "name_original": "Jon Turco",
+          "votes": 4890
+        },
+        {
+          "name_original": "Anne M. Manning-Martin",
+          "votes": 4545
+        },
+        {
+          "name_original": "Others",
+          "votes": 66,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10130,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 1",
+      "candidates": [
+        {
+          "name_original": "Craig S. Welton",
+          "votes": 1112
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 287,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 2",
+      "candidates": [
+        {
+          "name_original": "Peter M. McGinn",
+          "votes": 584
+        },
+        {
+          "name_original": "Mary Beth Mallia",
+          "votes": 311
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 3",
+      "candidates": [
+        {
+          "name_original": "Stephanie R. Peach",
+          "votes": 654
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 127,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 4",
+      "candidates": [
+        {
+          "name_original": "Julie K. Daigle",
+          "votes": 956
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 260,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 5",
+      "candidates": [
+        {
+          "name_original": "David R. Gamache",
+          "votes": 905
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 204,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "COUNCILLOR WARD 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "district_original": "Ward 6",
+      "candidates": [
+        {
+          "name_original": "Michael T. Higgins",
+          "votes": 1005
+        },
+        {
+          "name_original": "Ryan Cox",
+          "votes": 924
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "MUNICIPAL LIGHT COMMISSION - 6 YRS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas J. Pappas",
+          "votes": 3573
+        },
+        {
+          "name_original": "William Christopher Aylward",
+          "votes": 3720
+        },
+        {
+          "name_original": "Thomas M. D'Amato",
+          "votes": 4617
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3063,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "MUNICIPAL LIGHT COMMISSION - 2 YRS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracy M. Valletti",
+          "votes": 4086
+        },
+        {
+          "name_original": "Robert O. Wheatley",
+          "votes": 2026
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1376,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brandi L. Carpenter",
+          "votes": 5260
+        },
+        {
+          "name_original": "Joseph Amico",
+          "votes": 5360
+        },
+        {
+          "name_original": "John C. Olimpio",
+          "votes": 5145
+        },
+        {
+          "name_original": "Others",
+          "votes": 73,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6665,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Peabody",
+      "date": "2023-11-07",
+      "office_original": "TRUSTEE OF THE PEABODY INSTITUTE LIBRARY",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey L. Dolin",
+          "votes": 3716
+        },
+        {
+          "name_original": "Frances Bisazza Gallugi",
+          "votes": 4123
+        },
+        {
+          "name_original": "Emily Cooper",
+          "votes": 3485
+        },
+        {
+          "name_original": "Katrina J. Vassallo",
+          "votes": 4807
+        },
+        {
+          "name_original": "Kate E. O'Brien",
+          "votes": 4769
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9057,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Peabody2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Peabody2023.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2023-11-07",
+      "detail": "https://peabody-ma.gov/city%20clerk/City%20Election%20Information,%20November%207,%202023.pdf",
+      "quote": "NOTICE TO VOTERS  MUNICIPAL ELECTION - NOVEMBER 7, 2023",
+      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+    }
+  },
+  "_corrected": "2026-08-24: vision read against the document; see src/correct_peabody_franklin.py and logs/qa_vision_verdicts.csv",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

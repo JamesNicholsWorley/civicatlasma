@@ -1,0 +1,300 @@
+{
+  "elections": [
+    {
+      "office_original": "SELECT BOARD",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia M. Boyden",
+          "votes": 3223
+        },
+        {
+          "name_original": "Rita Marie Lombardi",
+          "votes": 2736
+        },
+        {
+          "name_original": "Michael C. Loughran Jr.",
+          "votes": 2917
+        },
+        {
+          "name_original": "Thomas W. Theodore",
+          "votes": 2621
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 700,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "TOWN CLERK",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracy K. Kenney",
+          "votes": 4904
+        },
+        {
+          "name_original": "Others",
+          "votes": 25,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1177,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "ASSESSORS",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rocco F. Digirolamo",
+          "votes": 2999
+        },
+        {
+          "name_original": "Kathleen Marie Howley",
+          "votes": 2744
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 359,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "BOARD OF HEALTH",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alan Rapoport",
+          "votes": 4609
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1466,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "SCHOOL COMMITTEE",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer M. O'Donnell",
+          "votes": 2061
+        },
+        {
+          "name_original": "Kendall N. O'Halloran",
+          "votes": 3512
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 527,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John S. Marini",
+          "votes": 2117
+        },
+        {
+          "name_original": "Kathy Jane McCormack",
+          "votes": 3296
+        },
+        {
+          "name_original": "Robert Maffie Jr.",
+          "votes": 73
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 609,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "PLANNING BOARD",
+      "district_original": "Two year term (to fill a vacancy)",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sean Patrick Robinson",
+          "votes": 3833
+        },
+        {
+          "name_original": "Robert Maffie Jr.",
+          "votes": 933
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1312,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "LIBRARY TRUSTEES",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mindy M. Milman",
+          "votes": 2380
+        },
+        {
+          "name_original": "Janet R. Chamberlain",
+          "votes": 3894
+        },
+        {
+          "name_original": "Christine A. Untersee",
+          "votes": 3387
+        },
+        {
+          "name_original": "Joan Florek Schottenfeld",
+          "votes": 3378
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5234,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "HOUSING AUTHORITY",
+      "municipality": "Canton",
+      "date": "2024-04-02",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lisa R. Lopez",
+          "votes": 4023
+        },
+        {
+          "name_original": "Nicholas Corkery",
+          "votes": 1065
+        },
+        {
+          "name_original": "Others",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 953,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Canton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Canton2024.pdf",
+  "ballots_cast": 6106,
+  "ballots_cast_source": "derived_from_contests"
+}

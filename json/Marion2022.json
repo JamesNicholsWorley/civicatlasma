@@ -1,0 +1,176 @@
+{
+  "elections": [
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Carleton Toby Burr",
+          "votes": 524
+        },
+        {
+          "name_original": "Ed Hoffer",
+          "votes": 397
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Tucker Burr",
+          "votes": 520
+        },
+        {
+          "name_original": "Andrew Daniel",
+          "votes": 498
+        },
+        {
+          "name_original": "William Dale Jones",
+          "votes": 300
+        },
+        {
+          "name_original": "Barrett Levenson",
+          "votes": 209
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Marion School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Nichole Davis",
+          "votes": 708
+        },
+        {
+          "name_original": "Nicole Nye McGaffey",
+          "votes": 55
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Old Rochester Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "April Nye",
+          "votes": 716
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Ed Hoffer",
+          "votes": 710
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Brad Gordon",
+          "votes": 769
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Catherine Gibbs",
+          "votes": 743
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Marion",
+      "date": "2022-05-13",
+      "office_original": "Open Space Acquisition Commission",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John Rockwell",
+          "votes": 637
+        },
+        {
+          "name_original": "Ron Larochelle",
+          "votes": 2
+        },
+        {
+          "name_original": "Mark Sylvia",
+          "votes": 2
+        },
+        {
+          "name_original": "Alan Harris",
+          "votes": 2
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Marion2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

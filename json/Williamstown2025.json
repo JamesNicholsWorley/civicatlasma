@@ -1,0 +1,238 @@
+{
+  "elections": [
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "SELECT BOARD (3 YEAR)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PETER L. BECK",
+          "votes": 616
+        },
+        {
+          "name_original": "MATTHEW P. NEELY",
+          "votes": 683
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 452,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "SELECT BOARD (1 YEAR)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JANE PATTON",
+          "votes": 377
+        },
+        {
+          "name_original": "SHANA DIXON",
+          "votes": 497
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ELISABETH C. GOODMAN",
+          "votes": 714
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 164,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "LIBRARY TRUSTEE (3 YEAR)",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBIN M. LENZ",
+          "votes": 594
+        },
+        {
+          "name_original": "MICAH J. MANARY",
+          "votes": 577
+        },
+        {
+          "name_original": "ADRIANA M. BROWN",
+          "votes": 427
+        },
+        {
+          "name_original": "BENJAMIN D. LEE-COHEN",
+          "votes": 486
+        },
+        {
+          "name_original": "KATHERINE B. MYERS",
+          "votes": 544
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 907,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "LIBRARY TRUSTEE (1 YEAR)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRIDGET M. SPANN",
+          "votes": 738
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 144,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JUDITH M. BOMBARDIER",
+          "votes": 690
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "NORTHERN BERK VOC REG SD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DAVID J. WESTALL",
+          "votes": 736
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Williamstown",
+      "date": "2025-05-13",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ERIK E. REARDON",
+          "votes": 672
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Williamstown2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Williamstown2025.pdf",
+  "ballots_cast": 884,
+  "ballots_cast_source": "derived_from_contests"
+}

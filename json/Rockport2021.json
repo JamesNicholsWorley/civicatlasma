@@ -1,0 +1,212 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF ROCKPORT\n\nLOCAL ELECTION\n\nJUNE 22, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "LOCAL ELECTION",
+    "date_verbatim": "JUNE 22, 2021",
+    "offices_on_ballot": 7,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "BOARD OF SELECTMEN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RUTH C. GEORGE",
+          "votes": 1043
+        },
+        {
+          "name_original": "SARAH J. WILKINSON",
+          "votes": 1165
+        },
+        {
+          "name_original": "HERMAN S. LILJA",
+          "votes": 1124
+        },
+        {
+          "name_original": "CRAIG D. MORRILL",
+          "votes": 961
+        },
+        {
+          "name_original": "MICHAEL POLISSON",
+          "votes": 186
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 408,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "ASSESSOR OF TAXES",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TIMOTHY W. GOOD, IV",
+          "votes": 1697
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 737,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JASON LOWELL SHAW",
+          "votes": 1641
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 795,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LANA RAZDAN",
+          "votes": 1748
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 691,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHAEL S. KELLEY",
+          "votes": 1107
+        },
+        {
+          "name_original": "ELIZABETH A. FLANNAGAN",
+          "votes": 776
+        },
+        {
+          "name_original": "JOHN T. KOLACKOVSKY",
+          "votes": 477
+        },
+        {
+          "name_original": "MARK D. LORENZ",
+          "votes": 993
+        },
+        {
+          "name_original": "CATHERINE C. MAZZEO",
+          "votes": 706
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 834,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Rockport",
+      "date": "2021-06-22",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MAUREEN M. BEELEY",
+          "votes": 1589
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 856,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Rockport2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rockport2021.pdf",
+  "ballots_cast": 2450,
+  "ballots_cast_source": "derived_from_contests"
+}

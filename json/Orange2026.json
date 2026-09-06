@@ -1,0 +1,458 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "date_verbatim": "3/2/2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Standard municipal election with multiple town offices",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Selectman 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jane Peirce",
+          "votes": 229
+        },
+        {
+          "name_original": "Tom Smith",
+          "votes": 203
+        },
+        {
+          "name_original": "Reid Jeffries Anderson",
+          "votes": 307
+        },
+        {
+          "name_original": "Kelli Bixby Gervais",
+          "votes": 390
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven M. Garrity",
+          "votes": 498
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 88,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rachael Fortier",
+          "votes": 476
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donn Deane",
+          "votes": 158
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 435,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Josefa Scherer",
+          "votes": 458
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 127,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Elem. School Comm. 3 yr.",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Abigail Bilbrey",
+          "votes": 456
+        },
+        {
+          "name_original": "Maria Bull",
+          "votes": 441
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 287,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Regional School Comm. 3 Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Crystal Clarke",
+          "votes": 190
+        },
+        {
+          "name_original": "Katie Hunkler",
+          "votes": 124
+        },
+        {
+          "name_original": "Amber Dupell",
+          "votes": 378
+        },
+        {
+          "name_original": "Miguel Guerra",
+          "votes": 335
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 157,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Library Trustee 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amy Borezo",
+          "votes": 452
+        },
+        {
+          "name_original": "Harry Veilleux",
+          "votes": 454
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 279,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Library Trustee 1 year",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Clara Witty",
+          "votes": 467
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Water Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leon Lafebvre",
+          "votes": 494
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 96,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Cemetery Commissioner",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dorothy Frye",
+          "votes": 152
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 441,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Soldiers' Mem.-Veteran 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jameson Rearden",
+          "votes": 99
+        },
+        {
+          "name_original": "Steven Rowe",
+          "votes": 24
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 470,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Soldiers' Mem.-Veteran 2 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Rowe",
+          "votes": 118
+        },
+        {
+          "name_original": "Jameson Reardon",
+          "votes": 19
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 456,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Soldiers' Mem.-Non-Veteran",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara Polan",
+          "votes": 96
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 497,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Housing Authority 4 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kyle Deane",
+          "votes": 3
+        },
+        {
+          "name_original": "Cory Wells",
+          "votes": 84
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 506,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2026-03-02",
+      "office_original": "Housing Authority 3 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kim Flanders",
+          "votes": 74
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 519,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Orange2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Orange2026.pdf",
+  "ballots_cast": 593,
+  "ballots_cast_source": "derived_from_contests"
+}

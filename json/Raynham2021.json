@@ -1,0 +1,340 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2021-04-24",
+      "detail": "https://www.town.raynham.ma.us/town-clerk/news/unofficial-results-town-election-april-24-2021",
+      "quote": "Unofficial Results Town Election April 24, 2021",
+      "note": "the town clerk's own news post announcing the results; the attached spreadsheet prints no date"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Selectman",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patricia Ann Riley",
+          "votes": 349
+        },
+        {
+          "name_original": "Karen Donahue",
+          "votes": 12
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Moderator",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John M. Donahue",
+          "votes": 364
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 135,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Town Clerk",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marsha L. Silvia",
+          "votes": 412
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 87,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Assessor",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Banks Oldfield",
+          "votes": 354
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 145,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Assessor",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "A. J. Andrews",
+          "votes": 327
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 172,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Sewer Commissioner",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph M. Bickel",
+          "votes": 333
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 166,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Planning Board",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "P. Burke Fountain",
+          "votes": 337
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 162,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "B-R School Raynham Members",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Louis Anthony Ghelfi",
+          "votes": 204
+        },
+        {
+          "name_original": "Rachel R. King",
+          "votes": 299
+        },
+        {
+          "name_original": "Laura Conrad",
+          "votes": 272
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 223,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Park & Recreation Commissioner",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Brow",
+          "votes": 342
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 157,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Cemetery Commissioner",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James A. Tilbe",
+          "votes": 356
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 143,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Housing Authority",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Carey",
+          "votes": 3
+        },
+        {
+          "name_original": "Maureen Sypher",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 493,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Housing Authority",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Virginia Jacques",
+          "votes": 317
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 182,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Raynham",
+      "date": "2021-04-24",
+      "office_original": "Housing Authority",
+      "district_original": null,
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rick Teixeira",
+          "votes": 321
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 178,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Raynham2021",
+  "_source_pdf": "",
+  "ballots_cast": 499,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Andover",
+      "date": "2023-03-28",
+      "office_original": "MODERATOR - 1 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sheila M. Doherty",
+          "votes": 1387
+        },
+        {
+          "name_original": "Keith M. Saxon",
+          "votes": 685
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 64,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2023-03-28",
+      "office_original": "SELECT BOARD - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura M. Gregory",
+          "votes": 1102
+        },
+        {
+          "name_original": "Kevin Coffey",
+          "votes": 1012
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2023-03-28",
+      "office_original": "SCHOOL COMMITTEE - 3 YEAR TERM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lauren Marie Conoscenti",
+          "votes": 1572
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 506,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Andover",
+      "date": "2023-03-28",
+      "office_original": "TRUSTEES OF THE PUNCHARD FREE SCHOOL - 3 YEAR TERM",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donald Francis Schroeder",
+          "votes": 1102
+        },
+        {
+          "name_original": "Chip Gregory",
+          "votes": 1115
+        },
+        {
+          "name_original": "William Walsh",
+          "votes": 730
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1318,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Andover2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Andover2023.pdf",
+  "ballots_cast": 2138,
+  "ballots_cast_source": "derived_from_contests"
+}

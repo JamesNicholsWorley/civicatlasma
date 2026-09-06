@@ -1,0 +1,185 @@
+{
+  "elections": [
+    {
+      "date": "2021-05-01",
+      "office_original": "Selectman",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Jason Forgue",
+          "votes": 81
+        },
+        {
+          "name_original": "Frank Pero",
+          "votes": 68
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Eric Bird",
+          "votes": 1
+        },
+        {
+          "name_original": "Rosemary Dalesandro",
+          "votes": 1
+        },
+        {
+          "name_original": "Michelle Kenney",
+          "votes": 1
+        },
+        {
+          "name_original": "Melvyn Hook",
+          "votes": 31
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Rosemary Dalesandro",
+          "votes": 3
+        },
+        {
+          "name_original": "Ann Daley",
+          "votes": 1
+        },
+        {
+          "name_original": "J. Andrew Myers",
+          "votes": 1
+        },
+        {
+          "name_original": "Duane C. Pease",
+          "votes": 1
+        },
+        {
+          "name_original": "Richard Stone",
+          "votes": 1
+        },
+        {
+          "name_original": "Andrew Sulikowski",
+          "votes": 1
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "Electric Light Commissioner",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Carl Baldasaro",
+          "votes": 1
+        },
+        {
+          "name_original": "Nick Chiusano",
+          "votes": 1
+        },
+        {
+          "name_original": "Liz Massa",
+          "votes": 1
+        },
+        {
+          "name_original": "Deryck Savoy",
+          "votes": 126
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Gail Andrade",
+          "votes": 1
+        },
+        {
+          "name_original": "Lucia Browne",
+          "votes": 52
+        },
+        {
+          "name_original": "Linda Koske",
+          "votes": 30
+        },
+        {
+          "name_original": "Lynn Proulx",
+          "votes": 1
+        },
+        {
+          "name_original": "Laura Wade",
+          "votes": 1
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "Board Of Health",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Greg Harrison",
+          "votes": 64
+        },
+        {
+          "name_original": "Duane C. Pease",
+          "votes": 81
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "date": "2021-05-01",
+      "office_original": "School Committee",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Jeane Briggs",
+          "votes": 119
+        },
+        {
+          "name_original": "Laura Wade",
+          "votes": 1
+        }
+      ],
+      "extraction_confidence": 0.95,
+      "municipality": "Chester",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Chester2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chester2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

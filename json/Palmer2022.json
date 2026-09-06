@@ -1,0 +1,171 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Palmer",
+      "date": "2022-06-14",
+      "office_original": "COUNCILOR AT LARGE 2 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "John M. Comerford",
+          "votes": 57
+        },
+        {
+          "name_original": "Lucas George McDiarmid",
+          "votes": 248
+        },
+        {
+          "name_original": "Marc J. Caci",
+          "votes": 278
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2022-06-14",
+      "office_original": "COUNCILOR AT LARGE 3 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 48,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jessica R. Sizer",
+          "votes": 331
+        },
+        {
+          "name_original": "Timothy James Cienciwa",
+          "votes": 244
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2022-06-14",
+      "office_original": "COUNCILOR DISTRICT 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Matthew J. Lemieux",
+          "votes": 90
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2022-06-14",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 411,
+          "tally_row": true
+        },
+        {
+          "name_original": "Erica Nadeau",
+          "votes": 360
+        },
+        {
+          "name_original": "Sandra J. Noonan",
+          "votes": 464
+        },
+        {
+          "name_original": "Scott Day",
+          "votes": 9
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Town of Palmer",
+      "date": "2022-06-14",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blank",
+          "votes": 450,
+          "tally_row": true
+        },
+        {
+          "name_original": "Michael Marciniec",
+          "votes": 364
+        },
+        {
+          "name_original": "Michael Dee",
+          "votes": 422
+        },
+        {
+          "name_original": "Jeff Florence",
+          "votes": 3
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Palmer2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Palmer2022.pdf",
+  "ballots_cast": 623,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,79 @@
+{
+  "elections": [
+    {
+      "municipality": "Wilbraham",
+      "date": "2021-05-15",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Theresa Goodrich",
+          "votes": 807
+        },
+        {
+          "name_original": "John M. Broderick Jr.",
+          "votes": 621
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2021-05-15",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James S. Jurgens",
+          "votes": 846
+        },
+        {
+          "name_original": "Xiomara Alban Delobato",
+          "votes": 586
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2021-05-15",
+      "office_original": "Hampden-Wilbraham Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William John Bontempi",
+          "votes": 744
+        },
+        {
+          "name_original": "Lisa Murray",
+          "votes": 715
+        },
+        {
+          "name_original": "Joseph William Lawless",
+          "votes": 656
+        },
+        {
+          "name_original": "Dagmar R. Mechem",
+          "votes": 601
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wilbraham2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

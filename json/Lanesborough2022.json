@@ -1,0 +1,107 @@
+{
+  "elections": [
+    {
+      "municipality": "Lanesborough",
+      "date": "2022-06-21",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Timothy Sorrell",
+          "votes": 407
+        },
+        {
+          "name_original": "Gordon Hubbard",
+          "votes": 253
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2022-06-21",
+      "office_original": "Finance Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.7,
+      "candidates": [
+        {
+          "name_original": "Ronald Tinkham",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Regina M. DiLego",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2022-06-21",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Leanne Yinger",
+          "votes": 455
+        },
+        {
+          "name_original": "Deborah Maynard",
+          "votes": 136
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2022-06-21",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Katherine Wood",
+          "votes": 538
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lanesborough",
+      "date": "2022-06-21",
+      "office_original": "Northern Berkshire Vocational Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Robert Riley",
+          "votes": 529
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lanesborough2022",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

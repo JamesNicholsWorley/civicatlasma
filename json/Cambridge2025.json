@@ -1,0 +1,1490 @@
+{
+  "elections": [
+    {
+      "municipality": "Cambridge",
+      "date": "2025-11-04",
+      "office_original": "City Council - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Sumbul Siddiqui",
+          "votes": 2869,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Marc C. McGovern",
+          "votes": 2864,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Ayah A. Al-Zubi",
+          "votes": 2493,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Catherine Zusy",
+          "votes": 2025,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Burhan Azeem",
+          "votes": 1999,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Jivan G. Sobrinho-Wheeler",
+          "votes": 1892,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Timothy R. Flaherty",
+          "votes": 1818,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "E. Denise Simmons",
+          "votes": 1642,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "Patricia M. Nolan",
+          "votes": 1506,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "John Hanratty",
+          "votes": 1325,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Dana Ray Bullister",
+          "votes": 1199,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Ayesha M. Wilson",
+          "votes": 1032,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 11
+        },
+        {
+          "name_original": "Peter Hsu",
+          "votes": 557,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 10
+        },
+        {
+          "name_original": "Ned S. Melanson",
+          "votes": 528,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "Elizabeth Bisio",
+          "votes": 502,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Zion Nathaniel Sherin",
+          "votes": 376,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Stanislav A. Rivkin",
+          "votes": 337,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Robert Winters",
+          "votes": 253,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "LaQueen Arleen Battle",
+          "votes": 78,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 4
+        },
+        {
+          "name_original": "WI - Louise A. Venden",
+          "votes": 49,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 2",
+          "votes": 22,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 3",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 4",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 6",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 7",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 8",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 9",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 2537,
+        "valid_ballots": 25366,
+        "seats": 9,
+        "report": "https://www.cambridgema.gov/Election2025/Official/Council%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Sumbul Siddiqui": 2869,
+              "Marc C. McGovern": 2864,
+              "Ayah A. Al-Zubi": 2493,
+              "Catherine Zusy": 2025,
+              "Burhan Azeem": 1999,
+              "Jivan G. Sobrinho-Wheeler": 1892,
+              "Timothy R. Flaherty": 1818,
+              "E. Denise Simmons": 1642,
+              "Patricia M. Nolan": 1506,
+              "John Hanratty": 1325,
+              "Dana Ray Bullister": 1199,
+              "Ayesha M. Wilson": 1032,
+              "Peter Hsu": 557,
+              "Ned S. Melanson": 528,
+              "Elizabeth Bisio": 502,
+              "Zion Nathaniel Sherin": 376,
+              "Stanislav A. Rivkin": 337,
+              "Robert Winters": 253,
+              "LaQueen Arleen Battle": 78,
+              "WI - Louise A. Venden": 49,
+              "Write-in 2": 22,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Sumbul Siddiqui",
+              "Marc C. McGovern"
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2864,
+              "Ayah A. Al-Zubi": 2529,
+              "Burhan Azeem": 2043,
+              "Catherine Zusy": 2037,
+              "Jivan G. Sobrinho-Wheeler": 1964,
+              "Timothy R. Flaherty": 1828,
+              "E. Denise Simmons": 1703,
+              "Patricia M. Nolan": 1523,
+              "John Hanratty": 1326,
+              "Dana Ray Bullister": 1205,
+              "Ayesha M. Wilson": 1081,
+              "Peter Hsu": 560,
+              "Ned S. Melanson": 537,
+              "Elizabeth Bisio": 505,
+              "Zion Nathaniel Sherin": 378,
+              "Stanislav A. Rivkin": 340,
+              "Robert Winters": 256,
+              "LaQueen Arleen Battle": 79,
+              "WI - Louise A. Venden": 49,
+              "Write-in 2": 22,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2127,
+              "Catherine Zusy": 2049,
+              "Jivan G. Sobrinho-Wheeler": 2028,
+              "Timothy R. Flaherty": 1840,
+              "E. Denise Simmons": 1732,
+              "Patricia M. Nolan": 1554,
+              "John Hanratty": 1330,
+              "Dana Ray Bullister": 1232,
+              "Ayesha M. Wilson": 1101,
+              "Peter Hsu": 566,
+              "Ned S. Melanson": 555,
+              "Elizabeth Bisio": 505,
+              "Zion Nathaniel Sherin": 382,
+              "Stanislav A. Rivkin": 346,
+              "Robert Winters": 258,
+              "LaQueen Arleen Battle": 79,
+              "WI - Louise A. Venden": 49,
+              "Write-in 2": 22,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Ayah A. Al-Zubi"
+            ],
+            "eliminated": [
+              "WI - Louise A. Venden",
+              "Write-in 2",
+              "Write-in 3",
+              "Write-in 4",
+              "Write-in 5",
+              "Write-in 6",
+              "Write-in 7",
+              "Write-in 8",
+              "Write-in 9"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2129,
+              "Catherine Zusy": 2052,
+              "Jivan G. Sobrinho-Wheeler": 2031,
+              "Timothy R. Flaherty": 1842,
+              "E. Denise Simmons": 1738,
+              "Patricia M. Nolan": 1558,
+              "John Hanratty": 1335,
+              "Dana Ray Bullister": 1232,
+              "Ayesha M. Wilson": 1107,
+              "Peter Hsu": 573,
+              "Ned S. Melanson": 556,
+              "Elizabeth Bisio": 512,
+              "Zion Nathaniel Sherin": 385,
+              "Stanislav A. Rivkin": 348,
+              "Robert Winters": 258,
+              "LaQueen Arleen Battle": 79,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "LaQueen Arleen Battle"
+            ],
+            "exhausted": 20
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2134,
+              "Catherine Zusy": 2056,
+              "Jivan G. Sobrinho-Wheeler": 2034,
+              "Timothy R. Flaherty": 1852,
+              "E. Denise Simmons": 1745,
+              "Patricia M. Nolan": 1559,
+              "John Hanratty": 1337,
+              "Dana Ray Bullister": 1233,
+              "Ayesha M. Wilson": 1116,
+              "Peter Hsu": 580,
+              "Ned S. Melanson": 556,
+              "Elizabeth Bisio": 521,
+              "Zion Nathaniel Sherin": 385,
+              "Stanislav A. Rivkin": 355,
+              "Robert Winters": 259,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Robert Winters"
+            ],
+            "exhausted": 33
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2144,
+              "Catherine Zusy": 2105,
+              "Jivan G. Sobrinho-Wheeler": 2037,
+              "Timothy R. Flaherty": 1884,
+              "E. Denise Simmons": 1763,
+              "Patricia M. Nolan": 1577,
+              "John Hanratty": 1370,
+              "Dana Ray Bullister": 1250,
+              "Ayesha M. Wilson": 1125,
+              "Peter Hsu": 590,
+              "Ned S. Melanson": 560,
+              "Elizabeth Bisio": 542,
+              "Zion Nathaniel Sherin": 399,
+              "Stanislav A. Rivkin": 362,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Stanislav A. Rivkin"
+            ],
+            "exhausted": 47
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2173,
+              "Catherine Zusy": 2154,
+              "Jivan G. Sobrinho-Wheeler": 2113,
+              "Timothy R. Flaherty": 1898,
+              "E. Denise Simmons": 1783,
+              "Patricia M. Nolan": 1615,
+              "John Hanratty": 1385,
+              "Dana Ray Bullister": 1266,
+              "Ayesha M. Wilson": 1151,
+              "Peter Hsu": 609,
+              "Ned S. Melanson": 576,
+              "Elizabeth Bisio": 552,
+              "Zion Nathaniel Sherin": 417,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Zion Nathaniel Sherin"
+            ],
+            "exhausted": 63
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2239,
+              "Burhan Azeem": 2178,
+              "Jivan G. Sobrinho-Wheeler": 2123,
+              "Timothy R. Flaherty": 1923,
+              "E. Denise Simmons": 1804,
+              "Patricia M. Nolan": 1642,
+              "John Hanratty": 1480,
+              "Dana Ray Bullister": 1280,
+              "Ayesha M. Wilson": 1158,
+              "Peter Hsu": 648,
+              "Elizabeth Bisio": 614,
+              "Ned S. Melanson": 584,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Ned S. Melanson"
+            ],
+            "exhausted": 82
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Burhan Azeem": 2297,
+              "Catherine Zusy": 2254,
+              "Jivan G. Sobrinho-Wheeler": 2214,
+              "Timothy R. Flaherty": 1935,
+              "E. Denise Simmons": 1825,
+              "Patricia M. Nolan": 1685,
+              "Dana Ray Bullister": 1496,
+              "John Hanratty": 1484,
+              "Ayesha M. Wilson": 1170,
+              "Peter Hsu": 667,
+              "Elizabeth Bisio": 625,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Elizabeth Bisio"
+            ],
+            "exhausted": 103
+          },
+          {
+            "round": 10,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2301,
+              "Burhan Azeem": 2300,
+              "Jivan G. Sobrinho-Wheeler": 2221,
+              "Timothy R. Flaherty": 2007,
+              "E. Denise Simmons": 1841,
+              "John Hanratty": 1818,
+              "Patricia M. Nolan": 1709,
+              "Dana Ray Bullister": 1535,
+              "Ayesha M. Wilson": 1193,
+              "Peter Hsu": 709,
+              "Elizabeth Bisio": 0,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Peter Hsu"
+            ],
+            "exhausted": 121
+          },
+          {
+            "round": 11,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2419,
+              "Burhan Azeem": 2334,
+              "Jivan G. Sobrinho-Wheeler": 2260,
+              "Timothy R. Flaherty": 2080,
+              "John Hanratty": 1976,
+              "E. Denise Simmons": 1887,
+              "Patricia M. Nolan": 1791,
+              "Dana Ray Bullister": 1578,
+              "Ayesha M. Wilson": 1233,
+              "Peter Hsu": 0,
+              "Elizabeth Bisio": 0,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Ayesha M. Wilson"
+            ],
+            "exhausted": 197
+          },
+          {
+            "round": 12,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2537,
+              "Burhan Azeem": 2432,
+              "Jivan G. Sobrinho-Wheeler": 2422,
+              "E. Denise Simmons": 2244,
+              "Timothy R. Flaherty": 2189,
+              "John Hanratty": 2042,
+              "Patricia M. Nolan": 1884,
+              "Dana Ray Bullister": 1615,
+              "Ayesha M. Wilson": 0,
+              "Peter Hsu": 0,
+              "Elizabeth Bisio": 0,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Catherine Zusy"
+            ],
+            "eliminated": [
+              "Dana Ray Bullister"
+            ],
+            "exhausted": 390
+          },
+          {
+            "round": 13,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2537,
+              "Burhan Azeem": 2537,
+              "Jivan G. Sobrinho-Wheeler": 2537,
+              "E. Denise Simmons": 2480,
+              "Patricia M. Nolan": 2352,
+              "Timothy R. Flaherty": 2267,
+              "John Hanratty": 2104,
+              "Dana Ray Bullister": 0,
+              "Ayesha M. Wilson": 0,
+              "Peter Hsu": 0,
+              "Elizabeth Bisio": 0,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Burhan Azeem",
+              "Jivan G. Sobrinho-Wheeler"
+            ],
+            "eliminated": [
+              "John Hanratty"
+            ],
+            "exhausted": 941
+          },
+          {
+            "round": 14,
+            "tally": {
+              "Sumbul Siddiqui": 2537,
+              "Marc C. McGovern": 2537,
+              "Ayah A. Al-Zubi": 2537,
+              "Catherine Zusy": 2537,
+              "Burhan Azeem": 2537,
+              "Jivan G. Sobrinho-Wheeler": 2537,
+              "Timothy R. Flaherty": 2537,
+              "E. Denise Simmons": 2537,
+              "Patricia M. Nolan": 2537,
+              "John Hanratty": 0,
+              "Dana Ray Bullister": 0,
+              "Ayesha M. Wilson": 0,
+              "Peter Hsu": 0,
+              "Elizabeth Bisio": 0,
+              "Ned S. Melanson": 0,
+              "Zion Nathaniel Sherin": 0,
+              "Stanislav A. Rivkin": 0,
+              "Robert Winters": 0,
+              "LaQueen Arleen Battle": 0,
+              "WI - Louise A. Venden": 0,
+              "Write-in 2": 0,
+              "Write-in 3": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0,
+              "Write-in 7": 0,
+              "Write-in 8": 0,
+              "Write-in 9": 0
+            },
+            "elected": [
+              "Timothy R. Flaherty",
+              "E. Denise Simmons",
+              "Patricia M. Nolan"
+            ],
+            "eliminated": [],
+            "exhausted": 2533
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Cambridge",
+      "date": "2025-11-04",
+      "office_original": "School Committee - Ranked Choice Voting",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 1.0,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Hudson",
+          "votes": 3333,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 1
+        },
+        {
+          "name_original": "Richard N. Harding, Jr.",
+          "votes": 3043,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 10
+        },
+        {
+          "name_original": "Luisa de Paula Santos",
+          "votes": 2453,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "Caitlin E. Dube",
+          "votes": 2195,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "Arjun Kent Jaikumar",
+          "votes": 1750,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 15
+        },
+        {
+          "name_original": "David J. Weinstein",
+          "votes": 1517,
+          "elected": true,
+          "rcv_status": "ELECTED",
+          "rcv_round": 15
+        },
+        {
+          "name_original": "Eugenia Schraa Huh",
+          "votes": 1956,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 14
+        },
+        {
+          "name_original": "Jane Hirschi",
+          "votes": 1575,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 13
+        },
+        {
+          "name_original": "José Luis Rojas Villarreal",
+          "votes": 1036,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 12
+        },
+        {
+          "name_original": "Caroline Mary Lisette Hunter",
+          "votes": 856,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 10
+        },
+        {
+          "name_original": "Lilly Havstad",
+          "votes": 850,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 11
+        },
+        {
+          "name_original": "Jessica Diaz Goetz",
+          "votes": 721,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 9
+        },
+        {
+          "name_original": "Jia-Jing Lee",
+          "votes": 689,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 8
+        },
+        {
+          "name_original": "LaQueen Arleen Battle",
+          "votes": 325,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 7
+        },
+        {
+          "name_original": "Alex Bowers",
+          "votes": 267,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 6
+        },
+        {
+          "name_original": "Anne Mathilde Coburn",
+          "votes": 235,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 5
+        },
+        {
+          "name_original": "Alborz Bejnood",
+          "votes": 184,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 4
+        },
+        {
+          "name_original": "Melanie Gause",
+          "votes": 108,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 3
+        },
+        {
+          "name_original": "Write-in 1",
+          "votes": 21,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 3",
+          "votes": 1,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 2",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 4",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 5",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        },
+        {
+          "name_original": "Write-in 6",
+          "votes": 0,
+          "elected": false,
+          "rcv_status": "DEFEATED",
+          "rcv_round": 2
+        }
+      ],
+      "rcv": {
+        "method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+        "votes_basis": "first-preference count (round 1); NOT the result -- see `elected` and `rounds`",
+        "threshold": 3303,
+        "valid_ballots": 23115,
+        "seats": 6,
+        "report": "https://www.cambridgema.gov/Election2025/Official/School%20Round.htm",
+        "rounds": [
+          {
+            "round": 1,
+            "tally": {
+              "Elizabeth Hudson": 3333,
+              "Richard N. Harding, Jr.": 3043,
+              "Luisa de Paula Santos": 2453,
+              "Caitlin E. Dube": 2195,
+              "Eugenia Schraa Huh": 1956,
+              "Arjun Kent Jaikumar": 1750,
+              "Jane Hirschi": 1575,
+              "David J. Weinstein": 1517,
+              "José Luis Rojas Villarreal": 1036,
+              "Caroline Mary Lisette Hunter": 856,
+              "Lilly Havstad": 850,
+              "Jessica Diaz Goetz": 721,
+              "Jia-Jing Lee": 689,
+              "LaQueen Arleen Battle": 325,
+              "Alex Bowers": 267,
+              "Anne Mathilde Coburn": 235,
+              "Alborz Bejnood": 184,
+              "Melanie Gause": 108,
+              "Write-in 1": 21,
+              "Write-in 3": 1,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Elizabeth Hudson"
+            ],
+            "eliminated": [],
+            "exhausted": 0
+          },
+          {
+            "round": 2,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3048,
+              "Luisa de Paula Santos": 2453,
+              "Caitlin E. Dube": 2198,
+              "Eugenia Schraa Huh": 1961,
+              "Arjun Kent Jaikumar": 1751,
+              "Jane Hirschi": 1578,
+              "David J. Weinstein": 1521,
+              "José Luis Rojas Villarreal": 1037,
+              "Caroline Mary Lisette Hunter": 859,
+              "Lilly Havstad": 850,
+              "Jessica Diaz Goetz": 722,
+              "Jia-Jing Lee": 692,
+              "LaQueen Arleen Battle": 325,
+              "Alex Bowers": 267,
+              "Anne Mathilde Coburn": 235,
+              "Alborz Bejnood": 184,
+              "Melanie Gause": 109,
+              "Write-in 1": 21,
+              "Write-in 3": 1,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Write-in 1",
+              "Write-in 3",
+              "Write-in 2",
+              "Write-in 4",
+              "Write-in 5",
+              "Write-in 6"
+            ],
+            "exhausted": 0
+          },
+          {
+            "round": 3,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3052,
+              "Luisa de Paula Santos": 2453,
+              "Caitlin E. Dube": 2198,
+              "Eugenia Schraa Huh": 1961,
+              "Arjun Kent Jaikumar": 1751,
+              "Jane Hirschi": 1578,
+              "David J. Weinstein": 1521,
+              "José Luis Rojas Villarreal": 1038,
+              "Caroline Mary Lisette Hunter": 859,
+              "Lilly Havstad": 850,
+              "Jessica Diaz Goetz": 722,
+              "Jia-Jing Lee": 692,
+              "LaQueen Arleen Battle": 325,
+              "Alex Bowers": 267,
+              "Anne Mathilde Coburn": 236,
+              "Alborz Bejnood": 184,
+              "Melanie Gause": 109,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Melanie Gause"
+            ],
+            "exhausted": 16
+          },
+          {
+            "round": 4,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3064,
+              "Luisa de Paula Santos": 2455,
+              "Caitlin E. Dube": 2201,
+              "Eugenia Schraa Huh": 1966,
+              "Arjun Kent Jaikumar": 1755,
+              "Jane Hirschi": 1584,
+              "David J. Weinstein": 1523,
+              "José Luis Rojas Villarreal": 1044,
+              "Caroline Mary Lisette Hunter": 861,
+              "Lilly Havstad": 855,
+              "Jessica Diaz Goetz": 740,
+              "Jia-Jing Lee": 697,
+              "LaQueen Arleen Battle": 332,
+              "Alex Bowers": 268,
+              "Anne Mathilde Coburn": 238,
+              "Alborz Bejnood": 186,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Alborz Bejnood"
+            ],
+            "exhausted": 43
+          },
+          {
+            "round": 5,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3080,
+              "Luisa de Paula Santos": 2466,
+              "Caitlin E. Dube": 2218,
+              "Eugenia Schraa Huh": 1983,
+              "Arjun Kent Jaikumar": 1770,
+              "Jane Hirschi": 1599,
+              "David J. Weinstein": 1530,
+              "José Luis Rojas Villarreal": 1049,
+              "Caroline Mary Lisette Hunter": 867,
+              "Lilly Havstad": 858,
+              "Jessica Diaz Goetz": 744,
+              "Jia-Jing Lee": 711,
+              "LaQueen Arleen Battle": 334,
+              "Alex Bowers": 288,
+              "Anne Mathilde Coburn": 245,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Anne Mathilde Coburn"
+            ],
+            "exhausted": 70
+          },
+          {
+            "round": 6,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3106,
+              "Luisa de Paula Santos": 2498,
+              "Caitlin E. Dube": 2250,
+              "Eugenia Schraa Huh": 2007,
+              "Arjun Kent Jaikumar": 1785,
+              "Jane Hirschi": 1614,
+              "David J. Weinstein": 1540,
+              "José Luis Rojas Villarreal": 1056,
+              "Caroline Mary Lisette Hunter": 872,
+              "Lilly Havstad": 866,
+              "Jessica Diaz Goetz": 760,
+              "Jia-Jing Lee": 723,
+              "LaQueen Arleen Battle": 342,
+              "Alex Bowers": 296,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Alex Bowers"
+            ],
+            "exhausted": 97
+          },
+          {
+            "round": 7,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3141,
+              "Luisa de Paula Santos": 2539,
+              "Caitlin E. Dube": 2290,
+              "Eugenia Schraa Huh": 2030,
+              "Arjun Kent Jaikumar": 1798,
+              "Jane Hirschi": 1645,
+              "David J. Weinstein": 1555,
+              "José Luis Rojas Villarreal": 1065,
+              "Lilly Havstad": 878,
+              "Caroline Mary Lisette Hunter": 878,
+              "Jessica Diaz Goetz": 779,
+              "Jia-Jing Lee": 734,
+              "LaQueen Arleen Battle": 348,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "LaQueen Arleen Battle"
+            ],
+            "exhausted": 132
+          },
+          {
+            "round": 8,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3178,
+              "Luisa de Paula Santos": 2571,
+              "Caitlin E. Dube": 2309,
+              "Eugenia Schraa Huh": 2051,
+              "Arjun Kent Jaikumar": 1819,
+              "Jane Hirschi": 1654,
+              "David J. Weinstein": 1574,
+              "José Luis Rojas Villarreal": 1101,
+              "Caroline Mary Lisette Hunter": 903,
+              "Lilly Havstad": 884,
+              "Jessica Diaz Goetz": 797,
+              "Jia-Jing Lee": 757,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Jia-Jing Lee"
+            ],
+            "exhausted": 214
+          },
+          {
+            "round": 9,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3260,
+              "Luisa de Paula Santos": 2628,
+              "Caitlin E. Dube": 2361,
+              "Eugenia Schraa Huh": 2112,
+              "Arjun Kent Jaikumar": 1916,
+              "Jane Hirschi": 1746,
+              "David J. Weinstein": 1634,
+              "José Luis Rojas Villarreal": 1159,
+              "Caroline Mary Lisette Hunter": 938,
+              "Lilly Havstad": 905,
+              "Jessica Diaz Goetz": 825,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Jessica Diaz Goetz"
+            ],
+            "exhausted": 328
+          },
+          {
+            "round": 10,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 2722,
+              "Caitlin E. Dube": 2490,
+              "Eugenia Schraa Huh": 2152,
+              "Arjun Kent Jaikumar": 2083,
+              "Jane Hirschi": 1841,
+              "David J. Weinstein": 1666,
+              "José Luis Rojas Villarreal": 1197,
+              "Lilly Havstad": 1002,
+              "Caroline Mary Lisette Hunter": 963,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Richard N. Harding, Jr."
+            ],
+            "eliminated": [
+              "Caroline Mary Lisette Hunter"
+            ],
+            "exhausted": 393
+          },
+          {
+            "round": 11,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 2794,
+              "Caitlin E. Dube": 2550,
+              "Eugenia Schraa Huh": 2222,
+              "Arjun Kent Jaikumar": 2158,
+              "Jane Hirschi": 1917,
+              "David J. Weinstein": 1874,
+              "José Luis Rojas Villarreal": 1388,
+              "Lilly Havstad": 1024,
+              "Caroline Mary Lisette Hunter": 0,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "Lilly Havstad"
+            ],
+            "exhausted": 582
+          },
+          {
+            "round": 12,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 3178,
+              "Caitlin E. Dube": 2726,
+              "Arjun Kent Jaikumar": 2293,
+              "Eugenia Schraa Huh": 2262,
+              "Jane Hirschi": 2072,
+              "David J. Weinstein": 1904,
+              "José Luis Rojas Villarreal": 1413,
+              "Lilly Havstad": 0,
+              "Caroline Mary Lisette Hunter": 0,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [],
+            "eliminated": [
+              "José Luis Rojas Villarreal"
+            ],
+            "exhausted": 661
+          },
+          {
+            "round": 13,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 3303,
+              "Caitlin E. Dube": 2836,
+              "Arjun Kent Jaikumar": 2405,
+              "David J. Weinstein": 2385,
+              "Eugenia Schraa Huh": 2372,
+              "Jane Hirschi": 2200,
+              "José Luis Rojas Villarreal": 0,
+              "Lilly Havstad": 0,
+              "Caroline Mary Lisette Hunter": 0,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Luisa de Paula Santos"
+            ],
+            "eliminated": [
+              "Jane Hirschi"
+            ],
+            "exhausted": 1008
+          },
+          {
+            "round": 14,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 3303,
+              "Caitlin E. Dube": 3303,
+              "Arjun Kent Jaikumar": 2824,
+              "David J. Weinstein": 2764,
+              "Eugenia Schraa Huh": 2669,
+              "Jane Hirschi": 0,
+              "José Luis Rojas Villarreal": 0,
+              "Lilly Havstad": 0,
+              "Caroline Mary Lisette Hunter": 0,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Caitlin E. Dube"
+            ],
+            "eliminated": [
+              "Eugenia Schraa Huh"
+            ],
+            "exhausted": 1646
+          },
+          {
+            "round": 15,
+            "tally": {
+              "Elizabeth Hudson": 3303,
+              "Richard N. Harding, Jr.": 3303,
+              "Luisa de Paula Santos": 3303,
+              "Caitlin E. Dube": 3303,
+              "Arjun Kent Jaikumar": 3303,
+              "David J. Weinstein": 3303,
+              "Eugenia Schraa Huh": 0,
+              "Jane Hirschi": 0,
+              "José Luis Rojas Villarreal": 0,
+              "Lilly Havstad": 0,
+              "Caroline Mary Lisette Hunter": 0,
+              "Jessica Diaz Goetz": 0,
+              "Jia-Jing Lee": 0,
+              "LaQueen Arleen Battle": 0,
+              "Alex Bowers": 0,
+              "Anne Mathilde Coburn": 0,
+              "Alborz Bejnood": 0,
+              "Melanie Gause": 0,
+              "Write-in 1": 0,
+              "Write-in 3": 0,
+              "Write-in 2": 0,
+              "Write-in 4": 0,
+              "Write-in 5": 0,
+              "Write-in 6": 0
+            },
+            "elected": [
+              "Arjun Kent Jaikumar",
+              "David J. Weinstein"
+            ],
+            "eliminated": [],
+            "exhausted": 3297
+          }
+        ]
+      },
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Cambridge2025",
+  "_source_url": "https://www.cambridgema.gov/Election2025/Official/Council%20Round.htm",
+  "_count_method": "Single Transferable Vote (proportional representation), Droop quota, Cambridge-style random surplus transfer, elected immediately on reaching quota",
+  "_votes_basis": "first-preference count; winners carry elected=true",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

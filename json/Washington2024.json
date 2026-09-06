@@ -1,0 +1,192 @@
+{
+  "elections": [
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "FINANCE COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Drugmand",
+          "votes": 102
+        },
+        {
+          "name_original": "Kent Lew",
+          "votes": 5
+        },
+        {
+          "name_original": "Erenst Lampron",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "FINANCE COMMITTEE",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kent Lew",
+          "votes": 29
+        },
+        {
+          "name_original": "Michael Burke",
+          "votes": 3
+        },
+        {
+          "name_original": "Linda Levernoch",
+          "votes": 1
+        },
+        {
+          "name_original": "Joe Thornton",
+          "votes": 1
+        },
+        {
+          "name_original": "Mark Levernoch",
+          "votes": 1
+        },
+        {
+          "name_original": "Rose Borgnis",
+          "votes": 1
+        },
+        {
+          "name_original": "Kimberly Allardyce",
+          "votes": 1
+        },
+        {
+          "name_original": "Erik Lenski",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 81,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "MUNICIPAL LIGHT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pauline Combe-Clark",
+          "votes": 105
+        },
+        {
+          "name_original": "Eyal Shapira",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Willis",
+          "votes": 103
+        },
+        {
+          "name_original": "Kent Lew",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen B. Deloye",
+          "votes": 88
+        },
+        {
+          "name_original": "Keith J. Sharp",
+          "votes": 20
+        },
+        {
+          "name_original": "David Fish",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Washington",
+      "date": "2024-05-18",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Allison Mikaniewicz",
+          "votes": 114
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Washington2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2024.pdf",
+  "ballots_cast": 120,
+  "ballots_cast_source": "derived_from_contests"
+}

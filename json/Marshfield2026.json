@@ -1,0 +1,223 @@
+{
+  "document": {
+    "heading_verbatim": "FINAL TALLY ALL VOTES LOCAL ELECTION MARSHFIELD, MA",
+    "election_type": "Regular",
+    "election_type_evidence": "Document shows local municipal election held on May 02, 2026 with multiple local offices (Board of Assessors, Board of Health, Board of Public Works, Planning Board, Housing Board of Commissioners, Town Meeting Moderator, Trustee of Veterans Memorials, School Committee, Select Board) typical of a regular annual municipal election.",
+    "date_verbatim": "May 02, 2026",
+    "offices_on_ballot": 9,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "BOARD OF ASSESSORS (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steve Lynch",
+          "votes": 26
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3573,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "BOARD OF HEALTH (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tyler Wayne Nims",
+          "votes": 2801
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1378,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "BOARD OF PUBLIC WORKS (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Claire Jordan",
+          "votes": 2819
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1360,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "PLANNING BOARD (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katharine N. O'Donnell",
+          "votes": 2808
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1341,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "HOUSING BOARD OF COMMISSIONERS (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. Daley Jr.",
+          "votes": 2742
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1437,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "TOWN MEETING MODERATOR (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Jeffrey Fitzgerald",
+          "votes": 2959
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1192,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "TRUSTEE OF VETERANS MEMORIALS (VETERAN) (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steve Barber",
+          "votes": 142
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 516,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "SCHOOL COMMITTEE (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lauren J. Dargan",
+          "votes": 2783
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1369,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2026-05-02",
+      "office_original": "SELECT BOARD (Vote for 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Francis W. Doran",
+          "votes": 929
+        },
+        {
+          "name_original": "Joseph A. Pecevich",
+          "votes": 221
+        },
+        {
+          "name_original": "Richard Joshua Smith",
+          "votes": 2985
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 44,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marshfield2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Marshfield2026.pdf",
+  "ballots_cast": 4179,
+  "ballots_cast_source": "derived_from_contests"
+}

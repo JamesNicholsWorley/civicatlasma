@@ -1,0 +1,130 @@
+{
+  "elections": [
+    {
+      "municipality": "Colrain",
+      "date": "2023-05-02",
+      "office_original": "Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dwight Harrison",
+          "votes": 214
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2023-05-02",
+      "office_original": "Constable",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Worden I",
+          "votes": 116
+        },
+        {
+          "name_original": "Jonathan Lagreze",
+          "votes": 99
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2023-05-02",
+      "office_original": "MTRS Committee Member",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathryn Barrows",
+          "votes": 213
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2023-05-02",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cheli Mennella",
+          "votes": 210
+        },
+        {
+          "name_original": "Cynthia McLaughlin",
+          "votes": 208
+        },
+        {
+          "name_original": "Others",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Colrain",
+      "date": "2023-05-02",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Thurber",
+          "votes": 173
+        },
+        {
+          "name_original": "Howard Phelps",
+          "votes": 27
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Colrain2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Colrain2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

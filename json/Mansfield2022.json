@@ -1,0 +1,113 @@
+{
+  "elections": [
+    {
+      "municipality": "Mansfield",
+      "date": "2022-05-10",
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven W. Schoonveld",
+          "votes": 1104
+        },
+        {
+          "name_original": "Michael Alan Trowbridge Sr.",
+          "votes": 1566
+        },
+        {
+          "name_original": "Diana Bren",
+          "votes": 1323
+        },
+        {
+          "name_original": "Walter L. Wilk Jr.",
+          "votes": 1249
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 418,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2022-05-10",
+      "office_original": "Mansfield School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lynn Cavicchi",
+          "votes": 1904
+        },
+        {
+          "name_original": "Ryan J. Barry",
+          "votes": 829
+        },
+        {
+          "name_original": "David H. Rapoza",
+          "votes": 871
+        },
+        {
+          "name_original": "Vivian Webster",
+          "votes": 1619
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 443,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Mansfield",
+      "date": "2022-05-10",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kostas Loukos",
+          "votes": 2234
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 565,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Mansfield2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Mansfield2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,208 @@
+{
+  "elections": [
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Selectboard- 3 year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robyn Provost-Carlson",
+          "votes": 66
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Assessor – 3 year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alice M. Wozniak",
+          "votes": 65
+        },
+        {
+          "name_original": "Heather Row",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Finance Committee – 3-year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Alice M. Wozniak",
+          "votes": 59
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Finance Committee – 1-year to fill the balance of a 3 year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wendy E Whalen",
+          "votes": 69
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Planning Board – 5 year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Dane",
+          "votes": 63
+        },
+        {
+          "name_original": "Hilma Sumner",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Library Trustee – 3 year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gale E. Hubley",
+          "votes": 73
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "Municipal Light Board – 3-year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Peterson",
+          "votes": 56
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2025-05-09",
+      "office_original": "School Committee - 3 year seat",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Budge Litchfield",
+          "votes": 3
+        },
+        {
+          "name_original": "Devon Clark",
+          "votes": 3
+        },
+        {
+          "name_original": "Kenneth Rocke",
+          "votes": 1
+        },
+        {
+          "name_original": "Art Schwenger",
+          "votes": 1
+        },
+        {
+          "name_original": "Cathy Wilkins",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Heath2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Heath2025.pdf",
+  "ballots_cast": 82,
+  "ballots_cast_source": "derived_from_contests"
+}

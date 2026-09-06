@@ -1,0 +1,214 @@
+{
+  "elections": [
+    {
+      "municipality": "Agawam",
+      "date": "2025-11-04",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Christopher C. Johnson",
+          "votes": 3122
+        },
+        {
+          "name_original": "Wayne Ball",
+          "votes": 148
+        },
+        {
+          "name_original": "Will Clark",
+          "votes": 83
+        },
+        {
+          "name_original": "Anthony Russo",
+          "votes": 22
+        },
+        {
+          "name_original": "Cecilia Calabrese",
+          "votes": 15
+        },
+        {
+          "name_original": "Mike Govoni",
+          "votes": 11
+        },
+        {
+          "name_original": "Richard Cohen",
+          "votes": 8
+        },
+        {
+          "name_original": "Edward Borgatti",
+          "votes": 8
+        },
+        {
+          "name_original": "Rick Seldomridge",
+          "votes": 8
+        },
+        {
+          "name_original": "Others",
+          "votes": 275,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1388,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Agawam",
+      "date": "2025-11-04",
+      "office_original": "CITY COUNCIL",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 11,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Maria F. Valego",
+          "votes": 1508
+        },
+        {
+          "name_original": "Uduak Athalia Enyiema",
+          "votes": 1545
+        },
+        {
+          "name_original": "Gerald F. Smith",
+          "votes": 1661
+        },
+        {
+          "name_original": "Peter J. Smus",
+          "votes": 1794
+        },
+        {
+          "name_original": "Richard Borsari",
+          "votes": 1875
+        },
+        {
+          "name_original": "Christine Rickmon",
+          "votes": 1932
+        },
+        {
+          "name_original": "Thomas David Hendrickson",
+          "votes": 2015
+        },
+        {
+          "name_original": "Anthony R. Suffriti",
+          "votes": 2139
+        },
+        {
+          "name_original": "Rosemary Sandlin",
+          "votes": 2149
+        },
+        {
+          "name_original": "Peter T. McNair",
+          "votes": 2188
+        },
+        {
+          "name_original": "George Bitzas",
+          "votes": 2251
+        },
+        {
+          "name_original": "Robert E. Rossi",
+          "votes": 2308
+        },
+        {
+          "name_original": "Cecilia P. Calabrese",
+          "votes": 2316
+        },
+        {
+          "name_original": "Dino R. Mercadante",
+          "votes": 2587
+        },
+        {
+          "name_original": "Anthony J. Russo",
+          "votes": 3137
+        },
+        {
+          "name_original": "Edward P. Borgatti",
+          "votes": 3176
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21351,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Agawam",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Catherine ML. McDougal",
+          "votes": 1955
+        },
+        {
+          "name_original": "AJ Christopher",
+          "votes": 2526
+        },
+        {
+          "name_original": "Michael D. Perry",
+          "votes": 2527
+        },
+        {
+          "name_original": "Dawn M. DeMatteo",
+          "votes": 2583
+        },
+        {
+          "name_original": "Wendy T. Rua",
+          "votes": 2691
+        },
+        {
+          "name_original": "Shelley M. Borgatti-Reed",
+          "votes": 2894
+        },
+        {
+          "name_original": "Heather Zielenski",
+          "votes": 3019
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12296,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Agawam2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Agawam2025.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-11-04",
+      "detail": "https://web.archive.org/web/20251022185114/https://www.agawam.ma.us/231/Election-Information",
+      "quote": "Tuesday, November 4, 2025- Municipal Election Day -Polls are open 8:00 AM to 8:00 PM.",
+      "note": "The town own Election Information page, in an archived capture taken 2025-10-22, two weeks before the day. The live page has since been rolled forward and now opens Tuesday, September 1, 2026, State Primary Election Day, which is ordinary clerk housekeeping and not a retraction. The towns own results PDF is gone: DocumentCenter/View/3428, anchored 2025 Municipal Election Results in the harvest, now returns 404 and the neighbouring id 3427 is an unrelated Medicare file, so the id was reused or retired - that document needs re-harvesting. Reminder Publishing independently reports Agawam election night on Nov. 4 and three councillors beaten in their races in the 2025 election. In the quote the dash after 2025 is an en dash on the page."
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,193 @@
+{
+  "elections": [
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "SELECT BOARD (3yrs)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Areson",
+          "votes": 585
+        },
+        {
+          "name_original": "Robert Weinstein",
+          "votes": 183
+        },
+        {
+          "name_original": "John Dundas",
+          "votes": 490
+        },
+        {
+          "name_original": "Eric Jansen",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 132,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "SCHOOL COMMITTEE (3yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janina Richey",
+          "votes": 542
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 152,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "LIBRARY TRUSTEES (3yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Abt",
+          "votes": 421
+        },
+        {
+          "name_original": "Ann Courtney",
+          "votes": 210
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 68,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "CEMETERY COMMISSION (3yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas Roda",
+          "votes": 582
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 112,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "PLANNING BOARD (3yrs)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Kiernan",
+          "votes": 267
+        },
+        {
+          "name_original": "John Riemer",
+          "votes": 249
+        },
+        {
+          "name_original": "Harlen Howard",
+          "votes": 396
+        },
+        {
+          "name_original": "Eric Jansen",
+          "votes": 364
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2025-05-13",
+      "office_original": "HOUSING AUTHORITY (5yrs)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Gallo",
+          "votes": 546
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 145,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Truro2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Truro2025.pdf",
+  "ballots_cast": 700,
+  "ballots_cast_source": "derived_from_contests"
+}

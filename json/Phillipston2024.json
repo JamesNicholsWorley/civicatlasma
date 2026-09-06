@@ -1,0 +1,47 @@
+{
+  "elections": [
+    {
+      "municipality": "Phillipston",
+      "date": "2024-05-20",
+      "office_original": "Selectboard",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nicole Gough",
+          "votes": 123
+        },
+        {
+          "name_original": "Earl Sweat",
+          "votes": 97
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Phillipston",
+      "date": "2024-05-06",
+      "office_original": "Selectboard, 3-year term",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Bernie Malouin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Phillipston2024",
+  "_source_pdf": "",
+  "ballots_cast": 235,
+  "ballots_cast_source": "stated_in_record"
+}

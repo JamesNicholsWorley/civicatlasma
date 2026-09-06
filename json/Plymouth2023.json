@@ -1,0 +1,819 @@
+{
+  "elections": [
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "SELECT BOARD (Vote for 2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "RICHARD J. QUINTAL, JR.",
+          "votes": 3362
+        },
+        {
+          "name_original": "KEVIN B. CANTY",
+          "votes": 2971
+        },
+        {
+          "name_original": "VEDNA KAREN HEYWOOD",
+          "votes": 2756
+        },
+        {
+          "name_original": "FRANCIS F. MAND",
+          "votes": 2031
+        },
+        {
+          "name_original": "W. WRESTLING BREWSTER",
+          "votes": 1508
+        },
+        {
+          "name_original": "EVERETT J. MALAGUTI III",
+          "votes": 903
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1457,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "SCHOOL COMMITTEE (Vote for 2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "MICHELLE L. BADGER",
+          "votes": 4247
+        },
+        {
+          "name_original": "ROBERT P. MORGAN",
+          "votes": 3246
+        },
+        {
+          "name_original": "DAN SULLIVAN",
+          "votes": 2709
+        },
+        {
+          "name_original": "MICHAEL J. SPELLMAN",
+          "votes": 2070
+        },
+        {
+          "name_original": "Others",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2716,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "PLANNING BOARD - 5 YRS (Vote for 1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "CARL A. DONALDSON",
+          "votes": 4707
+        },
+        {
+          "name_original": "Others",
+          "votes": 90,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2787,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "PLANNING BOARD - 1 YR (Vote for 1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "DAVID B. PECK",
+          "votes": 4990
+        },
+        {
+          "name_original": "Others",
+          "votes": 76,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2504,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "REDEVELOPMENT (Vote for 1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "ANITA MARIE TEIXEIRA ROCHETEAU",
+          "votes": 4462
+        },
+        {
+          "name_original": "Others",
+          "votes": 81,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3032,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TAMMY BERARDI",
+          "votes": 181
+        },
+        {
+          "name_original": "MARK THOMAS PULSINELLI",
+          "votes": 181
+        },
+        {
+          "name_original": "ROBERT GORDON QUICK",
+          "votes": 179
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 230,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "EVERETT J. MALAGUTI III",
+          "votes": 200
+        },
+        {
+          "name_original": "KATHERINE PALMER KRAMPF",
+          "votes": 174
+        },
+        {
+          "name_original": "ALBERT ETHAN KUSMIN",
+          "votes": 133
+        },
+        {
+          "name_original": "NATALIA DRISCOLL",
+          "votes": 122
+        },
+        {
+          "name_original": "HARRISON PHILIP QUINN",
+          "votes": 107
+        },
+        {
+          "name_original": "CHAD ANDREW WOLF",
+          "votes": 105
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GERALD EDWIN SIRRICO",
+          "votes": 284
+        },
+        {
+          "name_original": "MARGARET A. KEOHAN",
+          "votes": 266
+        },
+        {
+          "name_original": "CONSTANCE ELLEN MELAHOURES",
+          "votes": 260
+        },
+        {
+          "name_original": "DOROTHEA M. GAY",
+          "votes": 204
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 405,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ROBERT J. SHAW",
+          "votes": 295
+        },
+        {
+          "name_original": "JAD OSMANSKI",
+          "votes": 292
+        },
+        {
+          "name_original": "Others",
+          "votes": 93,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 820,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MISTI M. NEUTZLING",
+          "votes": 237
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 861,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BETTY CAVACCO",
+          "votes": 382
+        },
+        {
+          "name_original": "WILLIAM ARIENTI",
+          "votes": 366
+        },
+        {
+          "name_original": "ANTHONY A. MAYO",
+          "votes": 348
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 617,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "TAMMY L. JOHNSON",
+          "votes": 276
+        },
+        {
+          "name_original": "GEORGE S. BROWN",
+          "votes": 268
+        },
+        {
+          "name_original": "JACQUELINE JL PERKINS",
+          "votes": 258
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 401,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SYBIL M. HOLLAND",
+          "votes": 238
+        },
+        {
+          "name_original": "KAREN MacDONALD",
+          "votes": 238
+        },
+        {
+          "name_original": "MARY M. TINCHER",
+          "votes": 237
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 391,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 9",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KATHRYN M. HOLMES",
+          "votes": 158
+        },
+        {
+          "name_original": "CHRISTEEN MARIE GUADAGNO",
+          "votes": 154
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 378,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 10",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PETER L. NEVILLE",
+          "votes": 313
+        },
+        {
+          "name_original": "BRIAN ANDREW FITZGERALD",
+          "votes": 308
+        },
+        {
+          "name_original": "ROBERT DENNIS DUGGAN",
+          "votes": 304
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 440,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 11",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KENNETH A. KESSEL",
+          "votes": 285
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 900,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 12",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KAREN A. PETRACCA",
+          "votes": 169
+        },
+        {
+          "name_original": "JOHN J. SANGUINET",
+          "votes": 163
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 427,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 13",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JEFFREY S. DELAPPE",
+          "votes": 232
+        },
+        {
+          "name_original": "ANITA JOSEPHINE HADLEY",
+          "votes": 209
+        },
+        {
+          "name_original": "RONALD A. REILLY",
+          "votes": 193
+        },
+        {
+          "name_original": "ROBERT M. DAWLEY",
+          "votes": 159
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 368,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 14",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "THERESE F. BLACKWELL",
+          "votes": 268
+        },
+        {
+          "name_original": "PAUL R. REISSFELDER JR.",
+          "votes": 235
+        },
+        {
+          "name_original": "REBECCA B. ELLIS",
+          "votes": 219
+        },
+        {
+          "name_original": "DONALD FRANCIS HOLM",
+          "votes": 194
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 407,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 15",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ARTHUR THOMAS DESLOGES",
+          "votes": 481
+        },
+        {
+          "name_original": "JOHN C. DONAHUE",
+          "votes": 449
+        },
+        {
+          "name_original": "MICHAEL JEREMIAH HANLON III",
+          "votes": 435
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 651,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 16",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ETHAN WARREN",
+          "votes": 391
+        },
+        {
+          "name_original": "LAWRENCE H. DELAFIELD",
+          "votes": 378
+        },
+        {
+          "name_original": "LIANA ELIAS PATTON",
+          "votes": 367
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 739,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 17",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PAMELA L. HASTINGS",
+          "votes": 246
+        },
+        {
+          "name_original": "SUSAN SHASKAN ARENSTAM",
+          "votes": 232
+        },
+        {
+          "name_original": "ALEXIS LEIGH COON",
+          "votes": 189
+        },
+        {
+          "name_original": "STEVEN MICHAEL LYDON",
+          "votes": 145
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 262,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Plymouth",
+      "date": "2023-05-20",
+      "office_original": "Town Meeting Member",
+      "district_original": "Precinct 18",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KARL ANDREW MASON",
+          "votes": 229
+        },
+        {
+          "name_original": "JOHN WILKES HAMMOND II",
+          "votes": 219
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 683,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Plymouth2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plymouth2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

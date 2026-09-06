@@ -1,0 +1,135 @@
+{
+  "elections": [
+    {
+      "municipality": "Halifax",
+      "office_original": "Town Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Peter Beals",
+          "votes": 3
+        },
+        {
+          "name_original": "David Mascio",
+          "votes": 3
+        },
+        {
+          "name_original": "Robert McCarthy",
+          "votes": 5
+        },
+        {
+          "name_original": "Alexander Meade",
+          "votes": 15
+        },
+        {
+          "name_original": "Robert Gaynor",
+          "votes": 25
+        },
+        {
+          "name_original": "Joseph Fava",
+          "votes": 64
+        },
+        {
+          "name_original": "Madison McDonald",
+          "votes": 32
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-05-15",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Halifax",
+      "office_original": "Park Commission - 2 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Michael Schleiff",
+          "votes": 1
+        },
+        {
+          "name_original": "Bruce Nobles",
+          "votes": 8
+        },
+        {
+          "name_original": "Madison McDonald",
+          "votes": 2
+        }
+      ],
+      "date": "2021-05-15",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Halifax",
+      "office_original": "Park Commission - 3 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Michael J. Schleiff",
+          "votes": 24
+        },
+        {
+          "name_original": "Bruce Nobles",
+          "votes": 76
+        }
+      ],
+      "date": "2021-05-15",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Halifax",
+      "office_original": "Library Trustees",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Susan Vogt",
+          "votes": 14
+        },
+        {
+          "name_original": "Patrick J. Michaels",
+          "votes": 17
+        }
+      ],
+      "date": "2021-05-15",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Halifax2021",
+  "_source_pdf": "",
+  "document": {
+    "date_corroboration": {
+      "source": "town warrant / clerk calendar / town filename / statutory bracket",
+      "value": "2021-05-15",
+      "strength": "corroborated",
+      "quote": "the return prints no date; the town's own filename does -- `Town-Election---May-15-2021---Write-Ins-XLS`. 15 May 2021 is a Saturday, and Halifax votes on a Saturday in every published year (2022-05-14, 2023-05-13, 2024-05-18, 2025-05-17, 2026-05-16).",
+      "citation": "https://www.halifax-ma.org/DocumentCenter/View/277/Town-Election---May-15-2021---Write-Ins-XLS",
+      "note": "established 2026-08-24 by src/resolve_searchable_padding_holds.py, after the _searchable padding fix let DATE_NOT_ON_PAGE run"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

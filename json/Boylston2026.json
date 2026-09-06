@@ -1,0 +1,213 @@
+{
+  "document": {
+    "heading_verbatim": "MAY 11TH, 2026 ANNUAL TOWN ELECTION TOWN OF BOYLSTON, MASSACHUSETTS OFFICIAL RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MAY 11TH, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Board of Assessors (3 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca Dono Healy",
+          "votes": 184
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Board of Health (3 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Frederick Wentzell",
+          "votes": 194
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Select Board (3 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly A. Lesiczka",
+          "votes": 83
+        },
+        {
+          "name_original": "Vincent T. Sasso",
+          "votes": 115
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Cemetery Commission (3 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara R. Seed",
+          "votes": 192
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Library Trustees (3 year term - vote for two)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kathleen Anne Barry",
+          "votes": 183
+        },
+        {
+          "name_original": "Arlene A. Murphy",
+          "votes": 171
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 76,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Municipal Light Board (3year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven R. Mero",
+          "votes": 188
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Parks & Recreation Commission (3 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "McKenzie L. Davis Martin",
+          "votes": 179
+        },
+        {
+          "name_original": "Jessica Gould-Winders",
+          "votes": 33
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 218,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2026-05-11",
+      "office_original": "Planning Board (5 year term)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark E. Johnson",
+          "votes": 193
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boylston2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boylston2026.pdf",
+  "ballots_cast": 215,
+  "ballots_cast_source": "derived_from_contests"
+}

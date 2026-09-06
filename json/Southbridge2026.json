@@ -1,0 +1,55 @@
+{
+  "document": {
+    "heading_verbatim": "Southbridge, MA — Town Election, Tuesday June 9, 2026",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual town election with routine municipal offices",
+    "date_verbatim": "Tuesday June 9, 2026",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 1,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Southbridge",
+      "date": "2026-06-09",
+      "office_original": "Town Council (Councilor-At-Large)",
+      "district_original": "Town-wide",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shelley Klein",
+          "votes": 1429
+        },
+        {
+          "name_original": "Kathi Grenier",
+          "votes": 1276
+        },
+        {
+          "name_original": "Gus Steeves",
+          "votes": 1248
+        },
+        {
+          "name_original": "George Chenier",
+          "votes": 482
+        },
+        {
+          "name_original": "Joseph Daou",
+          "votes": 411
+        },
+        {
+          "name_original": "Ariel Ortiz",
+          "votes": 407
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Southbridge2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

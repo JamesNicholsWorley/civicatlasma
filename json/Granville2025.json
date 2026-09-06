@@ -1,0 +1,182 @@
+{
+  "elections": [
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard N. Pierce",
+          "votes": 60
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Selectboard Representative",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott Joseph Bergeron",
+          "votes": 55
+        },
+        {
+          "name_original": "Tony Novak",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Assessor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Keith Falcetti",
+          "votes": 47
+        },
+        {
+          "name_original": "James Signorelli",
+          "votes": 6
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura K. Bauver",
+          "votes": 53
+        },
+        {
+          "name_original": "James Signorelli",
+          "votes": 4
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Adrian Berndt",
+          "votes": 7
+        },
+        {
+          "name_original": "Ron Deedy",
+          "votes": 7
+        },
+        {
+          "name_original": "James Signorelli",
+          "votes": 11
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert E. Gleason",
+          "votes": 62
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Granville",
+      "date": "2025-04-07",
+      "office_original": "Constable",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin C. Stromgren",
+          "votes": 63
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Granville2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Granville2025.pdf",
+  "ballots_cast": 63,
+  "ballots_cast_source": "derived_from_contests"
+}

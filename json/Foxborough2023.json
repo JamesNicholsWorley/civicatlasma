@@ -1,0 +1,232 @@
+{
+  "elections": [
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "SELECTMAN FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephanie A. McGowan",
+          "votes": 262
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "ASSESSOR FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel A. Smith",
+          "votes": 267
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "SCHOOL COMMITTEE MEMBER FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michelle D. Thackston",
+          "votes": 282
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 36,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "WATER & SEWER COMMISSIONER FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard M. Pacella, Jr.",
+          "votes": 266
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 52,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "BOARD OF HEALTH MEMBER FOR THREE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robin L. Chapell",
+          "votes": 269
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 52,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "BOYDEN LIBRARY TRUSTEE FOR THREE YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joyce Parlapiano",
+          "votes": 261
+        },
+        {
+          "name_original": "Kevin F. Penders",
+          "votes": 265
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 115,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "PLANNING BOARD MEMBER FOR THREE YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey C. Peterson",
+          "votes": 262
+        },
+        {
+          "name_original": "Gary E. Whitehouse",
+          "votes": 251
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 125,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": null,
+      "date": "2023-05-01",
+      "office_original": "HOUSING AUTHORITY MEMBER FOR FIVE YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy L. D'Uva",
+          "votes": 268
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 51,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Foxborough2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Foxborough2023.pdf",
+  "ballots_cast": 324,
+  "ballots_cast_source": "derived_from_contests"
+}

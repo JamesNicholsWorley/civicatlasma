@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Harvard",
+      "date": "2021-05-18",
+      "office_original": "MODERATOR (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William K. Barton",
+          "votes": 862
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 160,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2021-05-18",
+      "office_original": "SELECT BOARD (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard S. Cabelus",
+          "votes": 267
+        },
+        {
+          "name_original": "Michael Maglothin",
+          "votes": 89
+        },
+        {
+          "name_original": "Erin Mc Bee",
+          "votes": 665
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2021-05-18",
+      "office_original": "SCHOOL COMMITTEE (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sharlene R. Cronin",
+          "votes": 795
+        },
+        {
+          "name_original": "Shannon C. Molloy",
+          "votes": 787
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 473,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2021-05-18",
+      "office_original": "LIBRARY TRUSTEE (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Davida J. Bagatelle",
+          "votes": 821
+        },
+        {
+          "name_original": "Jennifer A. Manell",
+          "votes": 832
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 402,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Harvard",
+      "date": "2021-05-18",
+      "office_original": "WARNER FREE (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William J. Salter",
+          "votes": 4
+        },
+        {
+          "name_original": "Stephen A. Peisch",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1981,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 73,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Harvard2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harvard2021.pdf",
+  "ballots_cast": 1030,
+  "ballots_cast_source": "derived_from_contests"
+}

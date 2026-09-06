@@ -1,0 +1,210 @@
+{
+  "elections": [
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Board of Assessors (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas J. Martiska",
+          "votes": 660
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 182,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Board of Assessors (2 years of unexpired term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas J. LaRoche",
+          "votes": 643
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 199,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Cemetery Commission (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Donald Chapin Parker",
+          "votes": 671
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 171,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Board of Health (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kristen Mathieu Gonzalez",
+          "votes": 636
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 206,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Library Trustees (3 year term - vote for two)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Azucena S. Filsinger",
+          "votes": 647
+        },
+        {
+          "name_original": "Jennifer Brennan",
+          "votes": 15
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1022,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Moderator (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly Ann Kohler",
+          "votes": 629
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 213,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Parks & Recreation Commission (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric John Hoffses",
+          "votes": 654
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 188,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Planning Board (5 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica L. Bourque",
+          "votes": 626
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 216,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Boylston",
+      "date": "2025-05-12",
+      "office_original": "Board of Selectmen (3 year term)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David J. Marzo",
+          "votes": 660
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 182,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Boylston2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boylston2025.pdf",
+  "ballots_cast": 842,
+  "ballots_cast_source": "derived_from_contests"
+}

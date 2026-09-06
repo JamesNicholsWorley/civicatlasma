@@ -1,0 +1,200 @@
+Election Turnout Precinct 1 Precinct 2 Precinct 3 Precinct 3A Total
+Groton Registered Voters (April 11, 2023) 2905 2858 2757 207 8727
+May 23, 2023 Voter Turnout 279 183 254 31 747
+Turnout  % 9.60% 6.40% 9.21% 14.98% 8.56%
+Office/Candidate Precinct 1 Precinct 2 Precinct 3 Precinct 3A Total
+Board of Assessors Vote for One Three Year Term
+Garret C. Boles, Candidate for Re-election 218 143 186 29 576
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 22 4
+Steve White 1 1
+Eric Garger 2 2
+Robert Malerbi 1 1
+Joe Twomey 1 1
+Blank 57 37 66 2 162
+Total 279 183 254 31 747
+Board of Health Vote for One Three Year Term
+Evan A. Thackaberry, Candidate for Re-election 218 139 195 26 578
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 22 4
+Gene Guttromson 1 1
+Blank 61 41 57 5 164
+Total 279 183 254 31 747
+Select Board Vote for Two Three Year Term
+Alison S. Manugian, Candidate for Re-election 207 103 164 25 499
+Rebecca H. Pine, Candidate for Re-election 189 107 185 21 502
+Guy Alberghini 76 65 64 10 215
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 12 30 19 1 62
+Brian Mahony 1 1
+Brian Murphy 1 1
+Paul MacMillan 2 2
+Josh Degen 1 1
+Gail Chalmers 1 1
+Blank 74 61 70 5 210
+Total 558 366 508 62 1494
+Commissioner of Trust Funds Vote for One Three Year Term
+Martha R. McLure, Candidate for Re-election 227 142 198 27 594
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 22 4
+Blank 52 39 54 4 149
+Total 279 183 254 31 747
+Town of Groton, MA
+Annual Town Election:  May 23, 2023
+UPDATED RESULTS: MAY 24, 2023
+1 of 4
+
+ May 23, 2023 Annual Town Election
+Updated Results - May 24, 2023
+Office/Candidate Precinct 1 Precinct 2 Precinct 3 Precinct 3A Total
+Groton Electric Light Commission Vote for One Three Year Term
+Eric S. Fisher, Candidate for Re-election 226 142 202 24 594
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 22 4
+Blank 53 39 50 7 149
+Total 279 183 254 31 747
+Park Commission - 3 Year Term Vote for Two Three Year Term
+Mary A. Jennings 222 128 185 20 555
+Write - In (scatterings) 0 0 0 0 0
+Jeffrey Ohringer - (accepted write-in nomination) 20 16 29 1 66
+Brendan Mahoney 23 5
+Bob Hargraves 1 1
+Mark Jarvis 2 9 11 1 23
+Don Black 11 2
+J. Michael Raftery 1 1
+Jon Strauss 2 2
+Gail Chalmers 1 1
+Phil Francisco 1 1
+Guy Alberghini 1 1
+Barbara Shea 1 1
+Wendy Good 1 1
+Kate McEleney 1 1
+Ken Bushnell 1 1
+Greg Baker 1 1
+SC Flynn 1 1
+Josh Degen 1 1
+Tom Delaney 1 1
+Sheila Flynn 1 1
+Kelli Walsh 1 1
+Nadia Madden 4 4
+Sue Adams 1 1
+Anna Eliot 1 1
+Alex Bonaventura 1 1
+Blank 305 208 270 36 819
+Total 558 366 508 62 1494
+Park Commission - 2 Year Term Vote for One Two Year Term
+Gail M. Chalmers, Candidate for Re-election 219 143 182 27 571
+Write - In (scatterings) 0 0 0 0 0
+Mark Jarvis 134 8
+Jeffrey Ohringer 311 5
+Brendan Mahoney 12 3
+Nick Longo 1 1
+Robert DeGroot 1 1
+Ken Bushnell 1 1
+Josh Degen 1 1
+Blank 56 35 62 3 156
+Total 279 183 254 31 747
+2 of 4
+
+ May 23, 2023 Annual Town Election
+Updated Results - May 24, 2023
+Office/Candidate Precinct 1 Precinct 2 Precinct 3 Precinct 3A Total
+Planning Board Vote for Two Three Year Term
+Scott O. Wilson, Candidate for Re-election 204 117 185 24 530
+Philip M. Francisco 186 127 170 25 508
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 33 6
+Kurt Benedict 1 1
+Annika Nielson Ripps 1 1
+Blank 167 119 149 13 448
+Total 558 366 508 62 1494
+Sewer Commission Vote for One Three Year Term
+Write - In (scatterings) 0 0 0 0 0
+Thomas Orcutt - (accepted write-in nomination) 342 9
+Gene Guttromson 1 1
+Brad Picrantozzi 1 1
+Matt Pisani 1 1
+Brendan Mahoney 13 4
+Devin Patel 1 1
+Sean Metras 2 2
+Todd McGillivray 1 1
+Jade Cloutier 1 1
+Barbara Shea 1 1
+Donald Black 1 1
+Robert DeGrout 1 1
+Rebecca Pine 1 1
+Carl Flowers 1 1
+Guy Alberghini 4 4
+Rob Flynn 1 1
+Neil Colecchio 1 1
+Blank 270 174 242 29 715
+Total 279 183 254 31 747
+Trustees of the Groton Public Library - 3 Year Term Vote for Two Three Year Term
+David J. Zeiler, Candidate for Re-election 206 133 197 25 561
+Kathryn E. Bettencourt, Candidate for Re-election 217 143 199 26 585
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 23 5
+Jorge Skrowanak 1 1
+Blank 135 88 108 11 342
+Total 558 366 508 62 1494
+Trustees of the Groton Pulic Library - 1 Year Term Vote for One O ne Year Term
+Helena C. Altsman 217 142 200 26 585
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 23 5
+Jorge Skovronik 1 1
+Blank 62 39 50 5 156
+Total 279 183 254 31 747
+3 of 4
+
+ May 23, 2023 Annual Town Election
+Updated Results - May 24, 2023
+Office/Candidate Precinct 1 Precinct 2 Precinct 3 Precinct 3A Total
+Water Commission Vote for One Three Year Term
+James L. Gmeiner, Candidate for Re-election 222 142 199 27 590
+Write - In (scatterings) 0 0 0 0 0
+Brendan Mahoney 23 5
+Blank 57 39 52 4 152
+Total 279 183 254 31 747
+Groton-Dunstable Regional School Committee Vote for One Three Ye ar Term
+Catherine N. Awa 214 141 200 23 578
+Write - In (scatterings) 0 0 0 0 0
+John Giger 16 7
+Petronella Guttromson 21 3
+Corey Brock 3 3
+Brendan Mahoney 35 8
+Michelle Cain 1 1
+Paul MacMillan 1 1
+Ellen Wetmore 1 1
+Britta Ropa 1 1
+Vic Nyryan 1 1
+Carl Flowers 1 1
+Blank 64 28 44 6 142
+Total 279 183 254 31 747
+Groton Housing Authority Vote for One Five Year Term
+Write - In (scatterings) 0 0 0 0 0
+Kevin O'Malley 2 2
+Lorna Novak 1 1
+Brendan Mahoney 23 5
+Elizabeth Mcauley 1 1
+Anna Eliot 511 7
+Amy Degen - (considering write-in nomination) 35 8
+Mike Weinberg 2 2
+Tara Slysz 1 1
+Cornelius Wells 1 1
+Robert DeGroot 1 1
+Carolyn Perkins 1 1
+Kurt Benedict 1 1
+Alan Hoch 1 1
+Barbara Shea 1 1
+Wendy Good 1 1
+Brad Cain 1 1
+Guy Alberghini 1 1
+Jeffrey Wallens 1 1
+Andrew Scott 1 1
+Mike Bouchard 1 1
+Aaron Green 1 1
+Alex Bonaventura 1 1
+Neil Cohecchio 1 1
+Blank 269 173 233 30 705
+Total 279 183 254 31 747
+4 of 4

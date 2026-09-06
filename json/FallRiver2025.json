@@ -1,0 +1,166 @@
+{
+  "elections": [
+    {
+      "municipality": "Fall River",
+      "date": "2025-11-04",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "PAUL E. COOGAN",
+          "votes": 5841
+        },
+        {
+          "name_original": "GABRIEL BOOMER AMARAL",
+          "votes": 5616
+        },
+        {
+          "name_original": "Others",
+          "votes": 68,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fall River",
+      "date": "2025-11-04",
+      "office_original": "CITY COUNCIL",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "CLIFF A. PONTE",
+          "votes": 5856
+        },
+        {
+          "name_original": "MICHAEL G. CANUEL",
+          "votes": 5729
+        },
+        {
+          "name_original": "SHAWN E. CADIME",
+          "votes": 5385
+        },
+        {
+          "name_original": "ANDREW J. RAPOSO",
+          "votes": 5288
+        },
+        {
+          "name_original": "LINDA M. PEREIRA",
+          "votes": 4951
+        },
+        {
+          "name_original": "CHRISTOPHER MICHAEL PECKHAM",
+          "votes": 4654
+        },
+        {
+          "name_original": "PAUL B. HART",
+          "votes": 4558
+        },
+        {
+          "name_original": "JOSEPH (JOE) D. CAMARA",
+          "votes": 4478
+        },
+        {
+          "name_original": "MICHELLE M. DIONNE",
+          "votes": 4381
+        },
+        {
+          "name_original": "BRADFORD (BRAD) L. KILBY",
+          "votes": 4314
+        },
+        {
+          "name_original": "RICKY T. TITH",
+          "votes": 3945
+        },
+        {
+          "name_original": "NATHAN SILVIA",
+          "votes": 3780
+        },
+        {
+          "name_original": "JONATHAN D. LIMA",
+          "votes": 3676
+        },
+        {
+          "name_original": "LOUIS ALVES MELIM",
+          "votes": 3110
+        },
+        {
+          "name_original": "Others",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Fall River",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "KEVIN MICHAEL AGUIAR",
+          "votes": 6335
+        },
+        {
+          "name_original": "THOMAS KHOURY",
+          "votes": 5628
+        },
+        {
+          "name_original": "ANA CRISTINA RILEY",
+          "votes": 5277
+        },
+        {
+          "name_original": "COLLIN R. DIAS",
+          "votes": 4905
+        },
+        {
+          "name_original": "SHANELL JOY STEWART",
+          "votes": 4375
+        },
+        {
+          "name_original": "EMANUEL MONIZ",
+          "votes": 3645
+        },
+        {
+          "name_original": "JOHN SYLVIA",
+          "votes": 3411
+        },
+        {
+          "name_original": "MARC NATHANIEL MOLLICONE",
+          "votes": 3006
+        },
+        {
+          "name_original": "RANDY SCOTT DUDEK",
+          "votes": 2087
+        },
+        {
+          "name_original": "SHIV THAKUR",
+          "votes": 1386
+        },
+        {
+          "name_original": "Others",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "FallRiver2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/FallRiver2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

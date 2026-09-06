@@ -1,0 +1,139 @@
+{
+  "elections": [
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "Moderator, one-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John J. McNinch",
+          "votes": 497
+        },
+        {
+          "name_original": "Sonya Bykofsky",
+          "votes": 111
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "Selectman, three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William David Roche Jr",
+          "votes": 502
+        },
+        {
+          "name_original": "Max Scherff",
+          "votes": 363
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "Board of Health, three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John R. Kearns",
+          "votes": 526
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "Assessor, three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Wayne W. Lemanski",
+          "votes": 521
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "School Committee, two-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly A. Winger",
+          "votes": 187
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "School Committee, three-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Dupont",
+          "votes": 296
+        },
+        {
+          "name_original": "Kim E. Graham",
+          "votes": 269
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Lenox",
+      "date": "2023-05-09",
+      "office_original": "Planning Board, five-year term",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas G. Delasco",
+          "votes": 529
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Lenox2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

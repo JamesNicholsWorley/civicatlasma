@@ -1,0 +1,289 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "April 24, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "The document heading states 'ANNUAL TOWN ELECTION' and refers to 'The Annual Town Election was held at Beaver Brook Elementary School'",
+    "offices_on_ballot": 11,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "SELECTMAN",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy M. Chapin",
+          "votes": 626
+        },
+        {
+          "name_original": "Alexander S. Hagerty",
+          "votes": 679
+        },
+        {
+          "name_original": "Christine T. Henrikson",
+          "votes": 601
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 321,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann C. Kent",
+          "votes": 788
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 326,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "BOARD OF PUBLIC HEALTH",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher G. Schultz",
+          "votes": 681
+        },
+        {
+          "name_original": "Melissa J. Pond",
+          "votes": 570
+        },
+        {
+          "name_original": "Kevin J. Whalen",
+          "votes": 583
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 395,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Henry W. DiCarlo",
+          "votes": 799
+        },
+        {
+          "name_original": "Gail F. Bergin",
+          "votes": 785
+        },
+        {
+          "name_original": "Mary L. Gillis",
+          "votes": 818
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 943,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie J. Groom",
+          "votes": 740
+        },
+        {
+          "name_original": "Heidi M. Hernandez",
+          "votes": 853
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 636,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "SEWER COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Eric H. Henrikson",
+          "votes": 819
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 293,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "WATER COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard D. Muncey",
+          "votes": 797
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 317,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey M. Rangel",
+          "votes": 817
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 298,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Abington",
+      "date": "2021-04-24",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melodie S. Olson",
+          "votes": 835
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 279,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Abington2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Abington2021.pdf",
+  "ballots_cast": 1116,
+  "ballots_cast_source": "derived_from_contests"
+}

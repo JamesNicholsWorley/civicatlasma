@@ -1,0 +1,161 @@
+{
+  "elections": [
+    {
+      "municipality": "City of Medford",
+      "date": "2023-11-07",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CARAVIELLO",
+          "votes": 5710
+        },
+        {
+          "name_original": "LUNGO-KOEHN",
+          "votes": 7399
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 211,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 51,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Medford",
+      "date": "2023-11-07",
+      "office_original": "CITY COUNCIL",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 7,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "BEARS",
+          "votes": 7592
+        },
+        {
+          "name_original": "CALLAHAN",
+          "votes": 6304
+        },
+        {
+          "name_original": "CLERKIN",
+          "votes": 2485
+        },
+        {
+          "name_original": "COLLINS",
+          "votes": 7062
+        },
+        {
+          "name_original": "GLIONNA",
+          "votes": 3255
+        },
+        {
+          "name_original": "KAYELAZZARO",
+          "votes": 6670
+        },
+        {
+          "name_original": "LEMING",
+          "votes": 5567
+        },
+        {
+          "name_original": "PETRELLA",
+          "votes": 3852
+        },
+        {
+          "name_original": "SCARPELLI",
+          "votes": 6429
+        },
+        {
+          "name_original": "TORRESROTH",
+          "votes": 5019
+        },
+        {
+          "name_original": "TRINGALI",
+          "votes": 4783
+        },
+        {
+          "name_original": "TSENG",
+          "votes": 7369
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27341,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 122,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Medford",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "BRANLEY",
+          "votes": 5859
+        },
+        {
+          "name_original": "GRAHAM",
+          "votes": 7919
+        },
+        {
+          "name_original": "INTOPPA",
+          "votes": 5666
+        },
+        {
+          "name_original": "MCLAUGHLIN",
+          "votes": 6571
+        },
+        {
+          "name_original": "OLAPADE",
+          "votes": 6615
+        },
+        {
+          "name_original": "REINFELD",
+          "votes": 6866
+        },
+        {
+          "name_original": "RUSEAU",
+          "votes": 7244
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 33293,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 193,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Medford2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medford2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

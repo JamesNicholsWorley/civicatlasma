@@ -1,0 +1,353 @@
+{
+  "elections": [
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patrick Michael Keefe, Jr.",
+          "votes": 4932
+        },
+        {
+          "name_original": "Daniel Rizzo",
+          "votes": 4565
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 146,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor At Large",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marc Silvestri",
+          "votes": 3668
+        },
+        {
+          "name_original": "Anthony T. Zambuto",
+          "votes": 3484
+        },
+        {
+          "name_original": "Stephen Damiano Jr.",
+          "votes": 1620
+        },
+        {
+          "name_original": "Robert J. Haas III",
+          "votes": 3611
+        },
+        {
+          "name_original": "Juan Pablo Jaramillo",
+          "votes": 3183
+        },
+        {
+          "name_original": "Michelle Kelley",
+          "votes": 2774
+        },
+        {
+          "name_original": "Donald Martelli",
+          "votes": 1773
+        },
+        {
+          "name_original": "Anthony Parziale",
+          "votes": 2229
+        },
+        {
+          "name_original": "Alexander Rhalimi",
+          "votes": 2134
+        },
+        {
+          "name_original": "Wayne D. Rose",
+          "votes": 1320
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22463,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 1",
+      "district_original": "Ward 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joanne McKenna",
+          "votes": 960
+        },
+        {
+          "name_original": "John Joseph Stamatopoulos",
+          "votes": 402
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 143,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 2",
+      "district_original": "Ward 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ira Novoselsky",
+          "votes": 389
+        },
+        {
+          "name_original": "Danielle Osterman",
+          "votes": 340
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 71,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 3",
+      "district_original": "Ward 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Saverio Cogliandro",
+          "votes": 967
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 537,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 4",
+      "district_original": "Ward 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul Argenzio",
+          "votes": 1140
+        },
+        {
+          "name_original": "Gregory Murray",
+          "votes": 456
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 231,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 5",
+      "district_original": "Ward 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John F. Powers",
+          "votes": 707
+        },
+        {
+          "name_original": "Angela M. Guarino-Sawaya",
+          "votes": 1108
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 154,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward 6",
+      "district_original": "Ward 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Giannino",
+          "votes": 1427
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 564,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "num_winners": 6,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey Bronsdon-Rizzo",
+          "votes": 3440
+        },
+        {
+          "name_original": "John F. Kingston",
+          "votes": 3688
+        },
+        {
+          "name_original": "Aisha Milbury-Ellis",
+          "votes": 2813
+        },
+        {
+          "name_original": "Jacqueline Monterroso",
+          "votes": 2343
+        },
+        {
+          "name_original": "Vanessa J. Biasella",
+          "votes": 2044
+        },
+        {
+          "name_original": "Anthony L. Caggiano",
+          "votes": 2451
+        },
+        {
+          "name_original": "Ralph Decicco, Jr.",
+          "votes": 2079
+        },
+        {
+          "name_original": "Riaz Garcia",
+          "votes": 1747
+        },
+        {
+          "name_original": "Kathryn Schulte Grahame",
+          "votes": 1520
+        },
+        {
+          "name_original": "Anthony Mattera",
+          "votes": 2337
+        },
+        {
+          "name_original": "Frederick Anthony Sannella",
+          "votes": 2304
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 31153,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Revere2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Revere2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

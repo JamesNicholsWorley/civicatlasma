@@ -1,0 +1,222 @@
+{
+  "elections": [
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "SELECTMEN",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kilcoyne",
+          "votes": 1220
+        },
+        {
+          "name_original": "Pecevich",
+          "votes": 484
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 135,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "ASSESSOR 3 YRS.",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brugnoli",
+          "votes": 1302
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 537,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "ASSESSOR 1 YR.",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Giaquinto",
+          "votes": 1269
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 570,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Macdonald",
+          "votes": 1405
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 434,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "BPW",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cusick",
+          "votes": 1287
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 552,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "O'Donnell",
+          "votes": 1311
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 528,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Campbell",
+          "votes": 1210
+        },
+        {
+          "name_original": "Costello",
+          "votes": 1329
+        },
+        {
+          "name_original": "Kelley",
+          "votes": 276
+        },
+        {
+          "name_original": "McKinnon",
+          "votes": 524
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 339,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "TOWN CLERK",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Casper",
+          "votes": 1400
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marshfield",
+      "date": "2021-05-01",
+      "office_original": "TRUSTEE OF VETERANS MEMORIALS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mandly",
+          "votes": 1389
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 450,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marshfield2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Marshfield2021.pdf",
+  "ballots_cast": 1839,
+  "ballots_cast_source": "derived_from_contests"
+}

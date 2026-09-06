@@ -1,0 +1,174 @@
+{
+  "elections": [
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "Council (3 yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.93,
+      "candidates": [
+        {
+          "name_original": "David Adams",
+          "votes": 651
+        },
+        {
+          "name_original": "Mike Montigny",
+          "votes": 539
+        },
+        {
+          "name_original": "Gil Provost",
+          "votes": 490
+        },
+        {
+          "name_original": "Jasmin Rivas",
+          "votes": 416
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "School Committee (3 yrs)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Maria Torres",
+          "votes": 546
+        },
+        {
+          "name_original": "Norma Tyznik",
+          "votes": 402
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "Bay Path School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kirsten Congdon",
+          "votes": 612
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "School Committee (1 yr) - WRITE-IN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Stephanie Rivers",
+          "votes": 168
+        },
+        {
+          "name_original": "Jacqueline Fernandez",
+          "votes": 63
+        },
+        {
+          "name_original": "Others",
+          "votes": 42,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "Assessors (3 yrs) - WRITE-IN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Priscilla Arpin",
+          "votes": 22
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "Housing Authority (5 yrs) - WRITE-IN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Diane Servant",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Southbridge",
+      "date": "2025-06-10",
+      "office_original": "Redevelopment Authority (5 yrs) - WRITE-IN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Maria Torres",
+          "votes": 14
+        },
+        {
+          "name_original": "Others",
+          "votes": 59,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2025-06-10",
+      "detail": "https://www.ci.southbridge.ma.us/documentcenter/view/4076",
+      "quote": "***THIS IS THE LAST DAY TO REGISTER TO VOTE IN THE TOWN ELECTION ON JUNE 10, 2025",
+      "note": "Town Clerk's own 2025 Political Calendar (scanned PDF, read at 200 dpi; the same sheet heads BALLOT...TOWN ELECTION...TUESDAY, JUNE 10, 2025 and lists ELECTION: TUESDAY, JUNE 10, 2025). Independently backed by the town's Home Rule Charter at DocumentCenter/View/5012 -- Revised by Special Legislation and Approved by Town Vote / June 10, 2025 -- and by the Stonebridge Press of June 19-20 2025 reporting the election as already past. The MMA calendar entry of June 24 is wrong; the charter sets the election on the second Tuesday in June, which in 2025 was June 10."
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

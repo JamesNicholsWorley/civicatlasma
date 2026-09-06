@@ -1,0 +1,249 @@
+{
+  "document": {
+    "heading_verbatim": "New Braintree, Massachusetts -- Annual Town Election, Monday, May 3, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Monday, May 3, 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 9,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Seven of the nine offices were uncontested: a single name, elected, with the balance blank."
+  },
+  "elections": [
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Selectboard",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Joseph Chenevert",
+          "votes": 55
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Assessor",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Pamela Dunigan",
+          "votes": 55
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Scott Metcalf",
+          "votes": 57
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "John Thomasian",
+          "votes": 46
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Edward Reed",
+          "votes": 58
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Planning Board",
+      "district_original": "four years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Jody Kablack",
+          "votes": 57
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Planning Board",
+      "district_original": "five years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Genevieve Stillman",
+          "votes": 46
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Cemetery Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kelly Hitt",
+          "votes": 26
+        },
+        {
+          "name_original": "Gregory Tyler",
+          "votes": 1
+        },
+        {
+          "name_original": "Thomas Clough",
+          "votes": 1
+        },
+        {
+          "name_original": "Les Miller",
+          "votes": 1
+        },
+        {
+          "name_original": "Julie Rousseau",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "New Braintree",
+      "date": "2021-05-03",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.99,
+      "candidates": [
+        {
+          "name_original": "Judith Webb",
+          "votes": 52
+        },
+        {
+          "name_original": "Christine Maio",
+          "votes": 39
+        },
+        {
+          "name_original": "Kelly Hitt",
+          "votes": 8
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NewBraintree2021",
+  "_source_pdf": "",
+  "ballots_cast": 60,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,326 @@
+{
+  "document": {
+    "heading_verbatim": "TOWN OF HEATH\nCOMMONWEALTH OF MASSACHUSETTS\nFranklin, SS\nANNUAL TOWN ELECTION\nMay 10, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "May 10, 2024",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 11,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Select Board: 3 year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Emmet",
+          "votes": 122
+        },
+        {
+          "name_original": "Michael Smith",
+          "votes": 108
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Town Clerk: 3 year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary Sumner",
+          "votes": 222
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Assessor: 3-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robyn Provost-Carlson",
+          "votes": 14
+        },
+        {
+          "name_original": "Karen Brooks",
+          "votes": 2
+        },
+        {
+          "name_original": "Dena Briggs",
+          "votes": 1
+        },
+        {
+          "name_original": "William Latrell",
+          "votes": 1
+        },
+        {
+          "name_original": "Samuel Lane",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Wendy Whalen",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 209,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Finance Committee: 3-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Edwin Wolf",
+          "votes": 172
+        },
+        {
+          "name_original": "Robert McGahan",
+          "votes": 148
+        },
+        {
+          "name_original": "Dena Briggs",
+          "votes": 67
+        },
+        {
+          "name_original": "Karen Brooks",
+          "votes": 57
+        },
+        {
+          "name_original": "Jean Gran",
+          "votes": 3
+        },
+        {
+          "name_original": "Michael Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Wendy Whalen",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 241,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Planning Board: 5-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Fontes",
+          "votes": 202
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Library Trustee: 3-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rebecca Johnston",
+          "votes": 201
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "School Committee: 3 year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Budge Litchfield",
+          "votes": 188
+        },
+        {
+          "name_original": "Tucker Jenkins",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 40,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "School Committee: 1 year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tucker Jenkins",
+          "votes": 49
+        },
+        {
+          "name_original": "Tucker Litchfield",
+          "votes": 1
+        },
+        {
+          "name_original": "Susan Lively",
+          "votes": 1
+        },
+        {
+          "name_original": "Barbara Rode",
+          "votes": 1
+        },
+        {
+          "name_original": "Michael Smith",
+          "votes": 1
+        },
+        {
+          "name_original": "Doug Wilkins",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 176,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Constable: 3-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven Thane",
+          "votes": 203
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Heath",
+      "date": "2024-05-10",
+      "office_original": "Municipal Light Board: 3-year term",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Arthur Schwenger",
+          "votes": 204
+        },
+        {
+          "name_original": "Edwin Wolf",
+          "votes": 176
+        },
+        {
+          "name_original": "Dena Briggs",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Heath2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Heath2024.pdf",
+  "ballots_cast": 230,
+  "ballots_cast_source": "derived_from_contests"
+}

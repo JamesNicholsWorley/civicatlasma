@@ -1,0 +1,322 @@
+{
+  "elections": [
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "MAYOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NEIL P. PERRY",
+          "votes": 3378
+        },
+        {
+          "name_original": "Others",
+          "votes": 120,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 575,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR-AT-LARGE",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JOYCE C. CAMPAGNONE",
+          "votes": 1453
+        },
+        {
+          "name_original": "JESSICA L. FINOCCHIARO",
+          "votes": 2471
+        },
+        {
+          "name_original": "NICHOLAS DIZOGLIO",
+          "votes": 2120
+        },
+        {
+          "name_original": "DAVID D.J. BEAUREGARD, JR.",
+          "votes": 2548
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3602,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "WEST DISTRICT COUNCILLOR",
+      "district_original": "PRECINCTS 4,5,8,11",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALLISON SAFFIE",
+          "votes": 798
+        },
+        {
+          "name_original": "MICHAEL DOWNS",
+          "votes": 747
+        },
+        {
+          "name_original": "MIKE SIMARD",
+          "votes": 1122
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 672,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "CENTRAL DISTRICT COUNCILLOR",
+      "district_original": "PRECINCTS 1,2,6,10",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JAMES McCARTY",
+          "votes": 694
+        },
+        {
+          "name_original": "JOEL P. FARETRA",
+          "votes": 632
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 732,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "EAST DISTRICT COUNCILLOR",
+      "district_original": "PRECINCTS 3,7,9,12",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEVEN J. SABA",
+          "votes": 943
+        },
+        {
+          "name_original": "EUNICE DELICE ZEIGLER",
+          "votes": 868
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 907,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 6,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "LAURIE J. KEEGAN",
+          "votes": 1980
+        },
+        {
+          "name_original": "RYAN ROBERT DIZOGLIO",
+          "votes": 2091
+        },
+        {
+          "name_original": "JANA ZANNI PESCE",
+          "votes": 1842
+        },
+        {
+          "name_original": "SUSAN M. NICHOLSON",
+          "votes": 2275
+        },
+        {
+          "name_original": "RACHAEL A. BANKS",
+          "votes": 1816
+        },
+        {
+          "name_original": "LOUANN ALANA SANTOS",
+          "votes": 1903
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12479,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "GREATER LAWRENCE REGIONAL SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "FRANCISCO SURILLO",
+          "votes": 1578
+        },
+        {
+          "name_original": "ANNGYBEL MORETA",
+          "votes": 1304
+        },
+        {
+          "name_original": "THOMAS R. HATEM",
+          "votes": 2068
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3185,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "METHUEN HOUSING AUTHORITY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NANCY M. MARCOUX",
+          "votes": 2673
+        },
+        {
+          "name_original": "NANCY REARDON",
+          "votes": 115
+        },
+        {
+          "name_original": "BOB LEBLANC",
+          "votes": 15
+        },
+        {
+          "name_original": "Others",
+          "votes": 126,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5217,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Methuen",
+      "date": "2021-11-02",
+      "office_original": "NEVINS MEMORIAL LIBRARY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "CHRISTINA TOUMA-CONWAY",
+          "votes": 2643
+        },
+        {
+          "name_original": "MARYBETH DONOVAN-GRASSI",
+          "votes": 2515
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2959,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Methuen2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Methuen2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,221 @@
+{
+  "document": {
+    "heading_verbatim": "Annual Town Election Results - May 10, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election Results",
+    "date_verbatim": "May 10, 2021",
+    "offices_on_ballot": 8,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "BOARD OF SELECTMEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janet Sadlo",
+          "votes": 107
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "CEMETERY COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janet Boody",
+          "votes": 104
+        },
+        {
+          "name_original": "Gary Boody",
+          "votes": 103
+        },
+        {
+          "name_original": "Ben Bederson",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "CONSTABLE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jordan Koch",
+          "votes": 109
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "FINANCE COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Timothy Crane",
+          "votes": 45
+        },
+        {
+          "name_original": "Holly Higinbotham",
+          "votes": 77
+        },
+        {
+          "name_original": "Michael MacDonald",
+          "votes": 108
+        },
+        {
+          "name_original": "W. Scott Rogers",
+          "votes": 104
+        },
+        {
+          "name_original": "Charles Sturtevant",
+          "votes": 2
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "LIBRARY TRUSTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sandra Gwen Kalmus",
+          "votes": 111
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark Efinger",
+          "votes": 112
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bjorn Sternerup",
+          "votes": 8
+        },
+        {
+          "name_original": "Charles Sturtevant",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Windsor",
+      "date": "2021-05-10",
+      "office_original": "TREE WARDEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mark J. Hauge",
+          "votes": 113
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Windsor2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Windsor2021.pdf",
+  "ballots_cast": 119,
+  "ballots_cast_source": "derived_from_contests"
+}

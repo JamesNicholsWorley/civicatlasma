@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "SELECTMAN (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Randy L Parker",
+          "votes": 547
+        },
+        {
+          "name_original": "Diane Lopes Flaherty",
+          "votes": 258
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "ASSESSOR (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George TJ Walker",
+          "votes": 658
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 174,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "BOARD OF HEALTH (1)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John B Howard MD",
+          "votes": 684
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 148,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "PLANNING BOARD (3)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Henry",
+          "votes": 654
+        },
+        {
+          "name_original": "Alanna L Nelson",
+          "votes": 620
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 392,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "MARION SCHOOL COMMITTEE 3 Years (2)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "April Gale Nye",
+          "votes": 560
+        },
+        {
+          "name_original": "Michelle L Ouelette Smith",
+          "votes": 413
+        },
+        {
+          "name_original": "Kristina Schmid-Callina",
+          "votes": 389
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 308,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brad Alan Gordon",
+          "votes": 711
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 124,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2024-05-17",
+      "office_original": "OPEN SPACE ACQUISITION COMMISSION (3 year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tom Friedman",
+          "votes": 14
+        },
+        {
+          "name_original": "Shaun Walsh",
+          "votes": 4
+        },
+        {
+          "name_original": "Others",
+          "votes": 33,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 787,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marion2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Marion2024.pdf",
+  "ballots_cast": 838,
+  "ballots_cast_source": "derived_from_contests"
+}

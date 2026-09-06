@@ -1,0 +1,132 @@
+{
+  "elections": [
+    {
+      "municipality": "Wilmington",
+      "date": "2024-04-27",
+      "office_original": "SELECTBOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lilia Maselli",
+          "votes": 1110
+        },
+        {
+          "name_original": "Robert Fasulo",
+          "votes": 64
+        },
+        {
+          "name_original": "Others",
+          "votes": 103,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2024-04-27",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David A. Ragsdale",
+          "votes": 1004
+        },
+        {
+          "name_original": "Nicholas Golden",
+          "votes": 998
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 599,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2024-04-27",
+      "office_original": "SHAWSHEEN VALLEY TECHNICAL HIGH SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles R. Fiore Jr.",
+          "votes": 1198
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilmington",
+      "date": "2024-04-27",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Richard Eaton",
+          "votes": 1222
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 75,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Wilmington2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2024.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2024-04-27",
+      "detail": "https://www.wilmingtonma.gov/sites/g/files/vyhlif5221/f/uploads/total_tally-_official_results_4.27.2024.v2_0.pdf",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

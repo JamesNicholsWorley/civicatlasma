@@ -1,0 +1,221 @@
+{
+  "elections": [
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lindsi Sekula",
+          "votes": 1968
+        },
+        {
+          "name_original": "Jason JT Tirrell",
+          "votes": 1504
+        },
+        {
+          "name_original": "Salem Derby",
+          "votes": 2332
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 43,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "DISTRICT 4 CITY COUNCILOR",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Peirent",
+          "votes": 533
+        },
+        {
+          "name_original": "Amanda C. Newton",
+          "votes": 573
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "DISTRICT 5 CITY COUNCILOR",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tamara L. Smith",
+          "votes": 762
+        },
+        {
+          "name_original": "Catherine Wauczinski",
+          "votes": 431
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "CITY COUNCILOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "KONI F. DENHAM",
+          "votes": 3729
+        },
+        {
+          "name_original": "JONATHAN M. SCHMIDT",
+          "votes": 3249
+        },
+        {
+          "name_original": "KIAM JAMROG-McQUAID",
+          "votes": 2911
+        },
+        {
+          "name_original": "NATHAN MARKEE",
+          "votes": 2635
+        },
+        {
+          "name_original": "KARL PRAHL",
+          "votes": 1918
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "DISTRICT 1 CITY COUNCILOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "JAMES JP KWIECINSKI",
+          "votes": 790
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "DISTRICT 2 CITY COUNCILOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "FELICIA A. JADCZAK",
+          "votes": 651
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "DISTRICT 3 CITY COUNCILOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "THOMAS PEAKE",
+          "votes": 850
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Easthampton",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "MEGAN W. HARVEY",
+          "votes": 3071
+        },
+        {
+          "name_original": "LAURA N. SCOTT",
+          "votes": 2949
+        },
+        {
+          "name_original": "ERIC R. GUYETTE",
+          "votes": 2923
+        },
+        {
+          "name_original": "SAM HUNTER",
+          "votes": 2881
+        },
+        {
+          "name_original": "LINDA SUE MARKEE",
+          "votes": 2802
+        },
+        {
+          "name_original": "BONNIE LEE ATKINS",
+          "votes": 2613
+        },
+        {
+          "name_original": "ALLISON R. MALINOWSKI",
+          "votes": 2476
+        },
+        {
+          "name_original": "PAUL MARTIN McNEIL",
+          "votes": 2238
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Easthampton2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Easthampton2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

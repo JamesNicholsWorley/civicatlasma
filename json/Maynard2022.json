@@ -1,0 +1,147 @@
+{
+  "elections": [
+    {
+      "municipality": "Maynard",
+      "date": "2022-05-03",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        },
+        {
+          "name_original": "Christopher DiSilva",
+          "votes": 477
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2022-05-03",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Maro Hogan",
+          "votes": 440
+        },
+        {
+          "name_original": "Shaun Caissie",
+          "votes": 154
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2022-05-03",
+      "office_original": "BOARD OF LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 100,
+          "tally_row": true
+        },
+        {
+          "name_original": "Peter Reed",
+          "votes": 499
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2022-05-03",
+      "office_original": "HOUSING AUTHORITY 5 YEAR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 129,
+          "tally_row": true
+        },
+        {
+          "name_original": "Robert Subick",
+          "votes": 469
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Maynard",
+      "date": "2022-05-03",
+      "office_original": "HOUSING AUTHORITY 1 YEAR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 115,
+          "tally_row": true
+        },
+        {
+          "name_original": "Ellen Drago",
+          "votes": 485
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Maynard2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Maynard2022.pdf",
+  "ballots_cast": 602,
+  "ballots_cast_source": "derived_from_contests"
+}

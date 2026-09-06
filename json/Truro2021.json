@@ -1,0 +1,238 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "TUESDAY, JUNE 29, 2021",
+    "offices_on_ballot": 8,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
+  },
+  "elections": [
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "SELECT BOARD, Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kristen M. Reed",
+          "votes": 156
+        },
+        {
+          "name_original": "John R. Dundas",
+          "votes": 130
+        },
+        {
+          "name_original": "John Riemer",
+          "votes": 10
+        },
+        {
+          "name_original": "Karen Tosh",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "SCHOOL COMMITTEE, Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vida Rose Richter",
+          "votes": 151
+        },
+        {
+          "name_original": "Edwige M. Yingling",
+          "votes": 157
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 101,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "LIBRARY TRUSTEE, Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Keith Althaus",
+          "votes": 182
+        },
+        {
+          "name_original": "Kaitlin Mae Blehm",
+          "votes": 31
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "CEMETERY COMMISSION, Three Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert L.H. Masson",
+          "votes": 22
+        },
+        {
+          "name_original": "Peter Cook",
+          "votes": 16
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 162,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "CEMETERY COMMISSION, Two Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Holly Ballard Gardner",
+          "votes": 172
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "PLANNING BOARD, Five Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellery P. Althaus",
+          "votes": 161
+        },
+        {
+          "name_original": "Richard Evan Roberts",
+          "votes": 125
+        },
+        {
+          "name_original": "Peter Herridge",
+          "votes": 4
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2021-06-29",
+      "office_original": "HOUSING AUTHORITY, Five Years",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mara G. Glatzel",
+          "votes": 180
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Truro2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Truro2021.pdf",
+  "ballots_cast": 207,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,363 @@
+{
+  "elections": [
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR-AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Justine T. Huang",
+          "votes": 2799
+        },
+        {
+          "name_original": "Julia Camille Flaherty",
+          "votes": 3248
+        },
+        {
+          "name_original": "David M. Ringius, Jr.",
+          "votes": 2927
+        },
+        {
+          "name_original": "Ryan R. Sterling",
+          "votes": 3187
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 42,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3838,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "James M. Daiute",
+          "votes": 548
+        },
+        {
+          "name_original": "Robert Gray Cuddyer",
+          "votes": 433
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 46,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Joseph H. Reynolds",
+          "votes": 671
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 226,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Elizabeth Maglio",
+          "votes": 487
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 155,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Annmary Quilty",
+          "votes": 488
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 195,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Meredith Boericke",
+          "votes": 763
+        },
+        {
+          "name_original": "Robert Thaddeus Toma",
+          "votes": 229
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "COUNCILOR - DISTRICT 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Peter J. Morin",
+          "votes": 810
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 210,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Stacy Drake Donohoe",
+          "votes": 3138
+        },
+        {
+          "name_original": "Marc A. Kurzberg",
+          "votes": 3326
+        },
+        {
+          "name_original": "Kathleen Dryer Tuffy",
+          "votes": 3031
+        },
+        {
+          "name_original": "Roger Lee",
+          "votes": 2364
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4141,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "TRUSTEE - THAYER LIBRARY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Jeffrey J. Kunz",
+          "votes": 3491
+        },
+        {
+          "name_original": "Valerie Smith Sheehy",
+          "votes": 3444
+        },
+        {
+          "name_original": "Margaret Ann Morton",
+          "votes": 3334
+        },
+        {
+          "name_original": "Timothy P. Carey",
+          "votes": 3430
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7636,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "ELECTRIC LIGHT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Sean E. Powers",
+          "votes": 3141
+        },
+        {
+          "name_original": "Thomas J. Reynolds",
+          "votes": 3031
+        },
+        {
+          "name_original": "Kimberly Dragoo",
+          "votes": 1740
+        },
+        {
+          "name_original": "Henry A. Russell, Jr.",
+          "votes": 914
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1855,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Braintree",
+      "date": "2025-11-04",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Lucille T. Cassis",
+          "votes": 2304
+        },
+        {
+          "name_original": "Albion R. Fletcher, Jr.",
+          "votes": 2033
+        },
+        {
+          "name_original": "Write-in",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 991,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

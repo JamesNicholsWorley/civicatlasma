@@ -1,0 +1,198 @@
+{
+  "elections": [
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "MODERATOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Daniel R. Silverman",
+          "votes": 816
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "SELECTBOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Helen Miranda Wilson",
+          "votes": 609
+        },
+        {
+          "name_original": "Justina K. Carlson",
+          "votes": 332
+        },
+        {
+          "name_original": "John A. Wolf",
+          "votes": 374
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 501,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "ELEMENTARY SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jill Ellen Putnam",
+          "votes": 756
+        },
+        {
+          "name_original": "Liberty L. Schilpp",
+          "votes": 724
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 353,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "LIBRARY TRUSTEES",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yvonne M. Barocas",
+          "votes": 761
+        },
+        {
+          "name_original": "Adam James Miller",
+          "votes": 718
+        },
+        {
+          "name_original": "Kathleen M. Shorr",
+          "votes": 744
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 539,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "CEMETERY COMMISSIONER",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Martin Agger",
+          "votes": 428
+        },
+        {
+          "name_original": "Donna L. Rickman",
+          "votes": 357
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wellfleet",
+      "date": "2021-06-30",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Elaine R. McIlroy",
+          "votes": 799
+        },
+        {
+          "name_original": "Sarah Pechukas Slivka",
+          "votes": 765
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 277,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Wellfleet2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wellfleet2021.pdf",
+  "ballots_cast": 922,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,118 @@
+{
+  "elections": [
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Patrick T. White",
+          "votes": 484
+        },
+        {
+          "name_original": "Roxanne P. McCaffrey",
+          "votes": 186
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Board of Assessors",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Brandi J. Page",
+          "votes": 502
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Board of Health",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Elias T. Lefferman",
+          "votes": 515
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Parks and Recreation Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Joanne M. Lenski",
+          "votes": 347
+        },
+        {
+          "name_original": "Michael S. Nathan",
+          "votes": 238
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Planning Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Wayne M. Slosek",
+          "votes": 531
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Stockbridge",
+      "date": "2023-05-16",
+      "office_original": "Sewer and Water Commissioner",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John A. Loiodice",
+          "votes": 544
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Stockbridge2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

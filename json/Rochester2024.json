@@ -1,0 +1,211 @@
+{
+  "elections": [
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Robin Rounseville",
+          "votes": 733
+        },
+        {
+          "name_original": "Joshua Trombly",
+          "votes": 666
+        },
+        {
+          "name_original": "Jason Chisholm",
+          "votes": 642
+        },
+        {
+          "name_original": "Matthew Bache",
+          "votes": 638
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Old Rochester Regional School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Matt Monteiro",
+          "votes": 769
+        },
+        {
+          "name_original": "Stacie Noble Shriver",
+          "votes": 641
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Paul Ciaburri",
+          "votes": 1060
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Board of Health",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Sarah Eby",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Michael Amato",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Board of Assessors",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Jana Cavanaugh",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Park Commission",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Kenneth Ross",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Board of Library Trustees",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Shauna Makuch",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Kelley Medeiros",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Town Moderator",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Dave Arancio",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Tree Warden",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "Jeff Eldridge",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Rochester",
+      "date": "2024-05-22",
+      "office_original": "Water Commission",
+      "stage": "general",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": "high",
+      "candidates": [
+        {
+          "name_original": "David Hughes",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Rochester2024",
+  "_source_pdf": "",
+  "ballots_cast": 1451,
+  "ballots_cast_source": "stated_in_record"
+}

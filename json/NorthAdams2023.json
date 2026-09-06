@@ -1,0 +1,115 @@
+{
+  "elections": [
+    {
+      "municipality": "North Adams",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer Macksey",
+          "votes": 1728
+        },
+        {
+          "name_original": "Aprilyn Carsno",
+          "votes": 163
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2023-11-07",
+      "office_original": "City Council",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 9,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew Fitch",
+          "votes": 1419
+        },
+        {
+          "name_original": "Keith Bona",
+          "votes": 1399
+        },
+        {
+          "name_original": "Bryan Sapienza",
+          "votes": 1384
+        },
+        {
+          "name_original": "Lisa Blackmer",
+          "votes": 1357
+        },
+        {
+          "name_original": "Peter Breen",
+          "votes": 1335
+        },
+        {
+          "name_original": "Wayne Wilkinson",
+          "votes": 1166
+        },
+        {
+          "name_original": "Ashley Shade",
+          "votes": 1237
+        },
+        {
+          "name_original": "Peter Oleskiewicz",
+          "votes": 1026
+        },
+        {
+          "name_original": "Deanna Morrow",
+          "votes": 881
+        },
+        {
+          "name_original": "Colin Bain",
+          "votes": 754
+        },
+        {
+          "name_original": "Robert Cardimino",
+          "votes": 566
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "North Adams",
+      "date": "2023-11-07",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tara Jacobs",
+          "votes": 1510
+        },
+        {
+          "name_original": "Alyssa Tomkowicz",
+          "votes": 1358
+        },
+        {
+          "name_original": "Cody Chamberlain",
+          "votes": 788
+        },
+        {
+          "name_original": "Eric Wilson",
+          "votes": 509
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "NorthAdams2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

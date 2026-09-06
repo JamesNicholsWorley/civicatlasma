@@ -1,0 +1,100 @@
+{
+  "elections": [
+    {
+      "municipality": "Chatham",
+      "date": "2026-05-14",
+      "office_original": "SELECT BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MEREDITH LOOMIS FRY",
+          "votes": 177
+        },
+        {
+          "name_original": "CAROL ANN GORDON",
+          "votes": 519
+        },
+        {
+          "name_original": "BRIAN MICHAEL PHILLIPS",
+          "votes": 210
+        },
+        {
+          "name_original": "RANDI J. POTASH",
+          "votes": 767
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2026-05-14",
+      "office_original": "MONOMOY REGIONAL SCHOOL CMTE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "HEATHER L. MORGAN",
+          "votes": 1223
+        },
+        {
+          "name_original": "LUCIA LUCE QUINN",
+          "votes": 195
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1932,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chatham",
+      "date": "2026-05-14",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "SHIRLEY L. SMITH",
+          "votes": 1254
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 418,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Chatham2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chatham2026.pdf",
+  "ballots_cast": 1680,
+  "ballots_cast_source": "derived_from_contests"
+}

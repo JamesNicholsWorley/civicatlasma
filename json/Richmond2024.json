@@ -1,0 +1,192 @@
+{
+  "elections": [
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Selectman (Three Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Alan Hanson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Moderator (One Year)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "William E. Martin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Library Trustees (Three Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Katherine Keenum",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Board of Health (One Year)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Linda Mitchell",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "School Committee (Three Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Kimmie Leeco",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Board of Health (Three Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Mehernosh Khan",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Board of Health (Two Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Katy Broggi",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Planning Board (Five Years)",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Richard Bell",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2024-05-16",
+      "office_original": "Finance Committee (Three Years)",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "stage": "General",
+      "type": "Regular",
+      "candidates": [
+        {
+          "name_original": "Stevan Patterson",
+          "votes": null,
+          "status": "uncontested"
+        },
+        {
+          "name_original": "Robert Youdelman",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Richmond2024",
+  "_notes": "Source: the town's OFFICIAL SAMPLE BALLOT, signed by the Town Clerk and headed \"OFFICIAL BALLOT / ANNUAL TOWN ELECTION / RICHMOND, MASSACHUSETTS / MAY 16, 2024\". NO VOTE COUNTS EXIST: every office drew exactly as many candidates as seats, and Richmond's clerk reports attendance rather than results in any year, so no tally was ever published. Landed under the owner's standing rule that a sample ballot suffices for an uncontested election given a candidate list and turnout. DATE AND TURNOUT from the Town Clerk's report at p.67 of the 2024 annual town report: \"May 16, 2024 Annual Town Election 50 out of 1285 voters attended\". The Berkshire Eagle preview agrees -- \"Town election: Thursday, May 16 ... Alan Hanson is unopposed ... there are no other contests, as determined by a recent town caucus of voters\". WINNERS CONFIRMED INDEPENDENTLY: the same report's Directory of Town Officials carries every one of these people at the term expiry this ballot implies -- Hanson 2027, Khan 2027, Leeco 2027, Keenum 2027, Patterson 2027, Youdelman 2027, Bell 2029 (five-year), Broggi 2026 (two-year), Martin 2025 (one-year). \"Kimmie Leeco\" is read from that Directory, not from the ballot: the diagonal SAMPLE watermark is solid over the surname and the ballot yields only \"KIMMIE L\". ONE UNRESOLVED DISCREPANCY: the ballot puts Linda Mitchell in a Board of Health ONE YEAR seat, which taken in 2024 should expire 2025, while the Directory says 2027. Every other expiry matches. The ballot is followed here because it is what was voted on. Ballot Question 1 (accepting G.L. c.59 s.5 cl.41C1/2, senior tax exemptions) is outside the parse spec.",
+  "document": {
+    "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION RICHMOND, MASSACHUSETTS MAY 16, 2024",
+    "turnout_verbatim": "50 of 1285 voters attended (3.9%)",
+    "date_corroboration": {
+      "source": "the town's own annual report / this corpus's bracketing years",
+      "value": "2024-05-16",
+      "strength": "corroborated",
+      "quote": "the Town Clerk's report at p.67 of Richmond's 2024 annual town report: \"May 16, 2024 Annual Town Election 50 out of 1285 voters attended\", and the ballot's own heading \"MAY 16, 2024\"",
+      "note": "established 2026-08-28 by src/land_richmond_newbraintree_2024.py"
+    },
+    "uncontested_ballot": {
+      "turnout_cast": 50,
+      "turnout_registered": 1285,
+      "quote": "Town Clerk's report, p.67 of Richmond's 2024 annual town report: \"May 16, 2024 Annual Town Election 50 out of 1285 voters attended\". The Berkshire Eagle preview confirms there was nothing to tally: \"Alan Hanson is unopposed on the ballot ... and there are no other contests, as determined by a recent town caucus of voters.\" All nine winners are independently confirmed by the same report's Directory of Town Officials at the term expiries this ballot implies.",
+      "note": "accepted 2026-08-28 under the owner standing sample-ballot rule"
+    }
+  },
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

@@ -1,0 +1,412 @@
+{
+  "elections": [
+    {
+      "municipality": "Kingston",
+      "office_original": "SELECTMAN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberley Emberg",
+          "votes": 503
+        },
+        {
+          "name_original": "Sheila Marie Vaughn",
+          "votes": 417
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 532,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 58,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "ASSESSOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Scott J. DeSantis",
+          "votes": 490
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 259,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "COLLECTOR OF TAXES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jessica M. Kramer",
+          "votes": 236
+        },
+        {
+          "name_original": "Kenneth G. Moali",
+          "votes": 491
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jonathan Jacob Barnett, Sr.",
+          "votes": 488
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 263,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "S.L. REGIONAL SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily R. Davis",
+          "votes": 345
+        },
+        {
+          "name_original": "Emma Rose Morgan",
+          "votes": 188
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 215,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "S.L. REGIONAL SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslieann McGee",
+          "votes": 475
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 268,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "KINGSTON ELEMENTARY SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katina Bedard",
+          "votes": 168
+        },
+        {
+          "name_original": "Megan B. Cannon",
+          "votes": 426
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 159,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "WATER COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard Wilson Loring, Jr.",
+          "votes": 490
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 262,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dennis N. Randall",
+          "votes": 385
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 346,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Janet D. Wade",
+          "votes": 424
+        },
+        {
+          "name_original": "Norman P. Harbinson, Jr.",
+          "votes": 236
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 93,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "LIBRARY TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Flight Curtin",
+          "votes": 437
+        },
+        {
+          "name_original": "Shannon J. Gauthier",
+          "votes": 305
+        },
+        {
+          "name_original": "Christine Maiorano",
+          "votes": 225
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 538,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "RECREATION COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Melissa A. Bateman",
+          "votes": 512
+        },
+        {
+          "name_original": "Daniel P. Shropshire",
+          "votes": 440
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 556,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Kingston",
+      "office_original": "SEWER COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas W. Taylor, II",
+          "votes": 504
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 247,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "date": "2021-04-24",
+      "date_source": "url",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Kingston2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Kingston2021.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "filename",
+      "value": "2021-04-24",
+      "detail": "https://kingstonma.gov/DocumentCenter/View/2187/2021-Annual-Town-Election-Results--04-24-2021-PDF",
+      "note": "the town's own name for this file states this date; it corroborates the asserted date and is not a reading of the return"
+    }
+  },
+  "ballots_cast": 755,
+  "ballots_cast_source": "derived_from_contests"
+}

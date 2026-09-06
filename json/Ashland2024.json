@@ -1,0 +1,208 @@
+{
+  "elections": [
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "SELECT BOARD - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 203,
+          "tally_row": true
+        },
+        {
+          "name_original": "Yolanda Greaves",
+          "votes": 318
+        },
+        {
+          "name_original": "Makeda Alexandra Warren Keegan",
+          "votes": 365
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "ASSESSOR - 3 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        },
+        {
+          "name_original": "Steven H. Greenberg",
+          "votes": 357
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "SCHOOL COMMITTEE - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 205,
+          "tally_row": true
+        },
+        {
+          "name_original": "Christina Shaw Fitanides",
+          "votes": 342
+        },
+        {
+          "name_original": "Marc L. Terry",
+          "votes": 339
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "SCHOOL COMMITTEE - 1 YEAR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 96,
+          "tally_row": true
+        },
+        {
+          "name_original": "Marcy Diane Culverwell",
+          "votes": 347
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF LIBRARY TRUSTEES - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 186,
+          "tally_row": true
+        },
+        {
+          "name_original": "Claire Brown Goss",
+          "votes": 358
+        },
+        {
+          "name_original": "Linda August Weene",
+          "votes": 342
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "BOARD OF HEALTH - 3 YEARS",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 331,
+          "tally_row": true
+        },
+        {
+          "name_original": "Edward D. Burman",
+          "votes": 326
+        },
+        {
+          "name_original": "Maurice Krasner",
+          "votes": 82
+        },
+        {
+          "name_original": "Koduvayur Narayana",
+          "votes": 127
+        },
+        {
+          "name_original": "Pam Mimms",
+          "votes": 20
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "HOUSING AUTHORITY - 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 94,
+          "tally_row": true
+        },
+        {
+          "name_original": "Deborah L. Neilsen",
+          "votes": 349
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ashland",
+      "date": "2024-05-21",
+      "office_original": "PLANNING BOARD - 5 YEARS",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 80,
+          "tally_row": true
+        },
+        {
+          "name_original": "Patricia Marie Kendall",
+          "votes": 363
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ashland2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ashland2024.pdf",
+  "ballots_cast": 443,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,56 @@
+{
+  "elections": [
+    {
+      "municipality": "Weymouth",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Robert Hedlund",
+          "votes": 5088
+        },
+        {
+          "name_original": "Edward Cowen",
+          "votes": 1218
+        },
+        {
+          "name_original": "Others",
+          "votes": 478,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Weymouth",
+      "date": "2023-11-07",
+      "office_original": "Town Council",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Arthur Mathews",
+          "votes": 623
+        },
+        {
+          "name_original": "Raymond Alongi",
+          "votes": 267
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Weymouth2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

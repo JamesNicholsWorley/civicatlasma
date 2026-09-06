@@ -1,0 +1,323 @@
+{
+  "elections": [
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "SELECT BOARD 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Susan C. Bunnell, 41 East Longmeadow Rd Candidate for Re-Electin",
+          "votes": 610
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "ASSESSOR 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Roger John Roberge II, 2 Evergreen Cir Cadidate for re-election",
+          "votes": 552
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 173,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "HWRSD REGIONAL SCHOOL 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Sean F. Kennedy, 3 Blueberry Hill Rd Candidate for Re-Election",
+          "votes": 560
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 155,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "CEMETERY COMMISSIONER 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Write-in Patrick Roach 658 Stony Hill Rd",
+          "votes": 6
+        },
+        {
+          "name_original": "Write-in Mandell Greene 10 Lodge Ln",
+          "votes": 5
+        },
+        {
+          "name_original": "Write-ins others",
+          "votes": 76
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 643,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "CEMETERY COMMISSIONER 1YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Natashia Rose Ayres, 24 Brookmont Dr.",
+          "votes": 587
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 140,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "WATER COMMISSIONER 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Rik Alvarez, 6 Squire Dr. Candidate for Re-election",
+          "votes": 590
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "WATER COMMISSIONER 1YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "John P Caltabiano, 7 Winterberry Dr.",
+          "votes": 529
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 196,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "LIBRARY TRUSTEE 3YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Margaret O. Bagge, 3 Brookdale Dr",
+          "votes": 506
+        },
+        {
+          "name_original": "Amelia J. Holstrom, 2 Southwood Dr",
+          "votes": 511
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 440,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "LIBRARY TRUSTEE 1YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ronnie Lynn Haislip-Hansberry, 559 Stony Hill Rd",
+          "votes": 584
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 144,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "PLANNING BOARD 5YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Tracey J. Plantier, 14 Algonquin Dr Candidate for Re-election",
+          "votes": 264
+        },
+        {
+          "name_original": "Joseph Paul Cantalini, 102 High Pine Cir",
+          "votes": 258
+        },
+        {
+          "name_original": "John Patrick McGrath, 21 Oakland St",
+          "votes": 155
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 52,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Wilbraham",
+      "date": "2025-05-17",
+      "office_original": "WILBRAHAM HOUSING AUTHORITY 5YR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "Peter N. Manolakis, 17 Brookside Cir Candidate for Re-Election",
+          "votes": 567
+        },
+        {
+          "name_original": "Write-ins",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 156,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "ballots_cast": 730,
+  "ballots_cast_source": "derived_from_contests"
+}

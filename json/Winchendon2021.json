@@ -1,0 +1,155 @@
+{
+  "elections": [
+    {
+      "municipality": "Winchendon",
+      "date": "2021-05-03",
+      "office_original": "BOARD OF SELECTMEN 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara L. Anderson",
+          "votes": 168
+        },
+        {
+          "name_original": "Danielle R. Lapointe",
+          "votes": 201
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 131,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2021-05-03",
+      "office_original": "SCHOOL COMMITTEE 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan G. Forsythe",
+          "votes": 194
+        },
+        {
+          "name_original": "Shauna B. Lapointe",
+          "votes": 168
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 143,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2021-05-03",
+      "office_original": "BOARD OF HEALTH 3 YR (VOTE FOR 2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lionel C. Cloutier",
+          "votes": 174
+        },
+        {
+          "name_original": "Keith M. Kent",
+          "votes": 167
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 162,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2021-05-03",
+      "office_original": "BOARD OF HEALTH 2 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tina M. Santos",
+          "votes": 180
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 65,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Winchendon",
+      "date": "2021-05-03",
+      "office_original": "HOUSING AUTHORITY 5 YR (VOTE FOR 1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Nancy F. Romanowski",
+          "votes": 220
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 34,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Winchendon2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winchendon2021.pdf",
+  "ballots_cast": 254,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,156 @@
+{
+  "document": {
+    "heading_verbatim": "Richmond, Massachusetts -- Annual Town Election, Saturday, May 21, 2022",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Saturday, May 21, 2022",
+    "is_sample_ballot": true,
+    "offices_on_ballot": 7,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "There were no contested races: every name on the ballot was a current office-holder seeking another term",
+    "uncontested_ballot": {
+      "turnout_cast": 55,
+      "turnout_registered": 1256,
+      "quote": "Town Clerk's report, page 71 of Richmond's 2022 Annual Town Report: \"May 21, 2022 Annual Town Election 55 out of 1256 voters attended (0.04%)\". The two COUNTS are relied on; the percentage the report prints is wrong -- 55 of 1,256 is 4.4 percent, not 0.04 percent. Unlike Richmond 2021, where turnout had to be inferred from a ballot-question total reported by a newspaper, this is the clerk's own ballots-cast figure."
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Selectman",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Neal Pilson",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Andrew Fisher",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Louise Maron",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Patricia Callahan",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Nancy McConnell",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "William Martin",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Richmond",
+      "date": "2022-05-21",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Katherine Keenum",
+          "votes": null,
+          "status": "uncontested"
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Richmond2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Richmond2022.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

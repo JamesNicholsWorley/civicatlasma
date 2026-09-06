@@ -1,0 +1,176 @@
+{
+  "elections": [
+    {
+      "office_original": "Select Board",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2024-05-29",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Susan Girard-Irwin",
+          "votes": 535
+        },
+        {
+          "name_original": "Kevin Grunwald",
+          "votes": 340
+        },
+        {
+          "name_original": "Tim Hickey",
+          "votes": 316
+        },
+        {
+          "name_original": "Nancy Medoff",
+          "votes": 543
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Truro",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "School Committee",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2024-05-29",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Vida Richter",
+          "votes": 612
+        },
+        {
+          "name_original": "Ken Oxtoby",
+          "votes": 169
+        },
+        {
+          "name_original": "Amy Smith Costa",
+          "votes": 168
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1862,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 39,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Truro",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Library Trustees",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2024-05-29",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Keith Althaus",
+          "votes": 737
+        },
+        {
+          "name_original": "Kaitlin Blehm",
+          "votes": 716
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 442,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Truro",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Cemetery Commission",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2024-05-29",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Robert Masson",
+          "votes": 761
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 177,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Truro",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "date": "2024-05-29",
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Anne Greenbaum",
+          "votes": 742
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 200,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Truro",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Truro2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Truro2024.pdf",
+  "document": {
+    "date_corroboration": {
+      "source": "citation",
+      "value": "2024-05-29",
+      "detail": "https://truro-ma.gov/DocumentCenter/View/3262/ANNUAL-TOWN-ELECTION-WARRANT-05292024_SIGNED",
+      "quote": "<!-- image --> ## ANNUAL TOWN ELECTION ## WEDNESDAY, MAY 29, 2024 FROM 7:00",
+      "note": "read off Truro's own election warrant or specimen ballot, held in data/documents/; the return itself is held on DATE_NOT_ON_PAGE DATE_OFF_CALENDAR"
+    }
+  },
+  "ballots_cast": 950,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,225 @@
+{
+  "elections": [
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "SELECT BOARD (VOTE FOR ONE)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "NORMAN A. HILLS",
+          "votes": 266
+        },
+        {
+          "name_original": "CARLETON BURR JR.",
+          "votes": 368
+        },
+        {
+          "name_original": "GEORGE T.J. WALKER",
+          "votes": 201
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "BOARD OF ASSESSOR (VOTE FOR ONE)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PATRICIA ANN DECOSTA",
+          "votes": 690
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 150,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "BOARD OF HEALTH (VOTE FOR ONE)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "ALBIN R. JOHNSON III",
+          "votes": 670
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 170,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "PLANNING BOARD (VOTE FOR THREE)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RYAN BURKE",
+          "votes": 603
+        },
+        {
+          "name_original": "ANN VORHEES MORGAN",
+          "votes": 531
+        },
+        {
+          "name_original": "SEAN C. SWEENEY",
+          "votes": 573
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 814,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "MARION SCHOOL COMMITTEE (VOTE FOR TWO)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MARY BEAUREGARD",
+          "votes": 606
+        },
+        {
+          "name_original": "NICHOLE NYE MCGAFFEY",
+          "votes": 614
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 468,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "OLD ROCHESTER REGIONAL SCHOOL COMMITTEE (VOTE FOR ONE)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MARGARET E. MCSWEENY",
+          "votes": 578
+        },
+        {
+          "name_original": "KATHARINE M. MCAULEY",
+          "votes": 174
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 94,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Marion",
+      "date": "2026-05-15",
+      "office_original": "OPEN SPACE ACQUISITION COMMISSION (VOTE FOR TWO)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PATRICIA ANN DE GROOT",
+          "votes": 620
+        },
+        {
+          "name_original": "NORMAN A. HILLS",
+          "votes": 586
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 474,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Marion2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Marion2026.pdf",
+  "ballots_cast": 847,
+  "ballots_cast_source": "derived_from_contests"
+}

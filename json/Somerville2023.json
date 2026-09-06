@@ -1,0 +1,476 @@
+{
+  "elections": [
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Mayor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katjana Ballantyne",
+          "votes": 13657
+        },
+        {
+          "name_original": "William (Billy) Tauro",
+          "votes": 3029
+        },
+        {
+          "name_original": "Others",
+          "votes": 201,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 314,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor at Large",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Willie Burnley Jr.",
+          "votes": 11344
+        },
+        {
+          "name_original": "Charlotte Kelly",
+          "votes": 9032
+        },
+        {
+          "name_original": "Kristen Strezo",
+          "votes": 11993
+        },
+        {
+          "name_original": "Jake Wilson",
+          "votes": 10909
+        },
+        {
+          "name_original": "Will Mbah",
+          "votes": 11088
+        },
+        {
+          "name_original": "Others",
+          "votes": 448,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13990,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Matthew McLaughlin",
+          "votes": 1287
+        },
+        {
+          "name_original": "Matthew Ryan Hunt",
+          "votes": 366
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward One",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily R. Ackman",
+          "votes": 1374
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 347,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JT Scott",
+          "votes": 1760
+        },
+        {
+          "name_original": "Others",
+          "votes": 63,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 327,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Two",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ilana Krepchin",
+          "votes": 1736
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 387,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ben Ewen-Campen",
+          "votes": 2083
+        },
+        {
+          "name_original": "John Fitzpatrick",
+          "votes": 580
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 136,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Three",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Phillips",
+          "votes": 2306
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 482,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jesse Cungan",
+          "votes": 1585
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 349,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Four",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andre Green",
+          "votes": 1522
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 413,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jack Perenick",
+          "votes": 1074
+        },
+        {
+          "name_original": "Naima Sait",
+          "votes": 2051
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 117,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Five",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura J. Pitone",
+          "votes": 2658
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 566,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Six",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lance Davis",
+          "votes": 1901
+        },
+        {
+          "name_original": "John M. (Jack) Connolly",
+          "votes": 756
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 94,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Six",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ellenor Barish",
+          "votes": 2169
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 571,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "Councillor Ward Seven",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Judith Pineda Neufeld",
+          "votes": 2097
+        },
+        {
+          "name_original": "Others",
+          "votes": 41,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 403,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Somerville",
+      "date": "2023-11-07",
+      "office_original": "School Committee Ward Seven",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leiran Biton",
+          "votes": 2020
+        },
+        {
+          "name_original": "Others",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 494,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Somerville2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Somerville2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

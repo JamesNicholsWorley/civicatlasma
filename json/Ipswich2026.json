@@ -1,0 +1,163 @@
+{
+  "elections": [
+    {
+      "municipality": "Ipswich",
+      "date": "2026-05-19",
+      "office_original": "Moderator 1 yr (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Robert Engel",
+          "votes": 1205
+        },
+        {
+          "name_original": "Others",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 282,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2026-05-19",
+      "office_original": "Select Board 3 yr (2)",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda D. Alexson",
+          "votes": 964
+        },
+        {
+          "name_original": "Michael S. Dougherty",
+          "votes": 944
+        },
+        {
+          "name_original": "Haley Mosher",
+          "votes": 238
+        },
+        {
+          "name_original": "David Russell",
+          "votes": 11
+        },
+        {
+          "name_original": "Others",
+          "votes": 59,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 864,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2026-05-19",
+      "office_original": "School Committee 3 yr (3)",
+      "num_winners": 3,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jenny Lorraine Connolly",
+          "votes": 959
+        },
+        {
+          "name_original": "Andrew George Bunnell",
+          "votes": 959
+        },
+        {
+          "name_original": "Paul Darby Montanus",
+          "votes": 928
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1736,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2026-05-19",
+      "office_original": "School Committee 1 yr (1) one yr to fill unexpired term",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gregory Alan Stevens Jr.",
+          "votes": 1068
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 463,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Ipswich",
+      "date": "2026-05-19",
+      "office_original": "Housing Authority 5 yr (1)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Megan E. Breaker",
+          "votes": 1074
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 460,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Ipswich2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Ipswich2026.pdf",
+  "ballots_cast": 1540,
+  "ballots_cast_source": "derived_from_contests"
+}

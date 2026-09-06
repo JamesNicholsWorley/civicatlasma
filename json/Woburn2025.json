@@ -1,0 +1,333 @@
+{
+  "elections": [
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael Patrick Concannon",
+          "votes": 3521
+        },
+        {
+          "name_original": "Scott D. Galvin",
+          "votes": 94
+        },
+        {
+          "name_original": "Others",
+          "votes": 54,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 899,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor At Large",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert Joseph Ferullo Jr.",
+          "votes": 3139
+        },
+        {
+          "name_original": "Robert F. Toro Jr.",
+          "votes": 2866
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3094,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "School Committee",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "James Edward Austin",
+          "votes": 1324
+        },
+        {
+          "name_original": "Colleen M. Cormier",
+          "votes": 1784
+        },
+        {
+          "name_original": "Michael P. Mulrenan",
+          "votes": 2305
+        },
+        {
+          "name_original": "Jessie Joan Wetzel",
+          "votes": 2094
+        },
+        {
+          "name_original": "James Michael Fletcher Jr.",
+          "votes": 1193
+        },
+        {
+          "name_original": "Bernice D. Freedman",
+          "votes": 1512
+        },
+        {
+          "name_original": "Maria T. Nagel",
+          "votes": 2125
+        },
+        {
+          "name_original": "Jose Eduardo Oliveira",
+          "votes": 2519
+        },
+        {
+          "name_original": "Nora Oliver",
+          "votes": 753
+        },
+        {
+          "name_original": "Brian Adam Provencher",
+          "votes": 1299
+        },
+        {
+          "name_original": "Others",
+          "votes": 38,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5894,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward One",
+      "district_original": "Ward One",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Yano Philip Amara",
+          "votes": 423
+        },
+        {
+          "name_original": "Kevin C. Meaney",
+          "votes": 379
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Two",
+      "district_original": "Ward Two",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William J. Pappalardo",
+          "votes": 511
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 145,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Three",
+      "district_original": "Ward Three",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Paul Dillon",
+          "votes": 629
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Four",
+      "district_original": "Ward Four",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph Eugene Demers",
+          "votes": 497
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 138,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Five",
+      "district_original": "Ward Five",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Darlene A. Mercer-Bruen",
+          "votes": 379
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 106,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Six",
+      "district_original": "Ward Six",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lou Dimambro",
+          "votes": 402
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 86,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Woburn",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward Seven",
+      "district_original": "Ward Seven",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Charles Viola",
+          "votes": 610
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Woburn2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Woburn2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

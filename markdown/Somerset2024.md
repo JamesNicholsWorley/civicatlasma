@@ -1,0 +1,91 @@
+I, Caitlin Hadala, hereby certify the results of the Annual Town Election held on April 8, 2024, at the
+Somerset Berkley Regional High School, as called for by the Election Warrant.
+Ballots Cast 730 673 703 620 660 3386
+CANDIDATE PR  1 PR 2 PR 3 PR 4 PR 5 TOTALS
+TOWN CLERK - 2 YR VOTE FOR 1
+Caitlin Hadala 570 510 553 494 509 2636
+WRITE INS 8 5 4 5 7 29
+BLANKS 152 158 146 121 144 721
+Totals 730 673 703 620 660 3386
+ 3386
+SELECTMEN - 3 YR VOTE FOR 1
+Allen Smith 396 402 400 385 456 2039
+Holly McNamara 326 252 289 225 195 1287
+ 0
+WRITE INS 2 2 2 4 3 13
+Blanks 6 17 12 6 6 47
+Totals 730 673 703 620 660 3386
+ 3386
+ASSESSOR - 3 YR VOTE FOR 1
+Marc Dionne 573 503 549 497 500 2622
+WRITE INS 1 4 4 0 4 13
+Blanks 156 166 150 123 156 751
+Totals 730 673 703 620 660 3386
+ 3386
+SCHOOL COMMITTEE - 3 YR VOTE FOR 1
+Victor Machado 527 453 516 448 455 2399
+ 0
+ 0
+WRITE INS 13 14 10 17 27 81
+Blanks 190 206 177 155 178 906
+Totals 730 673 703 620 660 3386
+ 3386
+SOMERSET BERKLEY REG SCHOOL COMM 3 YR VOTE FOR 1
+Kimberly Ferreira 545 472 529 471 473 2490
+WRITE INS - other 2 5 5 5 15 32
+Blanks 183 196 169 144 172 864
+Totals 730 673 703 620 660 3386
+ 3386
+TRUSTEE OF PUBLIC LIBRARY - 3 YR VOTE FOR 2
+Elizabeith A. Ponte 584 520 556 497 514 2671
+W/I John Foley 12 9 5 19 5 50
+W/I Shelagh Taylor 4 2 9 2 1 18
+W/I Bonnie Mendes 3 2 5
+W/I Laura Latour 1 1
+W/I Irene Clausen 1 1
+W/I DeAnne Machado 1 1
+W/I Denise Martel Bovie 2 2
+W/I Sarah Moniz 1 1
+
+W/I Lisa Jones 2 2
+W/I Michael Gleason 1 1
+W/I Sally Menard 1 1
+W/I Sean Farrelly 1 1
+W/I Elizabeth Carpenter 1 1
+WRITE INS 0
+Blanks 16 25 14 13 19 87
+Blanks 843 791 818 704 773 3929
+Totals 1460 1349 1406 1241 1316 6772
+ 6772
+WATER & SEWER COMMISSIONER - 3 YR - VOTE FOR 1
+Steven Cadorette 446 419 421 395 382 2063
+Elizabeth Paskowski 249 212 232 185 239 1117
+WRITE INS 2 1 2 3 8
+Blanks 33 42 49 38 36 198
+Totals 730 673 703 620 660 3386
+ 3386
+PLANNING BOARD  5 YR - VOTE FOR 1
+Timothy Turner 566 515 563 483 505 2632
+WRITE INS 4 2 4 4 11 25
+Blanks 160 156 136 133 144 729
+Totals 730 673 703 620 660 3386
+ 3386
+PLAYGROUND & RECREATION COMM - 5 YR - VOTE FOR 1
+Joshua Darlington 553 491 539 473 493 2549
+WRITE INS 3 2 2 6 5 18
+Blanks 174 180 162 141 162 819
+Totals 730 673 703 620 660 3386
+ 3386
+HOUSING AUTHORITY - 5 YR VOTE FOR 1
+Robert J. Taylor 573 528 569 490 511 2671
+WRITE INS 3 3 2 4 3 15
+Blanks 154 142 132 125 147 700
+ 730 673 703 619 661 3386
+ 3386
+Registered Voters 14684
+Ballots Cast 3386
+Percentage 0.23059112
+A true copy attest;
+Caitlin Hadala
+Caitlin Hadala
+Town Clerk - Chief Election Official

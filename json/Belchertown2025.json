@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JENNIFER TURNER",
+          "votes": 2078
+        },
+        {
+          "name_original": "ANGELA E. BATTLE",
+          "votes": 1958
+        },
+        {
+          "name_original": "JONATHAN W. RITTER",
+          "votes": 2176
+        },
+        {
+          "name_original": "Others",
+          "votes": 62,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2294,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "JACOB ADAM HULSEBERG",
+          "votes": 2833
+        },
+        {
+          "name_original": "Others",
+          "votes": 48,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1403,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "PLANNING BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MICHAEL A. HOFLER",
+          "votes": 2762
+        },
+        {
+          "name_original": "Others",
+          "votes": 29,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1493,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "BOARD OF ASSESSORS",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "RAYMOND GOFF",
+          "votes": 3
+        },
+        {
+          "name_original": "DEBORAH SAMMATARO",
+          "votes": 3
+        },
+        {
+          "name_original": "Others",
+          "votes": 172,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4106,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "BOARD OF HEALTH",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "GAIL GRAMAROSSA",
+          "votes": 2781
+        },
+        {
+          "name_original": "JAMES POTTER",
+          "votes": 244
+        },
+        {
+          "name_original": "Others",
+          "votes": 37,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 5506,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "HOUSING AUTHORITY 5 YR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "BRIAN ROONEY",
+          "votes": 7
+        },
+        {
+          "name_original": "Others",
+          "votes": 125,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4157,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Belchertown",
+      "date": "2025-05-19",
+      "office_original": "HOUSING AUTHORITY 4 YR TERM",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "DAVID FRIES",
+          "votes": 2
+        },
+        {
+          "name_original": "JUDY O'KULSKY",
+          "votes": 2
+        },
+        {
+          "name_original": "Others",
+          "votes": 56,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8508,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Belchertown2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Belchertown2025.pdf",
+  "ballots_cast": 4284,
+  "ballots_cast_source": "derived_from_contests"
+}

@@ -1,0 +1,62 @@
+{
+  "elections": [
+    {
+      "municipality": "Wareham",
+      "date": "2026-05-05",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Corbitt",
+          "votes": 853
+        },
+        {
+          "name_original": "Judith Whiteside",
+          "votes": 680
+        },
+        {
+          "name_original": "Jim Munise",
+          "votes": 607
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Wareham",
+      "date": "2026-05-05",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kevin Brogioli",
+          "votes": 615
+        },
+        {
+          "name_original": "Joyce Bacchiocchi",
+          "votes": 583
+        },
+        {
+          "name_original": "Jordan Johnson",
+          "votes": 514
+        },
+        {
+          "name_original": "Nancy Tynan Cederholm",
+          "votes": 530
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Wareham2026",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

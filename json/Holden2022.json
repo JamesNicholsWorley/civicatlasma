@@ -1,0 +1,202 @@
+{
+  "elections": [
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Board of Selectmen",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Geraldine A. Herlihy",
+          "votes": 1059
+        },
+        {
+          "name_original": "Steven B. Cooley",
+          "votes": 763
+        },
+        {
+          "name_original": "Thomas P. Curran",
+          "votes": 1010
+        },
+        {
+          "name_original": "Stephanie R. Mulroy",
+          "votes": 1101
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 352,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Holden Housing Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jini L. Henderson",
+          "votes": 1307
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 829,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Moderator",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph G. Sullivan",
+          "votes": 1418
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 715,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Trustees of Damon Memorial",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Penelope Guy Morgan",
+          "votes": 1227
+        },
+        {
+          "name_original": "Virginia B. Powell-Braiser",
+          "votes": 1180
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1872,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Wachusett Regional School District Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew M. Meader",
+          "votes": 1347
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 730,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 67,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Holden",
+      "date": "2022-05-09",
+      "office_original": "Wachusett Regional School District Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maleah FT Gustafson",
+          "votes": 1101
+        },
+        {
+          "name_original": "Jana T. Brennan",
+          "votes": 1157
+        },
+        {
+          "name_original": "Deborah A. Femia",
+          "votes": 839
+        },
+        {
+          "name_original": "George A. Kaminski",
+          "votes": 924
+        },
+        {
+          "name_original": "Elise Meader",
+          "votes": 908
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1472,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Holden2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holden2022.pdf",
+  "ballots_cast": 2144,
+  "ballots_cast_source": "derived_from_contests"
+}

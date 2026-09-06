@@ -1,0 +1,325 @@
+{
+  "document": {
+    "heading_verbatim": "OFFICES AND CANDIDATES",
+    "election_type": "Unclear",
+    "election_type_evidence": "",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "town file naming / publication date / town pattern",
+      "value": "2023-05-01",
+      "strength": "corroborated",
+      "quote": "the filename Preliminary-Results-Local-Election-512023 is 5/1/2023; 1 May 2023 is a Monday and Merrimac's published 2021 and 2025 are both the first Monday in May",
+      "note": "the document itself prints no date; established 2026-08-24 by src/date_undated_returns.py"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Moderator (1 year)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "W. Earl Baumgardner",
+          "votes": 1097
+        },
+        {
+          "name_original": "Others",
+          "votes": 125,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 369,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Selectman (3 years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Joel D. Breen",
+          "votes": 445
+        },
+        {
+          "name_original": "Irina Gorzynski",
+          "votes": 1016
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 118,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Assessor (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 90,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1501,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Planning Board (5 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "David G. Cressman",
+          "votes": 1158
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 425,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "School Committee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Christopher John Markuns",
+          "votes": 1162
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 416,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Board of Health (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Christine C. Berube",
+          "votes": 1200
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 385,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Library Trustee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Yvonne Daniels Cosgrove",
+          "votes": 1231
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 356,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Library Trustee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 53,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1538,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Cemetery Trustee (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.75,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 92,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1499,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Light Commissioner (3 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Norman R. Denault",
+          "votes": 1322
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 261,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2023-05-01",
+      "office_original": "Housing Authority (5 Years)",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Candie A. Benjamin",
+          "votes": 1257
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 330,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Merrimac2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Merrimac2023.pdf",
+  "ballots_cast": 1591,
+  "ballots_cast_source": "derived_from_contests"
+}

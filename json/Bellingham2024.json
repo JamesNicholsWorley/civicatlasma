@@ -1,0 +1,202 @@
+{
+  "elections": [
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "SELECTMAN - for 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael J Connor",
+          "votes": 809
+        },
+        {
+          "name_original": "Jennifer L Altomonte",
+          "votes": 864
+        },
+        {
+          "name_original": "Donald F Martinis",
+          "votes": 914
+        },
+        {
+          "name_original": "Gary P Reichert",
+          "votes": 402
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 539,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "SELECTMAN - for 2 years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ann L Odabashian",
+          "votes": 894
+        },
+        {
+          "name_original": "David S Cutler",
+          "votes": 813
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "PLANNING BOARD - for 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian T Salisbury",
+          "votes": 866
+        },
+        {
+          "name_original": "Stephen W Goyette",
+          "votes": 1204
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1452,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "LIBRARY TRUSTEE - for 3 years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kimberly L O'Neal",
+          "votes": 1209
+        },
+        {
+          "name_original": "Lynn A Scornavacca",
+          "votes": 1101
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1222,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erik A Ormberg",
+          "votes": 1120
+        },
+        {
+          "name_original": "Courtney L Cartier",
+          "votes": 1094
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1309,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Bellingham",
+      "date": "2024-06-04",
+      "office_original": "HOUSING AUTHORITY",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Linda L Cartier",
+          "votes": 1171
+        },
+        {
+          "name_original": "Christopher P Remillard",
+          "votes": 1118
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1234,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Bellingham2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bellingham2024.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

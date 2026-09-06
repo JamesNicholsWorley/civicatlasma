@@ -1,0 +1,360 @@
+{
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION OFFICIAL BALLOT HOLLAND, MASSACHUSETTS June 11, 2024",
+    "date_verbatim": "June 11, 2024",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "is_sample_ballot": false,
+    "attestation": "stamped OFFICIAL ELECTION RESULTS 6/11/24 and signed, Valerie Lundin, Town Clerk",
+    "turnout_verbatim": "VOTERS: 263 (handwritten)",
+    "transcription": "hand-written tallies on the ballot face, read from a 260 dpi UPRIGHT render 2026-08-24; see src/transcribe_holland2024.py",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": "",
+    "date_corroboration": {
+      "source": "document",
+      "value": "2024-06-11",
+      "quote": "ANNUAL TOWN ELECTION ... June 11, 2024",
+      "note": "read 2026-08-24 by src/close_ingest_holds.py"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Select Board (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "James Whalen",
+          "votes": 215
+        },
+        {
+          "name_original": "Brian Johnson",
+          "votes": 2
+        },
+        {
+          "name_original": "Karen Dolan",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Assessor (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Cynthia Poirier",
+          "votes": 223
+        },
+        {
+          "name_original": "Brian Johnson",
+          "votes": 2
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Board Of Health (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Peter Molle",
+          "votes": 216
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Cemetery Commission (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Arthur D. Evans, Jr.",
+          "votes": 221
+        },
+        {
+          "name_original": "Marcia Lee",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Constable (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Scott Gendreau",
+          "votes": 207
+        },
+        {
+          "name_original": "David Siebert",
+          "votes": 1
+        },
+        {
+          "name_original": "Kyle Merolla",
+          "votes": 1
+        },
+        {
+          "name_original": "Chandler Robetson",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Holland School Committee (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Candice Greene",
+          "votes": 216
+        },
+        {
+          "name_original": "Sarah Hawk",
+          "votes": 2
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Holland School Committee (3 year term, second seat)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Amanda-Jo Fusco-Joppas",
+          "votes": 220
+        },
+        {
+          "name_original": "Jennifer Iller",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Library Trustee (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer Gumlaw",
+          "votes": 229
+        },
+        {
+          "name_original": "Jennifer Mott",
+          "votes": 3
+        },
+        {
+          "name_original": "Deborah Williams",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Library Trustee (2 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Eric Hawk",
+          "votes": 207
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Library Trustee (1 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kelsey DeVoe",
+          "votes": 216
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Planning Board (5 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "William Robertson",
+          "votes": 217
+        },
+        {
+          "name_original": "Peter Frei",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Sealer of Weights and Measures (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "David Mott",
+          "votes": 220
+        },
+        {
+          "name_original": "Tom Dillon",
+          "votes": 2
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Tantasqua School Committee (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Laura Alden",
+          "votes": 221
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Tax Collector (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Jennifer Gumlaw",
+          "votes": 209
+        },
+        {
+          "name_original": "Jennifer Mott",
+          "votes": 53
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Treasurer (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Sharon Ashleigh",
+          "votes": 223
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Holland",
+      "date": "2024-06-11",
+      "office_original": "Water Commissioner (3 year term)",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kyle Merolla",
+          "votes": 134
+        },
+        {
+          "name_original": "Ricky Lundin",
+          "votes": 119
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Holland2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Holland2024.pdf",
+  "_corrected": "2026-08-24: transcribed by eye. Held BALLOT_NOT_RETURN, which describes the text layer and not the document. Read sideways, four of sixteen tallies came out wrong; these are from an upright render.",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

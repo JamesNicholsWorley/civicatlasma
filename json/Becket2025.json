@@ -1,0 +1,155 @@
+{
+  "elections": [
+    {
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Howard Lerner",
+          "votes": 185
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 41,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Becket",
+      "date": "2025-05-17",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Finance Committee vote 2",
+      "num_winners": 2,
+      "candidates": [
+        {
+          "name_original": "Ronald Defoe",
+          "votes": 206
+        },
+        {
+          "name_original": "Daniel Parnell",
+          "votes": 199
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Becket",
+      "date": "2025-05-17",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Select Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Christopher Swindlehurst",
+          "votes": 136
+        },
+        {
+          "name_original": "David Johnson",
+          "votes": 95
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Becket",
+      "date": "2025-05-17",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Cemetery Commission",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Sarah Francis",
+          "votes": 219
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Becket",
+      "date": "2025-05-17",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "candidates": [
+        {
+          "name_original": "Robert T. Ronzio",
+          "votes": 47
+        },
+        {
+          "name_original": "John Verity",
+          "votes": 183
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "municipality": "Becket",
+      "date": "2025-05-17",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.85,
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Becket2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Becket2025.pdf",
+  "ballots_cast": 233,
+  "ballots_cast_source": "derived_from_contests"
+}

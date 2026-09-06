@@ -1,0 +1,185 @@
+{
+  "document": {
+    "heading_verbatim": "<UNKNOWN>",
+    "election_type": "Regular",
+    "election_type_evidence": "Document presents standard town election results with multiple municipal offices (Moderator, Select Board, School Committee, Planning Board, Library Trustee) with votes tallied by precinct, consistent with an annual/regular municipal election.",
+    "date_verbatim": "",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 5,
+    "uncontested_remainder": false,
+    "date_corroboration": {
+      "source": "the same document, on a page outside the crop",
+      "value": "2024-05-28",
+      "strength": "corroborated",
+      "quote": "the crop prints no date; the facing page of the same annual report reads \"Annual Town Election May 28, 2024\". Verified 2026-08-25.",
+      "citation": "https://archives.lib.state.ma.us/server/api/core/bitstreams/f61c6acf-15a1-4819-89ae-bba6eb454831/content",
+      "note": "established 2026-08-25 by src/land_ingest9.py, verified against the source PDF"
+    }
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "office_original": "Moderator",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stuart Kenneth L.",
+          "votes": 1412
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 232,
+          "tally_row": true
+        }
+      ],
+      "date": "2024-05-28",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anderson Jonathan D.",
+          "votes": 1289
+        },
+        {
+          "name_original": "Limanek Jesse P.",
+          "votes": 1266
+        },
+        {
+          "name_original": "Others",
+          "votes": 48,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 697,
+          "tally_row": true
+        }
+      ],
+      "date": "2024-05-28",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brennan Paul E.",
+          "votes": 565
+        },
+        {
+          "name_original": "Gibbons Benjamin L.",
+          "votes": 953
+        },
+        {
+          "name_original": "Gautreau Matthew S.",
+          "votes": 389
+        },
+        {
+          "name_original": "Kozaczka Jill",
+          "votes": 980
+        },
+        {
+          "name_original": "Levins Amy",
+          "votes": 194
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 197,
+          "tally_row": true
+        }
+      ],
+      "date": "2024-05-28",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Largess Robert S.",
+          "votes": 1386
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 256,
+          "tally_row": true
+        }
+      ],
+      "date": "2024-05-28",
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "office_original": "Library Trustee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Geneva Joanne",
+          "votes": 1387
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 254,
+          "tally_row": true
+        }
+      ],
+      "date": "2024-05-28",
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Sutton2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sutton2024.pdf",
+  "ballots_cast": 1650,
+  "ballots_cast_source": "derived_from_contests"
+}

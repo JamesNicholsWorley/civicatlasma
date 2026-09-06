@@ -1,0 +1,183 @@
+{
+  "elections": [
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Joseph McCann",
+          "votes": 1207
+        },
+        {
+          "name_original": "Jerry Taverna",
+          "votes": 844
+        },
+        {
+          "name_original": "David Gibbons",
+          "votes": 578
+        },
+        {
+          "name_original": "Donna Pursel",
+          "votes": 502
+        },
+        {
+          "name_original": "Kathleen Ann Barclay",
+          "votes": 382
+        },
+        {
+          "name_original": "Moraiba Reyes",
+          "votes": 329
+        },
+        {
+          "name_original": "Philip Bellone",
+          "votes": 216
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Select Board",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Brian McCarthy",
+          "votes": 1065
+        },
+        {
+          "name_original": "James Ianiri",
+          "votes": 731
+        },
+        {
+          "name_original": "Steven Greenberg",
+          "votes": 503
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Assessor",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Mario Grieco",
+          "votes": 1460
+        },
+        {
+          "name_original": "Pamela Sinton-Coffman",
+          "votes": 1307
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Redevelopment Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Patrick Finn",
+          "votes": 1075
+        },
+        {
+          "name_original": "Daniel Kernan",
+          "votes": 1060
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Redevelopment Authority",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Adrienne Paquin",
+          "votes": 1356
+        },
+        {
+          "name_original": "Edwin Parsons",
+          "votes": 706
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "School Committee",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Ernest Minelli",
+          "votes": 1032
+        },
+        {
+          "name_original": "Fay Ferency",
+          "votes": 911
+        },
+        {
+          "name_original": "Colby Mahoney",
+          "votes": 589
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Hull",
+      "date": "2023-05-15",
+      "office_original": "Trustees of the Public Library",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Emily Garr",
+          "votes": 1117
+        },
+        {
+          "name_original": "Sasha Green",
+          "votes": 569
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hull2023",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

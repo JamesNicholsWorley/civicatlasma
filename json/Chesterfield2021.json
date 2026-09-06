@@ -1,0 +1,112 @@
+{
+  "document": {
+    "heading_verbatim": "Chesterfield, MA — Annual Town Election, Monday 3 May 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "Monday 3 May 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "This year's annual town election featured three positions on the ballot with no one running for them. However, write-in votes failed to fill any of them. Every other office was uncontested and no counts are reported for any of them; the article says only that 'everyone on the ballot was elected'."
+  },
+  "elections": [
+    {
+      "municipality": "Chesterfield",
+      "date": "2021-05-03",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Roger Fuller",
+          "votes": 39
+        },
+        {
+          "name_original": "Ed Severance",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Chesterfield",
+      "date": "2021-05-03",
+      "office_original": "Hampshire Regional School Committee",
+      "district_original": "1 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Megan Shiels-Willard",
+          "votes": 1
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Chesterfield",
+      "date": "2021-05-03",
+      "office_original": "Hampshire Regional School Committee",
+      "district_original": "3 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Mary Ellen Blais",
+          "votes": 1
+        },
+        {
+          "name_original": "Donald Willard",
+          "votes": 1
+        },
+        {
+          "name_original": "Jennifer Bak",
+          "votes": 1
+        },
+        {
+          "name_original": "Trish Colson-Montgomery",
+          "votes": 1
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Chesterfield",
+      "date": "2021-05-03",
+      "office_original": "Planning Board",
+      "district_original": "2 year",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.8,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Chesterfield2021",
+  "_source_pdf": "",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

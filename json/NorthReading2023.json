@@ -1,0 +1,124 @@
+{
+  "elections": [
+    {
+      "municipality": "North Reading",
+      "date": "2023-05-02",
+      "office_original": "SELECT BOARD",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 27,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jack A. Carroll",
+          "votes": 348
+        },
+        {
+          "name_original": "Vincenzo Stuto",
+          "votes": 532
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2023-05-02",
+      "office_original": "MODERATOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 221,
+          "tally_row": true
+        },
+        {
+          "name_original": "John J. Murphy",
+          "votes": 680
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2023-05-02",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        },
+        {
+          "name_original": "Scott T. Buckley",
+          "votes": 706
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "North Reading",
+      "date": "2023-05-02",
+      "office_original": "COMMUNITY PLANNING COMMISSION",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Jeffrey P. Griffin",
+          "votes": 531
+        },
+        {
+          "name_original": "Christopher B. Hayden",
+          "votes": 349
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "NorthReading2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthReading2023.pdf",
+  "ballots_cast": 912,
+  "ballots_cast_source": "derived_from_contests"
+}

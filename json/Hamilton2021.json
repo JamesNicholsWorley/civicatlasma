@@ -1,0 +1,217 @@
+{
+  "elections": [
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "Selectman (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 367,
+          "tally_row": true
+        },
+        {
+          "name_original": "Shawn M. Farrell",
+          "votes": 597
+        },
+        {
+          "name_original": "William A. Olson",
+          "votes": 497
+        },
+        {
+          "name_original": "Brian L. Shaw",
+          "votes": 484
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "Moderator (1 year)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 290,
+          "tally_row": true
+        },
+        {
+          "name_original": "William F. Bowler",
+          "votes": 677
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "Board of Assessors (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 292,
+          "tally_row": true
+        },
+        {
+          "name_original": "Steven G. Ozahowski",
+          "votes": 684
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "Planning Board (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 695,
+          "tally_row": true
+        },
+        {
+          "name_original": "Frederick G. Mitchell",
+          "votes": 576
+        },
+        {
+          "name_original": "Jonathan F. Poore",
+          "votes": 679
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "Housing Authority (5 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 307,
+          "tally_row": true
+        },
+        {
+          "name_original": "Sherryl L. Leonard",
+          "votes": 671
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "H-W Library Trustees At Large (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 655,
+          "tally_row": true
+        },
+        {
+          "name_original": "Dianne L. Johnson",
+          "votes": 676
+        },
+        {
+          "name_original": "Cara A. Fauci",
+          "votes": 627
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Hamilton",
+      "date": "2021-05-06",
+      "office_original": "H-W Regional School Committee (3 years)",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Blanks",
+          "votes": 645,
+          "tally_row": true
+        },
+        {
+          "name_original": "Julia C. Campbell",
+          "votes": 657
+        },
+        {
+          "name_original": "Jennifer A. Carr",
+          "votes": 650
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Hamilton2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hamilton2021.pdf",
+  "ballots_cast": 981,
+  "ballots_cast_source": "derived_from_contests"
+}

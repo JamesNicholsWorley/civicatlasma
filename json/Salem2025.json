@@ -1,0 +1,367 @@
+{
+  "elections": [
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "MAYOR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "DOMINICK S. PANGALLO",
+          "votes": 4986
+        },
+        {
+          "name_original": "WRITE-INS (All Others)",
+          "votes": 205
+        },
+        {
+          "name_original": "JUSTIN WHITTER",
+          "votes": 17
+        },
+        {
+          "name_original": "TIM FLYNN",
+          "votes": 28
+        },
+        {
+          "name_original": "NEIL HARRINGTON",
+          "votes": 10
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 2
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 1605
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "JOHN C. HARVEY",
+          "votes": 2461
+        },
+        {
+          "name_original": "KYLE ALEXANDER DAVIS",
+          "votes": 3709
+        },
+        {
+          "name_original": "CONRAD J. PROSNIEWSKI",
+          "votes": 3892
+        },
+        {
+          "name_original": "TY HAPWORTH",
+          "votes": 3713
+        },
+        {
+          "name_original": "ALICE ROSE MERKL",
+          "votes": 4239
+        },
+        {
+          "name_original": "WRITE-INS (All Others)",
+          "votes": 57
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 12
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 9329
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "BETH ANNE CORNELL",
+          "votes": 4289
+        },
+        {
+          "name_original": "MEGAN STOTT",
+          "votes": 3678
+        },
+        {
+          "name_original": "YAMILY BYAS",
+          "votes": 3440
+        },
+        {
+          "name_original": "WRITE-INS (All Others)",
+          "votes": 39
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 6
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 9107
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD ONE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "CYNTHIA A. JERZYLO",
+          "votes": 426
+        },
+        {
+          "name_original": "ERIN TUROWSKI",
+          "votes": 622
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 0
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 18
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD TWO",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "WILLIAM H. LEGAULT",
+          "votes": 615
+        },
+        {
+          "name_original": "ANDREW JUSTIN SMITH",
+          "votes": 736
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 1
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 30
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD THREE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "JASON SYDORIAK",
+          "votes": 451
+        },
+        {
+          "name_original": "KEVIN F. DOHERTY",
+          "votes": 234
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 0
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 38
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD FOUR",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "TIMOTHY G. FLYNN",
+          "votes": 538
+        },
+        {
+          "name_original": "EMMYLOU NOELLE MANWILL",
+          "votes": 516
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 1
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 7
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD FIVE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "LYDIA C. KING",
+          "votes": 637
+        },
+        {
+          "name_original": "ZACHARY T. CALDERON",
+          "votes": 418
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 0
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 21
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD SIX",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "KATELYN HOLAPPA",
+          "votes": 713
+        },
+        {
+          "name_original": "ROBERT H. CAMIRE",
+          "votes": 262
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 1
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 26
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Salem",
+      "date": "2025-11-04",
+      "office_original": "COUNCILLOR WARD SEVEN",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.97,
+      "candidates": [
+        {
+          "name_original": "ANDREW W. VARELA",
+          "votes": 390
+        },
+        {
+          "name_original": "STEVE DIBBLE",
+          "votes": 5
+        },
+        {
+          "name_original": "WRITE-INS",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "OVERVOTES",
+          "votes": 0
+        },
+        {
+          "name_original": "UNDERVOTES",
+          "votes": 128
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    }
+  ],
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

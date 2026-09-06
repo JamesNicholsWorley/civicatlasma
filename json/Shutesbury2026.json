@@ -1,0 +1,268 @@
+{
+  "document": {
+    "heading_verbatim": "FINAL ELECTION RESULTS",
+    "election_type": "Regular",
+    "election_type_evidence": "No indication of special election; dated May 9, 2026, consistent with regular annual town election.",
+    "date_verbatim": "May 9. 2026",
+    "offices_on_ballot": 10,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Claire R. Pless",
+          "votes": 432
+        },
+        {
+          "name_original": "Garrett W. Simonsen",
+          "votes": 423
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 233,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Board of Library Trustees",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anne Hartwell Graham",
+          "votes": 423
+        },
+        {
+          "name_original": "Elizabeth India Murphy",
+          "votes": 429
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 237,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Walter R. Tibbetts",
+          "votes": 478
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 66,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Constable",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Walter Tibbets",
+          "votes": 5
+        },
+        {
+          "name_original": "Others",
+          "votes": 28,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 509,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Municipal Light Plant Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew James Reagan",
+          "votes": 437
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 107,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Steven H. Bressler",
+          "votes": 423
+        },
+        {
+          "name_original": "Michael Joseph DeChiara",
+          "votes": 422
+        },
+        {
+          "name_original": "Thomas Siefert",
+          "votes": 66
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 741,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anna Cederberg Heard",
+          "votes": 429
+        },
+        {
+          "name_original": "Megan Lennon",
+          "votes": 35
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 618,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Thomas R. Siefert",
+          "votes": 149
+        },
+        {
+          "name_original": "James P. Walton, Jr.",
+          "votes": 381
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Shutesbury",
+      "date": "2026-05-09",
+      "office_original": "Town Clerk",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Leslie Bracebridge",
+          "votes": 20
+        },
+        {
+          "name_original": "Others",
+          "votes": 50,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 474,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Shutesbury2026",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Shutesbury2026.pdf",
+  "ballots_cast": 544,
+  "ballots_cast_source": "derived_from_contests"
+}

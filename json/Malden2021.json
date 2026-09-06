@@ -1,0 +1,539 @@
+{
+  "elections": [
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR AT LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 4,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Craig Spadafora",
+          "votes": 3381
+        },
+        {
+          "name_original": "Karen Colon Hayes",
+          "votes": 3085
+        },
+        {
+          "name_original": "Brian J. Delacey",
+          "votes": 1483
+        },
+        {
+          "name_original": "Roberto L. Dimarco",
+          "votes": 2006
+        },
+        {
+          "name_original": "John P. Matheson",
+          "votes": 2078
+        },
+        {
+          "name_original": "Carey McDonald",
+          "votes": 2899
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6600,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peg Crowe",
+          "votes": 449
+        },
+        {
+          "name_original": "Nadege Philippe",
+          "votes": 153
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 1",
+      "district_original": "Ward 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michael E. Drummey",
+          "votes": 466
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 158,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul A. Condon",
+          "votes": 521
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 110,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 2",
+      "district_original": "Ward 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert S. McCarthy Jr.",
+          "votes": 510
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 114,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amanda Linehan",
+          "votes": 827
+        },
+        {
+          "name_original": "Glen Curtis",
+          "votes": 453
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 29,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 3",
+      "district_original": "Ward 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer M. Spadafora",
+          "votes": 948
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 335,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ryan J. O'Malley",
+          "votes": 459
+        },
+        {
+          "name_original": "Jeffrey A. Donahue",
+          "votes": 206
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 13,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 4",
+      "district_original": "Ward 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Dawn M. Macklin",
+          "votes": 466
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 198,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Barbara M. Murphy",
+          "votes": 668
+        },
+        {
+          "name_original": "Ari Taylor",
+          "votes": 538
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 5",
+      "district_original": "Ward 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Adam Weldai",
+          "votes": 946
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 262,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jerry Leone",
+          "votes": 338
+        },
+        {
+          "name_original": "Stephen P. Winslow",
+          "votes": 564
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 6",
+      "district_original": "Ward 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph S. Gray",
+          "votes": 678
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 232,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Michelle A Luong",
+          "votes": 386
+        },
+        {
+          "name_original": "Chris Simonelli",
+          "votes": 509
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 7",
+      "district_original": "Ward 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Keith Eric Bernard",
+          "votes": 483
+        },
+        {
+          "name_original": "Nichole D Mossalam",
+          "votes": 302
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 103,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "COUNCILLOR - WARD 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jadeane M. Sica",
+          "votes": 465
+        },
+        {
+          "name_original": "Nate Bae Kupel",
+          "votes": 385
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Malden",
+      "date": "2021-11-02",
+      "office_original": "SCHOOL COMMITTEE - WARD 8",
+      "district_original": "Ward 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Bruce Friedman",
+          "votes": 163
+        },
+        {
+          "name_original": "Sharyn Rose-Zeiberg",
+          "votes": 614
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 79,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Malden2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Malden2021.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

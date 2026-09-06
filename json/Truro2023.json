@@ -1,0 +1,201 @@
+{
+  "elections": [
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "SELECT BOARD, Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "STEPHANIE J REIN",
+          "votes": 436
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 130,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "SCHOOL COMMITTEE, Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "KOLBY JACKSON BLEHM",
+          "votes": 423
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 140,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 19,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "LIBRARY TRUSTEE, Three Years",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MARTHA R MAGANE",
+          "votes": 493
+        },
+        {
+          "name_original": "NOLA P. GLATZEL",
+          "votes": 42
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 634,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "CEMETERY COMMISSION, Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "HOLLY GARDNER",
+          "votes": 482
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 108,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "PLANNING BOARD, Five Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "VIRGINIA M FRAZIER",
+          "votes": 422
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 152,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "HOUSING AUTHORITY, Five Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "MELISSA L WHEELER",
+          "votes": 439
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 146,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Truro",
+      "date": "2023-05-09",
+      "office_original": "MODERATOR, Three Years",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "PAUL WISOTZKY",
+          "votes": 362
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 202,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 26,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Truro2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Truro2023.pdf",
+  "ballots_cast": 590,
+  "ballots_cast_source": "derived_from_contests"
+}

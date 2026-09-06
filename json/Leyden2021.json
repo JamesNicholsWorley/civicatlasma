@@ -1,0 +1,309 @@
+{
+  "document": {
+    "heading_verbatim": "2021 Town Election Results For June 28, 2021",
+    "election_type": "Regular",
+    "election_type_evidence": "The heading states 'Town Election' without qualifier; the date format is consistent with a regular annual town election.",
+    "date_verbatim": "June 28, 2021",
+    "is_sample_ballot": false,
+    "offices_on_ballot": 10,
+    "uncontested_remainder": false
+  },
+  "elections": [
+    {
+      "office_original": "Assessor",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Kenneth Spatcher",
+          "votes": 142
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Board of Health, 3yr",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marcia Miller",
+          "votes": 148
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 22,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Board of Health, 2yr",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carol Kuzdeba",
+          "votes": 2
+        },
+        {
+          "name_original": "Gerald Sanville",
+          "votes": 1
+        },
+        {
+          "name_original": "Mary Glabach",
+          "votes": 1
+        },
+        {
+          "name_original": "Jill Cote",
+          "votes": 1
+        },
+        {
+          "name_original": "Ann Zaveruha",
+          "votes": 1
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Constable",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Philip Juliani",
+          "votes": 145
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Library Trustee",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Richard DiMatteo",
+          "votes": 149
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Emily Yazwinski",
+          "votes": 144
+        },
+        {
+          "name_original": "Rob Snedecker",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 25,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Moderator",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Katherine DiMatteo",
+          "votes": 148
+        },
+        {
+          "name_original": "Rob Snedecker",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Town Clerk",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gilda Galvis",
+          "votes": 112
+        },
+        {
+          "name_original": "Jessica Snow",
+          "votes": 33
+        },
+        {
+          "name_original": "Lewis Becker",
+          "votes": 25
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "office_original": "Tree Warden",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Brooks",
+          "votes": 154
+        },
+        {
+          "name_original": "Nikolas Adamski",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 15,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Selectboard, 3yr",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jeffrey Neipp",
+          "votes": 136
+        },
+        {
+          "name_original": "Robin Neipp",
+          "votes": 1
+        },
+        {
+          "name_original": "Jim Brodeur",
+          "votes": 1
+        },
+        {
+          "name_original": "Andy Baker",
+          "votes": 1
+        },
+        {
+          "name_original": "Rob Snedecker",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "office_original": "Selectboard, 1yr",
+      "num_winners": 1,
+      "municipality": "Leyden",
+      "date": "2021-06-28",
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Erica Jensen",
+          "votes": 140
+        },
+        {
+          "name_original": "A.J. Egloff",
+          "votes": 1
+        },
+        {
+          "name_original": "Lance Fritz",
+          "votes": 1
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Leyden2021",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leyden2021.pdf",
+  "ballots_cast": 170,
+  "ballots_cast_source": "derived_from_contests"
+}

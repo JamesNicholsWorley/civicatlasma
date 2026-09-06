@@ -1,0 +1,364 @@
+{
+  "elections": [
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "COUNCILOR-AT-LARGE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrew J. Steinberg",
+          "votes": 2392
+        },
+        {
+          "name_original": "Ellisha M. Walker",
+          "votes": 2191
+        },
+        {
+          "name_original": "Mandi Jo Hanneke",
+          "votes": 2261
+        },
+        {
+          "name_original": "Jamie Danielle Daniels",
+          "votes": 2044
+        },
+        {
+          "name_original": "Matthew W. Holloway",
+          "votes": 2129
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2379,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT 1 COUNCILOR",
+      "district_original": "District 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ndifreke Ette",
+          "votes": 305
+        },
+        {
+          "name_original": "Vincent J. O'Connor",
+          "votes": 241
+        },
+        {
+          "name_original": "Cathy Schoen",
+          "votes": 404
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 245,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT 2 COUNCILOR",
+      "district_original": "District 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Amber Lee Cano-Martin",
+          "votes": 396
+        },
+        {
+          "name_original": "Charlotte Allegra Clark",
+          "votes": 293
+        },
+        {
+          "name_original": "Lynn Griesemer",
+          "votes": 595
+        },
+        {
+          "name_original": "Patricia Catherine DeAngelis",
+          "votes": 554
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 151,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT 3 COUNCILOR",
+      "district_original": "District 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Patrick M. Drumm",
+          "votes": 320
+        },
+        {
+          "name_original": "Heather A. Lord",
+          "votes": 545
+        },
+        {
+          "name_original": "George E. Ryan",
+          "votes": 530
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 359,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT 4 COUNCILOR",
+      "district_original": "District 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pamela S. Rooney",
+          "votes": 374
+        },
+        {
+          "name_original": "Dillon Maxfield",
+          "votes": 114
+        },
+        {
+          "name_original": "Jennifer Lynn Taub",
+          "votes": 369
+        },
+        {
+          "name_original": "Anika Lopes",
+          "votes": 330
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 123,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "DISTRICT 5 COUNCILOR",
+      "district_original": "District 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert E. Hegner",
+          "votes": 921
+        },
+        {
+          "name_original": "Ana Devlin Gauthier",
+          "votes": 952
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 819,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "SCHOOL COMMITTEE",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 5,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jennifer C. Shiao",
+          "votes": 2392
+        },
+        {
+          "name_original": "Bridget A. Hynes",
+          "votes": 1988
+        },
+        {
+          "name_original": "Martha Del Carmen Toro",
+          "votes": 1870
+        },
+        {
+          "name_original": "Laura Jane Hunter",
+          "votes": 1798
+        },
+        {
+          "name_original": "Irvin E. Rhodes",
+          "votes": 2753
+        },
+        {
+          "name_original": "Deborah Lee Leonard",
+          "votes": 2121
+        },
+        {
+          "name_original": "Sarah A. Marshall",
+          "votes": 2555
+        },
+        {
+          "name_original": "Others",
+          "votes": 166,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 6757,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "LIBRARY BOARD OF TRUSTEES",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 6,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Farah Ameen",
+          "votes": 2553
+        },
+        {
+          "name_original": "Tamson Ely",
+          "votes": 2399
+        },
+        {
+          "name_original": "Robert Pam",
+          "votes": 2615
+        },
+        {
+          "name_original": "Lee R. Edwards",
+          "votes": 2387
+        },
+        {
+          "name_original": "Austin D. Sarat",
+          "votes": 2512
+        },
+        {
+          "name_original": "Edward McGlynn",
+          "votes": 1073
+        },
+        {
+          "name_original": "Eugene A. Goffredo",
+          "votes": 1886
+        },
+        {
+          "name_original": "Others",
+          "votes": 40,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 11415,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Amherst",
+      "date": "2023-11-07",
+      "office_original": "HOUSING AUTHORITY",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 3,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David W. Williams",
+          "votes": 2630
+        },
+        {
+          "name_original": "Others",
+          "votes": 105,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10705,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Amherst2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Amherst2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

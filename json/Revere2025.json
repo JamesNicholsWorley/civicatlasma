@@ -1,0 +1,438 @@
+{
+  "elections": [
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor At Large",
+      "num_winners": 5,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert J. Haas",
+          "votes": 2503
+        },
+        {
+          "name_original": "Juan Pablo Jaramillo",
+          "votes": 2069
+        },
+        {
+          "name_original": "Michelle Kelley",
+          "votes": 2102
+        },
+        {
+          "name_original": "Marc Silvestri",
+          "votes": 2082
+        },
+        {
+          "name_original": "Anthony T. Zambuto",
+          "votes": 2162
+        },
+        {
+          "name_original": "Joanne McKenna",
+          "votes": 2362
+        },
+        {
+          "name_original": "Anthony Parziale",
+          "votes": 1417
+        },
+        {
+          "name_original": "Wayne D. Rose",
+          "votes": 1051
+        },
+        {
+          "name_original": "Others",
+          "votes": 44,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 10073,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee At Large",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stacey Bronsdon-Rizzo",
+          "votes": 2068
+        },
+        {
+          "name_original": "Ralph DeCicco Jr.",
+          "votes": 1470
+        },
+        {
+          "name_original": "John F. Kingston",
+          "votes": 1998
+        },
+        {
+          "name_original": "Frederick Anthony Sannella",
+          "votes": 1378
+        },
+        {
+          "name_original": "Others",
+          "votes": 31,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 3401,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward One",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Brian Averback",
+          "votes": 243
+        },
+        {
+          "name_original": "James G. Mercurio",
+          "votes": 653
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward One",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jacqueline G. Monterroso",
+          "votes": 458
+        },
+        {
+          "name_original": "Kathryn Schulte Grahame",
+          "votes": 427
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 134,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward Two",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ira Novoselsky",
+          "votes": 336
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 95,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward Two",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rafael A. Feliciano",
+          "votes": 172
+        },
+        {
+          "name_original": "Alexander Rhalimi",
+          "votes": 189
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 77,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward Three",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony Saverio Cogliandro",
+          "votes": 609
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 164,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward Three",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Anthony L. Caggiano",
+          "votes": 563
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 208,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward Four",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Paul V. Argenzio",
+          "votes": 735
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 149,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward Four",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Stephen Damiano Jr.",
+          "votes": 636
+        },
+        {
+          "name_original": "Others",
+          "votes": 35,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 220,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward Five",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Angela Guarino-Sawaya",
+          "votes": 866
+        },
+        {
+          "name_original": "Others",
+          "votes": 22,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 277,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward Five",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Aisha Milbury-Ellis",
+          "votes": 778
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 380,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "Councillor Ward Six",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Christopher Giannino",
+          "votes": 633
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 228,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "City of Revere",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward Six",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Vanessa J. Biasella",
+          "votes": 534
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 333,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Revere2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Revere2025.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}

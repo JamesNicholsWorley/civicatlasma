@@ -1,0 +1,877 @@
+{
+  "document": {
+    "heading_verbatim": "***LOCAL ELECTION RESULTS FINAL***",
+    "date_verbatim": "5-Apr-22",
+    "election_type": "Regular",
+    "election_type_evidence": "***LOCAL ELECTION RESULTS FINAL*** dated 5-Apr-22 indicates a regular municipal election held on that date",
+    "offices_on_ballot": 8,
+    "is_sample_ballot": false,
+    "uncontested_remainder": false,
+    "uncontested_remainder_evidence": ""
+  },
+  "elections": [
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "SELECT BOARD",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph M Mokrisky",
+          "votes": 582
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 231,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 30,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "REDEVELOPMENT AUTHORITY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Peter Brown",
+          "votes": 84
+        },
+        {
+          "name_original": "Andrew Ward",
+          "votes": 93
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 653,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "SCHOOL COMMITTEE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Katherine Weiss",
+          "votes": 135
+        },
+        {
+          "name_original": "Lindsay Kreckler",
+          "votes": 147
+        },
+        {
+          "name_original": "Denise Walsh",
+          "votes": 7
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1365,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 32,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 1",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 11,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sandra L. Sousa",
+          "votes": 46
+        },
+        {
+          "name_original": "Juan C Fox",
+          "votes": 42
+        },
+        {
+          "name_original": "Julie Linehan",
+          "votes": 47
+        },
+        {
+          "name_original": "Joseph O Scardino",
+          "votes": 45
+        },
+        {
+          "name_original": "Stephen E Phillips",
+          "votes": 41
+        },
+        {
+          "name_original": "Michael T Sullivan",
+          "votes": 37
+        },
+        {
+          "name_original": "Chester Stanley Collins",
+          "votes": 48
+        },
+        {
+          "name_original": "John Linehan",
+          "votes": 48
+        },
+        {
+          "name_original": "Kelly McMorrow",
+          "votes": 40
+        },
+        {
+          "name_original": "Kendall V Bennett",
+          "votes": 40
+        },
+        {
+          "name_original": "Maggie Giusti",
+          "votes": 3
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1266,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 2",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 19,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Philip Connors",
+          "votes": 50
+        },
+        {
+          "name_original": "Scott D. Carrara",
+          "votes": 70
+        },
+        {
+          "name_original": "Molly Cochran",
+          "votes": 55
+        },
+        {
+          "name_original": "Ian Turlin",
+          "votes": 43
+        },
+        {
+          "name_original": "Lisa M Lyons",
+          "votes": 51
+        },
+        {
+          "name_original": "Peter E. Banis",
+          "votes": 53
+        },
+        {
+          "name_original": "Denise Bronson",
+          "votes": 34
+        },
+        {
+          "name_original": "Ginger A Hoffman",
+          "votes": 51
+        },
+        {
+          "name_original": "Elizabeth D Giordano",
+          "votes": 42
+        },
+        {
+          "name_original": "Peter E. Murphy",
+          "votes": 44
+        },
+        {
+          "name_original": "George L. Dolinsky",
+          "votes": 53
+        },
+        {
+          "name_original": "Joaquin J Soares",
+          "votes": 42
+        },
+        {
+          "name_original": "Martha M Sampson",
+          "votes": 46
+        },
+        {
+          "name_original": "Mary Ann Killgoar",
+          "votes": 65
+        },
+        {
+          "name_original": "Jeffrey C Blacker",
+          "votes": 35
+        },
+        {
+          "name_original": "Gregg W Pokraka",
+          "votes": 46
+        },
+        {
+          "name_original": "Margaret N Sewcyk",
+          "votes": 65
+        },
+        {
+          "name_original": "Lawrence E Sauer",
+          "votes": 40
+        },
+        {
+          "name_original": "John P Distefano",
+          "votes": 44
+        },
+        {
+          "name_original": "Paul T Demusz",
+          "votes": 33
+        },
+        {
+          "name_original": "Anthony G Ferzoco III",
+          "votes": 42
+        },
+        {
+          "name_original": "Eric Anthony Anderson Jr",
+          "votes": 44
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1635,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 3",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 21,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "John T Perry",
+          "votes": 66
+        },
+        {
+          "name_original": "Mary T Coulter-Bennett",
+          "votes": 70
+        },
+        {
+          "name_original": "Laura M. Bushlow",
+          "votes": 67
+        },
+        {
+          "name_original": "Ann Elizabeth Fiske",
+          "votes": 60
+        },
+        {
+          "name_original": "Cynthia A. Walsh",
+          "votes": 76
+        },
+        {
+          "name_original": "John M Roch",
+          "votes": 57
+        },
+        {
+          "name_original": "Marguerite M. Mitchell",
+          "votes": 66
+        },
+        {
+          "name_original": "Kevin P Monohan",
+          "votes": 66
+        },
+        {
+          "name_original": "Brian J Holmes",
+          "votes": 72
+        },
+        {
+          "name_original": "David J Walsh",
+          "votes": 59
+        },
+        {
+          "name_original": "Megan Elizabeth Costa",
+          "votes": 60
+        },
+        {
+          "name_original": "Melissa Annsousa Lynch",
+          "votes": 62
+        },
+        {
+          "name_original": "Daniel D. Bushlow",
+          "votes": 65
+        },
+        {
+          "name_original": "Donna Lynch Brown",
+          "votes": 58
+        },
+        {
+          "name_original": "Peter J Brown",
+          "votes": 65
+        },
+        {
+          "name_original": "John Walsh",
+          "votes": 5
+        },
+        {
+          "name_original": "Lester Davis",
+          "votes": 16
+        },
+        {
+          "name_original": "Daniel Pessia",
+          "votes": 19
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1918,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 55,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 4",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 23,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Katherine A Weiss",
+          "votes": 62
+        },
+        {
+          "name_original": "Davina R Owens",
+          "votes": 51
+        },
+        {
+          "name_original": "John M Anzivino",
+          "votes": 66
+        },
+        {
+          "name_original": "Ellen Hahn",
+          "votes": 47
+        },
+        {
+          "name_original": "Mark W Struck",
+          "votes": 51
+        },
+        {
+          "name_original": "Vaughn F. Enokian",
+          "votes": 64
+        },
+        {
+          "name_original": "Louis F Gitto",
+          "votes": 94
+        },
+        {
+          "name_original": "Edward B Trunfio",
+          "votes": 49
+        },
+        {
+          "name_original": "Arlene Cachopa",
+          "votes": 58
+        },
+        {
+          "name_original": "Mari-Kate Pina-Enokian",
+          "votes": 68
+        },
+        {
+          "name_original": "Amy Puliafico",
+          "votes": 47
+        },
+        {
+          "name_original": "Steven B Hahn",
+          "votes": 49
+        },
+        {
+          "name_original": "Patricia E Colburn",
+          "votes": 62
+        },
+        {
+          "name_original": "Carolyn J Campbell",
+          "votes": 53
+        },
+        {
+          "name_original": "Julianini M Gitto",
+          "votes": 89
+        },
+        {
+          "name_original": "James B Rush",
+          "votes": 59
+        },
+        {
+          "name_original": "James W Curtin",
+          "votes": 55
+        },
+        {
+          "name_original": "David Billo",
+          "votes": 60
+        },
+        {
+          "name_original": "Sean L Carr",
+          "votes": 67
+        },
+        {
+          "name_original": "Alicia Rinaldi",
+          "votes": 51
+        },
+        {
+          "name_original": "Armando Barbosa",
+          "votes": 11
+        },
+        {
+          "name_original": "Gerald McDonald",
+          "votes": 28
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1980,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 9,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 54,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 5",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 10,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Robert M. Cohn",
+          "votes": 57
+        },
+        {
+          "name_original": "Carmel Trintiy Drewes",
+          "votes": 41
+        },
+        {
+          "name_original": "Jessica L Miner",
+          "votes": 41
+        },
+        {
+          "name_original": "Danielle R. Lanson",
+          "votes": 40
+        },
+        {
+          "name_original": "Janice M Esdale",
+          "votes": 46
+        },
+        {
+          "name_original": "Arghavan Schumacher",
+          "votes": 39
+        },
+        {
+          "name_original": "Larry Verdun",
+          "votes": 48
+        },
+        {
+          "name_original": "Forest C lindwall",
+          "votes": 45
+        },
+        {
+          "name_original": "Eric J. Kolman",
+          "votes": 51
+        },
+        {
+          "name_original": "Andrea Wasoka",
+          "votes": 44
+        },
+        {
+          "name_original": "Kristen Vale",
+          "votes": 14
+        },
+        {
+          "name_original": "Neil Vale",
+          "votes": 14
+        },
+        {
+          "name_original": "Michael Horan",
+          "votes": 15
+        },
+        {
+          "name_original": "Eileen Maguire",
+          "votes": 13
+        },
+        {
+          "name_original": "Laura Gunn",
+          "votes": 14
+        },
+        {
+          "name_original": "Peter Machula",
+          "votes": 14
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1165,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 6",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 15,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Sylvia Whiting",
+          "votes": 58
+        },
+        {
+          "name_original": "Christine M Iacobucci",
+          "votes": 70
+        },
+        {
+          "name_original": "Joseph C Figueiredo",
+          "votes": 61
+        },
+        {
+          "name_original": "Adam J Iacobucci",
+          "votes": 65
+        },
+        {
+          "name_original": "Linda M Gurtin",
+          "votes": 56
+        },
+        {
+          "name_original": "Frances T Bruttaniti",
+          "votes": 60
+        },
+        {
+          "name_original": "Janice Z Schneider",
+          "votes": 59
+        },
+        {
+          "name_original": "Bertrand J Durand III",
+          "votes": 50
+        },
+        {
+          "name_original": "David M Lurie",
+          "votes": 56
+        },
+        {
+          "name_original": "Debra C Roberts",
+          "votes": 72
+        },
+        {
+          "name_original": "Mary P. Shea",
+          "votes": 65
+        },
+        {
+          "name_original": "Joseph Piana",
+          "votes": 5
+        },
+        {
+          "name_original": "Wolfe Wu",
+          "votes": 5
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1514,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 7",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 12,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Rebecca Markson",
+          "votes": 44
+        },
+        {
+          "name_original": "Dianne J. Dolan",
+          "votes": 48
+        },
+        {
+          "name_original": "Robert Hufault Jr",
+          "votes": 40
+        },
+        {
+          "name_original": "Janai Mungalsingh",
+          "votes": 38
+        },
+        {
+          "name_original": "Sandra Groppi",
+          "votes": 49
+        },
+        {
+          "name_original": "Lindsey Kreckler",
+          "votes": 41
+        },
+        {
+          "name_original": "Dawn Hufault",
+          "votes": 38
+        },
+        {
+          "name_original": "Erdem A Ural",
+          "votes": 40
+        },
+        {
+          "name_original": "Roberta Harback",
+          "votes": 35
+        },
+        {
+          "name_original": "Robin Zoll",
+          "votes": 14
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1328,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2022-04-05",
+      "office_original": "TOWN MEETING REPRESENTATIVE",
+      "district_original": "Precinct 8",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 10,
+      "extraction_confidence": 0.85,
+      "candidates": [
+        {
+          "name_original": "Heidi Alane Tucker",
+          "votes": 37
+        },
+        {
+          "name_original": "Dave Sheehan",
+          "votes": 37
+        },
+        {
+          "name_original": "Stephan B Tapper",
+          "votes": 36
+        },
+        {
+          "name_original": "Debra M. Menz",
+          "votes": 35
+        },
+        {
+          "name_original": "Frank J Lyons",
+          "votes": 32
+        },
+        {
+          "name_original": "Stephen Cavey",
+          "votes": 39
+        },
+        {
+          "name_original": "Patricia C Yanikoski",
+          "votes": 35
+        },
+        {
+          "name_original": "Richard J Terry",
+          "votes": 33
+        },
+        {
+          "name_original": "Manuel M Pacheco",
+          "votes": 42
+        },
+        {
+          "name_original": "Glenn Alan Tucker",
+          "votes": 34
+        },
+        {
+          "name_original": "Janice M McKenna",
+          "votes": 37
+        },
+        {
+          "name_original": "Teresa Denise Tapper",
+          "votes": 35
+        },
+        {
+          "name_original": "Christine E Wilbur",
+          "votes": 29
+        },
+        {
+          "name_original": "Michael S Hardman",
+          "votes": 33
+        },
+        {
+          "name_original": "Kerry L Marrocco",
+          "votes": 33
+        },
+        {
+          "name_original": "Peter A Ventresco",
+          "votes": 36
+        },
+        {
+          "name_original": "Brooke Ouro-Djobo",
+          "votes": 9
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 854,
+          "tally_row": true
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Write-Ins",
+          "votes": 11,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stoughton2022",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2022.pdf",
+  "ballots_cast": 843,
+  "ballots_cast_source": "derived_from_contests"
+}

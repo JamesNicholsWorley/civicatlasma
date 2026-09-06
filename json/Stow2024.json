@@ -1,0 +1,209 @@
+{
+  "elections": [
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "SELECT BOARD",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Hector P Constantzos",
+          "votes": 284
+        },
+        {
+          "name_original": "John JT Toole",
+          "votes": 282
+        },
+        {
+          "name_original": "All Others",
+          "votes": 6,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 120,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "ASSESSOR",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Cynthia S Cummings",
+          "votes": 285
+        },
+        {
+          "name_original": "All Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 60,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "BOARD OF HEALTH",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marcia B Rising",
+          "votes": 295
+        },
+        {
+          "name_original": "All Others",
+          "votes": 10,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 50,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "NASHOBA REGIONAL SCHOOL DISTRICT COMM",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Andrea Nicole Kennedy",
+          "votes": 97
+        },
+        {
+          "name_original": "Lindsey C. Styckiewicz",
+          "votes": 221
+        },
+        {
+          "name_original": "All Others",
+          "votes": 0,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 28,
+          "tally_row": true
+        }
+      ],
+      "scope": "regional_district",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "RANDALL LIBRARY TRUSTEE",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Maureen B Busch",
+          "votes": 293
+        },
+        {
+          "name_original": "Mark Dexter",
+          "votes": 9
+        },
+        {
+          "name_original": "All Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 373,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "PLANNING BOARD",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Lori J Clark",
+          "votes": 296
+        },
+        {
+          "name_original": "All Others",
+          "votes": 2,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 48,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "Stow",
+      "date": "2024-05-18",
+      "office_original": "STOW HOUSING AUTHORITY",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Tracie Winslow",
+          "votes": 272
+        },
+        {
+          "name_original": "All Others",
+          "votes": 4,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 70,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    }
+  ],
+  "_source_stem": "Stow2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stow2024.pdf",
+  "ballots_cast": 355,
+  "ballots_cast_source": "derived_from_contests"
+}

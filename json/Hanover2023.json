@@ -1,0 +1,178 @@
+{
+  "elections": [
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Board of Assessors",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Richard Delaney",
+          "votes": 872
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Board of Health",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Ruuska Sawin",
+          "votes": 875
+        },
+        {
+          "name_original": "Others",
+          "votes": 12,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Board of Selectmen",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rhonda Louise Nyman",
+          "votes": 796
+        },
+        {
+          "name_original": "Vanessa Achille O'Connor",
+          "votes": 822
+        },
+        {
+          "name_original": "Others",
+          "votes": 23,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Planning Board",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Meaghan Ann Dunne",
+          "votes": 916
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "School Committee",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Peter Quinn Miraglia",
+          "votes": 803
+        },
+        {
+          "name_original": "Lisa Ann Adams",
+          "votes": 405
+        },
+        {
+          "name_original": "Jaclyn Accomando Jorgenson",
+          "votes": 770
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Town Moderator",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas T. Thomson",
+          "votes": 937
+        },
+        {
+          "name_original": "Others",
+          "votes": 21,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "Town of Hanover",
+      "date": "2023-05-13",
+      "office_original": "Trustee of the Public Library",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Pimhatai Koslowsky",
+          "votes": 802
+        },
+        {
+          "name_original": "Deborah A. Wessling",
+          "votes": 345
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    }
+  ],
+  "_source_stem": "Hanover2023",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hanover2023.pdf",
+  "ballots_cast": null,
+  "ballots_cast_source": "cannot_derive"
+}
