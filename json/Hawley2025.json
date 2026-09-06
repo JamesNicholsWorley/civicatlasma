@@ -1,0 +1,186 @@
+{
+ "document": {
+  "heading_verbatim": "Annual Town Election Results: May 5, 2025",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election Results: May 5, 2025",
+  "date_verbatim": "May 5, 2025",
+  "is_sample_ballot": false,
+  "offices_on_ballot": 9,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "the page lists each office and one name beneath it and prints no count for any of them",
+  "date_corroboration": {
+   "source": "the document itself, corroborated by a news preview",
+   "value": "2025-05-05",
+   "strength": "corroborated",
+   "quote": "Annual Town Election Results: May 5, 2025",
+   "note": "the Greenfield Recorder of 1 May 2025 says polls would be open \"Monday, May 5, from 11:45 a.m. to 7 p.m. at the Town Office at 8 Pudding Hollow Road\""
+  },
+  "source_note": "page 20 of the Town of Hawley Annual Town Report 2025, headed \"ANNUAL TOWN MEETING MINUTES / Monday, May 12, 2025\", which prints the 5 May election results above the meeting minutes"
+ },
+ "_source_stem": "Hawley2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hawley2025_d0.pdf",
+ "_source_sha256": "5a20406b0877b06297282b579c6834e4e21258446160f849d1c390fab6c3f0e3",
+ "_source_url": "https://townofhawley.com/wp-content/uploads/2026/04/Hawley-Town-Report-2025-FINAL.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "results_no_turnout",
+ "turnout_note": "not stated. The page's \"21 voters were in attendance\" is the Annual Town Meeting of 12 May, a week after the election, and is not turnout for the 5 May ballot.",
+ "elections": [
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Selectmen/Board of Health – 3 years",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Hussain Hamdan",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Assessor – 3 years",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Ed Brady",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Auditor – 1 year",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Ashley Harrison",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Moderator – 1 year",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Scott Purinton",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Town Clerk – 3 years",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [],
+   "scope": "at_large",
+   "blanks_printed": false,
+   "outcome_verbatim": "Invalid – Non-Resident"
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Hawlemont School Committee – 3 years",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Kiley Turner",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Hawlemont Non-Parent Rep – 1 year",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Suzanne Crawford",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Mohawk K-12 Rep – 3 years",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Suzanne Crawford",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2025-05-05",
+   "office_original": "Mohawk K-12 Rep – 1 year",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Robert Sears",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ]
+}
