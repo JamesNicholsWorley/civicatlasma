@@ -1,389 +1,385 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "SELECTMAN - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "SELECTMAN - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Deborah D'Amico",
-          "votes": 104
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Deborah D'Amico",
+     "votes": 104
     },
     {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "ARRSC - ROYALSTON - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carla Rabinowitz",
-          "votes": 76
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 42,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "BLANK",
+     "votes": 10,
+     "tally_row": true
     },
     {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "ARRSC - ATHOL - 3 YEAR",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Deborah Kuzmeskas",
-          "votes": 58
-        },
-        {
-          "name_original": "Lonnie Bonenfant",
-          "votes": 50
-        },
-        {
-          "name_original": "Elaine P. Gauthier",
-          "votes": 65
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 69,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "ARRSC - ATHOL - 1 YEAR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Theodore J. Mallet, III",
-          "votes": 84
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "CEMETERY COMMISSION - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Roy Smith",
-          "votes": 105
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "CONSTABLE - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Roland Hamel",
-          "votes": 102
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "LIBRARY TRUSTEE - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Basso",
-          "votes": 115
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "MODERATOR - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George Northrop",
-          "votes": 111
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "PLANNING BOARD - 5 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amy Sanden",
-          "votes": 99
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 22,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "ASSESSORS TWO YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BLANK",
-          "votes": 110,
-          "tally_row": true
-        },
-        {
-          "name_original": "James Richardson",
-          "votes": 6
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "ASSESSOR - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BLANK",
-          "votes": 103,
-          "tally_row": true
-        },
-        {
-          "name_original": "Stephen Chase",
-          "votes": 7
-        },
-        {
-          "name_original": "Jim Richardson",
-          "votes": 5
-        },
-        {
-          "name_original": "Nancy Melbourne",
-          "votes": 103
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "BOARD OF HEALTH - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BLANK",
-          "votes": 103,
-          "tally_row": true
-        },
-        {
-          "name_original": "Randy Divoll",
-          "votes": 12
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "TREE WARDEN - 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Larry Siegel",
-          "votes": 60
-        },
-        {
-          "name_original": "Mike Truehart",
-          "votes": 52
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Royalston",
-      "date": "2021-04-05",
-      "office_original": "TRUSTEES OF THE J.N. BARTLETT FUND - 1 YEAR",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Curtis Deveneau",
-          "votes": 99
-        },
-        {
-          "name_original": "Nancy Melbourne",
-          "votes": 103
-        },
-        {
-          "name_original": "Gary Winitzer",
-          "votes": 70
-        },
-        {
-          "name_original": "BLANK",
-          "votes": 200,
-          "tally_row": true
-        },
-        {
-          "name_original": "OTHERS",
-          "votes": 12,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "OTHERS",
+     "votes": 7,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Royalston2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Royalston2021.pdf",
-  "ballots_cast": 121,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "ARRSC - ROYALSTON - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carla Rabinowitz",
+     "votes": 76
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 42,
+     "tally_row": true
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "ARRSC - ATHOL - 3 YEAR",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Deborah Kuzmeskas",
+     "votes": 58
+    },
+    {
+     "name_original": "Lonnie Bonenfant",
+     "votes": 50
+    },
+    {
+     "name_original": "Elaine P. Gauthier",
+     "votes": 65
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 69,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "ARRSC - ATHOL - 1 YEAR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Theodore J. Mallet, III",
+     "votes": 84
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "CEMETERY COMMISSION - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Roy Smith",
+     "votes": 105
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "CONSTABLE - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Roland Hamel",
+     "votes": 102
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "LIBRARY TRUSTEE - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer Basso",
+     "votes": 115
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "MODERATOR - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George Northrop",
+     "votes": 111
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "PLANNING BOARD - 5 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Amy Sanden",
+     "votes": 99
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 22,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "ASSESSORS TWO YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 110,
+     "tally_row": true
+    },
+    {
+     "name_original": "James Richardson",
+     "votes": 6
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "ASSESSOR - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 103,
+     "tally_row": true
+    },
+    {
+     "name_original": "Stephen Chase",
+     "votes": 7
+    },
+    {
+     "name_original": "Jim Richardson",
+     "votes": 5
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "BOARD OF HEALTH - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 103,
+     "tally_row": true
+    },
+    {
+     "name_original": "Randy Divoll",
+     "votes": 12
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "TREE WARDEN - 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Larry Siegel",
+     "votes": 60
+    },
+    {
+     "name_original": "Mike Truehart",
+     "votes": 52
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Royalston",
+   "date": "2021-04-05",
+   "office_original": "TRUSTEES OF THE J.N. BARTLETT FUND - 1 YEAR",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Curtis Deveneau",
+     "votes": 99
+    },
+    {
+     "name_original": "Nancy Melbourne",
+     "votes": 103
+    },
+    {
+     "name_original": "Gary Winitzer",
+     "votes": 70
+    },
+    {
+     "name_original": "BLANK",
+     "votes": 200,
+     "tally_row": true
+    },
+    {
+     "name_original": "OTHERS",
+     "votes": 12,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Royalston2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Royalston2021.pdf",
+ "ballots_cast": 121,
+ "ballots_cast_source": "derived_from_contests"
 }

@@ -1,489 +1,489 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council At Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council At Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John M Drinkwater",
-          "votes": 5707
-        },
-        {
-          "name_original": "Rita M Mercier",
-          "votes": 5894
-        },
-        {
-          "name_original": "Vesna Nuon",
-          "votes": 6179
-        },
-        {
-          "name_original": "Deborah A Belanger",
-          "votes": 3447
-        },
-        {
-          "name_original": "Robert J Hoey Jr",
-          "votes": 2254
-        },
-        {
-          "name_original": "Bobby Tugbiyele",
-          "votes": 4126
-        },
-        {
-          "name_original": "Others",
-          "votes": 82,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "John M Drinkwater",
+     "votes": 5707
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 1",
-      "district_original": "District 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rodney M Elliott",
-          "votes": 867
-        },
-        {
-          "name_original": "Daniel P Rourke",
-          "votes": 1070
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Rita M Mercier",
+     "votes": 5894
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 2",
-      "district_original": "District 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Gignac",
-          "votes": 371
-        },
-        {
-          "name_original": "Corey M Robinson",
-          "votes": 1032
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Vesna Nuon",
+     "votes": 6179
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 3",
-      "district_original": "District 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John J Leahy",
-          "votes": 1454
-        },
-        {
-          "name_original": "William Bill Samaras",
-          "votes": 1054
-        },
-        {
-          "name_original": "Others",
-          "votes": 18,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Deborah A Belanger",
+     "votes": 3447
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 4",
-      "district_original": "District 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Wayne C Jenness Jr",
-          "votes": 534
-        },
-        {
-          "name_original": "Ryan David Rourke",
-          "votes": 466
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Robert J Hoey Jr",
+     "votes": 2254
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 5",
-      "district_original": "District 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kimberly A Scott",
-          "votes": 660
-        },
-        {
-          "name_original": "Tooch Van",
-          "votes": 480
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Bobby Tugbiyele",
+     "votes": 4126
     },
     {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 6",
-      "district_original": "District 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sokhary Chau",
-          "votes": 760
-        },
-        {
-          "name_original": "Justin S Ford",
-          "votes": 238
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 7",
-      "district_original": "District 7",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David M Ouellette",
-          "votes": 385
-        },
-        {
-          "name_original": "Paul Rathayem",
-          "votes": 454
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "City Council District 8",
-      "district_original": "District 8",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ty Chum",
-          "votes": 602
-        },
-        {
-          "name_original": "Erik R Gitschier",
-          "votes": 1121
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee At Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael F Dillon Jr",
-          "votes": 4046
-        },
-        {
-          "name_original": "Jacqueline Doherty",
-          "votes": 5883
-        },
-        {
-          "name_original": "Connie A Martin",
-          "votes": 5115
-        },
-        {
-          "name_original": "James A Peters",
-          "votes": 2769
-        },
-        {
-          "name_original": "Others",
-          "votes": 76,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 1 District 1",
-      "district_original": "District 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Benjamin T Opara",
-          "votes": 823
-        },
-        {
-          "name_original": "Stacey L Thompson",
-          "votes": 960
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 2 District 2",
-      "district_original": "District 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hilary Mae Clark",
-          "votes": 455
-        },
-        {
-          "name_original": "Eileen P Delrossi",
-          "votes": 843
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 2 District 4",
-      "district_original": "District 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hilary Mae Clark",
-          "votes": 581
-        },
-        {
-          "name_original": "Eileen P Delrossi",
-          "votes": 311
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 3 District 3",
-      "district_original": "District 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andre P Descoteaux",
-          "votes": 1309
-        },
-        {
-          "name_original": "Susie Sophia Chhoun",
-          "votes": 1064
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 3 District 5",
-      "district_original": "District 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andre P Descoteaux",
-          "votes": 480
-        },
-        {
-          "name_original": "Susie Sophia Chhoun",
-          "votes": 582
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 4 District 6",
-      "district_original": "District 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dominic Hok Y Lay",
-          "votes": 855
-        },
-        {
-          "name_original": "Cheth Khim",
-          "votes": 813
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lowell",
-      "date": "2021-11-02",
-      "office_original": "School Committee District 1 District 8",
-      "district_original": "District 8",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Benjamin T Opara",
-          "votes": 713
-        },
-        {
-          "name_original": "Stacey L Thompson",
-          "votes": 772
-        },
-        {
-          "name_original": "Others",
-          "votes": 18,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 82,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Lowell2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lowell2021.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 1",
+   "district_original": "District 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rodney M Elliott",
+     "votes": 867
+    },
+    {
+     "name_original": "Daniel P Rourke",
+     "votes": 1070
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 2",
+   "district_original": "District 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Gignac",
+     "votes": 371
+    },
+    {
+     "name_original": "Corey M Robinson",
+     "votes": 1032
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 3",
+   "district_original": "District 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John J Leahy",
+     "votes": 1454
+    },
+    {
+     "name_original": "William Bill Samaras",
+     "votes": 1054
+    },
+    {
+     "name_original": "Others",
+     "votes": 18,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 4",
+   "district_original": "District 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Wayne C Jenness Jr",
+     "votes": 534
+    },
+    {
+     "name_original": "Ryan David Rourke",
+     "votes": 466
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 5",
+   "district_original": "District 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kimberly A Scott",
+     "votes": 660
+    },
+    {
+     "name_original": "Tooch Van",
+     "votes": 480
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 6",
+   "district_original": "District 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sokhary Chau",
+     "votes": 760
+    },
+    {
+     "name_original": "Justin S Ford",
+     "votes": 238
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 7",
+   "district_original": "District 7",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David M Ouellette",
+     "votes": 385
+    },
+    {
+     "name_original": "PAUL RATHA YEM",
+     "votes": 454
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "City Council District 8",
+   "district_original": "District 8",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ty Chum",
+     "votes": 602
+    },
+    {
+     "name_original": "Erik R Gitschier",
+     "votes": 1121
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee At Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael F Dillon Jr",
+     "votes": 4046
+    },
+    {
+     "name_original": "Jacqueline Doherty",
+     "votes": 5883
+    },
+    {
+     "name_original": "Connie A Martin",
+     "votes": 5115
+    },
+    {
+     "name_original": "James A Peters",
+     "votes": 2769
+    },
+    {
+     "name_original": "Others",
+     "votes": 76,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 1 District 1",
+   "district_original": "District 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Benjamin T Opara",
+     "votes": 823
+    },
+    {
+     "name_original": "Stacey L Thompson",
+     "votes": 960
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 2 District 2",
+   "district_original": "District 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Hilary Mae Clark",
+     "votes": 455
+    },
+    {
+     "name_original": "Eileen P Delrossi",
+     "votes": 843
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 2 District 4",
+   "district_original": "District 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Hilary Mae Clark",
+     "votes": 581
+    },
+    {
+     "name_original": "Eileen P Delrossi",
+     "votes": 311
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 3 District 3",
+   "district_original": "District 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Andre P Descoteaux",
+     "votes": 1309
+    },
+    {
+     "name_original": "Susie Sophia Chhoun",
+     "votes": 1064
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 3 District 5",
+   "district_original": "District 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Andre P Descoteaux",
+     "votes": 480
+    },
+    {
+     "name_original": "Susie Sophia Chhoun",
+     "votes": 582
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 4 District 6",
+   "district_original": "District 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dominic Hok Y Lay",
+     "votes": 855
+    },
+    {
+     "name_original": "Cheth Khim",
+     "votes": 813
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lowell",
+   "date": "2021-11-02",
+   "office_original": "School Committee District 1 District 8",
+   "district_original": "District 8",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Benjamin T Opara",
+     "votes": 713
+    },
+    {
+     "name_original": "Stacey L Thompson",
+     "votes": 772
+    },
+    {
+     "name_original": "Others",
+     "votes": 18,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Lowell2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lowell2021.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }
