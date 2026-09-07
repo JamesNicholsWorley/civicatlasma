@@ -1,328 +1,328 @@
 {
-  "document": {
-    "heading_verbatim": "ANNUAL TOWN ELECTION RESULTS – May 11, 2026",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION RESULTS",
-    "date_verbatim": "May 11, 2026",
-    "offices_on_ballot": 15,
-    "is_sample_ballot": false,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "ANNUAL TOWN ELECTION RESULTS – May 11, 2026",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION RESULTS",
+  "date_verbatim": "May 11, 2026",
+  "offices_on_ballot": 15,
+  "is_sample_ballot": false,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "SELECT BOARD",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Holly Higinbotham",
-          "votes": 64
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 13,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Holly Higinbotham",
+     "votes": 64
     },
     {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "CEMETERY COMMISSION",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Jones",
-          "votes": 71
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "CONSTABLE",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Melle",
-          "votes": 73
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "FINANCE COMMITTEE",
-      "district_original": "For 2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 77,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "FINANCE COMMITTEE",
-      "district_original": "For 1 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 77,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "MODERATOR",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Charles Sturtevant",
-          "votes": 72
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "PLANNING BOARD",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Barbara Connor",
-          "votes": 71
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "LIBRARY TRUSTEE",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lisa Kolis",
-          "votes": 64
-        },
-        {
-          "name_original": "Colin Harrington",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "LIBRARY TRUSTEE",
-      "district_original": "For 1 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Colin Harrington",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "TOWN CLERK",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aline Ferris",
-          "votes": 69
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "TREE WARDEN",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "MLP BOARD",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michele Johnson",
-          "votes": 70
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2026-05-11",
-      "office_original": "MLP BOARD",
-      "district_original": "For 2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gaye A Gregoire",
-          "votes": 69
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 13,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Windsor2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Windsor2026.pdf",
-  "ballots_cast": 77,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "CEMETERY COMMISSION",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Jones",
+     "votes": 71
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "CONSTABLE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Melle",
+     "votes": 73
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "FINANCE COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 77,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "FINANCE COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 77,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Charles Sturtevant",
+     "votes": 72
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Barbara Connor",
+     "votes": 71
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lisa Kolis",
+     "votes": 64
+    },
+    {
+     "name_original": "Colin Harrington",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Colin Harrington",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "TOWN CLERK",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Aline Ferris",
+     "votes": 69
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "TREE WARDEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "MLP BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michele Johnson",
+     "votes": 70
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2026-05-11",
+   "office_original": "MLP BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gaye A Gregoire",
+     "votes": 69
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Windsor2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Windsor2026.pdf",
+ "ballots_cast": 77,
+ "ballots_cast_source": "derived_from_contests"
 }

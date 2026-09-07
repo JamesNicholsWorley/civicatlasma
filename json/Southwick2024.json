@@ -1,357 +1,357 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "SELECT BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "SELECT BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas A. Moglin",
-          "votes": 1003
-        },
-        {
-          "name_original": "David L. LaBombard Jr.",
-          "votes": 164
-        },
-        {
-          "name_original": "Others",
-          "votes": 30,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 184,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Douglas A. Moglin",
+     "votes": 1003
     },
     {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "DISTRICT SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Stevenson",
-          "votes": 710
-        },
-        {
-          "name_original": "Kimberly Anne Perron",
-          "votes": 629
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 39,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "David L. LaBombard Jr.",
+     "votes": 164
     },
     {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "ASSESSOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Francis Cain",
-          "votes": 1028
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 341,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
     },
     {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "CEMETERY COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Darcie L. Rock",
-          "votes": 1067
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 302,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "COMMUNITY PRESERVATION COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bryan D. Walker",
-          "votes": 583
-        },
-        {
-          "name_original": "Briana A. Duncan",
-          "votes": 668
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 125,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "DICKINSON SCHOOL TRUST",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dean M. Rankin",
-          "votes": 1070
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 307,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patricia Z. Labieniec",
-          "votes": 1014
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 362,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "LIBRARY TRUSTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer D. Belden",
-          "votes": 798
-        },
-        {
-          "name_original": "Tracy R. Meczywor",
-          "votes": 900
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1057,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "LIBRARY TRUSTEE",
-      "district_original": "2 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andrea Louise Bugbee",
-          "votes": 962
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 405,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "PARK AND REC COMMISSION",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard L. Harriman",
-          "votes": 874
-        },
-        {
-          "name_original": "Daniel R. Welch",
-          "votes": 749
-        },
-        {
-          "name_original": "Jeanne M. Reed",
-          "votes": 67
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1059,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David H. Sutton",
-          "votes": 1056
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 313,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2024-05-14",
-      "office_original": "WATER COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David B. Meczywor",
-          "votes": 1038
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 336,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 184,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Southwick2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2024.pdf",
-  "ballots_cast": 1381,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "DISTRICT SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Stevenson",
+     "votes": 710
+    },
+    {
+     "name_original": "Kimberly Anne Perron",
+     "votes": 629
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 39,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "ASSESSOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Francis Cain",
+     "votes": 1028
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 341,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "CEMETERY COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Darcie L. Rock",
+     "votes": 1067
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 302,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "COMMUNITY PRESERVATION COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bryan D. Walker",
+     "votes": 583
+    },
+    {
+     "name_original": "Briana A. Duncan",
+     "votes": 668
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 125,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "DICKINSON SCHOOL TRUST",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dean M. Rankin",
+     "votes": 1070
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 307,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patricia Z. Labieniec",
+     "votes": 1014
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 362,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "LIBRARY TRUSTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer D. Belden",
+     "votes": 798
+    },
+    {
+     "name_original": "Tracy R. Meczywor",
+     "votes": 900
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1057,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Andrea Louise Bugbee",
+     "votes": 962
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 405,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "PARK AND REC COMMISSION",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard L. Harriman",
+     "votes": 874
+    },
+    {
+     "name_original": "Daniel R. Welch",
+     "votes": 749
+    },
+    {
+     "name_original": "Jeanne M. Reed",
+     "votes": 67
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1059,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David H. Sutton",
+     "votes": 1056
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 313,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2024-05-14",
+   "office_original": "WATER COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David B. Meczywor",
+     "votes": 1038
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 336,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Southwick2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2024.pdf",
+ "ballots_cast": 1381,
+ "ballots_cast_source": "derived_from_contests"
 }

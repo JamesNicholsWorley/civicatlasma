@@ -1,182 +1,182 @@
 {
-  "document": {
-    "heading_verbatim": "Election Results: Mashpee Elects Tracy Kelley, Mike Richardson To Select Board",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "May 10, 2025",
-    "offices_on_ballot": -1,
-    "is_sample_ballot": false,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "Ms. Colpitts ran unopposed for the position; Camille Madison, who ran unopposed, was elected"
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Election Results: Mashpee Elects Tracy Kelley, Mike Richardson To Select Board",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "May 10, 2025",
+  "offices_on_ballot": -1,
+  "is_sample_ballot": false,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "Ms. Colpitts ran unopposed for the position; Camille Madison, who ran unopposed, was elected"
+ },
+ "elections": [
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Select Board",
-      "district_original": "Two-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tracy Kelley",
-          "votes": 1049
-        },
-        {
-          "name_original": "A. Gregory McKelvey",
-          "votes": 931
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 71,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Tracy Kelley",
+     "votes": 1049
     },
     {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Select Board",
-      "district_original": "Three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael R. Richardson",
-          "votes": 1512
-        },
-        {
-          "name_original": "Timothy M. Dorsey",
-          "votes": 328
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 201,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "A. Gregory McKelvey",
+     "votes": 931
     },
     {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karen D. Faulkner",
-          "votes": 1464
-        },
-        {
-          "name_original": "Michael J. Milbury",
-          "votes": 1474
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jessica Colpitts",
-          "votes": 1683
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Board of Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kate E. Milde",
-          "votes": 1574
-        },
-        {
-          "name_original": "Mary J. LeClair",
-          "votes": 1681
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Town Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John W. Miller",
-          "votes": 1660
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Camille Madison",
-          "votes": 1543
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mashpee",
-      "date": "2025-05-10",
-      "office_original": "Water Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "F. Thomas Fudala",
-          "votes": 1622
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Blanks",
+     "votes": 71,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Mashpee2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael R. Richardson",
+     "votes": 1512
+    },
+    {
+     "name_original": "Timothy M. Dorsey",
+     "votes": 328
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 201,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karen D. Faulkner",
+     "votes": 1464
+    },
+    {
+     "name_original": "Michael J. Milbury",
+     "votes": 1474
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jessica Colpitts",
+     "votes": 1683
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Board of Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kate E. Milde",
+     "votes": 1574
+    },
+    {
+     "name_original": "Mary J. LeClair",
+     "votes": 1681
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Town Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John W. Miller",
+     "votes": 1660
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Camille Madison",
+     "votes": 1543
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mashpee",
+   "date": "2025-05-10",
+   "office_original": "Water Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "F. Thomas Fudala",
+     "votes": 1622
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Mashpee2025",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,256 +1,256 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "SELECTBOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "SELECTBOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Trevor D. McDaniel",
-          "votes": 169
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Trevor D. McDaniel",
+     "votes": 169
     },
     {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Francis G. Sobieski",
-          "votes": 168
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
     },
     {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "CONSTABLE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Adam Sokoloski",
-          "votes": 124
-        },
-        {
-          "name_original": "Others",
-          "votes": 29,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 30,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "DEERFIELD SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Raina Kittilstved",
-          "votes": 163
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "ELECTOR UNDER OLIVER SMITH WILL",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Leslie Dwight",
-          "votes": 165
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 18,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Melissa C. Novak",
-          "votes": 159
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 24,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Denise Mason",
-          "votes": 161
-        },
-        {
-          "name_original": "Analee Wulfkuhle",
-          "votes": 157
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 48,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "PLANNING BOARD",
-      "district_original": "2 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Emily Susan Gaylord",
-          "votes": 153
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 30,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2023-05-01",
-      "office_original": "TILTON LIBRARY TRUSTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marjorie Shearer",
-          "votes": 165
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 11,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Deerfield2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Deerfield2023.pdf",
-  "ballots_cast": 183,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Francis G. Sobieski",
+     "votes": 168
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "CONSTABLE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Adam Sokoloski",
+     "votes": 124
+    },
+    {
+     "name_original": "Others",
+     "votes": 29,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 30,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "DEERFIELD SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Raina Kittilstved",
+     "votes": 163
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "ELECTOR UNDER OLIVER SMITH WILL",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Leslie Dwight",
+     "votes": 165
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 18,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Melissa C. Novak",
+     "votes": 159
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 24,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Denise Mason",
+     "votes": 161
+    },
+    {
+     "name_original": "Analee Wulfkuhle",
+     "votes": 157
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 48,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Emily Susan Gaylord",
+     "votes": 153
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 30,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2023-05-01",
+   "office_original": "TILTON LIBRARY TRUSTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marjorie Shearer",
+     "votes": 165
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Deerfield2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Deerfield2023.pdf",
+ "ballots_cast": 183,
+ "ballots_cast_source": "derived_from_contests"
 }

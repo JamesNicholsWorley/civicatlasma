@@ -1,242 +1,242 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Select Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Select Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Jeffrey Allen Maida",
-          "votes": 267
-        },
-        {
-          "name_original": "William David Meegan",
-          "votes": 223
-        },
-        {
-          "name_original": "Donald Leopold",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jeffrey Allen Maida",
+     "votes": 267
     },
     {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Leonard Jason Jr.",
-          "votes": 434
-        },
-        {
-          "name_original": "Gene Brinjo",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 59,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "William David Meegan",
+     "votes": 223
     },
     {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Janet Lynn Buhrman",
-          "votes": 406
-        },
-        {
-          "name_original": "Julianna Flanders",
-          "votes": 1
-        },
-        {
-          "name_original": "Jessica Mason",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 86,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Donald Leopold",
+     "votes": 1
     },
     {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Library Trustees",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Jane D. Kaplan",
-          "votes": 256
-        },
-        {
-          "name_original": "Caitlin G. Kane",
-          "votes": 179
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 59,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Finance Committee",
-      "district_original": "Three Year Term",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Vicki J. Divoll",
-          "votes": 383
-        },
-        {
-          "name_original": "Robert Rosenbaum",
-          "votes": 1
-        },
-        {
-          "name_original": "Everett Healy",
-          "votes": 2
-        },
-        {
-          "name_original": "Genc Brinja",
-          "votes": 1
-        },
-        {
-          "name_original": "Kent Healy",
-          "votes": 1
-        },
-        {
-          "name_original": "Donald Leopold",
-          "votes": 32
-        },
-        {
-          "name_original": "Bruce Golden",
-          "votes": 14
-        },
-        {
-          "name_original": "Casey Elliston",
-          "votes": 6
-        },
-        {
-          "name_original": "Linda Coutinho",
-          "votes": 2
-        },
-        {
-          "name_original": "Robert Sloan",
-          "votes": 2
-        },
-        {
-          "name_original": "Harrison Kisiel",
-          "votes": 1
-        },
-        {
-          "name_original": "Ross Seavey",
-          "votes": 1
-        },
-        {
-          "name_original": "Greg Mason",
-          "votes": 1
-        },
-        {
-          "name_original": "Gene Brinjo",
-          "votes": 1
-        },
-        {
-          "name_original": "Ruth Golden",
-          "votes": 2
-        },
-        {
-          "name_original": "P Bailey",
-          "votes": 1
-        },
-        {
-          "name_original": "Frank Fenner",
-          "votes": 1
-        },
-        {
-          "name_original": "Manter",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1029,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chilmark",
-      "date": "2024-04-24",
-      "office_original": "Finance Committee",
-      "district_original": "One Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Linda L. Coutinho",
-          "votes": 440
-        },
-        {
-          "name_original": "Donald Leopold",
-          "votes": 2
-        },
-        {
-          "name_original": "Casey Elliston",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 50,
-          "tally_row": true
-        }
-      ],
-      "date_parsed_raw": "2024-04-24",
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 3,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Chilmark2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chilmark2022.pdf",
-  "ballots_cast": 494,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Leonard Jason Jr.",
+     "votes": 434
+    },
+    {
+     "name_original": "Gene Brinjo",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 59,
+     "tally_row": true
+    }
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Janet Lynn Buhrman",
+     "votes": 406
+    },
+    {
+     "name_original": "Julianna Flanders",
+     "votes": 1
+    },
+    {
+     "name_original": "Jessica Mason",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 86,
+     "tally_row": true
+    }
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Library Trustees",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Jane D. Kaplan",
+     "votes": 256
+    },
+    {
+     "name_original": "Caitlin G. Kane",
+     "votes": 179
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 59,
+     "tally_row": true
+    }
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Vicki J. Divoll",
+     "votes": 383
+    },
+    {
+     "name_original": "Robert Rosenbaum",
+     "votes": 1
+    },
+    {
+     "name_original": "Everett Healy",
+     "votes": 2
+    },
+    {
+     "name_original": "Genc Brinja",
+     "votes": 1
+    },
+    {
+     "name_original": "Kent Healy",
+     "votes": 1
+    },
+    {
+     "name_original": "Donald Leopold",
+     "votes": 32
+    },
+    {
+     "name_original": "Bruce Golden",
+     "votes": 14
+    },
+    {
+     "name_original": "Casey Elliston",
+     "votes": 6
+    },
+    {
+     "name_original": "Linda Coutinho",
+     "votes": 2
+    },
+    {
+     "name_original": "Robert Sloan",
+     "votes": 2
+    },
+    {
+     "name_original": "Harrison Kisiel",
+     "votes": 1
+    },
+    {
+     "name_original": "Ross Seavey",
+     "votes": 1
+    },
+    {
+     "name_original": "Greg Mason",
+     "votes": 1
+    },
+    {
+     "name_original": "Gene Brinjo",
+     "votes": 1
+    },
+    {
+     "name_original": "Ruth Golden",
+     "votes": 2
+    },
+    {
+     "name_original": "P Bailey",
+     "votes": 1
+    },
+    {
+     "name_original": "Frank Fenner",
+     "votes": 1
+    },
+    {
+     "name_original": "Manter",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1029,
+     "tally_row": true
+    }
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chilmark",
+   "date": "2024-04-24",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Linda L. Coutinho",
+     "votes": 440
+    },
+    {
+     "name_original": "Donald Leopold",
+     "votes": 2
+    },
+    {
+     "name_original": "Casey Elliston",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 50,
+     "tally_row": true
+    }
+   ],
+   "date_parsed_raw": "2024-04-24",
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Chilmark2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chilmark2022.pdf",
+ "ballots_cast": 494,
+ "ballots_cast_source": "derived_from_contests"
 }

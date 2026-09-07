@@ -1,261 +1,261 @@
 {
-  "document": {
-    "heading_verbatim": "DOINGS\nTOWN OF MOUNT WASHINGTON\nANNUAL TOWN ELECTION RESULTS\nTUESDAY MAY 12, 2026",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION RESULTS",
-    "date_verbatim": "TUESDAY MAY 12, 2026",
-    "offices_on_ballot": 10,
-    "uncontested_remainder": false,
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "DOINGS\nTOWN OF MOUNT WASHINGTON\nANNUAL TOWN ELECTION RESULTS\nTUESDAY MAY 12, 2026",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION RESULTS",
+  "date_verbatim": "TUESDAY MAY 12, 2026",
+  "offices_on_ballot": 10,
+  "uncontested_remainder": false,
+  "is_sample_ballot": false
+ },
+ "elections": [
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Keith Torrico",
-          "votes": 40
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Keith Torrico",
+     "votes": 40
     },
     {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Town Clerk",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Linda Beckwith",
-          "votes": 48
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     },
     {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Treasurer",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lesliann Furcht",
-          "votes": 46
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Library Trustee",
-      "district_original": "3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Allison Giracca",
-          "votes": 46
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Library Trustee",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicole Torrico",
-          "votes": 45
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Constable",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Whitbeck",
-          "votes": 48
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Tobin",
-          "votes": 43
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ava Garrett",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 40,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Assessor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Short",
-          "votes": 25
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 23,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2026-05-12",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eleanor Wilkinson",
-          "votes": 5
-        },
-        {
-          "name_original": "Seth Phillips",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 33,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 6,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "MountWashington2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/MountWashington2026.pdf",
-  "ballots_cast": 48,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Linda Beckwith",
+     "votes": 48
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Treasurer",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lesliann Furcht",
+     "votes": 46
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Allison Giracca",
+     "votes": 46
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicole Torrico",
+     "votes": 45
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Whitbeck",
+     "votes": 48
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian Tobin",
+     "votes": 43
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ava Garrett",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 40,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Assessor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Short",
+     "votes": 25
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 23,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2026-05-12",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eleanor Wilkinson",
+     "votes": 5
+    },
+    {
+     "name_original": "Seth Phillips",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 33,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "MountWashington2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/MountWashington2026.pdf",
+ "ballots_cast": 48,
+ "ballots_cast_source": "derived_from_contests"
 }

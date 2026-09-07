@@ -1,361 +1,361 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeffrey W. Klein",
-          "votes": 1451
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 563,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jeffrey W. Klein",
+     "votes": 1451
     },
     {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "BD OF COMM OF TRUST FUNDS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicholas A. McCoy",
-          "votes": 1403
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 612,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
     },
     {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Safdar Medina",
-          "votes": 1460
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 552,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "BD OF TRUSTEES SOUTHBOROUGH LIBRARY",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marguerite H. Landry",
-          "votes": 1436
-        },
-        {
-          "name_original": "Janet M. Maney",
-          "votes": 1350
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1248,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "HOUSING AUTHORITY",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John M. Wood",
-          "votes": 1435
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 581,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paul M. Cimino",
-          "votes": 1435
-        },
-        {
-          "name_original": "George Haranis",
-          "votes": 14
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 557,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "NB/SB REGIONAL SCHOOL - Northborough Candidate",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joan Galla Frank",
-          "votes": 1338
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 679,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "NB/SB REGIONAL SCHOOL - Southborough Candidate",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew J. Spencer",
-          "votes": 1399
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 613,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alan S. Belniak",
-          "votes": 1416
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 595,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "SELECT BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathryn M. Cook",
-          "votes": 1009
-        },
-        {
-          "name_original": "Tim Fling",
-          "votes": 1057
-        },
-        {
-          "name_original": "Sam Stivers",
-          "votes": 1007
-        },
-        {
-          "name_original": "Lisa Braccio",
-          "votes": 13
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 940,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "SOUTHBOROUGH SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Roger W. Challen",
-          "votes": 1323
-        },
-        {
-          "name_original": "Dianne Romm",
-          "votes": 7
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 673,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southborough",
-      "date": "2025-05-13",
-      "office_original": "SOUTHBOROUGH SCHOOL COMMITTEE",
-      "district_original": "1 year term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Denise J. Eddy",
-          "votes": 1350
-        },
-        {
-          "name_original": "Dianne Romm",
-          "votes": 80
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 581,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 563,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Southborough2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southborough2025.pdf",
-  "ballots_cast": 2020,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "BD OF COMM OF TRUST FUNDS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicholas A. McCoy",
+     "votes": 1403
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 612,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Safdar Medina",
+     "votes": 1460
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 552,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "BD OF TRUSTEES SOUTHBOROUGH LIBRARY",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marguerite H. Landry",
+     "votes": 1436
+    },
+    {
+     "name_original": "Janet M. Maney",
+     "votes": 1350
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1248,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "HOUSING AUTHORITY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John M. Wood",
+     "votes": 1435
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 581,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paul M. Cimino",
+     "votes": 1435
+    },
+    {
+     "name_original": "George Haranis",
+     "votes": 14
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 557,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "NB/SB REGIONAL SCHOOL - Northborough Candidate",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joan Galla Frank",
+     "votes": 1338
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 679,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "NB/SB REGIONAL SCHOOL - Southborough Candidate",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Matthew J. Spencer",
+     "votes": 1399
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 613,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alan S. Belniak",
+     "votes": 1416
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 595,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "SELECT BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathryn M. Cook",
+     "votes": 1009
+    },
+    {
+     "name_original": "Tim Fling",
+     "votes": 1057
+    },
+    {
+     "name_original": "Sam Stivers",
+     "votes": 1007
+    },
+    {
+     "name_original": "Lisa Braccio",
+     "votes": 13
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 940,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "SOUTHBOROUGH SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Roger W. Challen",
+     "votes": 1323
+    },
+    {
+     "name_original": "Dianne Romm",
+     "votes": 7
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 673,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southborough",
+   "date": "2025-05-13",
+   "office_original": "SOUTHBOROUGH SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Denise J. Eddy",
+     "votes": 1350
+    },
+    {
+     "name_original": "Dianne Romm",
+     "votes": 80
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 581,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Southborough2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southborough2025.pdf",
+ "ballots_cast": 2020,
+ "ballots_cast_source": "derived_from_contests"
 }

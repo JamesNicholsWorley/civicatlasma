@@ -1,232 +1,232 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "SELECT BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "SELECT BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Richard McCourt",
-          "votes": 2076
-        },
-        {
-          "name_original": "Gregory J. Murphy",
-          "votes": 1356
-        },
-        {
-          "name_original": "David John Clough",
-          "votes": 1113
-        },
-        {
-          "name_original": "Julie Beckham",
-          "votes": 2958
-        },
-        {
-          "name_original": "Others",
-          "votes": 87,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1282,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "John Richard McCourt",
+     "votes": 2076
     },
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gene Manning",
-          "votes": 2688
-        },
-        {
-          "name_original": "David John Clough",
-          "votes": 1236
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 507,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Gregory J. Murphy",
+     "votes": 1356
     },
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Julie Elizabeth Goodman",
-          "votes": 3295
-        },
-        {
-          "name_original": "Others",
-          "votes": 25,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1116,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David John Clough",
+     "votes": 1113
     },
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sonjay Rose Grauds",
-          "votes": 2727
-        },
-        {
-          "name_original": "Kimberly Anne McCourt",
-          "votes": 3030
-        },
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3082,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Julie Beckham",
+     "votes": 2958
     },
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert E. Maffie",
-          "votes": 3184
-        },
-        {
-          "name_original": "Others",
-          "votes": 74,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1178,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 87,
+     "tally_row": true
     },
     {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "PLANNING BOARD",
-      "district_original": "Three Year Term to fill a vacancy",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Special",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeffrey Sullivan",
-          "votes": 73
-        },
-        {
-          "name_original": "Kathy Gibbs McCormack",
-          "votes": 66
-        },
-        {
-          "name_original": "Bob MacDonald",
-          "votes": 69
-        },
-        {
-          "name_original": "Others",
-          "votes": 315,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3913,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Canton",
-      "date": "2026-04-07",
-      "office_original": "LIBRARY TRUSTEES",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George T. Comeau",
-          "votes": 2963
-        },
-        {
-          "name_original": "Elizabeth Dwyer Emhardt",
-          "votes": 2780
-        },
-        {
-          "name_original": "Robert Fichman",
-          "votes": 400
-        },
-        {
-          "name_original": "Others",
-          "votes": 190,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6975,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1282,
+     "tally_row": true
     }
-  ],
-  "ballots_cast": 4436,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gene Manning",
+     "votes": 2688
+    },
+    {
+     "name_original": "David John Clough",
+     "votes": 1236
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 507,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Julie Elizabeth Goodman",
+     "votes": 3295
+    },
+    {
+     "name_original": "Others",
+     "votes": 25,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1116,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sonjay Rose Grauds",
+     "votes": 2727
+    },
+    {
+     "name_original": "Kimberly Anne McCourt",
+     "votes": 3030
+    },
+    {
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3082,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert E. Maffie",
+     "votes": 3184
+    },
+    {
+     "name_original": "Others",
+     "votes": 74,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1178,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Special",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeffrey Sullivan",
+     "votes": 73
+    },
+    {
+     "name_original": "Kathy Gibbs McCormack",
+     "votes": 66
+    },
+    {
+     "name_original": "Bob MacDonald",
+     "votes": 69
+    },
+    {
+     "name_original": "Others",
+     "votes": 315,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3913,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Canton",
+   "date": "2026-04-07",
+   "office_original": "LIBRARY TRUSTEES",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George T. Comeau",
+     "votes": 2963
+    },
+    {
+     "name_original": "Elizabeth Dwyer Emhardt",
+     "votes": 2780
+    },
+    {
+     "name_original": "Robert Fichman",
+     "votes": 400
+    },
+    {
+     "name_original": "Others",
+     "votes": 190,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6975,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "ballots_cast": 4436,
+ "ballots_cast_source": "derived_from_contests"
 }

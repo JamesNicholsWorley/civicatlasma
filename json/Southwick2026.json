@@ -1,393 +1,393 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "SELECT BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "SELECT BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Diane Gale",
-          "votes": 539
-        },
-        {
-          "name_original": "Joseph John Deedy",
-          "votes": 1091
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Diane Gale",
+     "votes": 539
     },
     {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "ASSESSOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William A. Brown IV",
-          "votes": 952
-        },
-        {
-          "name_original": "Elizabeth J. Lalli",
-          "votes": 636
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 61,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Joseph John Deedy",
+     "votes": 1091
     },
     {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Terry Hannah Putnam",
-          "votes": 1162
-        },
-        {
-          "name_original": "Others",
-          "votes": 36,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 452,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
     },
     {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "CEMETERY COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gene Henry Theroux",
-          "votes": 1334
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 308,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "COMMUNITY PRESERVATION COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Henry Whalley III",
-          "votes": 1264
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 366,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "DICKINSON SCHOOL TRUST",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gene Henry Theroux",
-          "votes": 923
-        },
-        {
-          "name_original": "Debra Jean Patryn",
-          "votes": 632
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 93,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "DISTRICT SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ryan Welch Korobkov",
-          "votes": 917
-        },
-        {
-          "name_original": "Lynn Comer",
-          "votes": 538
-        },
-        {
-          "name_original": "Stephanie Jane Widun",
-          "votes": 834
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1004,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Celeste A. St. Jacques",
-          "votes": 1281
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 353,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "PARK AND REC COMMISSION",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Henry Whalley III",
-          "votes": 981
-        },
-        {
-          "name_original": "Rachel Stevenson",
-          "votes": 907
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1397,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Randal Dennis Brown",
-          "votes": 1209
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 421,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "SOUTHWICK PUBLIC LIBRARY TRUSTEE",
-      "district_original": "1 Year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael J. McMahon",
-          "votes": 686
-        },
-        {
-          "name_original": "Kathleen S. Fischbach",
-          "votes": 658
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 293,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "SOUTHWICK PUBLIC LIBRARY TRUSTEE",
-      "district_original": "3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andrea Louise Bugbee",
-          "votes": 1105
-        },
-        {
-          "name_original": "Michael J. McMahon",
-          "votes": 29
-        },
-        {
-          "name_original": "Others",
-          "votes": 40,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2126,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2026-05-12",
-      "office_original": "WATER COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Francis Cain",
-          "votes": 1246
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 377,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 11,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Southwick2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2026.pdf",
-  "ballots_cast": 1650,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "ASSESSOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William A. Brown IV",
+     "votes": 952
+    },
+    {
+     "name_original": "Elizabeth J. Lalli",
+     "votes": 636
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 61,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Terry Hannah Putnam",
+     "votes": 1162
+    },
+    {
+     "name_original": "Others",
+     "votes": 36,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 452,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "CEMETERY COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gene Henry Theroux",
+     "votes": 1334
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 308,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "COMMUNITY PRESERVATION COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Henry Whalley III",
+     "votes": 1264
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 366,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "DICKINSON SCHOOL TRUST",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gene Henry Theroux",
+     "votes": 923
+    },
+    {
+     "name_original": "Debra Jean Patryn",
+     "votes": 632
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 93,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "DISTRICT SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ryan Welch Korobkov",
+     "votes": 917
+    },
+    {
+     "name_original": "Lynn Comer",
+     "votes": 538
+    },
+    {
+     "name_original": "Stephanie Jane Widun",
+     "votes": 834
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1004,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Celeste A. St. Jacques",
+     "votes": 1281
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 353,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "PARK AND REC COMMISSION",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Henry Whalley III",
+     "votes": 981
+    },
+    {
+     "name_original": "Rachel Stevenson",
+     "votes": 907
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1397,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Randal Dennis Brown",
+     "votes": 1209
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 421,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "SOUTHWICK PUBLIC LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael J. McMahon",
+     "votes": 686
+    },
+    {
+     "name_original": "Kathleen S. Fischbach",
+     "votes": 658
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 293,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "SOUTHWICK PUBLIC LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Andrea Louise Bugbee",
+     "votes": 1105
+    },
+    {
+     "name_original": "Michael J. McMahon",
+     "votes": 29
+    },
+    {
+     "name_original": "Others",
+     "votes": 40,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2126,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2026-05-12",
+   "office_original": "WATER COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Francis Cain",
+     "votes": 1246
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 377,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Southwick2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2026.pdf",
+ "ballots_cast": 1650,
+ "ballots_cast_source": "derived_from_contests"
 }

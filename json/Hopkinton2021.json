@@ -1,263 +1,263 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "office_original": "School Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "office_original": "School Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amanda Fargiano",
-          "votes": 584
-        },
-        {
-          "name_original": "Margaret Tyler",
-          "votes": 516
-        },
-        {
-          "name_original": "Jared Pray",
-          "votes": 325
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Amanda Fargiano",
+     "votes": 584
     },
     {
-      "office_original": "Select Board",
-      "district_original": "3 years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Irfan Nasrullah",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Muriel Kramer",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Margaret Tyler",
+     "votes": 516
     },
     {
-      "office_original": "Board of Assessors",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lesley Ficarri",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Board of Health",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Regina Miloslavsky",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Library Trustee",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stanley Pulnik",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Cemetery Commissioners",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas Pratt",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Cemetery Commissioners",
-      "district_original": "1 year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kyla McSweeney",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Commissioners of Trust Funds",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Melissa Hayes",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Constable",
-      "district_original": "3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Francis D'Urso",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Parks & Recreation Commissioners",
-      "district_original": "3 years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Daniel Terry",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Amy O'Donnell",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Housing Authority",
-      "district_original": "5 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Morris",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Planning Board",
-      "district_original": "5 years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Paul",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Robert Benson Jr.",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Planning Board",
-      "district_original": "1 year unexpired term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2021-05-22",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Francis DeYoung",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Jared Pray",
+     "votes": 325
     }
-  ],
-  "_source_stem": "Hopkinton2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Select Board",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Irfan Nasrullah",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Muriel Kramer",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lesley Ficarri",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Board of Health",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Regina Miloslavsky",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stanley Pulnik",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Cemetery Commissioners",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas Pratt",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Cemetery Commissioners",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kyla McSweeney",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Commissioners of Trust Funds",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Melissa Hayes",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Constable",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Francis D'Urso",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Parks & Recreation Commissioners",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Daniel Terry",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Amy O'Donnell",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Morris",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Paul",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Robert Benson Jr.",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2021-05-22",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Francis DeYoung",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Hopkinton2021",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

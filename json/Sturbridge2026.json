@@ -1,187 +1,187 @@
 {
-  "document": {
-    "heading_verbatim": "Sturbridge, MA — Annual Town Election, Monday April 13, 2026 (unofficial results)",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "April 13, 2026",
-    "offices_on_ballot": -1,
-    "is_sample_ballot": false,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "All races except the contested Board of Health 2-year unexpired term are marked (uncontested)"
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Sturbridge, MA — Annual Town Election, Monday April 13, 2026 (unofficial results)",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "April 13, 2026",
+  "offices_on_ballot": -1,
+  "is_sample_ballot": false,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "All races except the contested Board of Health 2-year unexpired term are marked (uncontested)"
+ },
+ "elections": [
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Board of Health",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Linda Cocalis",
-          "votes": 1009
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Board of Health",
-      "district_original": "2-year unexpired term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sarah McGee",
-          "votes": 626
-        },
-        {
-          "name_original": "Karen Errichetti",
-          "votes": 427
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 234,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Assessor",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Moira McGrath",
-          "votes": 1085
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Constable",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Constantine Economos",
-          "votes": 1017
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Recreation Committee",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Krysta Crouse",
-          "votes": 1012
-        },
-        {
-          "name_original": "Jeffrey Shapiro",
-          "votes": 979
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Zoning Board of Appeals",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Elizabeth Banks",
-          "votes": 1043
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Board of Library Trustees",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sandra Gibson Quigley",
-          "votes": 1043
-        },
-        {
-          "name_original": "Elisa Krochalnyckyj",
-          "votes": 1020
-        },
-        {
-          "name_original": "Jessica Colati",
-          "votes": 1015
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sturbridge",
-      "date": "2026-04-13",
-      "office_original": "Tantasqua School Committee",
-      "district_original": "Sturbridge",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Edward Goodwin",
-          "votes": 1024
-        },
-        {
-          "name_original": "Karen Kowal",
-          "votes": 1018
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Linda Cocalis",
+     "votes": 1009
     }
-  ],
-  "_source_stem": "Sturbridge2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sarah McGee",
+     "votes": 626
+    },
+    {
+     "name_original": "Karen Errichetti",
+     "votes": 427
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 234,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Assessor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Moira McGrath",
+     "votes": 1085
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Constantine Economos",
+     "votes": 1017
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Recreation Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Krysta Crouse",
+     "votes": 1012
+    },
+    {
+     "name_original": "Jeffrey Shapiro",
+     "votes": 979
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Zoning Board of Appeals",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Elizabeth Banks",
+     "votes": 1043
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Board of Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sandra Gibson Quigley",
+     "votes": 1043
+    },
+    {
+     "name_original": "Elisa Krochalnyckyj",
+     "votes": 1020
+    },
+    {
+     "name_original": "Jessica Colati",
+     "votes": 1015
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sturbridge",
+   "date": "2026-04-13",
+   "office_original": "Tantasqua School Committee",
+   "district_original": "Sturbridge",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Edward Goodwin",
+     "votes": 1024
+    },
+    {
+     "name_original": "Karen Kowal",
+     "votes": 1018
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Sturbridge2026",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

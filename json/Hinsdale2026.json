@@ -1,206 +1,206 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Raymond Huntoon",
-          "votes": 77
-        },
-        {
-          "name_original": "Julie Dostie",
-          "votes": 4
-        },
-        {
-          "name_original": "Monica Montferret",
-          "votes": 1
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Raymond Huntoon",
+     "votes": 77
     },
     {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dawn L. Frissell",
-          "votes": 89
-        }
-      ],
-      "district_original": "3 Years",
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Julie Dostie",
+     "votes": 4
     },
     {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Chivers",
-          "votes": 77
-        },
-        {
-          "name_original": "Tracey Lussier",
-          "votes": 81
-        },
-        {
-          "name_original": "Mary H. Rice",
-          "votes": 77
-        },
-        {
-          "name_original": "Janice Senner",
-          "votes": 3
-        },
-        {
-          "name_original": "William Goddard",
-          "votes": 2
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Finance",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Goddard",
-          "votes": 15
-        },
-        {
-          "name_original": "Janice Senner",
-          "votes": 6
-        }
-      ],
-      "district_original": "2 years (to fill an unexpired term)",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Laura Galliher",
-          "votes": 67
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 93,
-          "tally_row": true
-        }
-      ],
-      "district_original": "2 years (to fill an unexpired term)",
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kore Longdyke",
-          "votes": 69
-        }
-      ],
-      "district_original": "5 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Goddard",
-          "votes": 1
-        }
-      ],
-      "district_original": "4 years (to fill an unexpired term)",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2026-05-23",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Goddard",
-          "votes": 1
-        }
-      ],
-      "district_original": "3 years (to fill an unexpired term)",
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Monica Montferret",
+     "votes": 1
     }
-  ],
-  "document": {
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2026-05-23",
-      "detail": "https://www.berkshireeagle.com/news/central_berkshires/hinsdale-annual-town-meeting-preview-2026/article_6586f11b-875f-47c1-ad28-4a0d1daa0b8a.html",
-      "quote": "ahead of the May 23 town election",
-      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
-    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dawn L. Frissell",
+     "votes": 89
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Chivers",
+     "votes": 77
+    },
+    {
+     "name_original": "Tracey Lussier",
+     "votes": 81
+    },
+    {
+     "name_original": "Mary H. Rice",
+     "votes": 77
+    },
+    {
+     "name_original": "Janice Senner",
+     "votes": 3
+    },
+    {
+     "name_original": "William Goddard",
+     "votes": 2
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Finance",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Goddard",
+     "votes": 15
+    },
+    {
+     "name_original": "Janice Senner",
+     "votes": 6
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Laura Galliher",
+     "votes": 67
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 93,
+     "tally_row": true
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kore Longdyke",
+     "votes": 69
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Goddard",
+     "votes": 1
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2026-05-23",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Goddard",
+     "votes": 1
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "document": {
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2026-05-23",
+   "detail": "https://www.berkshireeagle.com/news/central_berkshires/hinsdale-annual-town-meeting-preview-2026/article_6586f11b-875f-47c1-ad28-4a0d1daa0b8a.html",
+   "quote": "ahead of the May 23 town election",
+   "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+  }
+ },
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

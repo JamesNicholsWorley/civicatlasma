@@ -1,304 +1,304 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "SELECT BOARD",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Melle",
-          "votes": 55
-        },
-        {
-          "name_original": "Charles Sturtevant",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "David Melle",
+     "votes": 55
     },
     {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "SELECT BOARD",
-      "district_original": "For 2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Kintner",
-          "votes": 46
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Charles Sturtevant",
+     "votes": 1
     },
     {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "CEMETERY COMMISSION",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ben Bederson",
-          "votes": 50
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "CONSTABLE",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kip Buoymaster",
-          "votes": 54
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "FINANCE COMMITTEE",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ben Bederson",
-          "votes": 44
-        },
-        {
-          "name_original": "Don Hall",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 67,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "MODERATOR",
-      "district_original": "For 1 Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Charles Sturtevant",
-          "votes": 51
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "PLANNING BOARD",
-      "district_original": "For 5 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Kintner",
-          "votes": 49
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "LIBRARY TRUSTEE",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sandra Kalmus",
-          "votes": 48
-        },
-        {
-          "name_original": "Nicole Nalenz",
-          "votes": 12
-        },
-        {
-          "name_original": "Barb Guisti",
-          "votes": 3
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 49,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "LIBRARY TRUSTEE",
-      "district_original": "For 2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicole Nalenz",
-          "votes": 22
-        },
-        {
-          "name_original": "Barb Guisti",
-          "votes": 16
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 18,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "TREE WARDEN",
-      "district_original": "For 1 Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark J. Hauge",
-          "votes": 49
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "MLP BOARD",
-      "district_original": "For 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Erin McLaughlin",
-          "votes": 49
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Windsor",
-      "date": "2025-05-12",
-      "office_original": "MLP BOARD",
-      "district_original": "For 2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Emily Bunnell",
-          "votes": 49
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Windsor2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Windsor2025.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Kintner",
+     "votes": 46
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "CEMETERY COMMISSION",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ben Bederson",
+     "votes": 50
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "CONSTABLE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kip Buoymaster",
+     "votes": 54
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "FINANCE COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ben Bederson",
+     "votes": 44
+    },
+    {
+     "name_original": "Don Hall",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 67,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Charles Sturtevant",
+     "votes": 51
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Kintner",
+     "votes": 49
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sandra Kalmus",
+     "votes": 48
+    },
+    {
+     "name_original": "Nicole Nalenz",
+     "votes": 12
+    },
+    {
+     "name_original": "Barb Guisti",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 49,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicole Nalenz",
+     "votes": 22
+    },
+    {
+     "name_original": "Barb Guisti",
+     "votes": 16
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 18,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "TREE WARDEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark J. Hauge",
+     "votes": 49
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "MLP BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Erin McLaughlin",
+     "votes": 49
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Windsor",
+   "date": "2025-05-12",
+   "office_original": "MLP BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Emily Bunnell",
+     "votes": 49
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Windsor2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Windsor2025.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

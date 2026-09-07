@@ -1,248 +1,248 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "SELECTBOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
     {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "SELECTBOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Timothy John Hilchey",
-          "votes": 814
-        },
-        {
-          "name_original": "David William Wolfram",
-          "votes": 558
-        },
-        {
-          "name_original": "Write-In",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Timothy John Hilchey",
+     "votes": 814
     },
     {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Frank E. Leone Jr.",
-          "votes": 1090
-        },
-        {
-          "name_original": "Write-in",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blank",
-          "votes": 283,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David William Wolfram",
+     "votes": 558
     },
     {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "CONSTABLE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Sharyn A. Paciorek",
-          "votes": 1070
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 292,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Write-In",
+     "votes": 1,
+     "tally_row": true
     },
     {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "DEERFIELD SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Anne Curtis",
-          "votes": 1074
-        },
-        {
-          "name_original": "Carey B. Etchells",
-          "votes": 917
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 757,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "ELECTOR UNDER OLIVER SMITH WILL",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Jason P. Heffner",
-          "votes": 1005
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 370,
-          "tally_row": true
-        }
-      ],
-      "district_original": "1 YEAR TERM",
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Damian Fosnot",
-          "votes": 998
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 377,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Emily Susan Gaylord",
-          "votes": 988
-        },
-        {
-          "name_original": "Kathleen J. Watroba",
-          "votes": 1033
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Charlene Galenski",
-          "votes": 19
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 711,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2025-05-05",
-      "office_original": "TILTON LIBRARY TRUSTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Kathleen Susan O'Rourke",
-          "votes": 1070
-        },
-        {
-          "name_original": "Write-ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 306,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 3,
+     "tally_row": true
     }
-  ],
-  "document": {
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2025-05-05",
-      "detail": "https://deerfieldma.us/269/Election-Results",
-      "quote": "2025 May 5, 2025 Annual Election",
-      "note": "The towns own Election Results index, which lists one annual election under 2025 and links the scan we hold. That scan OCRs to a real return - 4104 Registered Voters, 1376 Ballots Cast, attested by Town Clerk Kathlene A. Sanderell - but prints no date, which is why the gate could not date it."
-    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
   },
-  "ballots_cast": 1376,
-  "ballots_cast_source": "derived_from_contests"
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Frank E. Leone Jr.",
+     "votes": 1090
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blank",
+     "votes": 283,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "CONSTABLE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Sharyn A. Paciorek",
+     "votes": 1070
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 292,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "DEERFIELD SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Anne Curtis",
+     "votes": 1074
+    },
+    {
+     "name_original": "Carey B. Etchells",
+     "votes": 917
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 757,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "ELECTOR UNDER OLIVER SMITH WILL",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Jason P. Heffner",
+     "votes": 1005
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 370,
+     "tally_row": true
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Damian Fosnot",
+     "votes": 998
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 377,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Emily Susan Gaylord",
+     "votes": 988
+    },
+    {
+     "name_original": "Kathleen J. Watroba",
+     "votes": 1033
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Charlene Galenski",
+     "votes": 19
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 711,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2025-05-05",
+   "office_original": "TILTON LIBRARY TRUSTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Kathleen Susan O'Rourke",
+     "votes": 1070
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 306,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "document": {
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2025-05-05",
+   "detail": "https://deerfieldma.us/269/Election-Results",
+   "quote": "2025 May 5, 2025 Annual Election",
+   "note": "The towns own Election Results index, which lists one annual election under 2025 and links the scan we hold. That scan OCRs to a real return - 4104 Registered Voters, 1376 Ballots Cast, attested by Town Clerk Kathlene A. Sanderell - but prints no date, which is why the gate could not date it."
+  }
+ },
+ "ballots_cast": 1376,
+ "ballots_cast_source": "derived_from_contests"
 }

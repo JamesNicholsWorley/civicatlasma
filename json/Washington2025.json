@@ -1,346 +1,346 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "FINANCE COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "FINANCE COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Linda Levernoch",
-          "votes": 81
-        },
-        {
-          "name_original": "Craig Willis",
-          "votes": 1
-        },
-        {
-          "name_original": "Mike Burke",
-          "votes": 1
-        },
-        {
-          "name_original": "Meg Megas",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Linda Levernoch",
+     "votes": 81
     },
     {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "FINANCE COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Debra Meg Megas",
-          "votes": 67
-        },
-        {
-          "name_original": "Rose Borgnis",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Craig Willis",
+     "votes": 1
     },
     {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "MUNICIPAL LIGHT BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John McElwain",
-          "votes": 25
-        },
-        {
-          "name_original": "Kent Lew",
-          "votes": 2
-        },
-        {
-          "name_original": "Keith Sharp",
-          "votes": 2
-        },
-        {
-          "name_original": "Rose Borgnis",
-          "votes": 1
-        },
-        {
-          "name_original": "Craig Willis",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 57,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Mike Burke",
+     "votes": 1
     },
     {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "MODERATOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew Watson",
-          "votes": 36
-        },
-        {
-          "name_original": "Mike Case",
-          "votes": 9
-        },
-        {
-          "name_original": "Ed Neumeth",
-          "votes": 2
-        },
-        {
-          "name_original": "Ed Bond",
-          "votes": 2
-        },
-        {
-          "name_original": "Craig Willis",
-          "votes": 1
-        },
-        {
-          "name_original": "Kent Lew",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 37,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Meg Megas",
+     "votes": 1
     },
     {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Fish",
-          "votes": 2
-        },
-        {
-          "name_original": "Jessie McElwain",
-          "votes": 2
-        },
-        {
-          "name_original": "Keith Sharp",
-          "votes": 2
-        },
-        {
-          "name_original": "Ed Bond",
-          "votes": 1
-        },
-        {
-          "name_original": "Rose Borgnis",
-          "votes": 1
-        },
-        {
-          "name_original": "Mike Case",
-          "votes": 1
-        },
-        {
-          "name_original": "Keith Fox",
-          "votes": 1
-        },
-        {
-          "name_original": "Don Gagnon",
-          "votes": 1
-        },
-        {
-          "name_original": "Carol Lew",
-          "votes": 1
-        },
-        {
-          "name_original": "Lisa Peltier",
-          "votes": 1
-        },
-        {
-          "name_original": "Craig Willis",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 74,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "SELECT BOARD",
-      "district_original": "1-year unexpired term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rose Borgnis",
-          "votes": 47
-        },
-        {
-          "name_original": "Deb Megas",
-          "votes": 7
-        },
-        {
-          "name_original": "Dave Drugmand",
-          "votes": 4
-        },
-        {
-          "name_original": "Mike Case",
-          "votes": 2
-        },
-        {
-          "name_original": "David Ellis",
-          "votes": 1
-        },
-        {
-          "name_original": "Shaun Lennon",
-          "votes": 1
-        },
-        {
-          "name_original": "Linda Levernoch",
-          "votes": 1
-        },
-        {
-          "name_original": "Carol Lew",
-          "votes": 1
-        },
-        {
-          "name_original": "Kent Lew",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Matson",
-          "votes": 1
-        },
-        {
-          "name_original": "Keith Sharp",
-          "votes": 1
-        },
-        {
-          "name_original": "Chet Thomas",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "SELECT BOARD",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Debra Meg Megas",
-          "votes": 67
-        },
-        {
-          "name_original": "Keith Sharp",
-          "votes": 5
-        },
-        {
-          "name_original": "Kent Lew",
-          "votes": 2
-        },
-        {
-          "name_original": "Mark Roos",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 13,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Washington",
-      "date": "2025-05-17",
-      "office_original": "TREE WARDEN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Craig Willis",
-          "votes": 9
-        },
-        {
-          "name_original": "Sean Connors",
-          "votes": 3
-        },
-        {
-          "name_original": "John Fish",
-          "votes": 1
-        },
-        {
-          "name_original": "Chet Thomas",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 73,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 4,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Washington2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2025.pdf",
-  "ballots_cast": 88,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "FINANCE COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Debra Meg Megas",
+     "votes": 67
+    },
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "MUNICIPAL LIGHT BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John McElwain",
+     "votes": 25
+    },
+    {
+     "name_original": "Kent Lew",
+     "votes": 2
+    },
+    {
+     "name_original": "Keith Sharp",
+     "votes": 2
+    },
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 1
+    },
+    {
+     "name_original": "Craig Willis",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 57,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "MODERATOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Matthew Watson",
+     "votes": 36
+    },
+    {
+     "name_original": "Mike Case",
+     "votes": 9
+    },
+    {
+     "name_original": "Ed Neumeth",
+     "votes": 2
+    },
+    {
+     "name_original": "Ed Bond",
+     "votes": 2
+    },
+    {
+     "name_original": "Craig Willis",
+     "votes": 1
+    },
+    {
+     "name_original": "Kent Lew",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 37,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Fish",
+     "votes": 2
+    },
+    {
+     "name_original": "Jessie McElwain",
+     "votes": 2
+    },
+    {
+     "name_original": "Keith Sharp",
+     "votes": 2
+    },
+    {
+     "name_original": "Ed Bond",
+     "votes": 1
+    },
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 1
+    },
+    {
+     "name_original": "Mike Case",
+     "votes": 1
+    },
+    {
+     "name_original": "Keith Fox",
+     "votes": 1
+    },
+    {
+     "name_original": "Don Gagnon",
+     "votes": 1
+    },
+    {
+     "name_original": "Carol Lew",
+     "votes": 1
+    },
+    {
+     "name_original": "Lisa Peltier",
+     "votes": 1
+    },
+    {
+     "name_original": "Craig Willis",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 74,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 47
+    },
+    {
+     "name_original": "Deb Megas",
+     "votes": 7
+    },
+    {
+     "name_original": "Dave Drugmand",
+     "votes": 4
+    },
+    {
+     "name_original": "Mike Case",
+     "votes": 2
+    },
+    {
+     "name_original": "David Ellis",
+     "votes": 1
+    },
+    {
+     "name_original": "Shaun Lennon",
+     "votes": 1
+    },
+    {
+     "name_original": "Linda Levernoch",
+     "votes": 1
+    },
+    {
+     "name_original": "Carol Lew",
+     "votes": 1
+    },
+    {
+     "name_original": "Kent Lew",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Matson",
+     "votes": 1
+    },
+    {
+     "name_original": "Keith Sharp",
+     "votes": 1
+    },
+    {
+     "name_original": "Chet Thomas",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Debra Meg Megas",
+     "votes": 67
+    },
+    {
+     "name_original": "Keith Sharp",
+     "votes": 5
+    },
+    {
+     "name_original": "Kent Lew",
+     "votes": 2
+    },
+    {
+     "name_original": "Mark Roos",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 13,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Washington",
+   "date": "2025-05-17",
+   "office_original": "TREE WARDEN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Craig Willis",
+     "votes": 9
+    },
+    {
+     "name_original": "Sean Connors",
+     "votes": 3
+    },
+    {
+     "name_original": "John Fish",
+     "votes": 1
+    },
+    {
+     "name_original": "Chet Thomas",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 73,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Washington2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Washington2025.pdf",
+ "ballots_cast": 88,
+ "ballots_cast_source": "derived_from_contests"
 }

@@ -1,203 +1,203 @@
 {
-  "document": {
-    "heading_verbatim": "Richmond, MA -- Annual Town Election, Thursday 21 May 2026 -- UNCONTESTED BALLOT",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "Thursday 21 May 2026",
-    "is_sample_ballot": true,
-    "offices_on_ballot": 9,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "EVERY RACE IS UNCONTESTED -- each office drew at most as many candidates as it had seats",
-    "uncontested_ballot": {
-      "turnout_cast": 225,
-      "turnout_registered": 1287,
-      "quote": "The Berkshire Eagle, \"Richmond voters OK override...\": \"The tally at the annual election was 174 in favor, and 51 against; a simple majority was required. The turnout of 225 residents represented just over 17 percent of 1,287 registered voters.\" The ballot itself is from iBerkshires' \"2026 Town Meeting, Election Briefs\", Richmond section: every office drew at most as many candidates as it had seats, and the two-year Board of Health seat drew none."
+ "document": {
+  "heading_verbatim": "Richmond, MA -- Annual Town Election, Thursday 21 May 2026 -- UNCONTESTED BALLOT",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "Thursday 21 May 2026",
+  "is_sample_ballot": true,
+  "offices_on_ballot": 9,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "EVERY RACE IS UNCONTESTED -- each office drew at most as many candidates as it had seats",
+  "uncontested_ballot": {
+   "turnout_cast": 225,
+   "turnout_registered": 1287,
+   "quote": "The Berkshire Eagle, \"Richmond voters OK override...\": \"The tally at the annual election was 174 in favor, and 51 against; a simple majority was required. The turnout of 225 residents represented just over 17 percent of 1,287 registered voters.\" The ballot itself is from iBerkshires' \"2026 Town Meeting, Election Briefs\", Richmond section: every office drew at most as many candidates as it had seats, and the two-year Board of Health seat drew none."
+  }
+ },
+ "elections": [
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Selectmen",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Roger Manzolini",
+     "votes": null,
+     "status": "uncontested"
     }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "elections": [
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Selectmen",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Roger Manzolini",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Katy Broggi",
+     "votes": null,
+     "status": "uncontested"
     },
     {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Katy Broggi",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Laurence Cohen",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Martin",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "School Committee",
-      "district_original": "3 year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ina Wilhem",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Meghan St. John",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "School Committee",
-      "district_original": "1 year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Megan Rose",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Lopez",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Library Trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathryn Wilson",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Finance Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Gniadek",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Jeffrey Goldberg",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Richmond",
-      "date": "2026-05-21",
-      "office_original": "Board of Health",
-      "district_original": "2 year (unexpired)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Laurence Cohen",
+     "votes": null,
+     "status": "uncontested"
     }
-  ],
-  "_source_stem": "Richmond2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Martin",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ina Wilhem",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Meghan St. John",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Megan Rose",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Lopez",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathryn Wilson",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Gniadek",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Jeffrey Goldberg",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Richmond",
+   "date": "2026-05-21",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Richmond2026",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

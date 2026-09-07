@@ -1,462 +1,462 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "SELECT BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "SELECT BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "RUSSELL S. FOX",
-          "votes": 815
-        },
-        {
-          "name_original": "DIANE GALE",
-          "votes": 850
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "RUSSELL S. FOX",
+     "votes": 815
     },
     {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "DISTRICT SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "RYAN W. KOROBKOV",
-          "votes": 1010
-        },
-        {
-          "name_original": "ERIKA L. EMMELMANN",
-          "votes": 1026
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1296,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "DIANE GALE",
+     "votes": 850
     },
     {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ALAN L. HOYT",
-          "votes": 1254
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 416,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
     },
     {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "CEMETERY COMMISSION",
-      "district_original": "3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "GENE HENRY THEROUX",
-          "votes": 1273
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 386,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "CEMETERY COMMISSION",
-      "district_original": "1 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "HAROLD J. ODIORNE, JR.",
-          "votes": 1233
-        },
-        {
-          "name_original": "Others",
-          "votes": 44,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 396,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "COMMUNITY PRESERVATION COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JOHN HENRY WHALLEY III",
-          "votes": 1273
-        },
-        {
-          "name_original": "Others",
-          "votes": 162,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "DICKINSON SCHOOL TRUSTEES",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "GENE HENRY THEROUX",
-          "votes": 1214
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 454,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DR. TERRY HANNAH PUTNAM",
-          "votes": 1195
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 468,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "2 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "EMILY SUSAN BRZOSKA",
-          "votes": 1238
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 430,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "LIBRARY TRUSTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MARIA G. GALLO",
-          "votes": 1056
-        },
-        {
-          "name_original": "MICHAEL J. McMAHON",
-          "votes": 925
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1346,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CELESTE A. ST. JACQUES",
-          "votes": 1178
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 474,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "PARK AND RECREATION COMMISSION",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MICHAEL T. SHEIL",
-          "votes": 956
-        },
-        {
-          "name_original": "JOHN HENRY WHALLEY III",
-          "votes": 1182
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1195,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JESSICA ANN THORNTON",
-          "votes": 1188
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 477,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "SOUTHWICK HOUSING AUTHORITY",
-      "district_original": "5 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JASON T. GRUNWALD",
-          "votes": 1199
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 471,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "SOUTHWICK HOUSING AUTHORITY",
-      "district_original": "2 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "KEVIN LAFRANCE",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 159,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1510,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Southwick",
-      "date": "2023-05-09",
-      "office_original": "WATER COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JOHN FRANCIS CAIN",
-          "votes": 1211
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 443,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 5,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Southwick2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2023.pdf",
-  "ballots_cast": 1673,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "DISTRICT SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "RYAN W. KOROBKOV",
+     "votes": 1010
+    },
+    {
+     "name_original": "ERIKA L. EMMELMANN",
+     "votes": 1026
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1296,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ALAN L. HOYT",
+     "votes": 1254
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 416,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "CEMETERY COMMISSION",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "GENE HENRY THEROUX",
+     "votes": 1273
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 386,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "CEMETERY COMMISSION",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "HAROLD J. ODIORNE, JR.",
+     "votes": 1233
+    },
+    {
+     "name_original": "Others",
+     "votes": 44,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 396,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "COMMUNITY PRESERVATION COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JOHN HENRY WHALLEY III",
+     "votes": 1273
+    },
+    {
+     "name_original": "Others",
+     "votes": 162,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "DICKINSON SCHOOL TRUSTEES",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "GENE HENRY THEROUX",
+     "votes": 1214
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 454,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DR. TERRY HANNAH PUTNAM",
+     "votes": 1195
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 468,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "EMILY SUSAN BRZOSKA",
+     "votes": 1238
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 430,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "LIBRARY TRUSTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MARIA G. GALLO",
+     "votes": 1056
+    },
+    {
+     "name_original": "MICHAEL J. McMAHON",
+     "votes": 925
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1346,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "CELESTE A. ST. JACQUES",
+     "votes": 1178
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 474,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "PARK AND RECREATION COMMISSION",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MICHAEL T. SHEIL",
+     "votes": 956
+    },
+    {
+     "name_original": "JOHN HENRY WHALLEY III",
+     "votes": 1182
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1195,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JESSICA ANN THORNTON",
+     "votes": 1188
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 477,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "SOUTHWICK HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JASON T. GRUNWALD",
+     "votes": 1199
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 471,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "SOUTHWICK HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "KEVIN LAFRANCE",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 159,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1510,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Southwick",
+   "date": "2023-05-09",
+   "office_original": "WATER COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JOHN FRANCIS CAIN",
+     "votes": 1211
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 443,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Southwick2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Southwick2023.pdf",
+ "ballots_cast": 1673,
+ "ballots_cast_source": "derived_from_contests"
 }

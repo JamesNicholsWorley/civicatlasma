@@ -1,374 +1,374 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Holly J. Merry",
-          "votes": 416
-        },
-        {
-          "name_original": "Robert Mullen",
-          "votes": 439
-        },
-        {
-          "name_original": "Michael J. Schleiff",
-          "votes": 237
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 157,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Holly J. Merry",
+     "votes": 416
     },
     {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Candice Lee Greene",
-          "votes": 950
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 290,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Robert Mullen",
+     "votes": 439
     },
     {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Board of Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan Hill",
-          "votes": 943
-        },
-        {
-          "name_original": "Erin Nagle",
-          "votes": 45
-        },
-        {
-          "name_original": "Others",
-          "votes": 36,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1476,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Michael J. Schleiff",
+     "votes": 237
     },
     {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Board of Selectman",
-      "district_original": "One Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert A. McCarthy",
-          "votes": 231
-        },
-        {
-          "name_original": "Naja Robert Nessralla",
-          "votes": 231
-        },
-        {
-          "name_original": "Jonathan H. Selig",
-          "votes": 766
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
     },
     {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Board of Selectman",
-      "district_original": "Three Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gordon C. Andrews",
-          "votes": 384
-        },
-        {
-          "name_original": "Alexander J. Meade",
-          "votes": 810
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 52,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas M. Hammond",
-          "votes": 680
-        },
-        {
-          "name_original": "Thomas F. Schindler",
-          "votes": 613
-        },
-        {
-          "name_original": "Michael J. Schleiff",
-          "votes": 419
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 782,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "HES School Committee",
-      "district_original": "One Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Ann Carroll",
-          "votes": 511
-        },
-        {
-          "name_original": "Karyn Beth Townsend",
-          "votes": 600
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 139,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "HES School Committee",
-      "district_original": "Three Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jessica Page",
-          "votes": 586
-        },
-        {
-          "name_original": "Peter J. Parcellin",
-          "votes": 504
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 160,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Park Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas F. Schindler",
-          "votes": 928
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 313,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gordon R. Andrews",
-          "votes": 381
-        },
-        {
-          "name_original": "Robert G. Gaynor, II",
-          "votes": 796
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 72,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "SL School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paula M. Hatch",
-          "votes": 899
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 345,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Halifax",
-      "date": "2022-05-14",
-      "office_original": "Water Commissioners",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald A. Bosworth",
-          "votes": 573
-        },
-        {
-          "name_original": "Robert McCarthy",
-          "votes": 520
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 154,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 157,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Halifax2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Halifax2022.pdf",
-  "ballots_cast": 1250,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Candice Lee Greene",
+     "votes": 950
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 290,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Board of Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan Hill",
+     "votes": 943
+    },
+    {
+     "name_original": "Erin Nagle",
+     "votes": 45
+    },
+    {
+     "name_original": "Others",
+     "votes": 36,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1476,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Board of Selectman",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert A. McCarthy",
+     "votes": 231
+    },
+    {
+     "name_original": "Naja Robert Nessralla",
+     "votes": 231
+    },
+    {
+     "name_original": "Jonathan H. Selig",
+     "votes": 766
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Board of Selectman",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gordon C. Andrews",
+     "votes": 384
+    },
+    {
+     "name_original": "Alexander J. Meade",
+     "votes": 810
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 52,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas M. Hammond",
+     "votes": 680
+    },
+    {
+     "name_original": "Thomas F. Schindler",
+     "votes": 613
+    },
+    {
+     "name_original": "Michael J. Schleiff",
+     "votes": 419
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 782,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "HES School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer Ann Carroll",
+     "votes": 511
+    },
+    {
+     "name_original": "Karyn Beth Townsend",
+     "votes": 600
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 139,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "HES School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jessica Page",
+     "votes": 586
+    },
+    {
+     "name_original": "Peter J. Parcellin",
+     "votes": 504
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 160,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Park Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas F. Schindler",
+     "votes": 928
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 313,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gordon R. Andrews",
+     "votes": 381
+    },
+    {
+     "name_original": "Robert G. Gaynor, II",
+     "votes": 796
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 72,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "SL School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paula M. Hatch",
+     "votes": 899
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 345,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Halifax",
+   "date": "2022-05-14",
+   "office_original": "Water Commissioners",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald A. Bosworth",
+     "votes": 573
+    },
+    {
+     "name_original": "Robert McCarthy",
+     "votes": 520
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 154,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Halifax2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Halifax2022.pdf",
+ "ballots_cast": 1250,
+ "ballots_cast_source": "derived_from_contests"
 }

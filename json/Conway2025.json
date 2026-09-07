@@ -1,213 +1,213 @@
 {
-  "document": {
-    "heading_verbatim": "Political newcomer bests incumbent in Frontier School Committee race in Conway",
-    "election_type": "Regular",
-    "election_type_evidence": "annual town election",
-    "date_verbatim": "Thursday",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "In the only contested race on Conway's town election ballot"
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Political newcomer bests incumbent in Frontier School Committee race in Conway",
+  "election_type": "Regular",
+  "election_type_evidence": "annual town election",
+  "date_verbatim": "Thursday",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "In the only contested race on Conway's town election ballot"
+ },
+ "elections": [
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher Waldo",
-          "votes": 211
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Board of Assessors",
-      "district_original": "three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathy Llamas",
-          "votes": 212
-        },
-        {
-          "name_original": "Hazel Goleman",
-          "votes": 207
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Constable",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Blakeslee",
-          "votes": 205
-        },
-        {
-          "name_original": "James Recore",
-          "votes": 210
-        },
-        {
-          "name_original": "Randall Williams",
-          "votes": 212
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Frontier Regional School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cecilia Van Driesche",
-          "votes": 116
-        },
-        {
-          "name_original": "Jared Campbell",
-          "votes": 96
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Conway Grammar School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Elaine Campbell",
-          "votes": 191
-        },
-        {
-          "name_original": "Jared Campbell",
-          "votes": 181
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Recore",
-          "votes": 212
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Planning Board",
-      "district_original": "three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "William Moebius",
-          "votes": 6
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Planning Board",
-      "district_original": "two-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "William Zale",
-          "votes": 6
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2025-06-12",
-      "office_original": "Town Clerk",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Laurie Lucier",
-          "votes": 199
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Christopher Waldo",
+     "votes": 211
     }
-  ],
-  "_source_stem": "Conway2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathy Llamas",
+     "votes": 212
+    },
+    {
+     "name_original": "Hazel Goleman",
+     "votes": 207
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian Blakeslee",
+     "votes": 205
+    },
+    {
+     "name_original": "James Recore",
+     "votes": 210
+    },
+    {
+     "name_original": "Randall Williams",
+     "votes": 212
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Frontier Regional School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cecilia Van Driesche",
+     "votes": 116
+    },
+    {
+     "name_original": "Jared Campbell",
+     "votes": 96
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Conway Grammar School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Elaine Campbell",
+     "votes": 191
+    },
+    {
+     "name_original": "Jared Campbell",
+     "votes": 181
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Recore",
+     "votes": 212
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "William Moebius",
+     "votes": 6
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "William Zale",
+     "votes": 6
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2025-06-12",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Laurie Lucier",
+     "votes": 199
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Conway2025",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

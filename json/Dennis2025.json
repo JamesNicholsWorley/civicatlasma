@@ -1,219 +1,219 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Select Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Select Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher Lambton",
-          "votes": 2115
-        },
-        {
-          "name_original": "James William Plath Jr.",
-          "votes": 1484
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1736,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 39,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Christopher Lambton",
+     "votes": 2115
     },
     {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Town Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William L. Carmichael",
-          "votes": 1403
-        },
-        {
-          "name_original": "Robert Charles Chamberlain",
-          "votes": 1167
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 108,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "James William Plath Jr.",
+     "votes": 1484
     },
     {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Constable",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gerald M. DeSalvatore",
-          "votes": 1964
-        },
-        {
-          "name_original": "Korrin Dean",
-          "votes": 4
-        },
-        {
-          "name_original": "Timothy Bunce",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6070,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1736,
+     "tally_row": true
     },
     {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "D-Y Regional School Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeni A. Landers",
-          "votes": 2043
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 633,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Old Kings Highway Regional Historic District Commissioner",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James M. Pazakis Jr.",
-          "votes": 1421
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 501,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Water District Commissioner",
-      "district_original": "3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Michael Perry",
-          "votes": 1953
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 723,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dennis",
-      "date": "2025-05-13",
-      "office_original": "Water District Commissioner",
-      "district_original": "1 Year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph P. Walker II",
-          "votes": 1770
-        },
-        {
-          "name_original": "Diane Theresa Chamberlain",
-          "votes": 870
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 45,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 39,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Dennis2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dennis2025.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Town Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William L. Carmichael",
+     "votes": 1403
+    },
+    {
+     "name_original": "Robert Charles Chamberlain",
+     "votes": 1167
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 108,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Constable",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gerald M. DeSalvatore",
+     "votes": 1964
+    },
+    {
+     "name_original": "Korrin Dean",
+     "votes": 4
+    },
+    {
+     "name_original": "Timothy Bunce",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6070,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "D-Y Regional School Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeni A. Landers",
+     "votes": 2043
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 633,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Old Kings Highway Regional Historic District Commissioner",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James M. Pazakis Jr.",
+     "votes": 1421
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 501,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Water District Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Michael Perry",
+     "votes": 1953
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 723,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2025-05-13",
+   "office_original": "Water District Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph P. Walker II",
+     "votes": 1770
+    },
+    {
+     "name_original": "Diane Theresa Chamberlain",
+     "votes": 870
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 45,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Dennis2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dennis2025.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,277 +1,277 @@
 {
-  "document": {
-    "heading_verbatim": "ANNUAL TOWN ELECTION\nOFFICIAL MINUTES\nAPRIL 8, 2023",
-    "election_type": "Regular",
-    "election_type_evidence": "The Annual Town Election was held at the Spring Street School on Saturday, April 8, 2023... Constable Patrick Galligan, in accordance with the Massachusetts General Laws and the By-laws of the Town of West Bridgewater, posted the Warrant, issued by the Board of Selectmen on March 8, 2023.",
-    "date_verbatim": "APRIL 8, 2023",
-    "offices_on_ballot": 10,
-    "is_sample_ballot": false,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "ANNUAL TOWN ELECTION\nOFFICIAL MINUTES\nAPRIL 8, 2023",
+  "election_type": "Regular",
+  "election_type_evidence": "The Annual Town Election was held at the Spring Street School on Saturday, April 8, 2023... Constable Patrick Galligan, in accordance with the Massachusetts General Laws and the By-laws of the Town of West Bridgewater, posted the Warrant, issued by the Board of Selectmen on March 8, 2023.",
+  "date_verbatim": "APRIL 8, 2023",
+  "offices_on_ballot": 10,
+  "is_sample_ballot": false,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "BOARD OF SELECTMEN",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Meredith L. Anderson",
-          "votes": 320
-        },
-        {
-          "name_original": "Jeffery P. Ryan",
-          "votes": 634
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Meredith L. Anderson",
+     "votes": 320
     },
     {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "BOARD OF ASSESSORS",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paula M. Bunker",
-          "votes": 697
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 255,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Jeffery P. Ryan",
+     "votes": 634
     },
     {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "SCHOOL COMMITTEE",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christine M. Myaskovsky",
-          "votes": 668
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 283,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
     },
     {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bradford Wayne Piesco",
-          "votes": 719
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "CONSTABLE (TO FILL A VACANCY)",
-      "district_original": "Two Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jason A. Ross",
-          "votes": 714
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 227,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "PLANNING BOARD",
-      "district_original": "Five Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James R. Noyes",
-          "votes": 698
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 259,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "TRUSTEE OF PUBLIC LIBRARY",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott Ames",
-          "votes": 617
-        },
-        {
-          "name_original": "Kelly A. Kaprelian",
-          "votes": 469
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 827,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "WATER COMMISSIONER",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John F. Cruz",
-          "votes": 717
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 239,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2023-04-08",
-      "office_original": "HOUSING AUTHORITY",
-      "district_original": "Five Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paula M. Bunker",
-          "votes": 689
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 259,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 3,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "WestBridgewater2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBridgewater2023.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "BOARD OF ASSESSORS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paula M. Bunker",
+     "votes": 697
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 255,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christine M. Myaskovsky",
+     "votes": 668
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 283,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bradford Wayne Piesco",
+     "votes": 719
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "CONSTABLE (TO FILL A VACANCY)",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jason A. Ross",
+     "votes": 714
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 227,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James R. Noyes",
+     "votes": 698
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 259,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott Ames",
+     "votes": 617
+    },
+    {
+     "name_original": "Kelly A. Kaprelian",
+     "votes": 469
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 827,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "WATER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John F. Cruz",
+     "votes": 717
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 239,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2023-04-08",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paula M. Bunker",
+     "votes": 689
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 259,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "WestBridgewater2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBridgewater2023.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

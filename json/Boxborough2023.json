@@ -1,234 +1,234 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dennis Reip",
-          "votes": 721
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 167,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Dennis Reip",
+     "votes": 721
     },
     {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Markiewicz",
-          "votes": 440
-        },
-        {
-          "name_original": "Kristin Hilberg",
-          "votes": 520
-        },
-        {
-          "name_original": "Priya Sundaram",
-          "votes": 604
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 222,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
     },
     {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Select Board",
-      "district_original": "1-year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Keith Lyons",
-          "votes": 315
-        },
-        {
-          "name_original": "David McKiernan",
-          "votes": 529
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 50,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard Barrett",
-          "votes": 157
-        },
-        {
-          "name_original": "Chadwin Childers",
-          "votes": 270
-        },
-        {
-          "name_original": "Lakshmi Kaja",
-          "votes": 658
-        },
-        {
-          "name_original": "Vikram Parikh",
-          "votes": 336
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 365,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Barbadoro",
-          "votes": 379
-        },
-        {
-          "name_original": "Cindy Markowitz",
-          "votes": 537
-        },
-        {
-          "name_original": "Richard Guzzardi",
-          "votes": 507
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 358,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nancy Settle-Murphy",
-          "votes": 679
-        },
-        {
-          "name_original": "Jessica Levesque",
-          "votes": 598
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 503,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boxborough",
-      "date": "2023-05-16",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marie Cannon",
-          "votes": 728
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 163,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 167,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Boxborough2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxborough2023.pdf",
-  "ballots_cast": 894,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Markiewicz",
+     "votes": 440
+    },
+    {
+     "name_original": "Kristin Hilberg",
+     "votes": 520
+    },
+    {
+     "name_original": "Priya Sundaram",
+     "votes": 604
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 222,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Keith Lyons",
+     "votes": 315
+    },
+    {
+     "name_original": "David McKiernan",
+     "votes": 529
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 50,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard Barrett",
+     "votes": 157
+    },
+    {
+     "name_original": "Chadwin Childers",
+     "votes": 270
+    },
+    {
+     "name_original": "Lakshmi Kaja",
+     "votes": 658
+    },
+    {
+     "name_original": "Vikram Parikh",
+     "votes": 336
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 365,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Barbadoro",
+     "votes": 379
+    },
+    {
+     "name_original": "Cindy Markowitz",
+     "votes": 537
+    },
+    {
+     "name_original": "Richard Guzzardi",
+     "votes": 507
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 358,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nancy Settle-Murphy",
+     "votes": 679
+    },
+    {
+     "name_original": "Jessica Levesque",
+     "votes": 598
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 503,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boxborough",
+   "date": "2023-05-16",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marie Cannon",
+     "votes": 728
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 163,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Boxborough2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boxborough2023.pdf",
+ "ballots_cast": 894,
+ "ballots_cast_source": "derived_from_contests"
 }

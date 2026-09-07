@@ -1,417 +1,417 @@
 {
-  "document": {
-    "heading_verbatim": "Annual Town Election, June 11, 2024",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "June 11, 2024",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Annual Town Election, June 11, 2024",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "June 11, 2024",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
     {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Select Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Heather M. Munroe",
-          "votes": 102
-        },
-        {
-          "name_original": "Jeffrey L. Williams",
-          "votes": 103
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 32,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Heather M. Munroe",
+     "votes": 102
     },
     {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Jeffrey A. Young",
-          "votes": 104
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jeffrey L. Williams",
+     "votes": 103
     },
     {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Board of Health",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Gael Moncoeur",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter DeBlois",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
     },
     {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Board of Health",
-      "district_original": "2 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 116,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Cemetery Commission",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "David Melville",
-          "votes": 106
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 14,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Library Trustees",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Thomas F. Robinson",
-          "votes": 102
-        },
-        {
-          "name_original": "Connie M. Strittmatter",
-          "votes": 104
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 34,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Library Trustees",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Alycia Smith",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 112,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "QRSD School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Alicia M. Muck",
-          "votes": 101
-        },
-        {
-          "name_original": "Joseph Afonso",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 138,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Finance Committee",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Seth Knipe",
-          "votes": 7
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 231,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Finance Committee",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Hunter Young",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 110,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Parks Commission",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 117,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Parks Commission",
-      "district_original": "2 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Hunter Young",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 236,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Parks Commission",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Jessica H. Alexander",
-          "votes": 98
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 22,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hubbardston",
-      "date": "2024-06-11",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.99,
-      "candidates": [
-        {
-          "name_original": "Francois I. Steiger",
-          "votes": 103
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 32,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Hubbardston2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hubbardston2024.pdf",
-  "ballots_cast": 120,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Jeffrey A. Young",
+     "votes": 104
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Gael Moncoeur",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter DeBlois",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 116,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Cemetery Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "David Melville",
+     "votes": 106
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Thomas F. Robinson",
+     "votes": 102
+    },
+    {
+     "name_original": "Connie M. Strittmatter",
+     "votes": 104
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 34,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Alycia Smith",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 112,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "QRSD School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Alicia M. Muck",
+     "votes": 101
+    },
+    {
+     "name_original": "Joseph Afonso",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 138,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Seth Knipe",
+     "votes": 7
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 231,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Hunter Young",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 110,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Parks Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 117,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Parks Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Hunter Young",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 236,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Parks Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Jessica H. Alexander",
+     "votes": 98
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 22,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hubbardston",
+   "date": "2024-06-11",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.99,
+   "candidates": [
+    {
+     "name_original": "Francois I. Steiger",
+     "votes": 103
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Hubbardston2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hubbardston2024.pdf",
+ "ballots_cast": 120,
+ "ballots_cast_source": "derived_from_contests"
 }

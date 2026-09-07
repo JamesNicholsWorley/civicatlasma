@@ -1,90 +1,90 @@
 {
-  "document": {
-    "heading_verbatim": "West Bridgewater, MA — Annual Town Election, Saturday April 11, 2026 (preliminary results)",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "Saturday April 11, 2026",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "West Bridgewater, MA — Annual Town Election, Saturday April 11, 2026 (preliminary results)",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "Saturday April 11, 2026",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "West Bridgewater",
+   "date": "2026-04-11",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "West Bridgewater",
-      "date": "2026-04-11",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jeffrey Paul Ryan",
-          "votes": 389
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2026-04-11",
-      "office_original": "Board of Assessors",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Paula M. Bunker",
-          "votes": 348
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2026-04-11",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jennifer Croes",
-          "votes": 32
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Bridgewater",
-      "date": "2026-04-11",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Alexandra Valerie Palmieri",
-          "votes": 190
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jeffrey Paul Ryan",
+     "votes": 389
     }
-  ],
-  "_source_stem": "WestBridgewater2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2026-04-11",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Paula M. Bunker",
+     "votes": 348
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2026-04-11",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Jennifer Croes",
+     "votes": 32
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Bridgewater",
+   "date": "2026-04-11",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Alexandra Valerie Palmieri",
+     "votes": 190
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "WestBridgewater2026",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,486 +1,486 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Select Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Select Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy Toth",
-          "votes": 795
-        },
-        {
-          "name_original": "April Cover",
-          "votes": 958
-        },
-        {
-          "name_original": "Kenneth McClure",
-          "votes": 43
-        },
-        {
-          "name_original": "Others",
-          "votes": 62,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1178,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Timothy Toth",
+     "votes": 795
     },
     {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George Barnes, Jr.",
-          "votes": 1148
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 361,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "April Cover",
+     "votes": 958
     },
     {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cynthia Cadoret",
-          "votes": 1102
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 405,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kenneth McClure",
+     "votes": 43
     },
     {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Cemetery Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew McDonald",
-          "votes": 1123
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 383,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 62,
+     "tally_row": true
     },
     {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Community Preservation Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Henshaw",
-          "votes": 1166
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 343,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Light and Water Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dana Blais",
-          "votes": 1137
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 369,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Graves",
-          "votes": 1078
-        },
-        {
-          "name_original": "Others",
-          "votes": 22,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 418,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Housing Authority",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Louise Chaffee",
-          "votes": 1081
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 425,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Planning Board",
-      "district_original": "2 year unexpired",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Michael Dickson",
-          "votes": 2
-        },
-        {
-          "name_original": "Ivana Bellorado",
-          "votes": 2
-        },
-        {
-          "name_original": "Chris McGinn",
-          "votes": 2
-        },
-        {
-          "name_original": "Ken McClure",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 31,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1479,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Planning Board",
-      "district_original": "4 year unexpired",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Caruso",
-          "votes": 1032
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 472,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Planning Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Christof Chartier",
-          "votes": 6
-        },
-        {
-          "name_original": "Christopher McGinn",
-          "votes": 3
-        },
-        {
-          "name_original": "Michael Currie",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 58,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2966,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Sewer Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Moschetti",
-          "votes": 1001
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 498,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Narragansett Regional School District Committee",
-      "district_original": "Templeton",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shawn Case",
-          "votes": 965
-        },
-        {
-          "name_original": "Yasmine Khdeer",
-          "votes": 778
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1283,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Narragansett Regional School District Committee",
-      "district_original": "Phillipston - 1 year unexpired",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Elizabeth Bond",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1498,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Narragansett Regional School District Committee",
-      "district_original": "Phillipston - 2 year unexpired",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Boucher Brunelle",
-          "votes": 4
-        },
-        {
-          "name_original": "Elizabeth Bond",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1501,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Templeton",
-      "date": "2026-05-18",
-      "office_original": "Narragansett Regional School District Committee",
-      "district_original": "Phillipston",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Elizabeth Bond",
-          "votes": 4
-        },
-        {
-          "name_original": "Trent Gough",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 64,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1450,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1178,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Templeton2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Templeton2026.pdf",
-  "ballots_cast": 1518,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George Barnes, Jr.",
+     "votes": 1148
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 361,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cynthia Cadoret",
+     "votes": 1102
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 405,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Cemetery Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Matthew McDonald",
+     "votes": 1123
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 383,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Community Preservation Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Henshaw",
+     "votes": 1166
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 343,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Light and Water Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dana Blais",
+     "votes": 1137
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 369,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Graves",
+     "votes": 1078
+    },
+    {
+     "name_original": "Others",
+     "votes": 22,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 418,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Housing Authority",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Louise Chaffee",
+     "votes": 1081
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 425,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Michael Dickson",
+     "votes": 2
+    },
+    {
+     "name_original": "Ivana Bellorado",
+     "votes": 2
+    },
+    {
+     "name_original": "Chris McGinn",
+     "votes": 2
+    },
+    {
+     "name_original": "Ken McClure",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 31,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1479,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Caruso",
+     "votes": 1032
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 472,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Planning Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Christof Chartier",
+     "votes": 6
+    },
+    {
+     "name_original": "Christopher McGinn",
+     "votes": 3
+    },
+    {
+     "name_original": "Michael Currie",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 58,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2966,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Sewer Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Moschetti",
+     "votes": 1001
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 498,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Narragansett Regional School District Committee",
+   "district_original": "Templeton",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shawn Case",
+     "votes": 965
+    },
+    {
+     "name_original": "Yasmine Khdeer",
+     "votes": 778
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1283,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Narragansett Regional School District Committee",
+   "district_original": "Phillipston - 1 year unexpired",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Elizabeth Bond",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1498,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Narragansett Regional School District Committee",
+   "district_original": "Phillipston - 2 year unexpired",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Boucher Brunelle",
+     "votes": 4
+    },
+    {
+     "name_original": "Elizabeth Bond",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1501,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2026-05-18",
+   "office_original": "Narragansett Regional School District Committee",
+   "district_original": "Phillipston",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Elizabeth Bond",
+     "votes": 4
+    },
+    {
+     "name_original": "Trent Gough",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 64,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1450,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Templeton2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Templeton2026.pdf",
+ "ballots_cast": 1518,
+ "ballots_cast_source": "derived_from_contests"
 }

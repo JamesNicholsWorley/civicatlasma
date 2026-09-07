@@ -1,173 +1,173 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Wilmington",
+   "date": "2025-04-26",
+   "office_original": "Select Board Member",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Wilmington",
-      "date": "2025-04-26",
-      "office_original": "Select Board Member",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kevin Anthony Caira",
-          "votes": 790
-        },
-        {
-          "name_original": "Jacob M. Gearwar",
-          "votes": 813
-        },
-        {
-          "name_original": "Steven D. Hunt",
-          "votes": 787
-        },
-        {
-          "name_original": "Rob Fasulo",
-          "votes": 16
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 401,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kevin Anthony Caira",
+     "votes": 790
     },
     {
-      "municipality": "Wilmington",
-      "date": "2025-04-26",
-      "office_original": "School Committee",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jesse Lee Fennelly",
-          "votes": 910
-        },
-        {
-          "name_original": "Stephen Gregory Turner",
-          "votes": 882
-        },
-        {
-          "name_original": "Rebecca L. Lord",
-          "votes": 731
-        },
-        {
-          "name_original": "Michelle Feeney",
-          "votes": 115
-        },
-        {
-          "name_original": "Mallory Mahoney",
-          "votes": 543
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1042,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jacob M. Gearwar",
+     "votes": 813
     },
     {
-      "municipality": "Wilmington",
-      "date": "2025-04-26",
-      "office_original": "Shawsheen Valley Technical High School Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gwendilyn Hupper-Lawson",
-          "votes": 1090
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 315,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Steven D. Hunt",
+     "votes": 787
     },
     {
-      "municipality": "Wilmington",
-      "date": "2025-04-26",
-      "office_original": "Housing Authority",
-      "district_original": "5 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ann Marie Hill",
-          "votes": 1035
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 368,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Rob Fasulo",
+     "votes": 16
     },
     {
-      "municipality": "Wilmington",
-      "date": "2025-04-26",
-      "office_original": "Housing Authority",
-      "district_original": "3 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas W. Siracusa",
-          "votes": 1094
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 310,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 401,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Wilmington2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2025.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2025-04-26",
+   "office_original": "School Committee",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jesse Lee Fennelly",
+     "votes": 910
+    },
+    {
+     "name_original": "Stephen Gregory Turner",
+     "votes": 882
+    },
+    {
+     "name_original": "Rebecca L. Lord",
+     "votes": 731
+    },
+    {
+     "name_original": "Michelle Feeney",
+     "votes": 115
+    },
+    {
+     "name_original": "Mallory Mahoney",
+     "votes": 543
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1042,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2025-04-26",
+   "office_original": "Shawsheen Valley Technical High School Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gwendilyn Hupper-Lawson",
+     "votes": 1090
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 315,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2025-04-26",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ann Marie Hill",
+     "votes": 1035
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 368,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2025-04-26",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas W. Siracusa",
+     "votes": 1094
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 310,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Wilmington2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2025.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

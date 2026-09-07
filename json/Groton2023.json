@@ -1,406 +1,406 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Garret C. Boles",
-          "votes": 576
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 162,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Garret C. Boles",
+     "votes": 576
     },
     {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Evan A. Thackaberry",
-          "votes": 578
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 164,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
     },
     {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Select Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alison S. Manugian",
-          "votes": 499
-        },
-        {
-          "name_original": "Rebecca H. Pine",
-          "votes": 502
-        },
-        {
-          "name_original": "Guy Alberghini",
-          "votes": 215
-        },
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 210,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Commissioner of Trust Funds",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Martha R. McLure",
-          "votes": 594
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 149,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Groton Electric Light Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eric S. Fisher",
-          "votes": 594
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 149,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Park Commission",
-      "district_original": "3 Year Term",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary A. Jennings",
-          "votes": 555
-        },
-        {
-          "name_original": "Jeffrey Ohringer",
-          "votes": 66
-        },
-        {
-          "name_original": "Others",
-          "votes": 54,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 819,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Park Commission",
-      "district_original": "2 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gail M. Chalmers",
-          "votes": 571
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 156,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Planning Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott O. Wilson",
-          "votes": 530
-        },
-        {
-          "name_original": "Philip M. Francisco",
-          "votes": 508
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 448,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Sewer Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas Orcutt",
-          "votes": 9
-        },
-        {
-          "name_original": "Others",
-          "votes": 23,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 715,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Trustees of the Groton Public Library",
-      "district_original": "3 Year Term",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David J. Zeiler",
-          "votes": 561
-        },
-        {
-          "name_original": "Kathryn E. Bettencourt",
-          "votes": 585
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 342,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Trustees of the Groton Public Library",
-      "district_original": "1 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Helena C. Altsman",
-          "votes": 585
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 156,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Water Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James L. Gmeiner",
-          "votes": 590
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 152,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Groton-Dunstable Regional School Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Catherine N. Awa",
-          "votes": 578
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 142,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Groton",
-      "date": "2023-05-23",
-      "office_original": "Groton Housing Authority",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 42,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 705,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 162,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Groton2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Groton2023.pdf",
-  "ballots_cast": 747,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Evan A. Thackaberry",
+     "votes": 578
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 164,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Select Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alison S. Manugian",
+     "votes": 499
+    },
+    {
+     "name_original": "Rebecca H. Pine",
+     "votes": 502
+    },
+    {
+     "name_original": "Guy Alberghini",
+     "votes": 215
+    },
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 210,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Commissioner of Trust Funds",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Martha R. McLure",
+     "votes": 594
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 149,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Groton Electric Light Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eric S. Fisher",
+     "votes": 594
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 149,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Park Commission",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary A. Jennings",
+     "votes": 555
+    },
+    {
+     "name_original": "Jeffrey Ohringer",
+     "votes": 66
+    },
+    {
+     "name_original": "Others",
+     "votes": 54,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 819,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Park Commission",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gail M. Chalmers",
+     "votes": 571
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 156,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Planning Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott O. Wilson",
+     "votes": 530
+    },
+    {
+     "name_original": "Philip M. Francisco",
+     "votes": 508
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 448,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Sewer Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas Orcutt",
+     "votes": 9
+    },
+    {
+     "name_original": "Others",
+     "votes": 23,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 715,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Trustees of the Groton Public Library",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David J. Zeiler",
+     "votes": 561
+    },
+    {
+     "name_original": "Kathryn E. Bettencourt",
+     "votes": 585
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 342,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Trustees of the Groton Public Library",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Helena C. Altsman",
+     "votes": 585
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 156,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Water Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James L. Gmeiner",
+     "votes": 590
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 152,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Groton-Dunstable Regional School Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Catherine N. Awa",
+     "votes": 578
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 142,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Groton",
+   "date": "2023-05-23",
+   "office_original": "Groton Housing Authority",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 42,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 705,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Groton2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Groton2023.pdf",
+ "ballots_cast": 747,
+ "ballots_cast_source": "derived_from_contests"
 }

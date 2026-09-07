@@ -1,545 +1,545 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SELECT BOARD MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SELECT BOARD MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "RENEE EMKEY",
-          "votes": 1756
-        },
-        {
-          "name_original": "CAESAR J. NUZZOLO",
-          "votes": 1752
-        },
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1791,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "RENEE EMKEY",
+     "votes": 1756
     },
     {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SEWER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BRETT D. RAMSDEN",
-          "votes": 1879
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 781,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "CAESAR J. NUZZOLO",
+     "votes": 1752
     },
     {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SEWER COMMISSIONER",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ALLAN M. WILSON",
-          "votes": 1804
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 855,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
     },
     {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SEWER COMMISSIONER",
-      "district_original": "1 Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ARTHUR KATIS",
-          "votes": 1624
-        },
-        {
-          "name_original": "DANIEL C. PROCTOR",
-          "votes": 1886
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1812,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "BOARD OF HEALTH MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LORRAINE P. RUDD",
-          "votes": 1741
-        },
-        {
-          "name_original": "PERRY R. JEWELL",
-          "votes": 1712
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1874,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BRIAN P. LAFFOND",
-          "votes": 1783
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 875,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "ASSESSOR",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BRYANT MOSCON",
-          "votes": 23
-        },
-        {
-          "name_original": "Others",
-          "votes": 30,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2613,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SCHOOL COMMITTEE MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURA Q. BRZOZSKI",
-          "votes": 1665
-        },
-        {
-          "name_original": "JEAN RUSSELL",
-          "votes": 1698
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1960,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "SCHOOL COMMITTEE MEMBER",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "EMILY D. YOUNG",
-          "votes": 1751
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 907,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "PARK COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DANIEL BURNS",
-          "votes": 17
-        },
-        {
-          "name_original": "KARIN MENARD",
-          "votes": 7
-        },
-        {
-          "name_original": "Others",
-          "votes": 56,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5252,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "PARK COMMISSIONER",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TANYA O. DALL",
-          "votes": 1735
-        },
-        {
-          "name_original": "Others",
-          "votes": 18,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 913,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "COMMISSIONER OF TRUST FUNDS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2618,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "COMMISSIONER OF TRUST FUNDS",
-      "district_original": "2 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2622,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "CEMETERY COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MICHAEL P. CLARK",
-          "votes": 1749
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 914,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "LIBRARY TRUSTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "HARRY M. KUBETZ",
-          "votes": 1710
-        },
-        {
-          "name_original": "JANALEE GERMAINE BALISH",
-          "votes": 1724
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1895,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "PLANNING BOARD MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MATTHEW BRENNER",
-          "votes": 1768
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 897,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "PLANNING BOARD MEMBER",
-      "district_original": "4 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ADAM R. BURNEY",
-          "votes": 1773
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 892,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "PLANNING BOARD MEMBER",
-      "district_original": "3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ANTHONY F. NICASTRO",
-          "votes": 1713
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 952,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lunenburg",
-      "date": "2026-05-16",
-      "office_original": "HOUSING AUTHORITY MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LIZ M. OTERO DOMENECH",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 30,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2632,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1791,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Lunenburg2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lunenburg2026.pdf",
-  "ballots_cast": 2666,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SEWER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BRETT D. RAMSDEN",
+     "votes": 1879
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 781,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SEWER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ALLAN M. WILSON",
+     "votes": 1804
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 855,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SEWER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ARTHUR KATIS",
+     "votes": 1624
+    },
+    {
+     "name_original": "DANIEL C. PROCTOR",
+     "votes": 1886
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1812,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "BOARD OF HEALTH MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LORRAINE P. RUDD",
+     "votes": 1741
+    },
+    {
+     "name_original": "PERRY R. JEWELL",
+     "votes": 1712
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1874,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BRIAN P. LAFFOND",
+     "votes": 1783
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 875,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "ASSESSOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "BRYANT MOSCON",
+     "votes": 23
+    },
+    {
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2613,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SCHOOL COMMITTEE MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURA Q. BRZOZSKI",
+     "votes": 1665
+    },
+    {
+     "name_original": "JEAN RUSSELL",
+     "votes": 1698
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1960,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "SCHOOL COMMITTEE MEMBER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "EMILY D. YOUNG",
+     "votes": 1751
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 907,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "PARK COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DANIEL BURNS",
+     "votes": 17
+    },
+    {
+     "name_original": "KARIN MENARD",
+     "votes": 7
+    },
+    {
+     "name_original": "Others",
+     "votes": 56,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5252,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "PARK COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "TANYA O. DALL",
+     "votes": 1735
+    },
+    {
+     "name_original": "Others",
+     "votes": 18,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 913,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "COMMISSIONER OF TRUST FUNDS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2618,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "COMMISSIONER OF TRUST FUNDS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2622,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "CEMETERY COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MICHAEL P. CLARK",
+     "votes": 1749
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 914,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "LIBRARY TRUSTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "HARRY M. KUBETZ",
+     "votes": 1710
+    },
+    {
+     "name_original": "JANALEE GERMAINE BALISH",
+     "votes": 1724
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1895,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "PLANNING BOARD MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MATTHEW BRENNER",
+     "votes": 1768
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 897,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "PLANNING BOARD MEMBER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ADAM R. BURNEY",
+     "votes": 1773
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 892,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "PLANNING BOARD MEMBER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ANTHONY F. NICASTRO",
+     "votes": 1713
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 952,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lunenburg",
+   "date": "2026-05-16",
+   "office_original": "HOUSING AUTHORITY MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LIZ M. OTERO DOMENECH",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2632,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Lunenburg2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lunenburg2026.pdf",
+ "ballots_cast": 2666,
+ "ballots_cast_source": "derived_from_contests"
 }

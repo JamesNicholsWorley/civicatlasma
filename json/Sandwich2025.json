@@ -1,384 +1,384 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Board of Assessors",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Board of Assessors",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lawrence B. Harrington",
-          "votes": 1243
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 445,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Lawrence B. Harrington",
+     "votes": 1243
     },
     {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Board of Health",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ronald J. Hurley",
-          "votes": 1259
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 427,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
     },
     {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Town Clerk",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Taylor D. White",
-          "votes": 1374
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 312,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Constable",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Candus S. Thomson",
-          "votes": 1035
-        },
-        {
-          "name_original": "Ralph A. Vitacco",
-          "votes": 430
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 222,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Housing Authority Trustee",
-      "district_original": "Five Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John E. Fox",
-          "votes": 1203
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 486,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Housing Authority Trustee",
-      "district_original": "One Year Unexpired Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christine D. Johnson-Staub",
-          "votes": 1191
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 496,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Planning Board",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jack Vaccaro",
-          "votes": 15
-        },
-        {
-          "name_original": "Julie Fawkes",
-          "votes": 12
-        },
-        {
-          "name_original": "Greg Mazar",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 82,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3263,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Sandwich Public Library Trustee",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Evelyn J. Dewar",
-          "votes": 1131
-        },
-        {
-          "name_original": "Gretchen L. Mulroy",
-          "votes": 1134
-        },
-        {
-          "name_original": "Robert T. Thomson",
-          "votes": 1117
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1680,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "School Committee",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Danielle M. Binienda",
-          "votes": 1141
-        },
-        {
-          "name_original": "Alexandra M. Higgins",
-          "votes": 669
-        },
-        {
-          "name_original": "Megan Tammaro",
-          "votes": 455
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1097,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Select Board",
-      "district_original": "Three Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Patrick Ellis",
-          "votes": 1136
-        },
-        {
-          "name_original": "Charles M. Holden",
-          "votes": 1103
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1127,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Select Board",
-      "district_original": "One Year Unexpired Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dennis E. Newman",
-          "votes": 328
-        },
-        {
-          "name_original": "Gene J. Parini",
-          "votes": 641
-        },
-        {
-          "name_original": "David J. Sampson",
-          "votes": 657
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 61,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sandwich",
-      "date": "2025-05-08",
-      "office_original": "Weston Memorial Fund Trustee",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jonathan P. Hagenstein",
-          "votes": 1193
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 496,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 445,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Sandwich2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sandwich2025.pdf",
-  "ballots_cast": 1689,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Board of Health",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ronald J. Hurley",
+     "votes": 1259
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 427,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Town Clerk",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Taylor D. White",
+     "votes": 1374
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 312,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Constable",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Candus S. Thomson",
+     "votes": 1035
+    },
+    {
+     "name_original": "Ralph A. Vitacco",
+     "votes": 430
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 222,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Housing Authority Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John E. Fox",
+     "votes": 1203
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 486,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Housing Authority Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christine D. Johnson-Staub",
+     "votes": 1191
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 496,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Planning Board",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jack Vaccaro",
+     "votes": 15
+    },
+    {
+     "name_original": "Julie Fawkes",
+     "votes": 12
+    },
+    {
+     "name_original": "Greg Mazar",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 82,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3263,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Sandwich Public Library Trustee",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Evelyn J. Dewar",
+     "votes": 1131
+    },
+    {
+     "name_original": "Gretchen L. Mulroy",
+     "votes": 1134
+    },
+    {
+     "name_original": "Robert T. Thomson",
+     "votes": 1117
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1680,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "School Committee",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Danielle M. Binienda",
+     "votes": 1141
+    },
+    {
+     "name_original": "Alexandra M. Higgins",
+     "votes": 669
+    },
+    {
+     "name_original": "Megan Tammaro",
+     "votes": 455
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1097,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Patrick Ellis",
+     "votes": 1136
+    },
+    {
+     "name_original": "Charles M. Holden",
+     "votes": 1103
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1127,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dennis E. Newman",
+     "votes": 328
+    },
+    {
+     "name_original": "Gene J. Parini",
+     "votes": 641
+    },
+    {
+     "name_original": "David J. Sampson",
+     "votes": 657
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 61,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2025-05-08",
+   "office_original": "Weston Memorial Fund Trustee",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jonathan P. Hagenstein",
+     "votes": 1193
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 496,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Sandwich2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sandwich2025.pdf",
+ "ballots_cast": 1689,
+ "ballots_cast_source": "derived_from_contests"
 }

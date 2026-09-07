@@ -1,293 +1,293 @@
 {
-  "document": {
-    "heading_verbatim": "ANNUAL TOWN ELECTION",
-    "date_verbatim": "April 25, 2022",
-    "election_type": "Regular",
-    "election_type_evidence": "The heading states 'ANNUAL TOWN ELECTION', which indicates a Regular election held annually.",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "ANNUAL TOWN ELECTION",
+  "date_verbatim": "April 25, 2022",
+  "election_type": "Regular",
+  "election_type_evidence": "The heading states 'ANNUAL TOWN ELECTION', which indicates a Regular election held annually.",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "BOARD OF SELECTMEN",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lisa Lewand",
-          "votes": 326
-        },
-        {
-          "name_original": "Theresa Morse",
-          "votes": 453
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 56,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Lisa Lewand",
+     "votes": 326
     },
     {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "AMANDA E. DWIGHT ENTERTAINMENT COMMITTEE",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karen Clement",
-          "votes": 31
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 791,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Theresa Morse",
+     "votes": 453
     },
     {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "BOARD OF ASSESSORS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Laura Shifrin",
-          "votes": 12
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 818,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
     },
     {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Chris Nocella",
-          "votes": 101
-        },
-        {
-          "name_original": "Cheryl Mealhow",
-          "votes": 19
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 708,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "CEMETERY AND PARKS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Sanford",
-          "votes": 48
-        },
-        {
-          "name_original": "Carolyn Smart",
-          "votes": 33
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 744,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "LIBRARY TRUSTEES",
-      "district_original": "3-year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Valerie E. Goodrich",
-          "votes": 573
-        },
-        {
-          "name_original": "Aaron Corn",
-          "votes": 15
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1082,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "LIBRARY TRUSTEES",
-      "district_original": "1-year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aaron Corn",
-          "votes": 11
-        },
-        {
-          "name_original": "Emily Holmes",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 815,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "NORTH MIDDLESEX REGIONAL DISTRICT SCHOOL COMMITTEE",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan Appel Robbins",
-          "votes": 559
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 278,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Townsend",
-      "date": "2022-04-25",
-      "office_original": "PLANNING BOARD",
-      "district_original": "5-year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Therrien",
-          "votes": 12
-        },
-        {
-          "name_original": "Lance McNally",
-          "votes": 7
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 809,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 56,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Townsend2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Townsend2022.pdf",
-  "ballots_cast": 841,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "AMANDA E. DWIGHT ENTERTAINMENT COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karen Clement",
+     "votes": 31
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 791,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "BOARD OF ASSESSORS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Laura Shifrin",
+     "votes": 12
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 818,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Chris Nocella",
+     "votes": 101
+    },
+    {
+     "name_original": "Cheryl Mealhow",
+     "votes": 19
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 708,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "CEMETERY AND PARKS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian Sanford",
+     "votes": 48
+    },
+    {
+     "name_original": "Carolyn Smart",
+     "votes": 33
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 744,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "LIBRARY TRUSTEES",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Valerie E. Goodrich",
+     "votes": 573
+    },
+    {
+     "name_original": "Aaron Corn",
+     "votes": 15
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1082,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "LIBRARY TRUSTEES",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Aaron Corn",
+     "votes": 11
+    },
+    {
+     "name_original": "Emily Holmes",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 815,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "NORTH MIDDLESEX REGIONAL DISTRICT SCHOOL COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan Appel Robbins",
+     "votes": 559
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 278,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Townsend",
+   "date": "2022-04-25",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Therrien",
+     "votes": 12
+    },
+    {
+     "name_original": "Lance McNally",
+     "votes": 7
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 809,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Townsend2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Townsend2022.pdf",
+ "ballots_cast": 841,
+ "ballots_cast_source": "derived_from_contests"
 }

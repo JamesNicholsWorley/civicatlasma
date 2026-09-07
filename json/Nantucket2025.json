@@ -1,233 +1,233 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary Chalke",
-          "votes": 499
-        },
-        {
-          "name_original": "Matt Fee",
-          "votes": 1441
-        },
-        {
-          "name_original": "Brook Gibbs",
-          "votes": 285
-        },
-        {
-          "name_original": "Brooke Mohr",
-          "votes": 1083
-        },
-        {
-          "name_original": "Clifford Williams",
-          "votes": 687
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Mary Chalke",
+     "votes": 499
     },
     {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Planning Board",
-      "district_original": "One-year seat",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Liza Hatton",
-          "votes": 1003
-        },
-        {
-          "name_original": "Hillary Hedges Rayport",
-          "votes": 1053
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Matt Fee",
+     "votes": 1441
     },
     {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Vince Murphy",
-          "votes": 1391
-        },
-        {
-          "name_original": "Matt Tara",
-          "votes": 563
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Brook Gibbs",
+     "votes": 285
     },
     {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sarah Alger",
-          "votes": 2032
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Brooke Mohr",
+     "votes": 1083
     },
     {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nancy Holmes",
-          "votes": 2014
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Historic District Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Abigail Camp",
-          "votes": 1581
-        },
-        {
-          "name_original": "Stephen Welch",
-          "votes": 1574
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Nantucket Land Bank Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Donato",
-          "votes": 1796
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Harbor & Shellfish Advisory Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott Anderson",
-          "votes": 1566
-        },
-        {
-          "name_original": "Jim Sjolund",
-          "votes": 1706
-        },
-        {
-          "name_original": "Ellen Mayo",
-          "votes": 1416
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Nantucket Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bert Johnson",
-          "votes": 1690
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Planning Board",
-      "district_original": "Five-year seat",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Kitchener",
-          "votes": 1588
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2025-05-20",
-      "office_original": "Nantucket Board of Water Commissioners",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Pearl",
-          "votes": 1835
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Clifford Williams",
+     "votes": 687
     }
-  ],
-  "_source_stem": "Nantucket2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Liza Hatton",
+     "votes": 1003
+    },
+    {
+     "name_original": "Hillary Hedges Rayport",
+     "votes": 1053
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Vince Murphy",
+     "votes": 1391
+    },
+    {
+     "name_original": "Matt Tara",
+     "votes": 563
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sarah Alger",
+     "votes": 2032
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nancy Holmes",
+     "votes": 2014
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Historic District Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Abigail Camp",
+     "votes": 1581
+    },
+    {
+     "name_original": "Stephen Welch",
+     "votes": 1574
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Nantucket Land Bank Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Donato",
+     "votes": 1796
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Harbor & Shellfish Advisory Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott Anderson",
+     "votes": 1566
+    },
+    {
+     "name_original": "Jim Sjolund",
+     "votes": 1706
+    },
+    {
+     "name_original": "Ellen Mayo",
+     "votes": 1416
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Nantucket Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bert Johnson",
+     "votes": 1690
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Kitchener",
+     "votes": 1588
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2025-05-20",
+   "office_original": "Nantucket Board of Water Commissioners",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Pearl",
+     "votes": 1835
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Nantucket2025",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

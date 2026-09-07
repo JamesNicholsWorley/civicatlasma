@@ -1,277 +1,277 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "SELECTMAN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "SELECTMAN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary C. Fowler",
-          "votes": 592
-        },
-        {
-          "name_original": "Rachel Liv Bancroft",
-          "votes": 641
-        },
-        {
-          "name_original": "Robert C. Hoover",
-          "votes": 801
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 385,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Gary C. Fowler",
+     "votes": 592
     },
     {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John A. Cancellara",
-          "votes": 746
-        },
-        {
-          "name_original": "Michael Donahue",
-          "votes": 558
-        },
-        {
-          "name_original": "Stacy Mcmaster",
-          "votes": 750
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 368,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Rachel Liv Bancroft",
+     "votes": 641
     },
     {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Arthur Macdonald",
-          "votes": 885
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 329,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Robert C. Hoover",
+     "votes": 801
     },
     {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "LIGHT COMMISSIONER",
-      "district_original": "3 yrs.",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Smolinsky",
-          "votes": 898
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 317,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
     },
     {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "LIGHT COMMISSIONER",
-      "district_original": "2 yrs.",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Wayne Snow",
-          "votes": 926
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 289,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "WATER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeffrey W. Mcclure",
-          "votes": 895
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 320,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joanne Mary Laut",
-          "votes": 893
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 315,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "PEABODY LIBRARY TRUSTEES",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Megan B. Lichty",
-          "votes": 895
-        },
-        {
-          "name_original": "Aimee Virginia Hamelin",
-          "votes": 875
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 664,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Georgetown",
-      "date": "2023-05-08",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Twiss",
-          "votes": 79
-        },
-        {
-          "name_original": "Frank Harper",
-          "votes": 7
-        },
-        {
-          "name_original": "Others",
-          "votes": 189,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1030,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 385,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Georgetown2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Georgetown2023.pdf",
-  "ballots_cast": 1219,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John A. Cancellara",
+     "votes": 746
+    },
+    {
+     "name_original": "Michael Donahue",
+     "votes": 558
+    },
+    {
+     "name_original": "Stacy Mcmaster",
+     "votes": 750
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 368,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Arthur Macdonald",
+     "votes": 885
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 329,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "LIGHT COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Smolinsky",
+     "votes": 898
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 317,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "LIGHT COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Wayne Snow",
+     "votes": 926
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 289,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "WATER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeffrey W. Mcclure",
+     "votes": 895
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 320,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joanne Mary Laut",
+     "votes": 893
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 315,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "PEABODY LIBRARY TRUSTEES",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Megan B. Lichty",
+     "votes": 895
+    },
+    {
+     "name_original": "Aimee Virginia Hamelin",
+     "votes": 875
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 664,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Georgetown",
+   "date": "2023-05-08",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Twiss",
+     "votes": 79
+    },
+    {
+     "name_original": "Frank Harper",
+     "votes": 7
+    },
+    {
+     "name_original": "Others",
+     "votes": 189,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1030,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Georgetown2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Georgetown2023.pdf",
+ "ballots_cast": 1219,
+ "ballots_cast_source": "derived_from_contests"
 }

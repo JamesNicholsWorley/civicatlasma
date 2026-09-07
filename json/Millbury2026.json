@@ -1,336 +1,336 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "BOARD OF SELECTMEN",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian A. Sora",
-          "votes": 388
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 98,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Brian A. Sora",
+     "votes": 388
     },
     {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "BOARD OF SELECTMEN",
-      "district_original": "1yr",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael R. Gilchrist",
-          "votes": 368
-        },
-        {
-          "name_original": "Richard F. Gosselin Jr.",
-          "votes": 99
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 29,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
     },
     {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "SCHOOL COMMITTEE",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jessica L. Bristol",
-          "votes": 304
-        },
-        {
-          "name_original": "Sean Michael Cooper",
-          "votes": 165
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 31,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "BOARD OF ASSESSORS",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jean L. Moroski",
-          "votes": 385
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 114,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "PLANNING BOARD",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard F. Gosselin Jr.",
-          "votes": 215
-        },
-        {
-          "name_original": "Tony Ngo",
-          "votes": 296
-        },
-        {
-          "name_original": "Melody A. Belliveau",
-          "votes": 317
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 170,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James M. Morin",
-          "votes": 392
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 105,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "LIBRARY TRUSTEES",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephanie Marie Phillips",
-          "votes": 384
-        },
-        {
-          "name_original": "Linda M. Gosselin",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 597,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "RE-DEVELOPMENT AUTHORITY",
-      "district_original": "5yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Harold F. Proodian",
-          "votes": 376
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 120,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "RE-DEVELOPMENT AUTHORITY",
-      "district_original": "3yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert G. O'Brien",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 464,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "RE-DEVELOPMENT AUTHORITY",
-      "district_original": "1yr",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sean Michael Cooper",
-          "votes": 331
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 161,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Millbury",
-      "date": "2026-04-28",
-      "office_original": "HOUSING AUTHORITY",
-      "district_original": "5yrs",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Terry Burke Dotson",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 24,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 474,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 98,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Millbury2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Millbury2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael R. Gilchrist",
+     "votes": 368
+    },
+    {
+     "name_original": "Richard F. Gosselin Jr.",
+     "votes": 99
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 29,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jessica L. Bristol",
+     "votes": 304
+    },
+    {
+     "name_original": "Sean Michael Cooper",
+     "votes": 165
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 31,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "BOARD OF ASSESSORS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jean L. Moroski",
+     "votes": 385
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 114,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard F. Gosselin Jr.",
+     "votes": 215
+    },
+    {
+     "name_original": "Tony Ngo",
+     "votes": 296
+    },
+    {
+     "name_original": "Melody A. Belliveau",
+     "votes": 317
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 170,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James M. Morin",
+     "votes": 392
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 105,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "LIBRARY TRUSTEES",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephanie Marie Phillips",
+     "votes": 384
+    },
+    {
+     "name_original": "Linda M. Gosselin",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 597,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "RE-DEVELOPMENT AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Harold F. Proodian",
+     "votes": 376
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 120,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "RE-DEVELOPMENT AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert G. O'Brien",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 464,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "RE-DEVELOPMENT AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sean Michael Cooper",
+     "votes": 331
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 161,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Millbury",
+   "date": "2026-04-28",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Terry Burke Dotson",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 24,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 474,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Millbury2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Millbury2026.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

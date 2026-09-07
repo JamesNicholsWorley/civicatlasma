@@ -1,142 +1,142 @@
 {
-  "document": {
-    "heading_verbatim": "Municipal election results: Stockbridge",
-    "election_type": "Regular",
-    "election_type_evidence": "The heading states 'municipal elections' with no qualifier of 'special' or 'preliminary'",
-    "date_verbatim": "Tuesday, May 20",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Municipal election results: Stockbridge",
+  "election_type": "Regular",
+  "election_type_evidence": "The heading states 'municipal elections' with no qualifier of 'special' or 'preliminary'",
+  "date_verbatim": "Tuesday, May 20",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jamie Minacci",
-          "votes": 238
-        },
-        {
-          "name_original": "Lisa Sauer",
-          "votes": 223
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jamie Minacci",
+     "votes": 238
     },
     {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas Goudey",
-          "votes": 404
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Board of Health",
-      "district_original": "three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Loiodice",
-          "votes": 382
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Parks and Recreation Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Linda Barbadoro",
-          "votes": 380
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Barenski Jr.",
-          "votes": 380
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Sewer and Water Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Socha",
-          "votes": 385
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stockbridge",
-      "date": "2025-05-20",
-      "office_original": "Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bernard Edmonds",
-          "votes": 370
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Lisa Sauer",
+     "votes": 223
     }
-  ],
-  "_source_stem": "Stockbridge2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas Goudey",
+     "votes": 404
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Loiodice",
+     "votes": 382
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Parks and Recreation Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Linda Barbadoro",
+     "votes": 380
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Barenski Jr.",
+     "votes": 380
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Sewer and Water Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Socha",
+     "votes": 385
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stockbridge",
+   "date": "2025-05-20",
+   "office_original": "Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bernard Edmonds",
+     "votes": 370
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Stockbridge2025",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

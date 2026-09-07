@@ -1,175 +1,175 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
     {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Raymond W. Huntoon, Jr.",
-          "votes": 44
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Dawn L. Frissell",
-          "votes": 56
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "James Chivers",
-          "votes": 49
-        },
-        {
-          "name_original": "Mary A. Rice",
-          "votes": 48
-        },
-        {
-          "name_original": "Tracey Lussier",
-          "votes": 49
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Sarah Baumann",
-          "votes": 48
-        },
-        {
-          "name_original": "Candice Galeucia",
-          "votes": 49
-        }
-      ],
-      "district_original": "2 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Shaun Galliher",
-          "votes": 49
-        }
-      ],
-      "district_original": "1 year",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Laura Galliher",
-          "votes": 48
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Vivian Mason",
-          "votes": 53
-        }
-      ],
-      "district_original": "2 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [
-        {
-          "name_original": "Keith L. Harrison",
-          "votes": 49
-        }
-      ],
-      "district_original": "5 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2023-05-13",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.97,
-      "candidates": [],
-      "district_original": "2 years",
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Raymond W. Huntoon, Jr.",
+     "votes": 44
     }
-  ],
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Dawn L. Frissell",
+     "votes": 56
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "James Chivers",
+     "votes": 49
+    },
+    {
+     "name_original": "Mary A. Rice",
+     "votes": 48
+    },
+    {
+     "name_original": "Tracey Lussier",
+     "votes": 49
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Sarah Baumann",
+     "votes": 48
+    },
+    {
+     "name_original": "Candice Galeucia",
+     "votes": 49
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Shaun Galliher",
+     "votes": 49
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Laura Galliher",
+     "votes": 48
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Vivian Mason",
+     "votes": 53
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [
+    {
+     "name_original": "Keith L. Harrison",
+     "votes": 49
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2023-05-13",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.97,
+   "candidates": [],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,273 +1,273 @@
 {
-  "document": {
-    "heading_verbatim": "YOUR CHOICE '22: VanNest, Christian, Shepherd, Grafton chosen by voters",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election, Saturday April 30, 2022",
-    "date_verbatim": "April 30, 2022",
-    "offices_on_ballot": -1,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "Board of Health: 1-year term (unopposed); Board of Health: 2-year term (unopposed)",
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "YOUR CHOICE '22: VanNest, Christian, Shepherd, Grafton chosen by voters",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election, Saturday April 30, 2022",
+  "date_verbatim": "April 30, 2022",
+  "offices_on_ballot": -1,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "Board of Health: 1-year term (unopposed); Board of Health: 2-year term (unopposed)",
+  "is_sample_ballot": false
+ },
+ "elections": [
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aaron Christian",
-          "votes": 567
-        },
-        {
-          "name_original": "Katie VanNest",
-          "votes": 458
-        },
-        {
-          "name_original": "Jaimi Pinola",
-          "votes": 259
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Aaron Christian",
+     "votes": 567
     },
     {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Health",
-      "district_original": "1-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Lisa Bezanson",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Katie VanNest",
+     "votes": 458
     },
     {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Health",
-      "district_original": "2-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Clay Kelly",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Planning Board",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rick Shepherd",
-          "votes": 356
-        },
-        {
-          "name_original": "Michelle Kearney",
-          "votes": 326
-        },
-        {
-          "name_original": "John Warner",
-          "votes": 110
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "School Committee",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Danielle Grafton",
-          "votes": 419
-        },
-        {
-          "name_original": "Nicole Emery",
-          "votes": 358
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Selectmen",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kevin DiMarzio",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ann Welch",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Board of Library Trustees",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Carolyn Murray",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Gerald Haas",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Laura Brink",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Sewer Commission",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Michael Donovan",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Sewer Commission",
-      "district_original": "1-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "William Cormier",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Joint Water Works Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "John Tassinari",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Abington",
-      "date": "2022-04-30",
-      "office_original": "Housing Authority",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Wayne Crothers",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jaimi Pinola",
+     "votes": 259
     }
-  ],
-  "_source_stem": "Abington2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Lisa Bezanson",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Clay Kelly",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rick Shepherd",
+     "votes": 356
+    },
+    {
+     "name_original": "Michelle Kearney",
+     "votes": 326
+    },
+    {
+     "name_original": "John Warner",
+     "votes": 110
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Danielle Grafton",
+     "votes": 419
+    },
+    {
+     "name_original": "Nicole Emery",
+     "votes": 358
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Kevin DiMarzio",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ann Welch",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Board of Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Carolyn Murray",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Gerald Haas",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Laura Brink",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Sewer Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Michael Donovan",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Sewer Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "William Cormier",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Joint Water Works Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "John Tassinari",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2022-04-30",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Wayne Crothers",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Abington2022",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

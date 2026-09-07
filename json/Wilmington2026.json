@@ -1,138 +1,138 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Wilmington",
+   "date": "2026-04-25",
+   "office_original": "Select Board Member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Wilmington",
-      "date": "2026-04-25",
-      "office_original": "Select Board Member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary Brooks DePalma",
-          "votes": 1027
-        },
-        {
-          "name_original": "Frank John West",
-          "votes": 1143
-        },
-        {
-          "name_original": "Robert A. Fasulo, Jr.",
-          "votes": 872
-        },
-        {
-          "name_original": "Sivakumar Mallaiyasamy",
-          "votes": 776
-        },
-        {
-          "name_original": "All Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 262,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Gary Brooks DePalma",
+     "votes": 1027
     },
     {
-      "municipality": "Wilmington",
-      "date": "2026-04-25",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Rebecca Bryson",
-          "votes": 1560
-        },
-        {
-          "name_original": "Michael P. Mercaldi",
-          "votes": 1374
-        },
-        {
-          "name_original": "Adrian Babu",
-          "votes": 456
-        },
-        {
-          "name_original": "All Others",
-          "votes": 22,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 674,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Frank John West",
+     "votes": 1143
     },
     {
-      "municipality": "Wilmington",
-      "date": "2026-04-25",
-      "office_original": "Housing Authority",
-      "district_original": "5 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lorraine Ann Penney",
-          "votes": 1588
-        },
-        {
-          "name_original": "All Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 443,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Robert A. Fasulo, Jr.",
+     "votes": 872
     },
     {
-      "municipality": "Wilmington",
-      "date": "2026-04-25",
-      "office_original": "Housing Authority",
-      "district_original": "4 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Anthony Maselli",
-          "votes": 1557
-        },
-        {
-          "name_original": "All Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 470,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Sivakumar Mallaiyasamy",
+     "votes": 776
+    },
+    {
+     "name_original": "All Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 262,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Wilmington2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2026-04-25",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer Rebecca Bryson",
+     "votes": 1560
+    },
+    {
+     "name_original": "Michael P. Mercaldi",
+     "votes": 1374
+    },
+    {
+     "name_original": "Adrian Babu",
+     "votes": 456
+    },
+    {
+     "name_original": "All Others",
+     "votes": 22,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 674,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2026-04-25",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lorraine Ann Penney",
+     "votes": 1588
+    },
+    {
+     "name_original": "All Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 443,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2026-04-25",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Anthony Maselli",
+     "votes": 1557
+    },
+    {
+     "name_original": "All Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 470,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Wilmington2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2026.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

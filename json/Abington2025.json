@@ -1,375 +1,375 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "SELECTMEN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "SELECTMEN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amanda N. Zompetti",
-          "votes": 361
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 93,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Amanda N. Zompetti",
+     "votes": 361
     },
     {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ann T. Welch",
-          "votes": 364
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 100,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
     },
     {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "ASSESSOR",
-      "district_original": "Two Year Unexpired Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph D. Shea",
-          "votes": 383
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 82,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "BOARD OF PUBLIC HEALTH",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aaron M. Christian",
-          "votes": 342
-        },
-        {
-          "name_original": "Katherine M. VanNest",
-          "votes": 347
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 239,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "BOARD OF PUBLIC HEALTH",
-      "district_original": "One Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carol A. Dolan",
-          "votes": 333
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 129,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Caroline S. Ellis",
-          "votes": 348
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 109,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "SEWER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael P. Donovan Sr.",
-          "votes": 349
-        },
-        {
-          "name_original": "Leo J. Lane",
-          "votes": 321
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 257,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "SEWER COMMISSIONER",
-      "district_original": "One Year Unexpired Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 398,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "TRUSTEE OF PUBLIC LIBRARY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Laura Brink",
-          "votes": 359
-        },
-        {
-          "name_original": "Gerard F. Haas",
-          "votes": 347
-        },
-        {
-          "name_original": "John J. Leahy Jr.",
-          "votes": 350
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 339,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "WATER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald J. Harrington Jr.",
-          "votes": 340
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 123,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "WATER COMMISSIONER",
-      "district_original": "One Year Unexpired Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John S. Tassinari Jr.",
-          "votes": 204
-        },
-        {
-          "name_original": "Amanda E. Hunter",
-          "votes": 211
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 50,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 110,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 356,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Abington",
-      "date": "2025-04-27",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert P. Soper",
-          "votes": 360
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 104,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 93,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Abington2025",
-  "_source_pdf": "",
-  "ballots_cast": 466,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ann T. Welch",
+     "votes": 364
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 100,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "ASSESSOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph D. Shea",
+     "votes": 383
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 82,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "BOARD OF PUBLIC HEALTH",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Aaron M. Christian",
+     "votes": 342
+    },
+    {
+     "name_original": "Katherine M. VanNest",
+     "votes": 347
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 239,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "BOARD OF PUBLIC HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carol A. Dolan",
+     "votes": 333
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 129,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Caroline S. Ellis",
+     "votes": 348
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 109,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "SEWER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael P. Donovan Sr.",
+     "votes": 349
+    },
+    {
+     "name_original": "Leo J. Lane",
+     "votes": 321
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 257,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "SEWER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 398,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Laura Brink",
+     "votes": 359
+    },
+    {
+     "name_original": "Gerard F. Haas",
+     "votes": 347
+    },
+    {
+     "name_original": "John J. Leahy Jr.",
+     "votes": 350
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 339,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "WATER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald J. Harrington Jr.",
+     "votes": 340
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 123,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "WATER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John S. Tassinari Jr.",
+     "votes": 204
+    },
+    {
+     "name_original": "Amanda E. Hunter",
+     "votes": 211
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 50,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 110,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 356,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Abington",
+   "date": "2025-04-27",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert P. Soper",
+     "votes": 360
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 104,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Abington2025",
+ "_source_pdf": "",
+ "ballots_cast": 466,
+ "ballots_cast_source": "derived_from_contests"
 }

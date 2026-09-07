@@ -1,191 +1,191 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Melissa Murphy",
-          "votes": 54
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Trisha Earl",
-          "votes": 51
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Mark Gilmore",
-          "votes": 5
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Geoffrey Wilson",
-          "votes": 52
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Cushman Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Lucy Damkoehler",
-          "votes": 55
-        },
-        {
-          "name_original": "Robert Lively",
-          "votes": 53
-        },
-        {
-          "name_original": "Justin Lawrence",
-          "votes": 54
-        },
-        {
-          "name_original": "Veronica Gilmore",
-          "votes": 52
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Powers Institute Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Joanne Balzarini",
-          "votes": 51
-        },
-        {
-          "name_original": "Donna Eddy",
-          "votes": 50
-        },
-        {
-          "name_original": "Patriciann Grover",
-          "votes": 51
-        },
-        {
-          "name_original": "Jonathan Pineo",
-          "votes": 51
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Recreation Commission",
-      "district_original": "Three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Tara Stone",
-          "votes": 52
-        },
-        {
-          "name_original": "Sarah Wyngowski",
-          "votes": 56
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Recreation Commission",
-      "district_original": "One-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kerry Baird",
-          "votes": 53
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2023-05-01",
-      "office_original": "Selectboard",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Brian Keir",
-          "votes": 56
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Melissa Murphy",
+     "votes": 54
     }
-  ],
-  "_source_stem": "Bernardston2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Trisha Earl",
+     "votes": 51
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Mark Gilmore",
+     "votes": 5
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Geoffrey Wilson",
+     "votes": 52
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Cushman Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Lucy Damkoehler",
+     "votes": 55
+    },
+    {
+     "name_original": "Robert Lively",
+     "votes": 53
+    },
+    {
+     "name_original": "Justin Lawrence",
+     "votes": 54
+    },
+    {
+     "name_original": "Veronica Gilmore",
+     "votes": 52
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Powers Institute Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Joanne Balzarini",
+     "votes": 51
+    },
+    {
+     "name_original": "Donna Eddy",
+     "votes": 50
+    },
+    {
+     "name_original": "Patriciann Grover",
+     "votes": 51
+    },
+    {
+     "name_original": "Jonathan Pineo",
+     "votes": 51
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Recreation Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Tara Stone",
+     "votes": 52
+    },
+    {
+     "name_original": "Sarah Wyngowski",
+     "votes": 56
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Recreation Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Kerry Baird",
+     "votes": 53
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2023-05-01",
+   "office_original": "Selectboard",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Brian Keir",
+     "votes": 56
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Bernardston2023",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

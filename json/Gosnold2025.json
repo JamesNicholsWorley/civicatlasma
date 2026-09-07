@@ -1,136 +1,136 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Leo Roy",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "Selectboard member / Board of Health member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stewart Young",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "School Committee member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Judith Archer",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gail Blout",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "Harbor Committee",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Duane Lynch",
-          "votes": 23
-        },
-        {
-          "name_original": "Seth Garfield",
-          "votes": 22
-        },
-        {
-          "name_original": "Randy Zimbone",
-          "votes": 20
-        },
-        {
-          "name_original": "Paul Lehner",
-          "votes": 15
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gosnold",
-      "date": "2025-05-19",
-      "office_original": "Harbor Committee",
-      "district_original": "2-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ron Dore",
-          "votes": 18
-        },
-        {
-          "name_original": "Randal Zimbone",
-          "votes": 13
-        },
-        {
-          "name_original": "Paul Lehner",
-          "votes": 9
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Leo Roy",
+     "votes": null,
+     "status": "uncontested"
     }
-  ],
-  "_source_stem": "Gosnold2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "Selectboard member / Board of Health member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stewart Young",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "School Committee member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Judith Archer",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gail Blout",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "Harbor Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Duane Lynch",
+     "votes": 23
+    },
+    {
+     "name_original": "Seth Garfield",
+     "votes": 22
+    },
+    {
+     "name_original": "Randy Zimbone",
+     "votes": 20
+    },
+    {
+     "name_original": "Paul Lehner",
+     "votes": 15
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gosnold",
+   "date": "2025-05-19",
+   "office_original": "Harbor Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ron Dore",
+     "votes": 18
+    },
+    {
+     "name_original": "Randal Zimbone",
+     "votes": 13
+    },
+    {
+     "name_original": "Paul Lehner",
+     "votes": 9
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Gosnold2025",
+ "_source_pdf": "",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,216 +1,216 @@
 {
-  "document": {
-    "heading_verbatim": "Newcomer Baron wins Selectboard seat in Whately election",
-    "election_type": "Regular",
-    "election_type_evidence": "Town election held on a Tuesday with multiple municipal offices on the ballot; the document refers to 'Tuesday's town election' consistent with the annual municipal election cycle.",
-    "date_verbatim": "June 9, 2021",
-    "offices_on_ballot": 11,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "Every other race on the ballot was uncontested.",
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Newcomer Baron wins Selectboard seat in Whately election",
+  "election_type": "Regular",
+  "election_type_evidence": "Town election held on a Tuesday with multiple municipal offices on the ballot; the document refers to 'Tuesday's town election' consistent with the annual municipal election cycle.",
+  "date_verbatim": "June 9, 2021",
+  "offices_on_ballot": 11,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "Every other race on the ballot was uncontested.",
+  "is_sample_ballot": false
+ },
+ "elections": [
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frederick Baron",
-          "votes": 193
-        },
-        {
-          "name_original": "Frederick Orloski",
-          "votes": 86
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Frederick Baron",
+     "votes": 193
     },
     {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Town Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Nathanael Fortune",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Whately School Committee",
-      "district_original": "three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Robert Halla",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Whately School Committee",
-      "district_original": "one-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Bethany Reilly",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Frederick Orloski",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "S. White Dickinson Memorial Library Trustees",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "J. Robert Klinger",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "James Ross",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Cemetery Commissioner",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Darcy Tozier",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Francis Fortino",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Water Commissioner",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John Matthew Lukin",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Whately",
-      "date": "2021-06-08",
-      "office_original": "Elector Under the Oliver Smith Will",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Keith Bardwell",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Frederick Orloski",
+     "votes": 86
     }
-  ],
-  "_source_stem": "Whately2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Whately2021.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Town Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Nathanael Fortune",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Whately School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Robert Halla",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Whately School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Bethany Reilly",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Frederick Orloski",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "S. White Dickinson Memorial Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "J. Robert Klinger",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "James Ross",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Cemetery Commissioner",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Darcy Tozier",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Francis Fortino",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Water Commissioner",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John Matthew Lukin",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Whately",
+   "date": "2021-06-08",
+   "office_original": "Elector Under the Oliver Smith Will",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Keith Bardwell",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Whately2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Whately2021.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

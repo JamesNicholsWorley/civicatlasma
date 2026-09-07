@@ -1,192 +1,192 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Selectboard",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Selectboard",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Seth Alexander",
-          "votes": 60
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Seth Alexander",
-          "votes": 67
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Michael Rivers",
-          "votes": 74
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Mary Giron",
-          "votes": 83
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Emily Roselli",
-          "votes": 2
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "War Memorial Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Edward Denault",
-          "votes": 82
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Thomas Bona",
-          "votes": 3
-        }
-      ],
-      "district_original": "3 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Karin Robert",
-          "votes": 4
-        }
-      ],
-      "district_original": "5 years",
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Representative McCann",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Richard Bernardi",
-          "votes": 76
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2025-05-13",
-      "office_original": "Tree Warden",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kyle Hurlbut",
-          "votes": 82
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Seth Alexander",
+     "votes": 60
     }
-  ],
-  "document": {
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2025-05-13",
-      "detail": "https://www.clarksburgma.gov/town-election-may-13th-2025",
-      "quote": "in said Town on Tuesday, May 13, 2025, from 12:00 NOON to 7:00 p.m.",
-      "note": "The held source is a 570-character HTML results list that prints no date at all, so the records previous 2025-05-27 rested on nothing and was corrected to match this warrant. Sameness of election is proved separately by the towns specimen ballot SampleBallotMay13-2025.pdf, which names MICHAEL RIVERS for Board of Health and SETH LEWIS ALEXANDER for Moderator, the same people in the same offices as the return. That ballots own TEST 2025-04-07 timestamp is a print-shop artifact and was NOT used as a date. Clarksburgs other 2025 lead is a June 25 SPECIAL election and is excluded from this annual slot."
-    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Seth Alexander",
+     "votes": 67
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Michael Rivers",
+     "votes": 74
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Mary Giron",
+     "votes": 83
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Emily Roselli",
+     "votes": 2
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "War Memorial Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Edward Denault",
+     "votes": 82
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Thomas Bona",
+     "votes": 3
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Karin Robert",
+     "votes": 4
+    }
+   ],
+   "district_original": "",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Representative McCann",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Richard Bernardi",
+     "votes": 76
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2025-05-13",
+   "office_original": "Tree Warden",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kyle Hurlbut",
+     "votes": 82
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "document": {
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2025-05-13",
+   "detail": "https://www.clarksburgma.gov/town-election-may-13th-2025",
+   "quote": "in said Town on Tuesday, May 13, 2025, from 12:00 NOON to 7:00 p.m.",
+   "note": "The held source is a 570-character HTML results list that prints no date at all, so the records previous 2025-05-27 rested on nothing and was corrected to match this warrant. Sameness of election is proved separately by the towns specimen ballot SampleBallotMay13-2025.pdf, which names MICHAEL RIVERS for Board of Health and SETH LEWIS ALEXANDER for Moderator, the same people in the same offices as the return. That ballots own TEST 2025-04-07 timestamp is a print-shop artifact and was NOT used as a date. Clarksburgs other 2025 lead is a June 25 SPECIAL election and is excluded from this annual slot."
+  }
+ },
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

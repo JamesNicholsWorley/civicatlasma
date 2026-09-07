@@ -1,384 +1,384 @@
 {
-  "document": {
-    "heading_verbatim": "TOWN OF HOPEDALE, MASSACHUSETTS LOCAL ELECTION WARRANT",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION MINUTES MAY 11, 2021",
-    "date_verbatim": "The eleventh of May, 2021",
-    "is_sample_ballot": false,
-    "offices_on_ballot": 14,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "TOWN OF HOPEDALE, MASSACHUSETTS LOCAL ELECTION WARRANT",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION MINUTES MAY 11, 2021",
+  "date_verbatim": "The eleventh of May, 2021",
+  "is_sample_ballot": false,
+  "offices_on_ballot": 14,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "BOARD OF SELECTMAN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "BOARD OF SELECTMAN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kaplan Hasanoglu",
-          "votes": 314
-        },
-        {
-          "name_original": "Glenda A. Hazard",
-          "votes": 475
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 24,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kaplan Hasanoglu",
+     "votes": 314
     },
     {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "BOARD OF HEALTH",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jason G. MacDonald",
-          "votes": 662
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 152,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Glenda A. Hazard",
+     "votes": 475
     },
     {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dave Guglielmi",
-          "votes": 78
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 718,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     },
     {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "LIBRARY TRUSTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christine S. Seaver",
-          "votes": 679
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 135,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "PARK COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald W. Howes",
-          "votes": 326
-        },
-        {
-          "name_original": "Michael C. Reynolds",
-          "votes": 486
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "PLANNING BOARD",
-      "district_original": "Five Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kaplan Hasanoglu",
-          "votes": 598
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 203,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "PLANNING BOARD",
-      "district_original": "One Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jimmy Khokhar",
-          "votes": 103
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 692,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "ROAD COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher C. Leduc",
-          "votes": 620
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 193,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alysia K. Butler",
-          "votes": 518
-        },
-        {
-          "name_original": "Kaitlin M. Federico",
-          "votes": 484
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 624,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "TREE WARDEN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Becca Solomon",
-          "votes": 670
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 141,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "TOWN MODERATOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eugene N. Phillips",
-          "votes": 643
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 170,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "WATER & SEWER COMMISSIONER",
-      "district_original": "Three Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Edward J. Burt",
-          "votes": 673
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 141,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hopedale",
-      "date": "2021-05-11",
-      "office_original": "WATER & SEWER COMMISSIONER",
-      "district_original": "One Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald L. Cooper",
-          "votes": 659
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 156,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 24,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Hopedale2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hopedale2021.pdf",
-  "ballots_cast": 815,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "BOARD OF HEALTH",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jason G. MacDonald",
+     "votes": 662
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 152,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dave Guglielmi",
+     "votes": 78
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 718,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "LIBRARY TRUSTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christine S. Seaver",
+     "votes": 679
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 135,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "PARK COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald W. Howes",
+     "votes": 326
+    },
+    {
+     "name_original": "Michael C. Reynolds",
+     "votes": 486
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kaplan Hasanoglu",
+     "votes": 598
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 203,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jimmy Khokhar",
+     "votes": 103
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 692,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "ROAD COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christopher C. Leduc",
+     "votes": 620
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 193,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alysia K. Butler",
+     "votes": 518
+    },
+    {
+     "name_original": "Kaitlin M. Federico",
+     "votes": 484
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 624,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "TREE WARDEN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Becca Solomon",
+     "votes": 670
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 141,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "TOWN MODERATOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eugene N. Phillips",
+     "votes": 643
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 170,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "WATER & SEWER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Edward J. Burt",
+     "votes": 673
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 141,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hopedale",
+   "date": "2021-05-11",
+   "office_original": "WATER & SEWER COMMISSIONER",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald L. Cooper",
+     "votes": 659
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 156,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Hopedale2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hopedale2021.pdf",
+ "ballots_cast": 815,
+ "ballots_cast_source": "derived_from_contests"
 }

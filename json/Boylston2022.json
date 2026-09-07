@@ -1,342 +1,342 @@
 {
-  "document": {
-    "heading_verbatim": "Annual Town Election - May 9th, 2022",
-    "date_verbatim": "May 9th, 2022",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "offices_on_ballot": 10,
-    "is_sample_ballot": false,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Annual Town Election - May 9th, 2022",
+  "date_verbatim": "May 9th, 2022",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "offices_on_ballot": 10,
+  "is_sample_ballot": false,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Van Baker",
-          "votes": 211
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 40,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Van Baker",
+     "votes": 211
     },
     {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sarah E. Scheinfein",
-          "votes": 217
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 34,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 40,
+     "tally_row": true
     },
     {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Cemetery Commission",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Don Parker",
-          "votes": 221
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 32,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Library Trustees",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Beth Wilson",
-          "votes": 203
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 293,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Municipal Light Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Francis W. Brissette",
-          "votes": 110
-        },
-        {
-          "name_original": "Eric W. Johnson",
-          "votes": 129
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Board of Selectmen",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew Mecum",
-          "votes": 213
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 32,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Homaira Naseem",
-          "votes": 60
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 183,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Parks & Recreation Commission",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eric Hoffese",
-          "votes": 215
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-05-09",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kim Kohler",
-          "votes": 22
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 219,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-11-08",
-      "office_original": "Regional School Committee",
-      "district_original": "4 Years Boylston",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jessica Moore Deglialberti",
-          "votes": 1191
-        },
-        {
-          "name_original": "Lori-Ann Hart",
-          "votes": 1378
-        },
-        {
-          "name_original": "Adam Wilbur",
-          "votes": 931
-        },
-        {
-          "name_original": "Daniel Sirpenski",
-          "votes": 5
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1762,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Boylston",
-      "date": "2022-11-08",
-      "office_original": "Regional School Committee",
-      "district_original": "2 Years Boylston",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Meagan Grill",
-          "votes": 1821
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 804,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Boylston2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boylston2022.pdf",
-  "ballots_cast": 253,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sarah E. Scheinfein",
+     "votes": 217
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 34,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Cemetery Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Don Parker",
+     "votes": 221
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 32,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Beth Wilson",
+     "votes": 203
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 293,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Municipal Light Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Francis W. Brissette",
+     "votes": 110
+    },
+    {
+     "name_original": "Eric W. Johnson",
+     "votes": 129
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Matthew Mecum",
+     "votes": 213
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 32,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Homaira Naseem",
+     "votes": 60
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 183,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Parks & Recreation Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eric Hoffese",
+     "votes": 215
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-05-09",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kim Kohler",
+     "votes": 22
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 219,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-11-08",
+   "office_original": "Regional School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jessica Moore Deglialberti",
+     "votes": 1191
+    },
+    {
+     "name_original": "Lori-Ann Hart",
+     "votes": 1378
+    },
+    {
+     "name_original": "Adam Wilbur",
+     "votes": 931
+    },
+    {
+     "name_original": "Daniel Sirpenski",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1762,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Boylston",
+   "date": "2022-11-08",
+   "office_original": "Regional School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Meagan Grill",
+     "votes": 1821
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 804,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Boylston2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Boylston2022.pdf",
+ "ballots_cast": 253,
+ "ballots_cast_source": "derived_from_contests"
 }

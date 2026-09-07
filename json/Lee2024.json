@@ -1,184 +1,184 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew D. Carlino",
-          "votes": 363
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 55,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Matthew D. Carlino",
+     "votes": 363
     },
     {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Bob Howard Jones Jr.",
-          "votes": 322
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 95,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
     },
     {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "Planning Board",
-      "district_original": "Five-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Michael Bluhm",
-          "votes": 326
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 98,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "Planning Board",
-      "district_original": "Three-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Conrad R. Decker",
-          "votes": 320
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 102,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kirk Nichols",
-          "votes": 301
-        },
-        {
-          "name_original": "Craig T. Langlois",
-          "votes": 272
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 275,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lee",
-      "date": "2024-05-14",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard B. Brittain",
-          "votes": 311
-        },
-        {
-          "name_original": "Sandra Cozzaglio",
-          "votes": 280
-        },
-        {
-          "name_original": "Peter S. Warywoski",
-          "votes": 298
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 799,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 55,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Lee2024",
-  "_source_pdf": "",
-  "ballots_cast": 426,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Bob Howard Jones Jr.",
+     "votes": 322
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 95,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Michael Bluhm",
+     "votes": 326
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 98,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Conrad R. Decker",
+     "votes": 320
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 102,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kirk Nichols",
+     "votes": 301
+    },
+    {
+     "name_original": "Craig T. Langlois",
+     "votes": 272
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 275,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lee",
+   "date": "2024-05-14",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard B. Brittain",
+     "votes": 311
+    },
+    {
+     "name_original": "Sandra Cozzaglio",
+     "votes": 280
+    },
+    {
+     "name_original": "Peter S. Warywoski",
+     "votes": 298
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 799,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Lee2024",
+ "_source_pdf": "",
+ "ballots_cast": 426,
+ "ballots_cast_source": "derived_from_contests"
 }

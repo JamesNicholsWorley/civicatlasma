@@ -1,423 +1,423 @@
 {
-  "document": {
-    "heading_verbatim": "Monterey Annual Town Election - May 5th, 2026 - Results",
-    "election_type": "Regular",
-    "election_type_evidence": "Monterey Annual Town Election",
-    "date_verbatim": "May 5th, 2026",
-    "offices_on_ballot": 15,
-    "is_sample_ballot": false,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "All other races were uncontested, with 11 incumbents reelected to another term and two newcomers elected.",
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2026-05-05",
-      "detail": "https://www.montereyma.gov/town-clerk/pages/election-ballots-and-results",
-      "quote": "May 5, 2026 Election Results",
-      "note": "the town's own election page names the date in the link text for this document"
+ "document": {
+  "heading_verbatim": "Monterey Annual Town Election - May 5th, 2026 - Results",
+  "election_type": "Regular",
+  "election_type_evidence": "Monterey Annual Town Election",
+  "date_verbatim": "May 5th, 2026",
+  "offices_on_ballot": 15,
+  "is_sample_ballot": false,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "All other races were uncontested, with 11 incumbents reelected to another term and two newcomers elected.",
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2026-05-05",
+   "detail": "https://www.montereyma.gov/town-clerk/pages/election-ballots-and-results",
+   "quote": "May 5, 2026 Election Results",
+   "note": "the town's own election page names the date in the link text for this document"
+  }
+ },
+ "elections": [
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Board of Appeals",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Banner",
+     "votes": 273
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 40,
+     "tally_row": true
     }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
   },
-  "elections": [
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Board of Appeals",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Banner",
-          "votes": 273
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 40,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Gary Shaw",
+     "votes": 24
     },
     {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Board of Assessors",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary Shaw",
-          "votes": 24
-        },
-        {
-          "name_original": "Michael Zebel",
-          "votes": 11
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 275,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Michael Zebel",
+     "votes": 11
     },
     {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Board of Assessors",
-      "district_original": "2 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott Steibel",
-          "votes": 252
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 61,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
     },
     {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Board of Assessors",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Teresa Steibel",
-          "votes": 249
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 64,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Board of Health",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Makuc",
-          "votes": 276
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 37,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Bylaw Review Committee",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Julia Thomas",
-          "votes": 245
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 68,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Cemetery Committee",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Brown",
-          "votes": 265
-        },
-        {
-          "name_original": "Linda Thorpe",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Finance Committee",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Seth Pitman",
-          "votes": 241
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 70,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Library Trustees",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Judith Kaminstein",
-          "votes": 261
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 52,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Library Trustees",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Samuel Reggio",
-          "votes": 253
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 60,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Moderator",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Makuc",
-          "votes": 286
-        },
-        {
-          "name_original": "Jonathan Sylbert",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 26,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Parks Commission",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amanda Chmielinski",
-          "votes": 256
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 57,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Parks Commission",
-      "district_original": "2 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen Zweig",
-          "votes": 12
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 293,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Planning Board",
-      "district_original": "5 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Edward Allen",
-          "votes": 239
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 74,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Select Board",
-      "district_original": "3 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Benjamin Reif-Caplan",
-          "votes": 15
-        },
-        {
-          "name_original": "Cara Tryon",
-          "votes": 81
-        },
-        {
-          "name_original": "Kenneth Basler",
-          "votes": 217
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monterey",
-      "date": "2026-05-05",
-      "office_original": "Tree Warden",
-      "district_original": "1 Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kevin West",
-          "votes": 271
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 42,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 275,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Monterey2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monterey2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott Steibel",
+     "votes": 252
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 61,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Teresa Steibel",
+     "votes": 249
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 64,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Makuc",
+     "votes": 276
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 37,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Bylaw Review Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Julia Thomas",
+     "votes": 245
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 68,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Cemetery Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Brown",
+     "votes": 265
+    },
+    {
+     "name_original": "Linda Thorpe",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Seth Pitman",
+     "votes": 241
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 70,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Judith Kaminstein",
+     "votes": 261
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 52,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Library Trustees",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Samuel Reggio",
+     "votes": 253
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 60,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Makuc",
+     "votes": 286
+    },
+    {
+     "name_original": "Jonathan Sylbert",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 26,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Parks Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Amanda Chmielinski",
+     "votes": 256
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 57,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Parks Commission",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen Zweig",
+     "votes": 12
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 293,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Edward Allen",
+     "votes": 239
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 74,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Benjamin Reif-Caplan",
+     "votes": 15
+    },
+    {
+     "name_original": "Cara Tryon",
+     "votes": 81
+    },
+    {
+     "name_original": "Kenneth Basler",
+     "votes": 217
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monterey",
+   "date": "2026-05-05",
+   "office_original": "Tree Warden",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kevin West",
+     "votes": 271
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 42,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Monterey2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monterey2026.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,347 +1,347 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sarah Haskell Arruda",
-          "votes": 1236
-        },
-        {
-          "name_original": "Kelsi Power-Spirlet",
-          "votes": 317
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 85,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Sarah Haskell Arruda",
+     "votes": 1236
     },
     {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Select Board Lot #1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Tatelbaum",
-          "votes": 1238
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 392,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kelsi Power-Spirlet",
+     "votes": 317
     },
     {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Select Board Lot #3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frank Gracie",
-          "votes": 1061
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 567,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 85,
+     "tally_row": true
     },
     {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Curtis Nunes",
-          "votes": 19
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1270,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 24,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "School Committee Member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shannon Jenkins",
-          "votes": 1140
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 474,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 25,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Trustee of Free Public Libraries",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stanley Bielusiak",
-          "votes": 856
-        },
-        {
-          "name_original": "Ilene Levine",
-          "votes": 891
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1128,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Member of Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Darci Moran",
-          "votes": 511
-        },
-        {
-          "name_original": "Christian Pope",
-          "votes": 716
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 215,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Member of Planning Board",
-      "district_original": "Five Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kevin Estes",
-          "votes": 823
-        },
-        {
-          "name_original": "Jane Pansire",
-          "votes": 524
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 267,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Member of Planning Board",
-      "district_original": "Two Yr. Unexpired",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher O'Neil",
-          "votes": 1212
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 328,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Brodeur",
-          "votes": 992
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 393,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dartmouth",
-      "date": "2021-04-06",
-      "office_original": "Member of Parks and Recreation Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Bosworth",
-          "votes": 1154
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1941,
-          "tally_row": true
-        },
-        {
-          "name_original": "Joan Britto",
-          "votes": 52
-        },
-        {
-          "name_original": "Others",
-          "votes": 31,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Dartmouth2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dartmouth2021.pdf",
-  "document": {
-    "date_correction": {
-      "corrected_on": "2026-08-23",
-      "was": [
-        "2021-04-27"
-      ],
-      "now": "2021-04-06",
-      "url": "http://www.dartmouthma.gov/236/Election-Results",
-      "quote": "2021 April 6 Annual Town Election Official Results",
-      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
-      "note": ""
-    },
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2021-04-06",
-      "detail": "http://www.dartmouthma.gov/236/Election-Results",
-      "quote": "2021 April 6 Annual Town Election Official Results",
-      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
-    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
   },
-  "ballots_cast": 1639,
-  "ballots_cast_source": "derived_from_contests"
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Select Board Lot #1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Tatelbaum",
+     "votes": 1238
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 392,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Select Board Lot #3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Frank Gracie",
+     "votes": 1061
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 567,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Curtis Nunes",
+     "votes": 19
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1270,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 24,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "School Committee Member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shannon Jenkins",
+     "votes": 1140
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 474,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 25,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Trustee of Free Public Libraries",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stanley Bielusiak",
+     "votes": 856
+    },
+    {
+     "name_original": "Ilene Levine",
+     "votes": 891
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1128,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Member of Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Darci Moran",
+     "votes": 511
+    },
+    {
+     "name_original": "Christian Pope",
+     "votes": 716
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 215,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Member of Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kevin Estes",
+     "votes": 823
+    },
+    {
+     "name_original": "Jane Pansire",
+     "votes": 524
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 267,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Member of Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christopher O'Neil",
+     "votes": 1212
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 328,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Brodeur",
+     "votes": 992
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 393,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dartmouth",
+   "date": "2021-04-06",
+   "office_original": "Member of Parks and Recreation Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Bosworth",
+     "votes": 1154
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1941,
+     "tally_row": true
+    },
+    {
+     "name_original": "Joan Britto",
+     "votes": 52
+    },
+    {
+     "name_original": "Others",
+     "votes": 31,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Dartmouth2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dartmouth2021.pdf",
+ "document": {
+  "date_correction": {
+   "corrected_on": "2026-08-23",
+   "was": [
+    "2021-04-27"
+   ],
+   "now": "2021-04-06",
+   "url": "http://www.dartmouthma.gov/236/Election-Results",
+   "quote": "2021 April 6 Annual Town Election Official Results",
+   "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+   "note": ""
+  },
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2021-04-06",
+   "detail": "http://www.dartmouthma.gov/236/Election-Results",
+   "quote": "2021 April 6 Annual Town Election Official Results",
+   "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+  }
+ },
+ "ballots_cast": 1639,
+ "ballots_cast_source": "derived_from_contests"
 }

@@ -1,268 +1,268 @@
 {
-  "document": {
-    "heading_verbatim": "Annual Town Elections",
-    "election_type": "Regular",
-    "election_type_evidence": "Town Election was scheduled for May 6, 2024. There were vacancies for Select Board (3 years), Finance Committee (1 year), Moderator (1 year), Auditor (1 year), and Tree Warden (1 year).",
-    "date_verbatim": "May 6, 2024",
-    "offices_on_ballot": 9,
-    "is_sample_ballot": false,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Annual Town Elections",
+  "election_type": "Regular",
+  "election_type_evidence": "Town Election was scheduled for May 6, 2024. There were vacancies for Select Board (3 years), Finance Committee (1 year), Moderator (1 year), Auditor (1 year), and Tree Warden (1 year).",
+  "date_verbatim": "May 6, 2024",
+  "offices_on_ballot": 9,
+  "is_sample_ballot": false,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Selectboard/Planning Board/Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Selectboard/Planning Board/Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Nash",
-          "votes": 16
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "David Nash",
+     "votes": 16
     },
     {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Thoresen",
-          "votes": 14
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Finance Committee",
-      "district_original": "3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robin Hart",
-          "votes": 14
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Finance Committee",
-      "district_original": "1-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kimberly Oakes",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Library Trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Betsy Bizarro",
-          "votes": 16
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Constable",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carla Davis",
-          "votes": 15
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Nash",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Town Clerk",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Molly Lynch",
-          "votes": 18
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Auditor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sharon Oakes",
-          "votes": 6
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 12,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2024-05-06",
-      "office_original": "Tree Warden",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Lynch",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Monroe2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monroe2024.pdf",
-  "ballots_cast": 18,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Thoresen",
+     "votes": 14
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robin Hart",
+     "votes": 14
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kimberly Oakes",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Betsy Bizarro",
+     "votes": 16
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carla Davis",
+     "votes": 15
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Nash",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 11,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Molly Lynch",
+     "votes": 18
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Auditor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sharon Oakes",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 12,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2024-05-06",
+   "office_original": "Tree Warden",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian Lynch",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Monroe2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monroe2024.pdf",
+ "ballots_cast": 18,
+ "ballots_cast_source": "derived_from_contests"
 }

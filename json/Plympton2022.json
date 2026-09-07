@@ -1,298 +1,298 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jared A. Anderson",
-          "votes": 187
-        },
-        {
-          "name_original": "Art Morin",
-          "votes": 110
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 29,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jared A. Anderson",
+     "votes": 187
     },
     {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Paul D'Angelo Jr.",
-          "votes": 198
-        },
-        {
-          "name_original": "Jackson Long",
-          "votes": 78
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Art Morin",
+     "votes": 110
     },
     {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Selectman",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "John A. Traynor Jr.",
-          "votes": 245
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 76,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Dean Jafferian",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 219,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Steven R. Lewis",
-          "votes": 0
-        },
-        {
-          "name_original": "Michael Lemieux",
-          "votes": 9
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 258,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.7,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 644,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Library Trustee",
-      "district_original": "Two Year Term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Mark Eubanks",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 321,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Town Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Barry DeCristofano",
-          "votes": 260
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 67,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "John Schmidt",
-          "votes": 244
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 83,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Dennett School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Caitlin Johnson",
-          "votes": 27
-        },
-        {
-          "name_original": "Suzanne Jafferian",
-          "votes": 16
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 270,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2022-05-21",
-      "office_original": "Silver Lake Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Jason W. Fraser",
-          "votes": 249
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 74,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 29,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Plympton2022",
-  "_source_pdf": "",
-  "ballots_cast": 327,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Paul D'Angelo Jr.",
+     "votes": 198
+    },
+    {
+     "name_original": "Jackson Long",
+     "votes": 78
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Selectman",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "John A. Traynor Jr.",
+     "votes": 245
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 76,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Dean Jafferian",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 219,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Steven R. Lewis",
+     "votes": 0
+    },
+    {
+     "name_original": "Michael Lemieux",
+     "votes": 9
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 258,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.7,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 644,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Mark Eubanks",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 321,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Town Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Barry DeCristofano",
+     "votes": 260
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 67,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "John Schmidt",
+     "votes": 244
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 83,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Dennett School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Caitlin Johnson",
+     "votes": 27
+    },
+    {
+     "name_original": "Suzanne Jafferian",
+     "votes": 16
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 270,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2022-05-21",
+   "office_original": "Silver Lake Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Jason W. Fraser",
+     "votes": 249
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 74,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Plympton2022",
+ "_source_pdf": "",
+ "ballots_cast": 327,
+ "ballots_cast_source": "derived_from_contests"
 }

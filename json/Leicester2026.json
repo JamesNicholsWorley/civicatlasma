@@ -1,380 +1,380 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "ASSESSOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "ASSESSOR",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SARA JESSE UNDERWOOD",
-          "votes": 390
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 135,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "SARA JESSE UNDERWOOD",
+     "votes": 390
     },
     {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "ASSESSOR",
-      "district_original": "Two years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ROBERT WINTHROP MERCER JR",
-          "votes": 387
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 136,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
     },
     {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 58,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 467,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "BOARD OF HEALTH",
-      "district_original": "Two years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ELIZABETH ANN BARRETT",
-          "votes": 380
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 144,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "HOUSING AUTHORITY",
-      "district_original": "Two years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 135,
-          "tally_row": true
-        },
-        {
-          "name_original": "AMANDA BRADY",
-          "votes": 14
-        },
-        {
-          "name_original": "KELLY BERGERON",
-          "votes": 21
-        },
-        {
-          "name_original": "DANIEL TRUE",
-          "votes": 92
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 398,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "PLANNING BOARD",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SHARON NIST",
-          "votes": 337
-        },
-        {
-          "name_original": "Others",
-          "votes": 133,
-          "tally_row": true
-        },
-        {
-          "name_original": "VAUGHN HATHAWAY",
-          "votes": 11
-        },
-        {
-          "name_original": "LOGAN BENOIT",
-          "votes": 112
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 590,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "PLANNING BOARD",
-      "district_original": "Two years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JUDITH ELLEN ZALANSKY",
-          "votes": 367
-        },
-        {
-          "name_original": "Others",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "LOGAN BENOIT",
-          "votes": 30
-        },
-        {
-          "name_original": "VAUGHN HATHAWAY",
-          "votes": 5
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 123,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "PUBLIC LIBRARY TRUSTEE",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "INGRID A HATHAWAY",
-          "votes": 351
-        },
-        {
-          "name_original": "REGAN MURPHY FORTUNE",
-          "votes": 334
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 365,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "SCHOOL COMMITTEE",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DONNA MARIE MCCANCE",
-          "votes": 184
-        },
-        {
-          "name_original": "PAUL ROLAND MESSIER JR",
-          "votes": 308
-        },
-        {
-          "name_original": "ELIZABETH MCKENZIE ZITO",
-          "votes": 300
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 257,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "SCHOOL COMMITTEE",
-      "district_original": "Two years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ALISA A HEENAN",
-          "votes": 357
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 167,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "SELECT BOARD",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "KEVIN J MENARD",
-          "votes": 361
-        },
-        {
-          "name_original": "DIANNA MARIE PROVENCHER",
-          "votes": 345
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 334,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": null,
-      "date": "2026-06-09",
-      "office_original": "TOWN CLERK",
-      "district_original": "Three years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "PAMELA ANNE LAFLEUR",
-          "votes": 451
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 73,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 135,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Leicester2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leicester2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "ASSESSOR",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ROBERT WINTHROP MERCER JR",
+     "votes": 387
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 136,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 58,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 467,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ELIZABETH ANN BARRETT",
+     "votes": 380
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 144,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 135,
+     "tally_row": true
+    },
+    {
+     "name_original": "AMANDA BRADY",
+     "votes": 14
+    },
+    {
+     "name_original": "KELLY BERGERON",
+     "votes": 21
+    },
+    {
+     "name_original": "DANIEL TRUE",
+     "votes": 92
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 398,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SHARON NIST",
+     "votes": 337
+    },
+    {
+     "name_original": "Others",
+     "votes": 133,
+     "tally_row": true
+    },
+    {
+     "name_original": "VAUGHN HATHAWAY",
+     "votes": 11
+    },
+    {
+     "name_original": "LOGAN BENOIT",
+     "votes": 112
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 590,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JUDITH ELLEN ZALANSKY",
+     "votes": 367
+    },
+    {
+     "name_original": "Others",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "LOGAN BENOIT",
+     "votes": 30
+    },
+    {
+     "name_original": "VAUGHN HATHAWAY",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 123,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "PUBLIC LIBRARY TRUSTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "INGRID A HATHAWAY",
+     "votes": 351
+    },
+    {
+     "name_original": "REGAN MURPHY FORTUNE",
+     "votes": 334
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 365,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DONNA MARIE MCCANCE",
+     "votes": 184
+    },
+    {
+     "name_original": "PAUL ROLAND MESSIER JR",
+     "votes": 308
+    },
+    {
+     "name_original": "ELIZABETH MCKENZIE ZITO",
+     "votes": 300
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 257,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ALISA A HEENAN",
+     "votes": 357
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 167,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "SELECT BOARD",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "KEVIN J MENARD",
+     "votes": 361
+    },
+    {
+     "name_original": "DIANNA MARIE PROVENCHER",
+     "votes": 345
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 334,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": null,
+   "date": "2026-06-09",
+   "office_original": "TOWN CLERK",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "PAMELA ANNE LAFLEUR",
+     "votes": 451
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 73,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Leicester2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Leicester2026.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

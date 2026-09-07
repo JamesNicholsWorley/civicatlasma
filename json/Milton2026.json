@@ -1,1210 +1,1210 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Member of the Selectboard and Surveyor of the Highway",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Member of the Selectboard and Surveyor of the Highway",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kevin B. Chrisom, Jr.",
-          "votes": 2517
-        },
-        {
-          "name_original": "Roxanne F. Musto",
-          "votes": 2478
-        },
-        {
-          "name_original": "Megan Kathleen Nolan",
-          "votes": 2543
-        },
-        {
-          "name_original": "Peter C. Obersheimer",
-          "votes": 2670
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1096,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kevin B. Chrisom, Jr.",
+     "votes": 2517
     },
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas M. Callahan",
-          "votes": 2742
-        },
-        {
-          "name_original": "Warren G. Lizio",
-          "votes": 2095
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 868,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Roxanne F. Musto",
+     "votes": 2478
     },
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "School Committee",
-      "district_original": "3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark W. Loring",
-          "votes": 3120
-        },
-        {
-          "name_original": "Bao Qiu",
-          "votes": 2859
-        },
-        {
-          "name_original": "Others",
-          "votes": 69,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5372,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Megan Kathleen Nolan",
+     "votes": 2543
     },
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "School Committee",
-      "district_original": "1 Year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sharese Latisha Caldwell",
-          "votes": 2592
-        },
-        {
-          "name_original": "Daniel Matthew O'Neil",
-          "votes": 2463
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 663,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Peter C. Obersheimer",
+     "votes": 2670
     },
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Park Commissioner",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Steven Novak III",
-          "votes": 3392
-        },
-        {
-          "name_original": "Others",
-          "votes": 24,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2295,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
     },
     {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Roxanne F. Musto",
-          "votes": 2619
-        },
-        {
-          "name_original": "Deborah A. Milbauer",
-          "votes": 2716
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 372,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Trustees of the Public Library",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Walsh Folcarelli",
-          "votes": 1864
-        },
-        {
-          "name_original": "Kristine Ruth Hodlin",
-          "votes": 2631
-        },
-        {
-          "name_original": "Ellen Williams Fisher",
-          "votes": 2572
-        },
-        {
-          "name_original": "Marc Anthony Johnson",
-          "votes": 1788
-        },
-        {
-          "name_original": "Georgia Lee",
-          "votes": 1389
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6850,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Trustee of the Cemetery",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen J. Pender",
-          "votes": 3297
-        },
-        {
-          "name_original": "Others",
-          "votes": 24,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2390,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Planning Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cheryl Friedman Tougias",
-          "votes": 2854
-        },
-        {
-          "name_original": "Hal Peter Munger",
-          "votes": 2986
-        },
-        {
-          "name_original": "Lindsey B. Sands",
-          "votes": 2361
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3208,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 1",
-      "num_winners": 9,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Akwaowo D. Ebong",
-          "votes": 251
-        },
-        {
-          "name_original": "Timika Downes Gagne",
-          "votes": 251
-        },
-        {
-          "name_original": "Marsha B. Grills",
-          "votes": 233
-        },
-        {
-          "name_original": "Cedric Honigberg",
-          "votes": 230
-        },
-        {
-          "name_original": "Kristen A. Lacasse",
-          "votes": 245
-        },
-        {
-          "name_original": "Danielle Ann Mellett",
-          "votes": 243
-        },
-        {
-          "name_original": "Timothy Paul O'Hara",
-          "votes": 242
-        },
-        {
-          "name_original": "Jeffrey R. Stone",
-          "votes": 236
-        },
-        {
-          "name_original": "Anna Rose Morgan Barsamian",
-          "votes": 183
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1477,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2",
-      "num_winners": 16,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Adam Chinman",
-          "votes": 347
-        },
-        {
-          "name_original": "Janet Ferone",
-          "votes": 349
-        },
-        {
-          "name_original": "Karen Lynn Friedman-Hanna",
-          "votes": 353
-        },
-        {
-          "name_original": "Nora Harrington",
-          "votes": 419
-        },
-        {
-          "name_original": "Peter A. Mullin",
-          "votes": 273
-        },
-        {
-          "name_original": "Daniel P. Walsh",
-          "votes": 310
-        },
-        {
-          "name_original": "Mark Teko Christo",
-          "votes": 133
-        },
-        {
-          "name_original": "Melinda Tiepolt D'Arbeloff",
-          "votes": 288
-        },
-        {
-          "name_original": "Sheila M. Dunphy",
-          "votes": 294
-        },
-        {
-          "name_original": "Janet Lee Lyons",
-          "votes": 131
-        },
-        {
-          "name_original": "Timothy F. Lyons",
-          "votes": 113
-        },
-        {
-          "name_original": "Robert E. Powers, Jr.",
-          "votes": 196
-        },
-        {
-          "name_original": "Nicole Marie Rukstalis",
-          "votes": 243
-        },
-        {
-          "name_original": "Kenneth A. Sherman",
-          "votes": 273
-        },
-        {
-          "name_original": "Maggie Lee Syme",
-          "votes": 254
-        },
-        {
-          "name_original": "Others",
-          "votes": 23,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2801,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2 (1 Year)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ian B. Grigorio",
-          "votes": 200
-        },
-        {
-          "name_original": "Lee Michael Mclean",
-          "votes": 312
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 165,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 3",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Maureen Melody Connors",
-          "votes": 259
-        },
-        {
-          "name_original": "Michelle Mc Manus Freeman",
-          "votes": 200
-        },
-        {
-          "name_original": "James Thomas Jenkins, Jr.",
-          "votes": 231
-        },
-        {
-          "name_original": "Beth Ellen Molnar",
-          "votes": 229
-        },
-        {
-          "name_original": "Michael Charles Munsey",
-          "votes": 225
-        },
-        {
-          "name_original": "Katherine Rohan O'Brien",
-          "votes": 168
-        },
-        {
-          "name_original": "Rachel Schewe",
-          "votes": 301
-        },
-        {
-          "name_original": "Ronald T. Sia",
-          "votes": 281
-        },
-        {
-          "name_original": "Emily C. Burns",
-          "votes": 242
-        },
-        {
-          "name_original": "Steven R. Geyster",
-          "votes": 157
-        },
-        {
-          "name_original": "Robert G. Hiss",
-          "votes": 269
-        },
-        {
-          "name_original": "Brooke Plotkin",
-          "votes": 224
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3400,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas M. Callahan",
-          "votes": 196
-        },
-        {
-          "name_original": "Margaret Elisabeth Carels",
-          "votes": 158
-        },
-        {
-          "name_original": "Camila Maria Chaparro",
-          "votes": 168
-        },
-        {
-          "name_original": "David Dobrindt",
-          "votes": 117
-        },
-        {
-          "name_original": "Jonathan A. Lashley",
-          "votes": 143
-        },
-        {
-          "name_original": "Harriet Manning",
-          "votes": 153
-        },
-        {
-          "name_original": "Leslie Campbell Mccarthy",
-          "votes": 153
-        },
-        {
-          "name_original": "Keith E. Schleicher",
-          "votes": 108
-        },
-        {
-          "name_original": "Christine M. Turnier",
-          "votes": 158
-        },
-        {
-          "name_original": "Sharese Latisha Caldwell",
-          "votes": 177
-        },
-        {
-          "name_original": "Hyacinth V. Crichlow",
-          "votes": 114
-        },
-        {
-          "name_original": "Michael J. Mole",
-          "votes": 126
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1473,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4A",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas M. Callahan",
-          "votes": 119
-        },
-        {
-          "name_original": "Margaret Elisabeth Carels",
-          "votes": 69
-        },
-        {
-          "name_original": "Camila Maria Chaparro",
-          "votes": 106
-        },
-        {
-          "name_original": "David Dobrindt",
-          "votes": 30
-        },
-        {
-          "name_original": "Jonathan A. Lashley",
-          "votes": 84
-        },
-        {
-          "name_original": "Harriet Manning",
-          "votes": 39
-        },
-        {
-          "name_original": "Leslie Campbell Mccarthy",
-          "votes": 107
-        },
-        {
-          "name_original": "Keith E. Schleicher",
-          "votes": 56
-        },
-        {
-          "name_original": "Christine M. Turnier",
-          "votes": 98
-        },
-        {
-          "name_original": "Sharese Latisha Caldwell",
-          "votes": 107
-        },
-        {
-          "name_original": "Hyacinth V. Crichlow",
-          "votes": 30
-        },
-        {
-          "name_original": "Michael J. Mole",
-          "votes": 78
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 605,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 5",
-      "num_winners": 11,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Philip D. Murphy",
-          "votes": 254
-        },
-        {
-          "name_original": "Sarah Nethercote Hart",
-          "votes": 209
-        },
-        {
-          "name_original": "Megan Kathleen Nolan",
-          "votes": 239
-        },
-        {
-          "name_original": "R. Daniel Young",
-          "votes": 189
-        },
-        {
-          "name_original": "Benjamin Zoll",
-          "votes": 197
-        },
-        {
-          "name_original": "Mary Alice Beckman",
-          "votes": 152
-        },
-        {
-          "name_original": "Ronald Dominic Cecchini",
-          "votes": 86
-        },
-        {
-          "name_original": "Rosemary Cochran",
-          "votes": 175
-        },
-        {
-          "name_original": "Marion Driscoll",
-          "votes": 205
-        },
-        {
-          "name_original": "Christopher R. Hart",
-          "votes": 164
-        },
-        {
-          "name_original": "Laura A. Wood",
-          "votes": 139
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 973,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 6",
-      "num_winners": 13,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George A. Ashur",
-          "votes": 238
-        },
-        {
-          "name_original": "Lindsay J. Degennaro",
-          "votes": 291
-        },
-        {
-          "name_original": "Nathan David Hutto",
-          "votes": 287
-        },
-        {
-          "name_original": "Peter C. Obersheimer",
-          "votes": 363
-        },
-        {
-          "name_original": "Thomas Francis O'Donnell",
-          "votes": 274
-        },
-        {
-          "name_original": "Amy Frances Robins",
-          "votes": 267
-        },
-        {
-          "name_original": "Sybil Gallagher Urmston",
-          "votes": 234
-        },
-        {
-          "name_original": "Nancy J. Vaughan",
-          "votes": 326
-        },
-        {
-          "name_original": "William H. White, Jr.",
-          "votes": 273
-        },
-        {
-          "name_original": "Eleanor Mary Mcdonough",
-          "votes": 214
-        },
-        {
-          "name_original": "Ada Pollock Rosmarin",
-          "votes": 221
-        },
-        {
-          "name_original": "Paul M. Samuelian",
-          "votes": 183
-        },
-        {
-          "name_original": "Andrew Robert Walsh",
-          "votes": 282
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3534,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 6 (1 Year)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen Randall Caldwell, Jr.",
-          "votes": 229
-        },
-        {
-          "name_original": "Kelly A. Mcgillowey",
-          "votes": 275
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 195,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 7",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marc Anthony Johnson",
-          "votes": 272
-        },
-        {
-          "name_original": "John Christopher Keohane",
-          "votes": 361
-        },
-        {
-          "name_original": "Michael P. Maholchic",
-          "votes": 252
-        },
-        {
-          "name_original": "Jacquelyn Paul Munger",
-          "votes": 256
-        },
-        {
-          "name_original": "Stephen Harold Rines",
-          "votes": 290
-        },
-        {
-          "name_original": "Jennifer Rachel Robberson",
-          "votes": 211
-        },
-        {
-          "name_original": "Laura Springer",
-          "votes": 207
-        },
-        {
-          "name_original": "Megan Terese Walsh",
-          "votes": 319
-        },
-        {
-          "name_original": "Cindy Lynn Christiansen",
-          "votes": 245
-        },
-        {
-          "name_original": "James Francis Comeau",
-          "votes": 201
-        },
-        {
-          "name_original": "Hal Peter Munger",
-          "votes": 242
-        },
-        {
-          "name_original": "Jennifer Lee Wrightington",
-          "votes": 247
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1900,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 8",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James A. Coyne",
-          "votes": 321
-        },
-        {
-          "name_original": "John E. Driscoll, Jr.",
-          "votes": 431
-        },
-        {
-          "name_original": "Andres Jonathan Lessing",
-          "votes": 223
-        },
-        {
-          "name_original": "Barbara C. Martin",
-          "votes": 317
-        },
-        {
-          "name_original": "William H. Murphy, Jr.",
-          "votes": 282
-        },
-        {
-          "name_original": "Bao Qiu",
-          "votes": 263
-        },
-        {
-          "name_original": "Sheila Egan Varela",
-          "votes": 286
-        },
-        {
-          "name_original": "Sheena Elaine Anello",
-          "votes": 216
-        },
-        {
-          "name_original": "Daniel Gregory Cherry",
-          "votes": 309
-        },
-        {
-          "name_original": "Lisa M. Courtney",
-          "votes": 265
-        },
-        {
-          "name_original": "Jackson Humphreys",
-          "votes": 247
-        },
-        {
-          "name_original": "Camille Y. Sanabria-Cooper",
-          "votes": 194
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4229,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 8 (1 Year)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Veronica J. Mccarthy",
-          "votes": 197
-        },
-        {
-          "name_original": "Christine Sweeney",
-          "votes": 287
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 206,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 9",
-      "num_winners": 17,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Travis Gregory",
-          "votes": 250
-        },
-        {
-          "name_original": "Daniel Matthew O'Neil",
-          "votes": 362
-        },
-        {
-          "name_original": "William T. Ruzzo",
-          "votes": 247
-        },
-        {
-          "name_original": "Lynda-Lee Sheridan",
-          "votes": 340
-        },
-        {
-          "name_original": "Edward Michael Thomas",
-          "votes": 204
-        },
-        {
-          "name_original": "Cheryl Friedman Tougias",
-          "votes": 276
-        },
-        {
-          "name_original": "Judith Marie White-Orlando",
-          "votes": 250
-        },
-        {
-          "name_original": "Kathleen Barrett",
-          "votes": 305
-        },
-        {
-          "name_original": "Susan Marie Brady",
-          "votes": 307
-        },
-        {
-          "name_original": "Jake Kevin Donahoe",
-          "votes": 275
-        },
-        {
-          "name_original": "Michael Kevin Donahoe",
-          "votes": 284
-        },
-        {
-          "name_original": "Thomas J. Fahey",
-          "votes": 291
-        },
-        {
-          "name_original": "Teresa Ann Kelly",
-          "votes": 274
-        },
-        {
-          "name_original": "Marion Elizabeth Mannai",
-          "votes": 152
-        },
-        {
-          "name_original": "Jeremiah John O'Connor",
-          "votes": 193
-        },
-        {
-          "name_original": "Martin Cleary Simmons",
-          "votes": 208
-        },
-        {
-          "name_original": "Rosa Yan Zhang",
-          "votes": 220
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3134,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 10",
-      "num_winners": 8,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Freeman Cornish",
-          "votes": 111
-        },
-        {
-          "name_original": "Ashley Johnston Emerson",
-          "votes": 150
-        },
-        {
-          "name_original": "Maribeth Johnson Flakes",
-          "votes": 161
-        },
-        {
-          "name_original": "Timothy Sedgwick Kernan",
-          "votes": 113
-        },
-        {
-          "name_original": "Yolanda K. Thomas",
-          "votes": 139
-        },
-        {
-          "name_original": "Fendy Alexis",
-          "votes": 131
-        },
-        {
-          "name_original": "Cedric John Jacobson",
-          "votes": 121
-        },
-        {
-          "name_original": "Laura Spero",
-          "votes": 132
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 892,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Milton, MA",
-      "date": "2026-04-28",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 10 (1 Year)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary Cachopa Mccole",
-          "votes": 186
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 93,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1096,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Milton2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Milton2026.pdf",
-  "ballots_cast": 5711,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas M. Callahan",
+     "votes": 2742
+    },
+    {
+     "name_original": "Warren G. Lizio",
+     "votes": 2095
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 868,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "School Committee",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark W. Loring",
+     "votes": 3120
+    },
+    {
+     "name_original": "Bao Qiu",
+     "votes": 2859
+    },
+    {
+     "name_original": "Others",
+     "votes": 69,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5372,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sharese Latisha Caldwell",
+     "votes": 2592
+    },
+    {
+     "name_original": "Daniel Matthew O'Neil",
+     "votes": 2463
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 663,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Park Commissioner",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Steven Novak III",
+     "votes": 3392
+    },
+    {
+     "name_original": "Others",
+     "votes": 24,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2295,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Roxanne F. Musto",
+     "votes": 2619
+    },
+    {
+     "name_original": "Deborah A. Milbauer",
+     "votes": 2716
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 372,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Trustees of the Public Library",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Walsh Folcarelli",
+     "votes": 1864
+    },
+    {
+     "name_original": "Kristine Ruth Hodlin",
+     "votes": 2631
+    },
+    {
+     "name_original": "Ellen Williams Fisher",
+     "votes": 2572
+    },
+    {
+     "name_original": "Marc Anthony Johnson",
+     "votes": 1788
+    },
+    {
+     "name_original": "Georgia Lee",
+     "votes": 1389
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6850,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Trustee of the Cemetery",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen J. Pender",
+     "votes": 3297
+    },
+    {
+     "name_original": "Others",
+     "votes": 24,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2390,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Planning Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cheryl Friedman Tougias",
+     "votes": 2854
+    },
+    {
+     "name_original": "Hal Peter Munger",
+     "votes": 2986
+    },
+    {
+     "name_original": "Lindsey B. Sands",
+     "votes": 2361
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3208,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 1",
+   "num_winners": 9,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Akwaowo D. Ebong",
+     "votes": 251
+    },
+    {
+     "name_original": "Timika Downes Gagne",
+     "votes": 251
+    },
+    {
+     "name_original": "Marsha B. Grills",
+     "votes": 233
+    },
+    {
+     "name_original": "Cedric Honigberg",
+     "votes": 230
+    },
+    {
+     "name_original": "Kristen A. Lacasse",
+     "votes": 245
+    },
+    {
+     "name_original": "Danielle Ann Mellett",
+     "votes": 243
+    },
+    {
+     "name_original": "Timothy Paul O'Hara",
+     "votes": 242
+    },
+    {
+     "name_original": "Jeffrey R. Stone",
+     "votes": 236
+    },
+    {
+     "name_original": "Anna Rose Morgan Barsamian",
+     "votes": 183
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1477,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2",
+   "num_winners": 16,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Adam Chinman",
+     "votes": 347
+    },
+    {
+     "name_original": "Janet Ferone",
+     "votes": 349
+    },
+    {
+     "name_original": "Karen Lynn Friedman-Hanna",
+     "votes": 353
+    },
+    {
+     "name_original": "Nora Harrington",
+     "votes": 419
+    },
+    {
+     "name_original": "Peter A. Mullin",
+     "votes": 273
+    },
+    {
+     "name_original": "Daniel P. Walsh",
+     "votes": 310
+    },
+    {
+     "name_original": "Mark Teko Christo",
+     "votes": 133
+    },
+    {
+     "name_original": "Melinda Tiepolt D'Arbeloff",
+     "votes": 288
+    },
+    {
+     "name_original": "Sheila M. Dunphy",
+     "votes": 294
+    },
+    {
+     "name_original": "Janet Lee Lyons",
+     "votes": 131
+    },
+    {
+     "name_original": "Timothy F. Lyons",
+     "votes": 113
+    },
+    {
+     "name_original": "Robert E. Powers, Jr.",
+     "votes": 196
+    },
+    {
+     "name_original": "Nicole Marie Rukstalis",
+     "votes": 243
+    },
+    {
+     "name_original": "Kenneth A. Sherman",
+     "votes": 273
+    },
+    {
+     "name_original": "Maggie Lee Syme",
+     "votes": 254
+    },
+    {
+     "name_original": "Others",
+     "votes": 23,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2801,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2 (1 Year)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ian B. Grigorio",
+     "votes": 200
+    },
+    {
+     "name_original": "Lee Michael Mclean",
+     "votes": 312
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 165,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 3",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Maureen Melody Connors",
+     "votes": 259
+    },
+    {
+     "name_original": "Michelle Mc Manus Freeman",
+     "votes": 200
+    },
+    {
+     "name_original": "James Thomas Jenkins, Jr.",
+     "votes": 231
+    },
+    {
+     "name_original": "Beth Ellen Molnar",
+     "votes": 229
+    },
+    {
+     "name_original": "Michael Charles Munsey",
+     "votes": 225
+    },
+    {
+     "name_original": "Katherine Rohan O'Brien",
+     "votes": 168
+    },
+    {
+     "name_original": "Rachel Schewe",
+     "votes": 301
+    },
+    {
+     "name_original": "Ronald T. Sia",
+     "votes": 281
+    },
+    {
+     "name_original": "Emily C. Burns",
+     "votes": 242
+    },
+    {
+     "name_original": "Steven R. Geyster",
+     "votes": 157
+    },
+    {
+     "name_original": "Robert G. Hiss",
+     "votes": 269
+    },
+    {
+     "name_original": "Brooke Plotkin",
+     "votes": 224
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3400,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas M. Callahan",
+     "votes": 196
+    },
+    {
+     "name_original": "Margaret Elisabeth Carels",
+     "votes": 158
+    },
+    {
+     "name_original": "Camila Maria Chaparro",
+     "votes": 168
+    },
+    {
+     "name_original": "David Dobrindt",
+     "votes": 117
+    },
+    {
+     "name_original": "Jonathan A. Lashley",
+     "votes": 143
+    },
+    {
+     "name_original": "Harriet Manning",
+     "votes": 153
+    },
+    {
+     "name_original": "Leslie Campbell Mccarthy",
+     "votes": 153
+    },
+    {
+     "name_original": "Keith E. Schleicher",
+     "votes": 108
+    },
+    {
+     "name_original": "Christine M. Turnier",
+     "votes": 158
+    },
+    {
+     "name_original": "Sharese Latisha Caldwell",
+     "votes": 177
+    },
+    {
+     "name_original": "Hyacinth V. Crichlow",
+     "votes": 114
+    },
+    {
+     "name_original": "Michael J. Mole",
+     "votes": 126
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1473,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4A",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas M. Callahan",
+     "votes": 119
+    },
+    {
+     "name_original": "Margaret Elisabeth Carels",
+     "votes": 69
+    },
+    {
+     "name_original": "Camila Maria Chaparro",
+     "votes": 106
+    },
+    {
+     "name_original": "David Dobrindt",
+     "votes": 30
+    },
+    {
+     "name_original": "Jonathan A. Lashley",
+     "votes": 84
+    },
+    {
+     "name_original": "Harriet Manning",
+     "votes": 39
+    },
+    {
+     "name_original": "Leslie Campbell Mccarthy",
+     "votes": 107
+    },
+    {
+     "name_original": "Keith E. Schleicher",
+     "votes": 56
+    },
+    {
+     "name_original": "Christine M. Turnier",
+     "votes": 98
+    },
+    {
+     "name_original": "Sharese Latisha Caldwell",
+     "votes": 107
+    },
+    {
+     "name_original": "Hyacinth V. Crichlow",
+     "votes": 30
+    },
+    {
+     "name_original": "Michael J. Mole",
+     "votes": 78
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 605,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 5",
+   "num_winners": 11,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Philip D. Murphy",
+     "votes": 254
+    },
+    {
+     "name_original": "Sarah Nethercote Hart",
+     "votes": 209
+    },
+    {
+     "name_original": "Megan Kathleen Nolan",
+     "votes": 239
+    },
+    {
+     "name_original": "R. Daniel Young",
+     "votes": 189
+    },
+    {
+     "name_original": "Benjamin Zoll",
+     "votes": 197
+    },
+    {
+     "name_original": "Mary Alice Beckman",
+     "votes": 152
+    },
+    {
+     "name_original": "Ronald Dominic Cecchini",
+     "votes": 86
+    },
+    {
+     "name_original": "Rosemary Cochran",
+     "votes": 175
+    },
+    {
+     "name_original": "Marion Driscoll",
+     "votes": 205
+    },
+    {
+     "name_original": "Christopher R. Hart",
+     "votes": 164
+    },
+    {
+     "name_original": "Laura A. Wood",
+     "votes": 139
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 973,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 6",
+   "num_winners": 13,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George A. Ashur",
+     "votes": 238
+    },
+    {
+     "name_original": "Lindsay J. Degennaro",
+     "votes": 291
+    },
+    {
+     "name_original": "Nathan David Hutto",
+     "votes": 287
+    },
+    {
+     "name_original": "Peter C. Obersheimer",
+     "votes": 363
+    },
+    {
+     "name_original": "Thomas Francis O'Donnell",
+     "votes": 274
+    },
+    {
+     "name_original": "Amy Frances Robins",
+     "votes": 267
+    },
+    {
+     "name_original": "Sybil Gallagher Urmston",
+     "votes": 234
+    },
+    {
+     "name_original": "Nancy J. Vaughan",
+     "votes": 326
+    },
+    {
+     "name_original": "William H. White, Jr.",
+     "votes": 273
+    },
+    {
+     "name_original": "Eleanor Mary Mcdonough",
+     "votes": 214
+    },
+    {
+     "name_original": "Ada Pollock Rosmarin",
+     "votes": 221
+    },
+    {
+     "name_original": "Paul M. Samuelian",
+     "votes": 183
+    },
+    {
+     "name_original": "Andrew Robert Walsh",
+     "votes": 282
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3534,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 6 (1 Year)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen Randall Caldwell, Jr.",
+     "votes": 229
+    },
+    {
+     "name_original": "Kelly A. Mcgillowey",
+     "votes": 275
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 195,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 7",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marc Anthony Johnson",
+     "votes": 272
+    },
+    {
+     "name_original": "John Christopher Keohane",
+     "votes": 361
+    },
+    {
+     "name_original": "Michael P. Maholchic",
+     "votes": 252
+    },
+    {
+     "name_original": "Jacquelyn Paul Munger",
+     "votes": 256
+    },
+    {
+     "name_original": "Stephen Harold Rines",
+     "votes": 290
+    },
+    {
+     "name_original": "Jennifer Rachel Robberson",
+     "votes": 211
+    },
+    {
+     "name_original": "Laura Springer",
+     "votes": 207
+    },
+    {
+     "name_original": "Megan Terese Walsh",
+     "votes": 319
+    },
+    {
+     "name_original": "Cindy Lynn Christiansen",
+     "votes": 245
+    },
+    {
+     "name_original": "James Francis Comeau",
+     "votes": 201
+    },
+    {
+     "name_original": "Hal Peter Munger",
+     "votes": 242
+    },
+    {
+     "name_original": "Jennifer Lee Wrightington",
+     "votes": 247
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1900,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 8",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James A. Coyne",
+     "votes": 321
+    },
+    {
+     "name_original": "John E. Driscoll, Jr.",
+     "votes": 431
+    },
+    {
+     "name_original": "Andres Jonathan Lessing",
+     "votes": 223
+    },
+    {
+     "name_original": "Barbara C. Martin",
+     "votes": 317
+    },
+    {
+     "name_original": "William H. Murphy, Jr.",
+     "votes": 282
+    },
+    {
+     "name_original": "Bao Qiu",
+     "votes": 263
+    },
+    {
+     "name_original": "Sheila Egan Varela",
+     "votes": 286
+    },
+    {
+     "name_original": "Sheena Elaine Anello",
+     "votes": 216
+    },
+    {
+     "name_original": "Daniel Gregory Cherry",
+     "votes": 309
+    },
+    {
+     "name_original": "Lisa M. Courtney",
+     "votes": 265
+    },
+    {
+     "name_original": "Jackson Humphreys",
+     "votes": 247
+    },
+    {
+     "name_original": "Camille Y. Sanabria-Cooper",
+     "votes": 194
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4229,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 8 (1 Year)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Veronica J. Mccarthy",
+     "votes": 197
+    },
+    {
+     "name_original": "Christine Sweeney",
+     "votes": 287
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 206,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 9",
+   "num_winners": 17,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Travis Gregory",
+     "votes": 250
+    },
+    {
+     "name_original": "Daniel Matthew O'Neil",
+     "votes": 362
+    },
+    {
+     "name_original": "William T. Ruzzo",
+     "votes": 247
+    },
+    {
+     "name_original": "Lynda-Lee Sheridan",
+     "votes": 340
+    },
+    {
+     "name_original": "Edward Michael Thomas",
+     "votes": 204
+    },
+    {
+     "name_original": "Cheryl Friedman Tougias",
+     "votes": 276
+    },
+    {
+     "name_original": "Judith Marie White-Orlando",
+     "votes": 250
+    },
+    {
+     "name_original": "Kathleen Barrett",
+     "votes": 305
+    },
+    {
+     "name_original": "Susan Marie Brady",
+     "votes": 307
+    },
+    {
+     "name_original": "Jake Kevin Donahoe",
+     "votes": 275
+    },
+    {
+     "name_original": "Michael Kevin Donahoe",
+     "votes": 284
+    },
+    {
+     "name_original": "Thomas J. Fahey",
+     "votes": 291
+    },
+    {
+     "name_original": "Teresa Ann Kelly",
+     "votes": 274
+    },
+    {
+     "name_original": "Marion Elizabeth Mannai",
+     "votes": 152
+    },
+    {
+     "name_original": "Jeremiah John O'Connor",
+     "votes": 193
+    },
+    {
+     "name_original": "Martin Cleary Simmons",
+     "votes": 208
+    },
+    {
+     "name_original": "Rosa Yan Zhang",
+     "votes": 220
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3134,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 10",
+   "num_winners": 8,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Freeman Cornish",
+     "votes": 111
+    },
+    {
+     "name_original": "Ashley Johnston Emerson",
+     "votes": 150
+    },
+    {
+     "name_original": "Maribeth Johnson Flakes",
+     "votes": 161
+    },
+    {
+     "name_original": "Timothy Sedgwick Kernan",
+     "votes": 113
+    },
+    {
+     "name_original": "Yolanda K. Thomas",
+     "votes": 139
+    },
+    {
+     "name_original": "Fendy Alexis",
+     "votes": 131
+    },
+    {
+     "name_original": "Cedric John Jacobson",
+     "votes": 121
+    },
+    {
+     "name_original": "Laura Spero",
+     "votes": 132
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 892,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Milton, MA",
+   "date": "2026-04-28",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 10 (1 Year)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary Cachopa Mccole",
+     "votes": 186
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 93,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Milton2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Milton2026.pdf",
+ "ballots_cast": 5711,
+ "ballots_cast_source": "derived_from_contests"
 }
