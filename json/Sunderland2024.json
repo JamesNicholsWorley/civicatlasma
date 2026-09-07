@@ -1,235 +1,235 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David J. Pierce",
-          "votes": 278
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David J. Pierce",
+     "votes": 278
     },
     {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "SELECTBOARD (SELECTMAN)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christyl L. Drake-Tremblay",
-          "votes": 281
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 19,
+     "tally_row": true
     },
     {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "ASSESSOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael R. Skibiski, Jr.",
-          "votes": 285
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth Leon Kushi",
-          "votes": 284
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "SUNDERLAND ELEMENTARY SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Meghan E. Arquin",
-          "votes": 266
-        },
-        {
-          "name_original": "Louai Yousef Abu-Osba",
-          "votes": 250
-        },
-        {
-          "name_original": "Kara Gorey",
-          "votes": 24
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 62,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "RIVERSIDE CEMETERY TRUSTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott A. Bergeron",
-          "votes": 279
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 22,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas Wrenn Fulton",
-          "votes": 277
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 24,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Sunderland",
-      "date": "2024-05-04",
-      "office_original": "SUNDERLAND PUBLIC LIBRARY TRUSTEES",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hollis D. Graves",
-          "votes": 282
-        },
-        {
-          "name_original": "Emily Caitlyn Pettit",
-          "votes": 281
-        },
-        {
-          "name_original": "Lorin Starr",
-          "votes": 282
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 57,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Sunderland2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sunderland2024.pdf",
-  "ballots_cast": 301,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "SELECTBOARD (SELECTMAN)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christyl L. Drake-Tremblay",
+     "votes": 281
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "ASSESSOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael R. Skibiski, Jr.",
+     "votes": 285
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth Leon Kushi",
+     "votes": 284
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "SUNDERLAND ELEMENTARY SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Meghan E. Arquin",
+     "votes": 266
+    },
+    {
+     "name_original": "Louai Yousef Abu-Osba",
+     "votes": 250
+    },
+    {
+     "name_original": "Kara Gorey",
+     "votes": 24
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 62,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "RIVERSIDE CEMETERY TRUSTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott A. Bergeron",
+     "votes": 279
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 22,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas Wrenn Fulton",
+     "votes": 277
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 24,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Sunderland",
+   "date": "2024-05-04",
+   "office_original": "SUNDERLAND PUBLIC LIBRARY TRUSTEES",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Hollis D. Graves",
+     "votes": 282
+    },
+    {
+     "name_original": "Emily Caitlyn Pettiit",
+     "votes": 281
+    },
+    {
+     "name_original": "Lorin Starr",
+     "votes": 282
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 57,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Sunderland2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Sunderland2024.pdf",
+ "ballots_cast": 301,
+ "ballots_cast_source": "derived_from_contests"
 }

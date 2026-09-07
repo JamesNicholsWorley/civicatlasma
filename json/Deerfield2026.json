@@ -1,263 +1,263 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "SELECTBOARD: VOTE FOR ONE - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "SELECTBOARD: VOTE FOR ONE - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Trevor Dylan McDaniel",
-          "votes": 752
-        },
-        {
-          "name_original": "Others",
-          "votes": 39,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 256,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Trevor Dylan McDaniel",
+     "votes": 752
     },
     {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "ASSESSOR: VOTE FOR ONE - 1 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paul Raymond Ouzewski",
-          "votes": 755
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 275,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 39,
+     "tally_row": true
     },
     {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "CONSTABLE: VOTE FOR ONE - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Adam Sokoloski",
-          "votes": 806
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 234,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "DEERFIELD SCHOOL COMMITTEE: VOTE FOR ONE - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "David Wemhoener",
-          "votes": 35
-        },
-        {
-          "name_original": "Ali Wilson-Pierce",
-          "votes": 144
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 842,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "ELECTOR UNDER OLIVER SMITH WILL - VOTE ONE - 1 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Richard Baronas Jr.",
-          "votes": 492
-        },
-        {
-          "name_original": "Robert J. Decker III",
-          "votes": 314
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 233,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE - Vote for One - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Melissa Carol Novak",
-          "votes": 727
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 308,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "MODERATOR: VOTE FOR ONE - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Thomas Brennan Jr.",
-          "votes": 748
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 286,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "PLANNING BOARD - VOTE FOR TWO - 3 YEAR TERMS",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Denise larsen Mason",
-          "votes": 643
-        },
-        {
-          "name_original": "Kathleen Marion Sylvester",
-          "votes": 620
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 820,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Deerfield",
-      "date": "2026-05-19",
-      "office_original": "TILTON LIBRARY TRUSTEE: VOTE FOR ONE - 3 YEAR TERM",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John William Stacey",
-          "votes": 732
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 310,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 256,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Deerfield2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Deerfield2026.pdf",
-  "ballots_cast": 1047,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "ASSESSOR: VOTE FOR ONE - 1 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paul Raymond Olszewski",
+     "votes": 755
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 275,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "CONSTABLE: VOTE FOR ONE - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Adam Sokoloski",
+     "votes": 806
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 234,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "DEERFIELD SCHOOL COMMITTEE: VOTE FOR ONE - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    },
+    {
+     "name_original": "David Wemhoener",
+     "votes": 35
+    },
+    {
+     "name_original": "Ali Wilson-Pierce",
+     "votes": 144
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 842,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "ELECTOR UNDER OLIVER SMITH WILL - VOTE ONE - 1 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John Richard Baronas Jr.",
+     "votes": 492
+    },
+    {
+     "name_original": "Robert J. Decker III",
+     "votes": 314
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 233,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "FRONTIER REGIONAL SCHOOL COMMITTEE - Vote for One - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Melissa Carol Novak",
+     "votes": 727
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 308,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "MODERATOR: VOTE FOR ONE - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Thomas Brennan Jr.",
+     "votes": 748
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 286,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "PLANNING BOARD - VOTE FOR TWO - 3 YEAR TERMS",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Denise larsen Mason",
+     "votes": 643
+    },
+    {
+     "name_original": "Kathleen Marion Sylvster",
+     "votes": 620
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 820,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Deerfield",
+   "date": "2026-05-19",
+   "office_original": "TILTON LIBRARY TRUSTEE: VOTE FOR ONE - 3 YEAR TERM",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John William Stacey",
+     "votes": 732
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 310,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Deerfield2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Deerfield2026.pdf",
+ "ballots_cast": 1047,
+ "ballots_cast_source": "derived_from_contests"
 }
