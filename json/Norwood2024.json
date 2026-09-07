@@ -1,281 +1,281 @@
 {
- "document": {
-  "heading_verbatim": "ANNUAL TOWN ELECTION",
-  "election_type": "Regular",
-  "election_type_evidence": "ANNUAL TOWN ELECTION",
-  "date_verbatim": "MONDAY APRIL 1, 2024",
-  "offices_on_ballot": 9,
-  "uncontested_remainder": false,
-  "is_sample_ballot": false
- },
- "elections": [
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "SELECTMEN",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "William J. Plasko",
-     "votes": 1717
-    },
-    {
-     "name_original": "Others",
-     "votes": 45,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 446,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
+  "document": {
+    "heading_verbatim": "ANNUAL TOWN ELECTION",
+    "election_type": "Regular",
+    "election_type_evidence": "ANNUAL TOWN ELECTION",
+    "date_verbatim": "MONDAY APRIL 1, 2024",
+    "offices_on_ballot": 9,
+    "uncontested_remainder": false,
+    "is_sample_ballot": false
   },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "MODERATOR",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
+  "elections": [
     {
-     "name_original": "Gerri S. Slater",
-     "votes": 1721
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "SELECTMEN",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William J. Plasko",
+          "votes": 1717
+        },
+        {
+          "name_original": "Others",
+          "votes": 45,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 446,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
     },
     {
-     "name_original": "Others",
-     "votes": 17,
-     "tally_row": true
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "MODERATOR",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Gerri S. Slater",
+          "votes": 1721
+        },
+        {
+          "name_original": "Others",
+          "votes": 17,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 470,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
     },
     {
-     "name_original": "Blanks",
-     "votes": 470,
-     "tally_row": true
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "MEM. OF BD OF HEALTH",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Kathleen Frances Bishop",
+          "votes": 1756
+        },
+        {
+          "name_original": "Others",
+          "votes": 13,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 439,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "MEM. OF SCHOOL CTE.",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Michael Hiltz, Jr",
+          "votes": 1609
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 575,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "MEM OF FIN COM",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Myev A. Bodenhofer",
+          "votes": 1561
+        },
+        {
+          "name_original": "Eric W. Fleming",
+          "votes": 1502
+        },
+        {
+          "name_original": "Others",
+          "votes": 11,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1342,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "LIBRARY TRUSTEES",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sarah Elizabeth Begg",
+          "votes": 1676
+        },
+        {
+          "name_original": "George A. Michalec",
+          "votes": 1501
+        },
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 1225,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "MEM. TOWN PLANNING BD.",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Joseph F. Sheehan",
+          "votes": 1700
+        },
+        {
+          "name_original": "Others",
+          "votes": 15,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 493,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "HOUSING AUTHORITY",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Edward Breen",
+          "votes": 664
+        },
+        {
+          "name_original": "Judith A Langone",
+          "votes": 1206
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 333,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
+    },
+    {
+      "municipality": "<UNKNOWN>",
+      "date": "2024-04-01",
+      "office_original": "CONSTABLE",
+      "district_original": "",
+      "stage": "General",
+      "type": "Special",
+      "num_winners": 1,
+      "extraction_confidence": 0.9,
+      "candidates": [
+        {
+          "name_original": "Daniel P. Williams",
+          "votes": 15
+        },
+        {
+          "name_original": "Others",
+          "votes": 126,
+          "tally_row": true
+        },
+        {
+          "name_original": "Blanks",
+          "votes": 2067,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": true
     }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "MEM. OF BD OF HEALTH",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.9,
-   "candidates": [
-    {
-     "name_original": "Kathleen Frances Bishop",
-     "votes": 1756
-    },
-    {
-     "name_original": "Others",
-     "votes": 13,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 439,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "MEM. OF SCHOOL CTE.",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "David Michael Hiltz, Jr",
-     "votes": 1609
-    },
-    {
-     "name_original": "Others",
-     "votes": 24,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 575,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "MEM OF FIN COM",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Myev A. Bodenhofer",
-     "votes": 1561
-    },
-    {
-     "name_original": "Eric W. Fleming",
-     "votes": 1502
-    },
-    {
-     "name_original": "Others",
-     "votes": 11,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 1342,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "LIBRARY TRUSTEES",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Sarah Elizabeth Begg",
-     "votes": 1676
-    },
-    {
-     "name_original": "George A. Michalec",
-     "votes": 1501
-    },
-    {
-     "name_original": "Others",
-     "votes": 14,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 1225,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "MEM. TOWN PLANNING BD.",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Joseph F. Sheehan",
-     "votes": 1700
-    },
-    {
-     "name_original": "Others",
-     "votes": 15,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 493,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "HOUSING AUTHORITY",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "William Edward Breen",
-     "votes": 664
-    },
-    {
-     "name_original": "Judith A Langone",
-     "votes": 1206
-    },
-    {
-     "name_original": "Others",
-     "votes": 5,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 333,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  },
-  {
-   "municipality": "<UNKNOWN>",
-   "date": "2024-04-01",
-   "office_original": "CONSTABLE",
-   "district_original": "",
-   "stage": "General",
-   "type": "Special",
-   "num_winners": 1,
-   "extraction_confidence": 0.9,
-   "candidates": [
-    {
-     "name_original": "Daniel P. Williams",
-     "votes": 15
-    },
-    {
-     "name_original": "Others",
-     "votes": 267,
-     "tally_row": true
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 2067,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": true
-  }
- ],
- "_source_stem": "Norwood2024",
- "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norwood2024.pdf",
- "ballots_cast": 2208,
- "ballots_cast_source": "derived_from_contests"
+  ],
+  "_source_stem": "Norwood2024",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Norwood2024.pdf",
+  "ballots_cast": 2208,
+  "ballots_cast_source": "derived_from_contests"
 }
