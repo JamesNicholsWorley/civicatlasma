@@ -1,554 +1,554 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "MAYOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "MAYOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CATHLEEN DESIMONE",
-          "votes": 4608
-        },
-        {
-          "name_original": "Others",
-          "votes": 1640,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 564,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "CATHLEEN DESIMONE",
+     "votes": 4608
     },
     {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "CITY CLERK",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "KATE M. JACKSON",
-          "votes": 5388
-        },
-        {
-          "name_original": "Others",
-          "votes": 99,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1325,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1640,
+     "tally_row": true
     },
     {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "CITY COLLECTOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "THOMAS DOLAN",
-          "votes": 5119
-        },
-        {
-          "name_original": "Others",
-          "votes": 76,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1617,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "CITY TREASURER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURA L. GIGNAC",
-          "votes": 5370
-        },
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1374,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SARA-LYNN REYNOLDS",
-          "votes": 757
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 242,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ERIN MORRISSEY",
-          "votes": 718
-        },
-        {
-          "name_original": "STEPHEN PHILIP QUAGLIA JR.",
-          "votes": 458
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 136,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TODD KOBUS",
-          "votes": 766
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 254,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MICHAEL ALBERT ANGELO",
-          "votes": 999
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 281,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURA DEE DOLAN",
-          "votes": 698
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 197,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DIANA KATHLEEN HOLMES",
-          "votes": 892
-        },
-        {
-          "name_original": "Others",
-          "votes": 46,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 298,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR AT LARGE",
-      "num_winners": 8,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TIMOTHY BARONE",
-          "votes": 1459
-        },
-        {
-          "name_original": "JAMES J. DIUSIO",
-          "votes": 1865
-        },
-        {
-          "name_original": "KEITH H. JACKSON",
-          "votes": 2857
-        },
-        {
-          "name_original": "TY WATERMAN",
-          "votes": 3541
-        },
-        {
-          "name_original": "LAURIE A. SAWYER",
-          "votes": 3267
-        },
-        {
-          "name_original": "NICHOLAS G. LAVOIE",
-          "votes": 3105
-        },
-        {
-          "name_original": "JONATHAN F. TAVARES",
-          "votes": 3044
-        },
-        {
-          "name_original": "BRENDAN MICHAEL McINTYRE",
-          "votes": 3172
-        },
-        {
-          "name_original": "Others",
-          "votes": 132,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8811,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JAMES K. POORE",
-          "votes": 501
-        },
-        {
-          "name_original": "DIANNE E. SAWYER",
-          "votes": 470
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 49,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "WILLIAM E. LARSON",
-          "votes": 964
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 336,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "AARON DAVID BENNETT",
-          "votes": 791
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 229,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LYNN V. PORTO",
-          "votes": 964
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 313,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CHRISTOPHER EDWARD FRAPPIER",
-          "votes": 692
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 206,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SCOTT DOMENICI",
-          "votes": 941
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 278,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Attleboro",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE AT LARGE",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ROBERT PAUL GEDDES",
-          "votes": 3885
-        },
-        {
-          "name_original": "SHANNON GILROY JOHNSON",
-          "votes": 3786
-        },
-        {
-          "name_original": "JAMES JOSEPH STORS",
-          "votes": 3499
-        },
-        {
-          "name_original": "BRIAN AMARAL",
-          "votes": 2892
-        },
-        {
-          "name_original": "Others",
-          "votes": 92,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6282,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 564,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Attleboro2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Attleboro2025.pdf",
-  "ballots_cast": 6812,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "CITY CLERK",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "KATE M. JACKSON",
+     "votes": 5388
+    },
+    {
+     "name_original": "Others",
+     "votes": 99,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1325,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "CITY COLLECTOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "THOMAS DOLAN",
+     "votes": 5119
+    },
+    {
+     "name_original": "Others",
+     "votes": 76,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1617,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "CITY TREASURER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURA L. GIGNAC",
+     "votes": 5370
+    },
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1374,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SARA-LYNN REYNOLDS",
+     "votes": 757
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 242,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ERIN MORRISSEY",
+     "votes": 718
+    },
+    {
+     "name_original": "STEPHEN PHILIP QUAGLIA JR.",
+     "votes": 458
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 136,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "TODD KOBUS",
+     "votes": 766
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 254,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MICHAEL ALBERT ANGELO",
+     "votes": 999
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 281,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURA DEE DOLAN",
+     "votes": 698
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 197,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DIANA KATHLEEN HOLMES",
+     "votes": 892
+    },
+    {
+     "name_original": "Others",
+     "votes": 46,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 298,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR AT LARGE",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "TIMOTHY BARONE",
+     "votes": 1459
+    },
+    {
+     "name_original": "JAMES J. DILISIO",
+     "votes": 3865
+    },
+    {
+     "name_original": "KEITH H. JACKSON",
+     "votes": 2857
+    },
+    {
+     "name_original": "TY WATERMAN",
+     "votes": 3841
+    },
+    {
+     "name_original": "LAURIE A. SAWYER",
+     "votes": 3267
+    },
+    {
+     "name_original": "NICHOLAS G. LAVOIE",
+     "votes": 3044
+    },
+    {
+     "name_original": "JONATHAN F. TAVARES",
+     "votes": 3612
+    },
+    {
+     "name_original": "BRENDAN MICHAEL McINTYRE",
+     "votes": 3172
+    },
+    {
+     "name_original": "Others",
+     "votes": 132,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8811,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JAMES K. POORE",
+     "votes": 501
+    },
+    {
+     "name_original": "DIANNE E. SAWYER",
+     "votes": 470
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 49,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "WILLIAM E. LARSON",
+     "votes": 964
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 336,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "AARON DAVID BENNETT",
+     "votes": 791
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 229,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LYNN V. PORTO",
+     "votes": 964
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 313,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "CHRISTOPHER EDWARD FRAPPIER",
+     "votes": 692
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 206,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SCOTT DOMENICI",
+     "votes": 941
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 278,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Attleboro",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE AT LARGE",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ROBERT PAUL GEDDES",
+     "votes": 3885
+    },
+    {
+     "name_original": "SHANNON GILROY JOHNSON",
+     "votes": 3786
+    },
+    {
+     "name_original": "JAMES JOSEPH STORS",
+     "votes": 3499
+    },
+    {
+     "name_original": "BRIAN AMARAL",
+     "votes": 2892
+    },
+    {
+     "name_original": "Others",
+     "votes": 92,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6282,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Attleboro2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Attleboro2025.pdf",
+ "ballots_cast": 6812,
+ "ballots_cast_source": "derived_from_contests"
 }
