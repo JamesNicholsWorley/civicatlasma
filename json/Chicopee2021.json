@@ -1,745 +1,745 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "MAYOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "MAYOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John L. Vieau",
-          "votes": 3396
-        },
-        {
-          "name_original": "Others",
-          "votes": 361,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1034,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "John L. Vieau",
+     "votes": 3396
     },
     {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "ASSESSOR",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Laura McCarthy",
-          "votes": 3608
-        },
-        {
-          "name_original": "Brian William Suchy",
-          "votes": 3377
-        },
-        {
-          "name_original": "Others",
-          "votes": 58,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2539,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 361,
+     "tally_row": true
     },
     {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COLLECTOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stanley Iwanicki",
-          "votes": 3776
-        },
-        {
-          "name_original": "Others",
-          "votes": 50,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 965,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "TREASURER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marie T. LaFlamme",
-          "votes": 3638
-        },
-        {
-          "name_original": "Others",
-          "votes": 70,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1083,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR AT-LARGE",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frank LaFlamme",
-          "votes": 2806
-        },
-        {
-          "name_original": "Gerard (Jerry) A. Roy",
-          "votes": 2644
-        },
-        {
-          "name_original": "James K. Tillotson",
-          "votes": 2368
-        },
-        {
-          "name_original": "Robert Joseph Oparowkski",
-          "votes": 2533
-        },
-        {
-          "name_original": "Shirley B. Arriaga",
-          "votes": 2141
-        },
-        {
-          "name_original": "Sean M. Goonan",
-          "votes": 1845
-        },
-        {
-          "name_original": "Matthew J. Hernke",
-          "votes": 1334
-        },
-        {
-          "name_original": "Others",
-          "votes": 42,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3451,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joel D. McAuliffe",
-          "votes": 557
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 177,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shane D. Brooks",
-          "votes": 349
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 106,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Delmarina Lopez",
-          "votes": 242
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 62,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George A. Balakier",
-          "votes": 329
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 85,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frederick T. Krampits",
-          "votes": 284
-        },
-        {
-          "name_original": "John Kivel",
-          "votes": 233
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Derek Gregory Dobosz",
-          "votes": 472
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 104,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 7",
-      "district_original": "Ward 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Courchesne",
-          "votes": 198
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 8",
-      "district_original": "Ward 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary R. Labrie",
-          "votes": 427
-        },
-        {
-          "name_original": "Lisa Hagar",
-          "votes": 160
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD 9",
-      "district_original": "Ward 9",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John E. Paquette, Jr.",
-          "votes": 386
-        },
-        {
-          "name_original": "Mary-Elizabeth Pniak-Costello",
-          "votes": 490
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 12,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE AT-LARGE 4yrs",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Chester J. Szetela",
-          "votes": 3580
-        },
-        {
-          "name_original": "Others",
-          "votes": 46,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1165,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE AT-LARGE TFV",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen Nembirkow",
-          "votes": 1458
-        },
-        {
-          "name_original": "Susan Ann Szczela Lopes",
-          "votes": 2916
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 404,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy Wagner",
-          "votes": 580
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 147,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Barsalou",
-          "votes": 354
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 103,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Saulo DePaula",
-          "votes": 254
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 56,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sandra Ann Peret",
-          "votes": 318
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 95,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Grace Schofield",
-          "votes": 406
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 118,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Samuel R. Shumsky",
-          "votes": 457
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 122,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 7",
-      "district_original": "Ward 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald J. Lamothe",
-          "votes": 201
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 45,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 8",
-      "district_original": "Ward 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas P. Girouard",
-          "votes": 474
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 119,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chicopee",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD 9",
-      "district_original": "Ward 9",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ronald J. Benard",
-          "votes": 689
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 195,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1034,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Chicopee2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2021.pdf",
-  "ballots_cast": 4791,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "ASSESSOR",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Laura McCarthy",
+     "votes": 3608
+    },
+    {
+     "name_original": "Brian William Suchy",
+     "votes": 3377
+    },
+    {
+     "name_original": "Others",
+     "votes": 58,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2539,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COLLECTOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stanley Iwanicki",
+     "votes": 3776
+    },
+    {
+     "name_original": "Others",
+     "votes": 50,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 965,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "TREASURER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marie T. Laflamme",
+     "votes": 3638
+    },
+    {
+     "name_original": "Others",
+     "votes": 70,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1083,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR AT-LARGE",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Frank N. Laflamme",
+     "votes": 2806
+    },
+    {
+     "name_original": "Gerard (Jerry) A. Roy",
+     "votes": 2644
+    },
+    {
+     "name_original": "James K. Tillotson",
+     "votes": 2368
+    },
+    {
+     "name_original": "Robert Joseph Zygarowski",
+     "votes": 2533
+    },
+    {
+     "name_original": "Shirley B. Arriaga",
+     "votes": 2141
+    },
+    {
+     "name_original": "Sean M. Goonan",
+     "votes": 1845
+    },
+    {
+     "name_original": "Matthew J. Hernke",
+     "votes": 1334
+    },
+    {
+     "name_original": "Others",
+     "votes": 42,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3451,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joel D. McAuliffe",
+     "votes": 557
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 177,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shane D. Brooks",
+     "votes": 349
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 106,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Delmarina Lopez",
+     "votes": 242
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 62,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George A. Balakier",
+     "votes": 329
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 85,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Frederick T. Krampits",
+     "votes": 284
+    },
+    {
+     "name_original": "John Kivel",
+     "votes": 233
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Derek Gregory Dobosz",
+     "votes": 472
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 104,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 7",
+   "district_original": "Ward 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Courchesne",
+     "votes": 198
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 8",
+   "district_original": "Ward 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gary R. Labrie",
+     "votes": 427
+    },
+    {
+     "name_original": "Lisa Hagar",
+     "votes": 160
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD 9",
+   "district_original": "Ward 9",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John E. Paquette, Jr.",
+     "votes": 386
+    },
+    {
+     "name_original": "Mary-Elizabeth Pniak-Costello",
+     "votes": 490
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 12,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE AT-LARGE 4yrs",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Chester J. Szetela",
+     "votes": 3580
+    },
+    {
+     "name_original": "Others",
+     "votes": 46,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1165,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE AT-LARGE TFV",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen Nembirkow",
+     "votes": 1458
+    },
+    {
+     "name_original": "Susan Ann Szetela Lopes",
+     "votes": 2916
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 404,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Timothy Wagner",
+     "votes": 580
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 147,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Barsalou",
+     "votes": 354
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 103,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Saulo DePaula",
+     "votes": 254
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 56,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sandra Ann Peret",
+     "votes": 318
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 95,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Grace Schofield",
+     "votes": 406
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 118,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Samuel R. Shumsky",
+     "votes": 457
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 122,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 7",
+   "district_original": "Ward 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald J. Lamothe",
+     "votes": 201
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 45,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 8",
+   "district_original": "Ward 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas P. Girouard",
+     "votes": 474
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 119,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chicopee",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD 9",
+   "district_original": "Ward 9",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ronald J. Benard",
+     "votes": 689
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 195,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Chicopee2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2021.pdf",
+ "ballots_cast": 4791,
+ "ballots_cast_source": "derived_from_contests"
 }
