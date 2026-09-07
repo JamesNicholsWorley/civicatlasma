@@ -1,904 +1,900 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "SELECT BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "SELECT BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Erin Drew",
-          "votes": 1439
-        },
-        {
-          "name_original": "Kenneth M. Lefebvre",
-          "votes": 1433
-        },
-        {
-          "name_original": "Charles T. Mooney",
-          "votes": 167
-        },
-        {
-          "name_original": "Rodney E. Cleaves",
-          "votes": 146
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 117,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Erin Drew",
+     "votes": 1439
     },
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan M. Mackinnon",
-          "votes": 2262
-        },
-        {
-          "name_original": "Dennis F. King II",
-          "votes": 2074
-        },
-        {
-          "name_original": "Jon H. Kurland",
-          "votes": 2446
-        },
-        {
-          "name_original": "Brian Latina",
-          "votes": 94
-        },
-        {
-          "name_original": "Others",
-          "votes": 32,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2256,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kenneth M. Lefebvre",
+     "votes": 1433
     },
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jon H. Kurland",
-          "votes": 2446
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 759,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Charles T. Mooney",
+     "votes": 167
     },
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John B. Sousa Jr.",
-          "votes": 2231
-        },
-        {
-          "name_original": "Michael N. Raisbeck",
-          "votes": 1573
-        },
-        {
-          "name_original": "Doreen A. Deshler",
-          "votes": 1315
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1496,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Rodney E. Cleaves",
+     "votes": 146
     },
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "PLANNING BOARD ASSOCIATE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher Richard Lavallee",
-          "votes": 2429
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 862,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
     },
     {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard J. Day",
-          "votes": 2438
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 859,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Margaret Elizabeth Marshall",
-          "votes": 2457
-        },
-        {
-          "name_original": "Kevin Daniel Hamilton",
-          "votes": 2187
-        },
-        {
-          "name_original": "Adam Lloyd Schertzer",
-          "votes": 2155
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3111,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "CEMETERY COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nancy S. Sousa",
-          "votes": 2479
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 823,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 1",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Deborah A. Daley",
-          "votes": 188
-        },
-        {
-          "name_original": "Gerald N. Daley",
-          "votes": 175
-        },
-        {
-          "name_original": "Scot C. Pratt",
-          "votes": 23
-        },
-        {
-          "name_original": "Jeffrey W. Hoyt",
-          "votes": 18
-        },
-        {
-          "name_original": "Sean O'Connell",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 818,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Liam Gilet",
-          "votes": 22
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 214,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 2",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amanda Brooke Collison",
-          "votes": 174
-        },
-        {
-          "name_original": "Paul J. Rigazio",
-          "votes": 172
-        },
-        {
-          "name_original": "Adam R. Mccusker",
-          "votes": 168
-        },
-        {
-          "name_original": "Branden Christopher Morris",
-          "votes": 167
-        },
-        {
-          "name_original": "Kenneth J. Tassi",
-          "votes": 161
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 349,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 3",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eric James Salerno",
-          "votes": 200
-        },
-        {
-          "name_original": "Christopher T. Garrahan III",
-          "votes": 190
-        },
-        {
-          "name_original": "Ferdinand Baez",
-          "votes": 188
-        },
-        {
-          "name_original": "Dean L. Contover",
-          "votes": 185
-        },
-        {
-          "name_original": "Diane Donovan",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 583,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 4",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gerald W. Kaplan",
-          "votes": 227
-        },
-        {
-          "name_original": "Maybelle Y. Deviney",
-          "votes": 226
-        },
-        {
-          "name_original": "Randy Scott Leach",
-          "votes": 219
-        },
-        {
-          "name_original": "Eric Lawrence Maase",
-          "votes": 214
-        },
-        {
-          "name_original": "Gail Poulten",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 885,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 4",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Carota",
-          "votes": 13
-        },
-        {
-          "name_original": "James Potter",
-          "votes": 9
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 682,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karin O. Bischoff",
-          "votes": 246
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 109,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 5",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael M. Tully",
-          "votes": 272
-        },
-        {
-          "name_original": "Kihm Lattimore",
-          "votes": 276
-        },
-        {
-          "name_original": "Zachary Phillips",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1302,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bruce Rosen",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 364,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 6",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sean T. Kenny",
-          "votes": 196
-        },
-        {
-          "name_original": "Sarah Marsh Barnett",
-          "votes": 193
-        },
-        {
-          "name_original": "Jennifer Battelle",
-          "votes": 190
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 808,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matthew G. Castle",
-          "votes": 213
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 67,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 7",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William M. Campbell",
-          "votes": 137
-        },
-        {
-          "name_original": "Harrison Copley Mayotte",
-          "votes": 127
-        },
-        {
-          "name_original": "Robert Copley Mayotte",
-          "votes": 3
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 639,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 8",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cynthia A. Goodland",
-          "votes": 242
-        },
-        {
-          "name_original": "Stacey Ladd Mulholland",
-          "votes": 236
-        },
-        {
-          "name_original": "Christine Enger Mcnamara",
-          "votes": 228
-        },
-        {
-          "name_original": "Peter C. Schulz",
-          "votes": 221
-        },
-        {
-          "name_original": "Michael N. Raisbeck",
-          "votes": 210
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 587,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 9",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Diane Mckenna Baxter",
-          "votes": 219
-        },
-        {
-          "name_original": "Carisa Dawn Pajak",
-          "votes": 214
-        },
-        {
-          "name_original": "Patrick J. Maloney",
-          "votes": 214
-        },
-        {
-          "name_original": "Aaron David Cunningham",
-          "votes": 184
-        },
-        {
-          "name_original": "Charles T. Mooney",
-          "votes": 172
-        },
-        {
-          "name_original": "Curtis B. Barton",
-          "votes": 159
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 602,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 10",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Erin Drew",
-          "votes": 280
-        },
-        {
-          "name_original": "Ruth E. Luna",
-          "votes": 206
-        },
-        {
-          "name_original": "Dante Tanini Giles",
-          "votes": 193
-        },
-        {
-          "name_original": "Shawn P. Griffin",
-          "votes": 188
-        },
-        {
-          "name_original": "Joel J. Luna",
-          "votes": 182
-        },
-        {
-          "name_original": "Rodney E. Cleaves",
-          "votes": 164
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 567,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 11",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas Bruce",
-          "votes": 213
-        },
-        {
-          "name_original": "Sara Monson Hesselton",
-          "votes": 209
-        },
-        {
-          "name_original": "Rebecca J. Gore",
-          "votes": 205
-        },
-        {
-          "name_original": "Elizabeth U. Hryniewich",
-          "votes": 201
-        },
-        {
-          "name_original": "Badhri Uppiliappan",
-          "votes": 196
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 484,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Chelmsford",
-      "date": "2023-04-04",
-      "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
-      "district_original": "Precinct 11",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard Lamontagne",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 291,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 117,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Chelmsford2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chelmsford2023.pdf",
-  "ballots_cast": 3312,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan M. Mackinnon",
+     "votes": 2262
+    },
+    {
+     "name_original": "Dennis F. King II",
+     "votes": 2074
+    },
+    {
+     "name_original": "Others",
+     "votes": 32,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2256,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jon H. Kurland",
+     "votes": 2446
+    },
+    {
+     "name_original": "Brian Latina",
+     "votes": 94
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 759,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John B. Sousa Jr.",
+     "votes": 2231
+    },
+    {
+     "name_original": "Michael N. Raisbeck",
+     "votes": 1573
+    },
+    {
+     "name_original": "Doreen A. Deshler",
+     "votes": 1315
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1496,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "PLANNING BOARD ASSOCIATE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christopher Richard Lavallee",
+     "votes": 2429
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 862,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard J. Day",
+     "votes": 2438
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 859,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Margaret Elizabeth Marshall",
+     "votes": 2457
+    },
+    {
+     "name_original": "Kevin Daniel Hamilton",
+     "votes": 2187
+    },
+    {
+     "name_original": "Adam Lloyd Schertzer",
+     "votes": 2155
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3111,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "CEMETERY COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nancy S. Sousa",
+     "votes": 2479
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 823,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 1",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Deborah A. Daley",
+     "votes": 188
+    },
+    {
+     "name_original": "Gerald N. Daley",
+     "votes": 175
+    },
+    {
+     "name_original": "Scot C. Pratt",
+     "votes": 23
+    },
+    {
+     "name_original": "Jeffrey W. Hoyt",
+     "votes": 18
+    },
+    {
+     "name_original": "Sean O'Connell",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 818,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Liam Gilet",
+     "votes": 22
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 214,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 2",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Amanda Brooke Collison",
+     "votes": 174
+    },
+    {
+     "name_original": "Paul J. Rigazio",
+     "votes": 172
+    },
+    {
+     "name_original": "Adam R. Mccusker",
+     "votes": 168
+    },
+    {
+     "name_original": "Branden Christopher Morris",
+     "votes": 167
+    },
+    {
+     "name_original": "Kenneth J. Tassi",
+     "votes": 161
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 349,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 3",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eric James Salerno",
+     "votes": 200
+    },
+    {
+     "name_original": "Christopher T. Garrahan III",
+     "votes": 190
+    },
+    {
+     "name_original": "Ferdinand Baez",
+     "votes": 188
+    },
+    {
+     "name_original": "Dean L. Contover",
+     "votes": 185
+    },
+    {
+     "name_original": "Diane Donovan",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 583,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 4",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gerald W. Kaplan",
+     "votes": 227
+    },
+    {
+     "name_original": "Maybelle Y. Deviney",
+     "votes": 226
+    },
+    {
+     "name_original": "Randy Scott Leach",
+     "votes": 219
+    },
+    {
+     "name_original": "Eric Lawrence Maase",
+     "votes": 214
+    },
+    {
+     "name_original": "Gail Poulten",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 885,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 4",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark Carota",
+     "votes": 13
+    },
+    {
+     "name_original": "James Potter",
+     "votes": 9
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 682,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karin O. Bischoff",
+     "votes": 246
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 109,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 5",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael M. Tully",
+     "votes": 272
+    },
+    {
+     "name_original": "Kihm Lattimore",
+     "votes": 276
+    },
+    {
+     "name_original": "Zachary Phillips",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1302,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bruce Rosen",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 364,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 6",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sean T. Kenny",
+     "votes": 196
+    },
+    {
+     "name_original": "Sarah Marsh Barnett",
+     "votes": 193
+    },
+    {
+     "name_original": "Jennifer Battelle",
+     "votes": 190
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 808,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Matthew G. Castle",
+     "votes": 213
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 67,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 7",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William M. Campbell",
+     "votes": 137
+    },
+    {
+     "name_original": "Harrison Copley Mayotte",
+     "votes": 127
+    },
+    {
+     "name_original": "Robert Copley Mayotte",
+     "votes": 3
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 639,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 8",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cynthia A. Goodland",
+     "votes": 242
+    },
+    {
+     "name_original": "Stacey Ladd Mulholland",
+     "votes": 236
+    },
+    {
+     "name_original": "Christine Enger Mcnamara",
+     "votes": 228
+    },
+    {
+     "name_original": "Peter C. Schulz",
+     "votes": 221
+    },
+    {
+     "name_original": "Michael N. Raisbeck",
+     "votes": 210
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 587,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 9",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Diane Mckenna Baxter",
+     "votes": 219
+    },
+    {
+     "name_original": "Carisa Dawn Pajak",
+     "votes": 214
+    },
+    {
+     "name_original": "Patrick J. Maloney",
+     "votes": 214
+    },
+    {
+     "name_original": "Aaron David Cunningham",
+     "votes": 184
+    },
+    {
+     "name_original": "Charles T. Mooney",
+     "votes": 172
+    },
+    {
+     "name_original": "Curtis B. Barton",
+     "votes": 159
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 602,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 10",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Erin Drew",
+     "votes": 280
+    },
+    {
+     "name_original": "Ruth E. Luna",
+     "votes": 206
+    },
+    {
+     "name_original": "Dante Tanini Giles",
+     "votes": 193
+    },
+    {
+     "name_original": "Shawn P. Griffin",
+     "votes": 188
+    },
+    {
+     "name_original": "Joel J. Luna",
+     "votes": 182
+    },
+    {
+     "name_original": "Rodney E. Cleaves",
+     "votes": 164
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 567,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 11",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas Bruce",
+     "votes": 213
+    },
+    {
+     "name_original": "Sara Monson Hesselton",
+     "votes": 209
+    },
+    {
+     "name_original": "Rebecca J. Gore",
+     "votes": 205
+    },
+    {
+     "name_original": "Elizabeth U. Hryniewich",
+     "votes": 201
+    },
+    {
+     "name_original": "Badhri Uppiliappan",
+     "votes": 196
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 484,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Chelmsford",
+   "date": "2023-04-04",
+   "office_original": "REPRESENTATIVE TOWN MEETING MEMBER",
+   "district_original": "Precinct 11",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard Lamontagne",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 291,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Chelmsford2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chelmsford2023.pdf",
+ "ballots_cast": 3312,
+ "ballots_cast_source": "derived_from_contests"
 }
