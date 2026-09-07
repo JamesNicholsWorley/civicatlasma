@@ -1,473 +1,473 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence Mayoral",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence Mayoral",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian A. DePena",
-          "votes": 6172
-        },
-        {
-          "name_original": "Kendrys R Vasquez",
-          "votes": 5423
-        },
-        {
-          "name_original": "Others",
-          "votes": 43,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 56,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Brian A. DePena",
+     "votes": 6172
     },
     {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Councilor At-Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Al Levy",
-          "votes": 5208
-        },
-        {
-          "name_original": "Pavel M Payano",
-          "votes": 6102
-        },
-        {
-          "name_original": "Celina Reyes",
-          "votes": 4819
-        },
-        {
-          "name_original": "Frederick J. Diaz",
-          "votes": 2141
-        },
-        {
-          "name_original": "Fredrick J Russell",
-          "votes": 2105
-        },
-        {
-          "name_original": "Kelvin L Russell",
-          "votes": 3339
-        },
-        {
-          "name_original": "Others",
-          "votes": 101,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11267,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kendrys R Vasquez",
+     "votes": 5423
     },
     {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - A",
-      "district_original": "A",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Maria D. Delacruz",
-          "votes": 896
-        },
-        {
-          "name_original": "Richard Rodriguez",
-          "votes": 673
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 166,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 43,
+     "tally_row": true
     },
     {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - B",
-      "district_original": "B",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Estela A. Reyes",
-          "votes": 1349
-        },
-        {
-          "name_original": "Others",
-          "votes": 51,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 523,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - C",
-      "district_original": "C",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gregory Delrosario",
-          "votes": 1060
-        },
-        {
-          "name_original": "Jorge A. Gonzalez",
-          "votes": 689
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - D",
-      "district_original": "D",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeovanny Rodriguez",
-          "votes": 1323
-        },
-        {
-          "name_original": "Others",
-          "votes": 40,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 456,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - E",
-      "district_original": "E",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephany Infante",
-          "votes": 1416
-        },
-        {
-          "name_original": "Jhovanny Martes-Rosario",
-          "votes": 807
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 240,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "District Councilor - F",
-      "district_original": "F",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marc L. Laplante",
-          "votes": 1298
-        },
-        {
-          "name_original": "Others",
-          "votes": 42,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 397,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - A",
-      "district_original": "A",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Threicy Soto",
-          "votes": 1325
-        },
-        {
-          "name_original": "Others",
-          "votes": 39,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 382,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - B",
-      "district_original": "B",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Santiago Reyes Cruz",
-          "votes": 1153
-        },
-        {
-          "name_original": "Others",
-          "votes": 23,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 747,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - C",
-      "district_original": "C",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lenin Roa",
-          "votes": 1364
-        },
-        {
-          "name_original": "Others",
-          "votes": 44,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 585,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - D",
-      "district_original": "D",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joshua Alba",
-          "votes": 27
-        },
-        {
-          "name_original": "Others",
-          "votes": 331,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1461,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - E",
-      "district_original": "E",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patricia M. Mariano",
-          "votes": 1936
-        },
-        {
-          "name_original": "Others",
-          "votes": 42,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 498,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Lawrence School Committee - F",
-      "district_original": "F",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jonathan Guzman",
-          "votes": 1291
-        },
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 413,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2021-11-02",
-      "office_original": "Greater Lawrence Technical School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Zoila Disla",
-          "votes": 6318
-        },
-        {
-          "name_original": "Leo J. Lamontangne",
-          "votes": 4290
-        },
-        {
-          "name_original": "Vivian E. Marmol",
-          "votes": 5346
-        },
-        {
-          "name_original": "Olga C. Tejeda",
-          "votes": 3943
-        },
-        {
-          "name_original": "Others",
-          "votes": 109,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15076,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 56,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Lawrence2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lawrence2021.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Councilor At-Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ana L. Levy",
+     "votes": 5208
+    },
+    {
+     "name_original": "Pavel M Payano",
+     "votes": 6102
+    },
+    {
+     "name_original": "Celina A. Reyes",
+     "votes": 4819
+    },
+    {
+     "name_original": "Frederick J. Diaz",
+     "votes": 2141
+    },
+    {
+     "name_original": "Kelvin Moreno-Garcia",
+     "votes": 2105
+    },
+    {
+     "name_original": "Richard L. Russell",
+     "votes": 3339
+    },
+    {
+     "name_original": "Others",
+     "votes": 101,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 11267,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - A",
+   "district_original": "A",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Maria D. Delacruz",
+     "votes": 896
+    },
+    {
+     "name_original": "Richard Rodriguez",
+     "votes": 673
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 166,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - B",
+   "district_original": "B",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Estela A. Reyes",
+     "votes": 1349
+    },
+    {
+     "name_original": "Others",
+     "votes": 51,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 523,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - C",
+   "district_original": "C",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gregory Delrosario",
+     "votes": 1060
+    },
+    {
+     "name_original": "Jorge A. Gonzalez",
+     "votes": 689
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - D",
+   "district_original": "D",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeovanny Rodriguez",
+     "votes": 1323
+    },
+    {
+     "name_original": "Others",
+     "votes": 40,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 456,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - E",
+   "district_original": "E",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephany Infante",
+     "votes": 1416
+    },
+    {
+     "name_original": "Jhovanny Martes-Rosario",
+     "votes": 807
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 240,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "District Councilor - F",
+   "district_original": "F",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marc L. Laplante",
+     "votes": 1298
+    },
+    {
+     "name_original": "Others",
+     "votes": 42,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 397,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - A",
+   "district_original": "A",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Threicy Soto",
+     "votes": 1325
+    },
+    {
+     "name_original": "Others",
+     "votes": 39,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 382,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - B",
+   "district_original": "B",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Santiago Reyes Cruz",
+     "votes": 1153
+    },
+    {
+     "name_original": "Others",
+     "votes": 23,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 747,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - C",
+   "district_original": "C",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lenin Roa",
+     "votes": 1364
+    },
+    {
+     "name_original": "Others",
+     "votes": 44,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 585,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - D",
+   "district_original": "D",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joshua Alba",
+     "votes": 27
+    },
+    {
+     "name_original": "Others",
+     "votes": 331,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1461,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - E",
+   "district_original": "E",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patricia M. Mariano",
+     "votes": 1936
+    },
+    {
+     "name_original": "Others",
+     "votes": 42,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 498,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Lawrence School Committee - F",
+   "district_original": "F",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jonathan Guzman",
+     "votes": 1291
+    },
+    {
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 413,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2021-11-02",
+   "office_original": "Greater Lawrence Technical School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Zoila Disla",
+     "votes": 6318
+    },
+    {
+     "name_original": "Leo J. Lamontangne",
+     "votes": 4290
+    },
+    {
+     "name_original": "Vivian E. Marmol",
+     "votes": 5346
+    },
+    {
+     "name_original": "Olga C. Tejeda",
+     "votes": 3943
+    },
+    {
+     "name_original": "Others",
+     "votes": 109,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15076,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Lawrence2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lawrence2021.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

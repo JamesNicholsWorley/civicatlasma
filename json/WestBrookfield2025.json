@@ -1,435 +1,453 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "SELECTMAN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
     {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "SELECTMAN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Catherine Lamica",
-          "votes": 161
-        },
-        {
-          "name_original": "Jonathan Bonin",
-          "votes": 63
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Catherine Lamica",
+     "votes": 161
     },
     {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "TOWN CLERK",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Klarissa Rose",
-          "votes": 191
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 38,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jonathan Bonin",
+     "votes": 63
     },
     {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Renee Adams-White",
-          "votes": 186
-        },
-        {
-          "name_original": "Melinda Czub",
-          "votes": 1
-        },
-        {
-          "name_original": "Tom Schnare",
-          "votes": 1
-        },
-        {
-          "name_original": "Gary Simeone",
-          "votes": 1
-        },
-        {
-          "name_original": "Kevin Dorman",
-          "votes": 1
-        },
-        {
-          "name_original": "Lisa Baker",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 41,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     },
     {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "PLANNING BOARD (5 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "David Brown",
-          "votes": 169
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 59,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "PLANNING BOARD (1 YEAR)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Wesley Slobody",
-          "votes": 13
-        },
-        {
-          "name_original": "Melinda Czub",
-          "votes": 1
-        },
-        {
-          "name_original": "Pamela Skowyra",
-          "votes": 1
-        },
-        {
-          "name_original": "Ginger Hicks",
-          "votes": 1
-        },
-        {
-          "name_original": "Stuart King",
-          "votes": 1
-        },
-        {
-          "name_original": "Joshua Gagnon",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 213,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "BOARD OF HEALTH (3 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Melvin Dorman",
-          "votes": 3
-        },
-        {
-          "name_original": "Melinda Czub",
-          "votes": 1
-        },
-        {
-          "name_original": "Keith Tytula",
-          "votes": 1
-        },
-        {
-          "name_original": "MJ Hasche",
-          "votes": 1
-        },
-        {
-          "name_original": "Jillian Marks",
-          "votes": 1
-        },
-        {
-          "name_original": "Mike Frew",
-          "votes": 1
-        },
-        {
-          "name_original": "Kevin Dorman",
-          "votes": 1
-        },
-        {
-          "name_original": "Lisa Baker",
-          "votes": 1
-        },
-        {
-          "name_original": "Jacob Gorham",
-          "votes": 1
-        },
-        {
-          "name_original": "Fran Elliott",
-          "votes": 1
-        },
-        {
-          "name_original": "Matt Perkins",
-          "votes": 1
-        },
-        {
-          "name_original": "Emily Gagnon",
-          "votes": 1
-        },
-        {
-          "name_original": "Manual Pereira",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 211,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "HOUSING AUTHORITY (3 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Ann Toomey-Doane",
-          "votes": 22
-        },
-        {
-          "name_original": "Phil Landine",
-          "votes": 4
-        },
-        {
-          "name_original": "Melinda Czub",
-          "votes": 1
-        },
-        {
-          "name_original": "Pamela Skowyra",
-          "votes": 1
-        },
-        {
-          "name_original": "Ginger Hicks",
-          "votes": 1
-        },
-        {
-          "name_original": "Stuart Kerig",
-          "votes": 1
-        },
-        {
-          "name_original": "Josha Gagnon",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 200,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "COMMON COMMITTEE (3 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Diane Vayda",
-          "votes": 187
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 42,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "MODERATOR (3 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "William Mansfield",
-          "votes": 183
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "LIBRARY BOARD OF TRUSTEE (3 YEARS)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Jeffrey Robbins",
-          "votes": 179
-        },
-        {
-          "name_original": "David Swekla",
-          "votes": 171
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 114,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "WATER COMMISSIONER (3 YEARS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Lester Paquette",
-          "votes": 180
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 48,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Brookfield",
-      "date": "2025-05-07",
-      "office_original": "QUABOAG REGIONAL DISTRICT SCHOOL COMMITTEE - WEST BROOKFIELD (3 YEARS)",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Craig R. Burgess",
-          "votes": 153
-        },
-        {
-          "name_original": "Bryan S. Griffing",
-          "votes": 142
-        },
-        {
-          "name_original": "Christine M. Luszcz",
-          "votes": 139
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 374,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 6,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "WestBrookfield2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBrookfield2025.pdf",
-  "ballots_cast": 232,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "TOWN CLERK",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Klarissa Rose",
+     "votes": 191
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 38,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Renee Adams-White",
+     "votes": 186
+    },
+    {
+     "name_original": "Melinda Czub",
+     "votes": 1
+    },
+    {
+     "name_original": "Tom Schnare",
+     "votes": 1
+    },
+    {
+     "name_original": "Gary Simeone",
+     "votes": 1
+    },
+    {
+     "name_original": "Kevin Dorman",
+     "votes": 1
+    },
+    {
+     "name_original": "Lisa Baker",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 41,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "PLANNING BOARD (5 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "David Brown",
+     "votes": 169
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 59,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "PLANNING BOARD (1 YEAR)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Wesley Slobody",
+     "votes": 13
+    },
+    {
+     "name_original": "Melinda Czub",
+     "votes": 1
+    },
+    {
+     "name_original": "Pamela Skowyra",
+     "votes": 1
+    },
+    {
+     "name_original": "Ginger Hicks",
+     "votes": 1
+    },
+    {
+     "name_original": "Stuart King",
+     "votes": 1
+    },
+    {
+     "name_original": "Joshua Gagnon",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 213,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "BOARD OF HEALTH (3 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Melvin Dorman",
+     "votes": 3
+    },
+    {
+     "name_original": "Melinda Czub",
+     "votes": 1
+    },
+    {
+     "name_original": "Keith Tytula",
+     "votes": 1
+    },
+    {
+     "name_original": "MJ Hasche",
+     "votes": 1
+    },
+    {
+     "name_original": "Jillian Marks",
+     "votes": 1
+    },
+    {
+     "name_original": "Mike Frew",
+     "votes": 1
+    },
+    {
+     "name_original": "Kevin Dorman",
+     "votes": 1
+    },
+    {
+     "name_original": "Lisa Baker",
+     "votes": 1
+    },
+    {
+     "name_original": "Jacob Gorham",
+     "votes": 1
+    },
+    {
+     "name_original": "Fran Elliott",
+     "votes": 1
+    },
+    {
+     "name_original": "Matt Perkins",
+     "votes": 1
+    },
+    {
+     "name_original": "Emily Gagnon",
+     "votes": 1
+    },
+    {
+     "name_original": "Manual Pereira",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 211,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "HOUSING AUTHORITY (3 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Ann Toomey-Doane",
+     "votes": 22
+    },
+    {
+     "name_original": "Phil Landine",
+     "votes": 4
+    },
+    {
+     "name_original": "Melinda Czub",
+     "votes": 1
+    },
+    {
+     "name_original": "Pamela Skowyra",
+     "votes": 1
+    },
+    {
+     "name_original": "Ginger Hicks",
+     "votes": 1
+    },
+    {
+     "name_original": "Stuart Kerig",
+     "votes": 1
+    },
+    {
+     "name_original": "Josha Gagnon",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 200,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "COMMON COMMITTEE (3 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Diane Vayda",
+     "votes": 187
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 42,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "MODERATOR (3 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "William Mansfield",
+     "votes": 183
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "LIBRARY BOARD OF TRUSTEE (3 YEARS)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Jeffrey Robbins",
+     "votes": 179
+    },
+    {
+     "name_original": "David Swekla",
+     "votes": 171
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 114,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "WATER COMMISSIONER (3 YEARS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Lester Paquette",
+     "votes": 180
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 48,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "QUABOAG REGIONAL DISTRICT SCHOOL COMMITTEE - WEST BROOKFIELD (3 YEARS)",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Craig R. Burgess",
+     "votes": 153
+    },
+    {
+     "name_original": "Bryan S. Griffing",
+     "votes": 142
+    },
+    {
+     "name_original": "Christine M. Luszcz",
+     "votes": 139
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 374,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Brookfield",
+   "date": "2025-05-07",
+   "office_original": "QUABOAG REGIONAL DISTRICT SCHOOL COMMITTEE - WARREN (3 YEARS)",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "scope": "regional_district",
+   "blanks_printed": false,
+   "candidates": [
+    {
+     "name_original": "MEGAN E. SEARS",
+     "votes": 118
+    }
+   ],
+   "source_note": "page 2; this group shares its WRITE IN, BLANK and TOTAL rows with the WEST BROOKFIELD group beneath it, so it carries none of its own. 153+142+139+2+374+118 = 928, the total the page prints"
+  }
+ ],
+ "_source_stem": "WestBrookfield2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestBrookfield2025.pdf",
+ "ballots_cast": 232,
+ "ballots_cast_source": "derived_from_contests"
 }

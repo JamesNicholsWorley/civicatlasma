@@ -1,236 +1,236 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "STEVEN D. PIERCE",
-          "votes": 136
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "STEVEN D. PIERCE",
+     "votes": 136
     },
     {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "SELECTMAN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "MICHAEL A. MORRISSEY",
-          "votes": 78
-        },
-        {
-          "name_original": "Daniel Jacques",
-          "votes": 60
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Randall Austin",
-          "votes": 73
-        },
-        {
-          "name_original": "Jennifer Reed",
-          "votes": 2
-        },
-        {
-          "name_original": "Glenn Stanislawski",
-          "votes": 1
-        },
-        {
-          "name_original": "Donald Masciadrelli",
-          "votes": 1
-        },
-        {
-          "name_original": "Ruth Ridgeway",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 67,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "CONSTABLE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "MARK CHRETIEN",
-          "votes": 140
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "TRUSTEE OF THE A.P. PETTIS FUND",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "JULIE PIKE",
-          "votes": 140
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "LIBRARY TRUSTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "CHRISTINE BROWN",
-          "votes": 138
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "TREE WARDEN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "SCOTT DARLING",
-          "votes": 135
-        },
-        {
-          "name_original": "Phil Camp",
-          "votes": 3
-        },
-        {
-          "name_original": "Dale Stanislawski",
-          "votes": 1
-        },
-        {
-          "name_original": "Sean Stopa",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Montgomery",
-      "date": "2021-05-17",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Madelyn Austin",
-          "votes": 11
-        },
-        {
-          "name_original": "Peter Madru",
-          "votes": 1
-        },
-        {
-          "name_original": "Seth Gemme",
-          "votes": 1
-        },
-        {
-          "name_original": "Mike Lafond",
-          "votes": 1
-        },
-        {
-          "name_original": "Dan Jablonski",
-          "votes": 1
-        },
-        {
-          "name_original": "Scott Darling",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 129,
-          "tally_row": true
-        }
-      ],
-      "extraction_confidence": 0.85,
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Montgomery2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Montgomery2021.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "extraction_confidence": 0.95,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "SELECTMAN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "MICHAEL A. MORRISSEY",
+     "votes": 78
+    },
+    {
+     "name_original": "Daniel Jacques",
+     "votes": 60
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Randall Austin",
+     "votes": 73
+    },
+    {
+     "name_original": "Jennifer Reed",
+     "votes": 2
+    },
+    {
+     "name_original": "Glenn Stanisewski",
+     "votes": 1
+    },
+    {
+     "name_original": "Donald Masciadrelli",
+     "votes": 1
+    },
+    {
+     "name_original": "Alan Ridgeway",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 67,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "CONSTABLE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "MARK CHRETIEN",
+     "votes": 140
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "TRUSTEE OF THE A.P. PETTIS FUND",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "JULIE PIKE",
+     "votes": 140
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "LIBRARY TRUSTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "CHRISTINE BROWN",
+     "votes": 138
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "TREE WARDEN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "SCOTT DARLING",
+     "votes": 135
+    },
+    {
+     "name_original": "Phil Camp",
+     "votes": 3
+    },
+    {
+     "name_original": "Dale Stanisewski",
+     "votes": 1
+    },
+    {
+     "name_original": "Sean Stopa",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Montgomery",
+   "date": "2021-05-17",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Madelyn Austin",
+     "votes": 11
+    },
+    {
+     "name_original": "Peter Madru",
+     "votes": 1
+    },
+    {
+     "name_original": "Seth Gemme",
+     "votes": 1
+    },
+    {
+     "name_original": "Mike Lafond",
+     "votes": 1
+    },
+    {
+     "name_original": "Dan Jacques",
+     "votes": 1
+    },
+    {
+     "name_original": "Scott Darling",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 129,
+     "tally_row": true
+    }
+   ],
+   "extraction_confidence": 0.85,
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Montgomery2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Montgomery2021.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

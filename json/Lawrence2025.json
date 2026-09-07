@@ -1,352 +1,352 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "LAWRENCE MAYORAL",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "LAWRENCE MAYORAL",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "BRIAN A. DEPENA",
-          "votes": 6106
-        },
-        {
-          "name_original": "NMANNYGONZALEZ",
-          "votes": 5173
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "BRIAN A. DEPENA",
+     "votes": 6106
     },
     {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "COUNCILOR AT-LARGE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.92,
-      "candidates": [
-        {
-          "name_original": "ANA L. LEVY",
-          "votes": 4102
-        },
-        {
-          "name_original": "CELINA A. REYES",
-          "votes": 5310
-        },
-        {
-          "name_original": "JEOVANNYRODRIGUEZ",
-          "votes": 5252
-        },
-        {
-          "name_original": "FREDERICK J DIAZ",
-          "votes": 2856
-        },
-        {
-          "name_original": "JOHN RIGAL",
-          "votes": 2434
-        },
-        {
-          "name_original": "NILSON ROSARIO",
-          "votes": 3057
-        },
-        {
-          "name_original": "Others",
-          "votes": 81,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11045,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "NMANNYGONZALEZ",
+     "votes": 5173
     },
     {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - A",
-      "district_original": "District A",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "FRANKLIN MIGUEL",
-          "votes": 1018
-        },
-        {
-          "name_original": "LISSY M. RIVAS",
-          "votes": 600
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 207,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
     },
     {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - B",
-      "district_original": "District B",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "WENDY LUZON",
-          "votes": 943
-        },
-        {
-          "name_original": "ROSALY GONZALEZ",
-          "votes": 968
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 169,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - C",
-      "district_original": "District C",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "GREGORY DELROSARIO",
-          "votes": 1056
-        },
-        {
-          "name_original": "VICTOR HERNANDEZ",
-          "votes": 454
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 219,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - D",
-      "district_original": "District D",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "VIVIAN MARMOL",
-          "votes": 992
-        },
-        {
-          "name_original": "IRISENIA MATA",
-          "votes": 555
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 193,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - E",
-      "district_original": "District E",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "STEPHANY INFANTE",
-          "votes": 1551
-        },
-        {
-          "name_original": "ERIC A. MACHUCA",
-          "votes": 511
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 186,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "DISTRICT COUNCILOR - F",
-      "district_original": "District F",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.93,
-      "candidates": [
-        {
-          "name_original": "MARC LAPLANTE",
-          "votes": 1360
-        },
-        {
-          "name_original": "Others",
-          "votes": 46,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 327,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.91,
-      "candidates": [
-        {
-          "name_original": "JONATHAN GUZMAN",
-          "votes": 6353
-        },
-        {
-          "name_original": "ELIAQUIA GONELL",
-          "votes": 3736
-        },
-        {
-          "name_original": "JESSICA M. RAMIREZ",
-          "votes": 5519
-        },
-        {
-          "name_original": "LUIS ROBLES",
-          "votes": 3659
-        },
-        {
-          "name_original": "Others",
-          "votes": 89,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 14781,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Lawrence",
-      "date": "2025-11-04",
-      "office_original": "GREATER LAWRENCE TECHNICAL SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.91,
-      "candidates": [
-        {
-          "name_original": "ZORDI VELA",
-          "votes": 6262
-        },
-        {
-          "name_original": "JULIO R. MEJIA",
-          "votes": 5318
-        },
-        {
-          "name_original": "EDINSON MERCEDES",
-          "votes": 4455
-        },
-        {
-          "name_original": "ROSITAS MENDEZ",
-          "votes": 3605
-        },
-        {
-          "name_original": "Others",
-          "votes": 94,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 14403,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Lawrence2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lawrence2025.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "COUNCILOR AT-LARGE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.92,
+   "candidates": [
+    {
+     "name_original": "ANA L. LEVY",
+     "votes": 4102
+    },
+    {
+     "name_original": "CELINA A. REYES",
+     "votes": 5310
+    },
+    {
+     "name_original": "JEOVANNYRODRIGUEZ",
+     "votes": 5252
+    },
+    {
+     "name_original": "FREDERICK J DIAZ",
+     "votes": 2856
+    },
+    {
+     "name_original": "JOHN RIGAL",
+     "votes": 2434
+    },
+    {
+     "name_original": "NILSON ROSARIO",
+     "votes": 3057
+    },
+    {
+     "name_original": "Others",
+     "votes": 81,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 11045,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - A",
+   "district_original": "District A",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "FRANKLIN MIGUEL",
+     "votes": 1018
+    },
+    {
+     "name_original": "LISSY M. RIVAS",
+     "votes": 600
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 207,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - B",
+   "district_original": "District B",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "WENDY LUZON",
+     "votes": 943
+    },
+    {
+     "name_original": "ROSALY GONZALEZ",
+     "votes": 968
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 169,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - C",
+   "district_original": "District C",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "GREGORY DELROSARIO",
+     "votes": 1056
+    },
+    {
+     "name_original": "VICTOR HERNANDEZ",
+     "votes": 454
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 219,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - D",
+   "district_original": "District D",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "VIVIAN MARMOL",
+     "votes": 992
+    },
+    {
+     "name_original": "IRISENIA MATA",
+     "votes": 555
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 193,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - E",
+   "district_original": "District E",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "STEPHANY INFANTE",
+     "votes": 1551
+    },
+    {
+     "name_original": "ERIC A. MACHUCA",
+     "votes": 511
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 186,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "DISTRICT COUNCILOR - F",
+   "district_original": "District F",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.93,
+   "candidates": [
+    {
+     "name_original": "MARC LAPLANTE",
+     "votes": 1360
+    },
+    {
+     "name_original": "Others",
+     "votes": 46,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 327,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.91,
+   "candidates": [
+    {
+     "name_original": "JONATHAN GUZMAN",
+     "votes": 6353
+    },
+    {
+     "name_original": "ELIAQUIN 'QUIN' GONELL",
+     "votes": 3736
+    },
+    {
+     "name_original": "JESSICA M. RAMIREZ",
+     "votes": 5519
+    },
+    {
+     "name_original": "LUIS ROBLES",
+     "votes": 3659
+    },
+    {
+     "name_original": "Others",
+     "votes": 89,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14781,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Lawrence",
+   "date": "2025-11-04",
+   "office_original": "GREATER LAWRENCE TECHNICAL SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.91,
+   "candidates": [
+    {
+     "name_original": "ZOILA DISLA",
+     "votes": 6262
+    },
+    {
+     "name_original": "JULIO R. MEJIA",
+     "votes": 5318
+    },
+    {
+     "name_original": "EDINSON MERCEDES",
+     "votes": 4455
+    },
+    {
+     "name_original": "JOSIAS ATILES MENDEZ",
+     "votes": 3605
+    },
+    {
+     "name_original": "Others",
+     "votes": 94,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14403,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Lawrence2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Lawrence2025.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

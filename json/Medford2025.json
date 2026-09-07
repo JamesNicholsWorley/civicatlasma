@@ -1,173 +1,173 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Medford",
+   "date": "2025-11-04",
+   "office_original": "MAYOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Medford",
-      "date": "2025-11-04",
-      "office_original": "MAYOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "BREANNA LUNGO-KOEHN",
-          "votes": 8956
-        },
-        {
-          "name_original": "Others",
-          "votes": 779,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4516,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "BREANNA LUNGO-KOEHN",
+     "votes": 8956
     },
     {
-      "municipality": "Medford",
-      "date": "2025-11-04",
-      "office_original": "CITY COUNCIL",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 7,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "ISAAC B ZAC BEARS II",
-          "votes": 7214
-        },
-        {
-          "name_original": "ANNA CALLAHAN",
-          "votes": 7205
-        },
-        {
-          "name_original": "EMILY K LAZZARO",
-          "votes": 7296
-        },
-        {
-          "name_original": "MATT LEMING",
-          "votes": 6804
-        },
-        {
-          "name_original": "GEORGE ASCARPELLI",
-          "votes": 6667
-        },
-        {
-          "name_original": "JUSTIN TSENG",
-          "votes": 7115
-        },
-        {
-          "name_original": "MIRANDA BRISENO",
-          "votes": 6575
-        },
-        {
-          "name_original": "RICK CARAVIELLO",
-          "votes": 6299
-        },
-        {
-          "name_original": "PATRICK CLERKIN",
-          "votes": 4899
-        },
-        {
-          "name_original": "PAUL J DONATO JR.",
-          "votes": 6133
-        },
-        {
-          "name_original": "NICHOLAS G GIURLEO",
-          "votes": 5232
-        },
-        {
-          "name_original": "NATE MERRITT",
-          "votes": 4751
-        },
-        {
-          "name_original": "LIZ MULLANE",
-          "votes": 6661
-        },
-        {
-          "name_original": "MELANIE TRINGALI",
-          "votes": 6202
-        },
-        {
-          "name_original": "Others",
-          "votes": 133,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11299,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 779,
+     "tally_row": true
     },
     {
-      "municipality": "Medford",
-      "date": "2025-11-04",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "NICOLE BRANLEY",
-          "votes": 5919
-        },
-        {
-          "name_original": "JENNY R GRAHAM",
-          "votes": 7962
-        },
-        {
-          "name_original": "JOHN LINTOPPA",
-          "votes": 5543
-        },
-        {
-          "name_original": "AARON JOLAPADE",
-          "votes": 7252
-        },
-        {
-          "name_original": "ERIKA REINFELD",
-          "votes": 7445
-        },
-        {
-          "name_original": "PAUL RUSEAU",
-          "votes": 6917
-        },
-        {
-          "name_original": "USA KINGSLEY",
-          "votes": 5599
-        },
-        {
-          "name_original": "MICHAEL A MASTROBUONI",
-          "votes": 6895
-        },
-        {
-          "name_original": "JESSICA E PARKS",
-          "votes": 7267
-        },
-        {
-          "name_original": "Others",
-          "votes": 133,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 25098,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 4516,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Medford2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medford2025.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Medford",
+   "date": "2025-11-04",
+   "office_original": "CITY COUNCIL",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 7,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "ISAAC B ZAC BEARS II",
+     "votes": 7214
+    },
+    {
+     "name_original": "ANNA CALLAHAN",
+     "votes": 7205
+    },
+    {
+     "name_original": "EMILY K LAZZARO",
+     "votes": 7296
+    },
+    {
+     "name_original": "MATT LEMING",
+     "votes": 6804
+    },
+    {
+     "name_original": "GEORGE A SCARPELLI",
+     "votes": 6667
+    },
+    {
+     "name_original": "JUSTIN TSENG",
+     "votes": 7115
+    },
+    {
+     "name_original": "MIRANDA BRISENO",
+     "votes": 6575
+    },
+    {
+     "name_original": "RICK CARAVIELLO",
+     "votes": 6299
+    },
+    {
+     "name_original": "PATRICK CLERKIN",
+     "votes": 4899
+    },
+    {
+     "name_original": "PAUL J DONATO JR.",
+     "votes": 6133
+    },
+    {
+     "name_original": "NICHOLAS G GIURLEO",
+     "votes": 5232
+    },
+    {
+     "name_original": "NATE MERRITT",
+     "votes": 4751
+    },
+    {
+     "name_original": "LIZ MULLANE",
+     "votes": 6661
+    },
+    {
+     "name_original": "MELANIE TRINGALI",
+     "votes": 6202
+    },
+    {
+     "name_original": "Others",
+     "votes": 133,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 11299,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Medford",
+   "date": "2025-11-04",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "NICOLE BRANLEY",
+     "votes": 5919
+    },
+    {
+     "name_original": "JENNY R GRAHAM",
+     "votes": 7962
+    },
+    {
+     "name_original": "JOHN LINTOPPA",
+     "votes": 5543
+    },
+    {
+     "name_original": "AARON JOLAPADE",
+     "votes": 7252
+    },
+    {
+     "name_original": "ERIKA REINFELD",
+     "votes": 7445
+    },
+    {
+     "name_original": "PAUL RUSEAU",
+     "votes": 6917
+    },
+    {
+     "name_original": "USA KINGSLEY",
+     "votes": 5599
+    },
+    {
+     "name_original": "MICHAEL A MASTROBUONI",
+     "votes": 6895
+    },
+    {
+     "name_original": "JESSICA E PARKS",
+     "votes": 7267
+    },
+    {
+     "name_original": "Others",
+     "votes": 133,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 25098,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Medford2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Medford2025.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }
