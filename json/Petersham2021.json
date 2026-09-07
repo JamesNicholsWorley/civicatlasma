@@ -1,183 +1,183 @@
 {
-  "document": {
-    "heading_verbatim": "ANNUAL TOWN ELECTION MAY 17, 2021",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION",
-    "date_verbatim": "MAY 17, 2021",
-    "offices_on_ballot": 10,
-    "is_sample_ballot": false,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "ANNUAL TOWN ELECTION MAY 17, 2021",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION",
+  "date_verbatim": "MAY 17, 2021",
+  "offices_on_ballot": 10,
+  "is_sample_ballot": false,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "BOARD OF SELECTMEN - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "BOARD OF SELECTMEN - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Henry L. Woolsey",
-          "votes": 108
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "BOARD OF SELECTMEN - 2 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rebecca Legare",
-          "votes": 94
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "TAX COLLECTOR - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Renee J. Wingertsman",
-          "votes": 110
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "TOWN CLERK - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Diana L. Cooley",
-          "votes": 117
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "BOARD OF ASSESSORS - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jamie Hatch",
-          "votes": 109
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "BOARD OF HEALTH - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rebecca Jackson",
-          "votes": 107
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "PETERSHAM SCHOOL COMMITTEE - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer N. Howes",
-          "votes": 106
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "PLANNING BOARD - 3 YEARS - VOTE FOR TWO",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen G. Herzog",
-          "votes": 104
-        },
-        {
-          "name_original": "Irene L. Perkins",
-          "votes": 113
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Petersham",
-      "date": "2021-05-17",
-      "office_original": "TRUSTEES OF PUBLIC LIBRARY - 3 YEARS",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Fifi Scoufopoulos",
-          "votes": 58
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Henry L. Woolsey",
+     "votes": 108
     }
-  ],
-  "_source_stem": "Petersham2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Petersham2021.pdf",
-  "ballots_cast": 120,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "BOARD OF SELECTMEN - 2 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rebecca Legare",
+     "votes": 94
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "TAX COLLECTOR - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Renee J. Wingertsman",
+     "votes": 110
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "TOWN CLERK - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Diana L. Cooley",
+     "votes": 117
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "BOARD OF ASSESSORS - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jamie Hatch",
+     "votes": 109
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "BOARD OF HEALTH - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rebecca Jackson",
+     "votes": 107
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "PETERSHAM SCHOOL COMMITTEE - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer N. Howes",
+     "votes": 106
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "PLANNING BOARD - 3 YEARS - VOTE FOR TWO",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen G. Herzog",
+     "votes": 104
+    },
+    {
+     "name_original": "Irene L. Perkins",
+     "votes": 113
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2021-05-17",
+   "office_original": "TRUSTEES OF PUBLIC LIBRARY - 3 YEARS",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Fifi Scoufopoulos",
+     "votes": 58
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Petersham2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Petersham2021.pdf",
+ "ballots_cast": 120,
+ "ballots_cast_source": "stated_in_record"
 }

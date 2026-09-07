@@ -1,132 +1,132 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Harvard",
+   "date": "2026-05-05",
+   "office_original": "Select Board- Vote TWO",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Harvard",
-      "date": "2026-05-05",
-      "office_original": "Select Board- Vote TWO",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kara McGuire Minar",
-          "votes": 436
-        },
-        {
-          "name_original": "Eric John Ward",
-          "votes": 449
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 230,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Kara McGuire Minar",
+     "votes": 436
     },
     {
-      "municipality": "Harvard",
-      "date": "2026-05-05",
-      "office_original": "Library Trustees- Vote TWO",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary Abigail Parsons Coolidge",
-          "votes": 452
-        },
-        {
-          "name_original": "Rebecca Miller Brown",
-          "votes": 448
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 223,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Eric John Ward",
+     "votes": 449
     },
     {
-      "municipality": "Harvard",
-      "date": "2026-05-05",
-      "office_original": "School Committee- Vote TWO",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Abigail Colwell Besse",
-          "votes": 433
-        },
-        {
-          "name_original": "Elizabeth Caroline Nees",
-          "votes": 435
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 253,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
     },
     {
-      "municipality": "Harvard",
-      "date": "2026-05-05",
-      "office_original": "Warner Free Lecture Trustees- Vote TWO",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Kilian",
-          "votes": 463
-        },
-        {
-          "name_original": "Stephen Richter",
-          "votes": 29
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 619,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 230,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Harvard2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harvard2026.pdf",
-  "ballots_cast": 563,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Harvard",
+   "date": "2026-05-05",
+   "office_original": "Library Trustees- Vote TWO",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary Abigail Parsons Coolidge",
+     "votes": 452
+    },
+    {
+     "name_original": "Rebecca Miller Brown",
+     "votes": 448
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 223,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Harvard",
+   "date": "2026-05-05",
+   "office_original": "School Committee- Vote TWO",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Abigail Colwell Besse",
+     "votes": 433
+    },
+    {
+     "name_original": "Elizabeth Caroline Nees",
+     "votes": 435
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 253,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Harvard",
+   "date": "2026-05-05",
+   "office_original": "Warner Free Lecture Trustees- Vote TWO",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Kilian",
+     "votes": 463
+    },
+    {
+     "name_original": "Stephen Richter",
+     "votes": 29
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 619,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Harvard2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Harvard2026.pdf",
+ "ballots_cast": 563,
+ "ballots_cast_source": "stated_in_record"
 }

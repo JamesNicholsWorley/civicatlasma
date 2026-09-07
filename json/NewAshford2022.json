@@ -1,70 +1,70 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Ashford",
+   "date": "2022-05-24",
+   "office_original": "Selectboard - 3 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "New Ashford",
-      "date": "2022-05-24",
-      "office_original": "Selectboard - 3 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Ken McInerney",
-          "votes": 25
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2022-05-24",
-      "office_original": "Board of Health - 3 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Richard George",
-          "votes": 22
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2022-05-24",
-      "office_original": "Planning Board - 5 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Steve Jennings",
-          "votes": 24
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Ken McInerney",
+     "votes": 25
     }
-  ],
-  "_source_stem": "NewAshford2022",
-  "_notes": "Source: the Town Clerk's \"Results of elections\" sheet, supplied 2026-08-28 in answer to the owner's public-records request, covering 2022-2026. IT IS A WINNER-AND-COUNT LIST FOR THE PRINCIPAL TOWN OFFICES, NOT A RETURN: it carries no blanks, no write-in totals and no ballot questions, and it omits the School Committee in both years where an independent source shows one was elected (2023, per the Berkshire Eagle; 2026, per the town's own caucus notice nominating Jen Welch). The ballot figure is therefore a CEILING and no race can be closed against it. Election date 2022-05-24 established from the town's own post of 2022-04-03, \"Upcoming New Ashford Important Dates\": \"Town Elections - May 24, 2022, from 2:00PM-4:00PM and 6:00PM-8:00PM\". WHY THERE IS NO TOWN-PUBLISHED DOCUMENT FOR THIS YEAR: New Ashford posted its annual election results to its own site every year from 2015 to 2021 (Elections2015.jpg, Elections2016-Results.jpg, Elections2017-Results.pdf, 2018NewAshfordTownElectionsResults.pdf, ElectionResultMay2019.pdf, NewAshford-May25-2021-Elections.pdf; 2020 was the COVID year) and then STOPPED. A full enumeration of the town's WordPress media library on 2026-08-28 -- all 1,064 items, not a keyword search -- returns no annual-election results file of any kind after May 2021. The only later election documents are state-election administrivia (DeadlineToRequestMailInBallot 2022, ElectionUpdates 2024, town-results.pdf of 2024-11-06 which is the NOVEMBER 5 2024 STATE ELECTION and not a town return despite its filename) and the 2026 caucus notice. So the clerk's summary sheet is not merely the best source for 2022-2026, it is the only one the town has produced. SCHOOL COMMITTEE IS MISSING FROM THIS RECORD AND A SEAT WAS ALMOST CERTAINLY UP. The town's own posted ballots show a School Committee 3-year seat on the ballot in 2017 (Jen Welch, on write-ins), 2018 (Brenda Frye), 2019 (Lori Jayko) and 2021 (Frye again), and independent sources show one in 2023 (Eagle: Welch def. Scace) and 2026 (caucus notice: Jen Welch nominated). Three staggered three-year seats means one falls due EVERY year, so the office cannot legitimately vanish. The clerk's summary sheet simply does not carry it -- nor the Cemetery Committee, whose one-year terms are also up every year. This is NOT the 2021 restructure: that made the Town Clerk appointed (2021 ballot question, passed 44-36) and had already removed Tree Warden, Fire Warden and Library Trustee, but a School Committee is state-mandated and elected. See research/newashford_office_cycle.md.",
-  "document": {
-    "heading_verbatim": "Results of elections -- 2022",
-    "turnout_verbatim": "26 ballots cast (a ceiling; no blanks recorded)",
-    "date_corroboration": {
-      "source": "the town's own published notices",
-      "value": "2022-05-24",
-      "strength": "corroborated",
-      "quote": "the town's own post of 2022-04-03, \"Upcoming New Ashford Important Dates\": \"Town Elections - May 24, 2022, from 2:00PM-4:00PM and 6:00PM-8:00PM\"",
-      "note": "established 2026-08-28 by src/land_newashford.py"
-    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": 26,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "New Ashford",
+   "date": "2022-05-24",
+   "office_original": "Board of Health - 3 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Richard George",
+     "votes": 22
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2022-05-24",
+   "office_original": "Planning Board - 5 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Steve Jennings",
+     "votes": 24
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewAshford2022",
+ "_notes": "Source: the Town Clerk's \"Results of elections\" sheet, supplied 2026-08-28 in answer to the owner's public-records request, covering 2022-2026. IT IS A WINNER-AND-COUNT LIST FOR THE PRINCIPAL TOWN OFFICES, NOT A RETURN: it carries no blanks, no write-in totals and no ballot questions, and it omits the School Committee in both years where an independent source shows one was elected (2023, per the Berkshire Eagle; 2026, per the town's own caucus notice nominating Jen Welch). The ballot figure is therefore a CEILING and no race can be closed against it. Election date 2022-05-24 established from the town's own post of 2022-04-03, \"Upcoming New Ashford Important Dates\": \"Town Elections - May 24, 2022, from 2:00PM-4:00PM and 6:00PM-8:00PM\". WHY THERE IS NO TOWN-PUBLISHED DOCUMENT FOR THIS YEAR: New Ashford posted its annual election results to its own site every year from 2015 to 2021 (Elections2015.jpg, Elections2016-Results.jpg, Elections2017-Results.pdf, 2018NewAshfordTownElectionsResults.pdf, ElectionResultMay2019.pdf, NewAshford-May25-2021-Elections.pdf; 2020 was the COVID year) and then STOPPED. A full enumeration of the town's WordPress media library on 2026-08-28 -- all 1,064 items, not a keyword search -- returns no annual-election results file of any kind after May 2021. The only later election documents are state-election administrivia (DeadlineToRequestMailInBallot 2022, ElectionUpdates 2024, town-results.pdf of 2024-11-06 which is the NOVEMBER 5 2024 STATE ELECTION and not a town return despite its filename) and the 2026 caucus notice. So the clerk's summary sheet is not merely the best source for 2022-2026, it is the only one the town has produced. SCHOOL COMMITTEE IS MISSING FROM THIS RECORD AND A SEAT WAS ALMOST CERTAINLY UP. The town's own posted ballots show a School Committee 3-year seat on the ballot in 2017 (Jen Welch, on write-ins), 2018 (Brenda Frye), 2019 (Lori Jayko) and 2021 (Frye again), and independent sources show one in 2023 (Eagle: Welch def. Scace) and 2026 (caucus notice: Jen Welch nominated). Three staggered three-year seats means one falls due EVERY year, so the office cannot legitimately vanish. The clerk's summary sheet simply does not carry it -- nor the Cemetery Committee, whose one-year terms are also up every year. This is NOT the 2021 restructure: that made the Town Clerk appointed (2021 ballot question, passed 44-36) and had already removed Tree Warden, Fire Warden and Library Trustee, but a School Committee is state-mandated and elected. See research/newashford_office_cycle.md.",
+ "document": {
+  "heading_verbatim": "Results of elections -- 2022",
+  "turnout_verbatim": "26 ballots cast (a ceiling; no blanks recorded)",
+  "date_corroboration": {
+   "source": "the town's own published notices",
+   "value": "2022-05-24",
+   "strength": "corroborated",
+   "quote": "the town's own post of 2022-04-03, \"Upcoming New Ashford Important Dates\": \"Town Elections - May 24, 2022, from 2:00PM-4:00PM and 6:00PM-8:00PM\"",
+   "note": "established 2026-08-28 by src/land_newashford.py"
+  }
+ },
+ "ballots_cast": 26,
+ "ballots_cast_source": "stated_in_record"
 }

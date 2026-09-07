@@ -1,550 +1,550 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "MAYOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "MAYOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TODD E. MCGHEE",
-          "votes": 2351
-        },
-        {
-          "name_original": "PAUL R. HEROUX",
-          "votes": 4493
-        },
-        {
-          "name_original": "Others",
-          "votes": 51,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 76,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "TODD E. MCGHEE",
+     "votes": 2351
     },
     {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "CITY CLERK",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURIE A. SAWYER",
-          "votes": 3140
-        },
-        {
-          "name_original": "KATE M. JACKSON",
-          "votes": 3303
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 477,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "PAUL R. HEROUX",
+     "votes": 4493
     },
     {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "CITY COLLECTOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ZAIDA KEEFER",
-          "votes": 5166
-        },
-        {
-          "name_original": "Others",
-          "votes": 35,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1754,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 51,
+     "tally_row": true
     },
     {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "CITY TREASURER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURA L. GIGNAC",
-          "votes": 5224
-        },
-        {
-          "name_original": "Others",
-          "votes": 36,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1696,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD ONE COUNCILMAN",
-      "district_original": "WARD 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SARA-LYNN REYNOLDS",
-          "votes": 707
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 217,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD TWO COUNCILMAN",
-      "district_original": "WARD 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TANUJA GOULET ARANY",
-          "votes": 421
-        },
-        {
-          "name_original": "KELLY A. BENNETT",
-          "votes": 775
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 139,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD THREE COUNCILMAN",
-      "district_original": "WARD 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "TODD M. KOBUS",
-          "votes": 864
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 347,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD FOUR COUNCILMAN",
-      "district_original": "WARD 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ROXANNE RUTH HOUGHTON",
-          "votes": 624
-        },
-        {
-          "name_original": "MICHAEL A. ANGELO",
-          "votes": 743
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 95,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD FIVE COUNCILMAN",
-      "district_original": "WARD 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LAURA DEE DOLAN",
-          "votes": 655
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 206,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD SIX COUNCILMAN",
-      "district_original": "WARD 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DIANA HOLMES",
-          "votes": 845
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 282,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "COUNCILMAN AT LARGE",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JAMES J. DILISIO",
-          "votes": 4334
-        },
-        {
-          "name_original": "PETER BLAIS",
-          "votes": 3454
-        },
-        {
-          "name_original": "CATHLEEN DESIMONE",
-          "votes": 4112
-        },
-        {
-          "name_original": "DARYL EDWARD VELEZ",
-          "votes": 3294
-        },
-        {
-          "name_original": "RICHARD J. CONTI",
-          "votes": 3676
-        },
-        {
-          "name_original": "TY WATERMAN",
-          "votes": 4414
-        },
-        {
-          "name_original": "Others",
-          "votes": 87,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 11316,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD ONE SCHOOL COMMITTEE",
-      "district_original": "WARD 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DIANNE E. SAWYER",
-          "votes": 720
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 204,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD TWO SCHOOL COMMITTEE",
-      "district_original": "WARD 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "WILLIAM E. LARSON",
-          "votes": 973
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 362,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD THREE SCHOOL COMMITTEE",
-      "district_original": "WARD 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "STEPHEN K. WITHERS JR.",
-          "votes": 904
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 307,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD FOUR SCHOOL COMMITTEE",
-      "district_original": "WARD 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "LYNN V. PORTO",
-          "votes": 1046
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 416,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD FIVE SCHOOL COMMITTEE",
-      "district_original": "WARD 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CHRIS FRAPPIER",
-          "votes": 658
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 203,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "WARD SIX SCHOOL COMMITTEE",
-      "district_original": "WARD 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SCOTT DOMENICI",
-          "votes": 834
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 293,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "ATTLEBORO",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE AT LARGE",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JAMES J. STORS",
-          "votes": 3922
-        },
-        {
-          "name_original": "SHANNON G. JOHNSON",
-          "votes": 4496
-        },
-        {
-          "name_original": "ROBERT P. GEDDES",
-          "votes": 3997
-        },
-        {
-          "name_original": "Others",
-          "votes": 74,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8345,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 76,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Attleboro2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Attleboro2021.pdf",
-  "ballots_cast": 6920,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "CITY CLERK",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURIE A. SAWYER",
+     "votes": 3140
+    },
+    {
+     "name_original": "KATE M. JACKSON",
+     "votes": 3303
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 477,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "CITY COLLECTOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ZAIDA KEEFER",
+     "votes": 5166
+    },
+    {
+     "name_original": "Others",
+     "votes": 35,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1754,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "CITY TREASURER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURA L. GIGNAC",
+     "votes": 5224
+    },
+    {
+     "name_original": "Others",
+     "votes": 36,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1696,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD ONE COUNCILMAN",
+   "district_original": "WARD 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SARA-LYNN REYNOLDS",
+     "votes": 707
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 217,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD TWO COUNCILMAN",
+   "district_original": "WARD 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "TANUJA GOULET ARANY",
+     "votes": 421
+    },
+    {
+     "name_original": "KELLY A. BENNETT",
+     "votes": 775
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 139,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD THREE COUNCILMAN",
+   "district_original": "WARD 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "TODD M. KOBUS",
+     "votes": 864
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 347,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD FOUR COUNCILMAN",
+   "district_original": "WARD 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ROXANNE RUTH HOUGHTON",
+     "votes": 624
+    },
+    {
+     "name_original": "MICHAEL A. ANGELO",
+     "votes": 743
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 95,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD FIVE COUNCILMAN",
+   "district_original": "WARD 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LAURA DEE DOLAN",
+     "votes": 655
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 206,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD SIX COUNCILMAN",
+   "district_original": "WARD 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DIANA HOLMES",
+     "votes": 845
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 282,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "COUNCILMAN AT LARGE",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JAMES J. DILISIO",
+     "votes": 4334
+    },
+    {
+     "name_original": "PETER BLAIS",
+     "votes": 3454
+    },
+    {
+     "name_original": "CATHLEEN DESIMONE",
+     "votes": 4112
+    },
+    {
+     "name_original": "DARYL EDWARD VELEZ",
+     "votes": 3294
+    },
+    {
+     "name_original": "RICHARD J. CONTI",
+     "votes": 3676
+    },
+    {
+     "name_original": "TY WATERMAN",
+     "votes": 4414
+    },
+    {
+     "name_original": "Others",
+     "votes": 87,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 11316,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD ONE SCHOOL COMMITTEE",
+   "district_original": "WARD 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DIANNE E. SAWYER",
+     "votes": 720
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 204,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD TWO SCHOOL COMMITTEE",
+   "district_original": "WARD 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "WILLIAM E. LARSON",
+     "votes": 973
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 362,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD THREE SCHOOL COMMITTEE",
+   "district_original": "WARD 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "STEPHEN K. WITHERS JR.",
+     "votes": 904
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 307,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD FOUR SCHOOL COMMITTEE",
+   "district_original": "WARD 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "LYNN V. PORTO",
+     "votes": 1046
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 416,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD FIVE SCHOOL COMMITTEE",
+   "district_original": "WARD 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "CHRIS FRAPPIER",
+     "votes": 658
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 203,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "WARD SIX SCHOOL COMMITTEE",
+   "district_original": "WARD 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SCOTT DOMENICI",
+     "votes": 834
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 293,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "ATTLEBORO",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE AT LARGE",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JAMES J. STORS",
+     "votes": 3922
+    },
+    {
+     "name_original": "SHANNON G. JOHNSON",
+     "votes": 4496
+    },
+    {
+     "name_original": "ROBERT P. GEDDES",
+     "votes": 3997
+    },
+    {
+     "name_original": "Others",
+     "votes": 74,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8345,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Attleboro2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Attleboro2021.pdf",
+ "ballots_cast": 6920,
+ "ballots_cast_source": "stated_in_record"
 }

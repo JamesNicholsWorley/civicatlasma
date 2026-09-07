@@ -1,101 +1,101 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hinsdale",
+   "date": "2025-05-17",
+   "office_original": "Moderator - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "Hinsdale",
-      "date": "2025-05-17",
-      "office_original": "Moderator - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "David Stuart",
-          "votes": 106
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2025-05-17",
-      "office_original": "Select Board - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Bart Collins (write-in)",
-          "votes": 40
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2025-05-17",
-      "office_original": "Finance Committee - 3 years",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Candice Galeucia",
-          "votes": 119
-        },
-        {
-          "name_original": "Bonnie Conner (write-in)",
-          "votes": 23
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2025-05-17",
-      "office_original": "Assessor - 2 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Vivian Mason",
-          "votes": 117
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hinsdale",
-      "date": "2025-05-17",
-      "office_original": "Tree Warden - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Barry O'Keefe",
-          "votes": 136
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "David Stuart",
+     "votes": 106
     }
-  ],
-  "_source_stem": "Hinsdale2025",
-  "_notes": "Read from the Town Clerk's handwritten counts on the printed sample ballot (owner-supplied scan 4955_001.pdf p5), 2026-08-27. The sheet prints \"148 ballots cast\" and every count on it is at or below that; a hand-annotated sample ballot carries no per-race totals or blanks line, so ballots x seats cannot be closed -- the ceiling holds, the closure is unavailable. Ballot question, outside the parse spec: Shall the town vote to accept the provisions of section 13 of Chapter 258 of the General Laws (indemnification of municipal officers)? Yes 86 / No 30. The clerk wrote \"no one elected\" against Assessor - 3 years, Planning Board - 5 years, Planning Board - 1 year; those races are not carried in `elections` because there is no candidate and no tally to carry, and a zero would assert a count the sheet does not make.",
-  "document": {
-    "heading_verbatim": "Annual Town Election, Hinsdale, Massachusetts, 2025-05-17 -- List of Candidates for Town Office",
-    "turnout_verbatim": "148 ballots cast"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": 148,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "Hinsdale",
+   "date": "2025-05-17",
+   "office_original": "Select Board - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Bart Collins (write-in)",
+     "votes": 40
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2025-05-17",
+   "office_original": "Finance Committee - 3 years",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Candice Galeucia",
+     "votes": 119
+    },
+    {
+     "name_original": "Bonnie Conner (write-in)",
+     "votes": 23
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2025-05-17",
+   "office_original": "Assessor - 2 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Vivian Mason",
+     "votes": 117
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hinsdale",
+   "date": "2025-05-17",
+   "office_original": "Tree Warden - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Barry O'Keefe",
+     "votes": 136
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Hinsdale2025",
+ "_notes": "Read from the Town Clerk's handwritten counts on the printed sample ballot (owner-supplied scan 4955_001.pdf p5), 2026-08-27. The sheet prints \"148 ballots cast\" and every count on it is at or below that; a hand-annotated sample ballot carries no per-race totals or blanks line, so ballots x seats cannot be closed -- the ceiling holds, the closure is unavailable. Ballot question, outside the parse spec: Shall the town vote to accept the provisions of section 13 of Chapter 258 of the General Laws (indemnification of municipal officers)? Yes 86 / No 30. The clerk wrote \"no one elected\" against Assessor - 3 years, Planning Board - 5 years, Planning Board - 1 year; those races are not carried in `elections` because there is no candidate and no tally to carry, and a zero would assert a count the sheet does not make.",
+ "document": {
+  "heading_verbatim": "Annual Town Election, Hinsdale, Massachusetts, 2025-05-17 -- List of Candidates for Town Office",
+  "turnout_verbatim": "148 ballots cast"
+ },
+ "ballots_cast": 148,
+ "ballots_cast_source": "stated_in_record"
 }

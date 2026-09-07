@@ -1,202 +1,202 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "candidates": [
     {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Barry Shapiro",
-          "votes": 121
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Selectmen",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Beth Dean",
-          "votes": 123
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Assessor",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Frederick Friedman",
-          "votes": 118
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Jonathan James",
-          "votes": 103
-        },
-        {
-          "name_original": "Mary Becky Wilkinson",
-          "votes": 20
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Board of Health",
-      "num_winners": 2,
-      "candidates": [
-        {
-          "name_original": "Lawrence H. Davis",
-          "votes": 117
-        },
-        {
-          "name_original": "John Miller",
-          "votes": 87
-        },
-        {
-          "name_original": "Jean Pollock",
-          "votes": 36
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Tree Warden",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Matthew Wright",
-          "votes": 123
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Cemetery Commissioner",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Tammi Palmer",
-          "votes": 127
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Library Trustee",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Thomas Masters",
-          "votes": 114
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Finance Committee",
-      "num_winners": 3,
-      "candidates": [
-        {
-          "name_original": "Jane Fucillo",
-          "votes": 85
-        },
-        {
-          "name_original": "Eugene Graf",
-          "votes": 66
-        },
-        {
-          "name_original": "Rita Schumacher",
-          "votes": 74
-        },
-        {
-          "name_original": "Dawn Trachtenberg",
-          "votes": 84
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Marlborough",
-      "date": "2023-05-08",
-      "office_original": "Town Clerk",
-      "num_winners": 1,
-      "candidates": [
-        {
-          "name_original": "Katherine Chretien",
-          "votes": 121
-        }
-      ],
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Barry Shapiro",
+     "votes": 121
     }
-  ],
-  "_source_stem": "NewMarlborough2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewMarlborough2023.pdf",
-  "ballots_cast": 138,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Selectmen",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Beth Dean",
+     "votes": 123
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Assessor",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Frederick Friedman",
+     "votes": 118
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Jonathan James",
+     "votes": 103
+    },
+    {
+     "name_original": "Mary Becky Wilkinson",
+     "votes": 20
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Board of Health",
+   "num_winners": 2,
+   "candidates": [
+    {
+     "name_original": "Lawrence H. Davis",
+     "votes": 117
+    },
+    {
+     "name_original": "John Miller",
+     "votes": 87
+    },
+    {
+     "name_original": "Jean Pollock",
+     "votes": 36
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Tree Warden",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Matthew Wright",
+     "votes": 123
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Cemetery Commissioner",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Tammi Palmer",
+     "votes": 127
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Library Trustee",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Thomas Masters",
+     "votes": 114
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Finance Committee",
+   "num_winners": 3,
+   "candidates": [
+    {
+     "name_original": "Jane Fucillo",
+     "votes": 85
+    },
+    {
+     "name_original": "Eugene Graf",
+     "votes": 66
+    },
+    {
+     "name_original": "Rita Schumacher",
+     "votes": 74
+    },
+    {
+     "name_original": "Dawn Trachtenberg",
+     "votes": 84
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Marlborough",
+   "date": "2023-05-08",
+   "office_original": "Town Clerk",
+   "num_winners": 1,
+   "candidates": [
+    {
+     "name_original": "Katherine Chretien",
+     "votes": 121
+    }
+   ],
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewMarlborough2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewMarlborough2023.pdf",
+ "ballots_cast": 138,
+ "ballots_cast_source": "stated_in_record"
 }

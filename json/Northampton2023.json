@@ -1,418 +1,418 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Councillor At Large",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Councillor At Large",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Alan Murphy",
-          "votes": 1902
-        },
-        {
-          "name_original": "Marissa Elkins",
-          "votes": 3688
-        },
-        {
-          "name_original": "Roy C. Martin",
-          "votes": 442
-        },
-        {
-          "name_original": "Garrick M. Perry",
-          "votes": 3077
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1779,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David Alan Murphy",
+     "votes": 1902
     },
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "School Committee At Large",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aline L. Davis",
-          "votes": 2660
-        },
-        {
-          "name_original": "Gwen Agna",
-          "votes": 4003
-        },
-        {
-          "name_original": "Margaret Robbins",
-          "votes": 1870
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2355,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Marissa Elkins",
+     "votes": 3688
     },
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 1 School Committee Member",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Holly Nelson Ghazey",
-          "votes": 592
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 192,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Roy C. Martin",
+     "votes": 442
     },
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 2 School Committee Member",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karen Foster Cannon",
-          "votes": 522
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 107,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Garrick M. Perry",
+     "votes": 3077
     },
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 3 School Committee Member",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Emily Serafy-Cox",
-          "votes": 577
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 189,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
     },
     {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 4 School Committee Member",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Endamian Stewart",
-          "votes": 264
-        },
-        {
-          "name_original": "Michael K. Stein",
-          "votes": 358
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 77,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 5 School Committee Member",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ann M. Hennessy",
-          "votes": 670
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 226,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 6 School Committee Member",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Margaret D. Miller",
-          "votes": 634
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 184,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Ward 7 School Committee Member",
-      "district_original": "Ward 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kerry Labounty",
-          "votes": 555
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 291,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Superintendent of Smith Vocational and Agricultural High School",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Julie C. Spencer-Robinson",
-          "votes": 3535
-        },
-        {
-          "name_original": "Michael T. Cahillane",
-          "votes": 3204
-        },
-        {
-          "name_original": "Richard D. Aquadro",
-          "votes": 3069
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6537,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Trustees Under the Will of Charles E. Forbes",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ruth Francis",
-          "votes": 2534
-        },
-        {
-          "name_original": "Anne F. Teschner",
-          "votes": 2370
-        },
-        {
-          "name_original": "Kathleen E. Wight",
-          "votes": 2889
-        },
-        {
-          "name_original": "Alexander George",
-          "votes": 1531
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7020,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Elector Under the Oliver Smith Will",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Alan Murphy",
-          "votes": 1914
-        },
-        {
-          "name_original": "Mary C. Odgers",
-          "votes": 2386
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1146,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Northampton",
-      "date": "2023-11-07",
-      "office_original": "Community Preservation Committee At-Large",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Emily Coffin",
-          "votes": 3455
-        },
-        {
-          "name_original": "K. Christopher Hellman",
-          "votes": 3110
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 4327,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1779,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Northampton2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northampton2023.pdf",
-  "ballots_cast": 5450,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "School Committee At Large",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Aline L. Davis",
+     "votes": 2660
+    },
+    {
+     "name_original": "Gwen Agna",
+     "votes": 4003
+    },
+    {
+     "name_original": "Margaret Robbins",
+     "votes": 1870
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2355,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 1 School Committee Member",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Holly Nelson Ghazey",
+     "votes": 592
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 192,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 2 School Committee Member",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karen Foster Cannon",
+     "votes": 522
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 107,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 3 School Committee Member",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Emily Serafy-Cox",
+     "votes": 577
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 189,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 4 School Committee Member",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Endamian Stewart",
+     "votes": 264
+    },
+    {
+     "name_original": "Michael K. Stein",
+     "votes": 358
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 77,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 5 School Committee Member",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ann M. Hennessy",
+     "votes": 670
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 226,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 6 School Committee Member",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Margaret D. Miller",
+     "votes": 634
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 184,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Ward 7 School Committee Member",
+   "district_original": "Ward 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kerry Labounty",
+     "votes": 555
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 291,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Superintendent of Smith Vocational and Agricultural High School",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Julie C. Spencer-Robinson",
+     "votes": 3535
+    },
+    {
+     "name_original": "Michael T. Cahillane",
+     "votes": 3204
+    },
+    {
+     "name_original": "Richard D. Aquadro",
+     "votes": 3069
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6537,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Trustees Under the Will of Charles E. Forbes",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ruth Francis",
+     "votes": 2534
+    },
+    {
+     "name_original": "Anne F. Teschner",
+     "votes": 2370
+    },
+    {
+     "name_original": "Kathleen E. Wight",
+     "votes": 2889
+    },
+    {
+     "name_original": "Alexander George",
+     "votes": 1531
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7020,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Elector Under the Oliver Smith Will",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Alan Murphy",
+     "votes": 1914
+    },
+    {
+     "name_original": "Mary C. Odgers",
+     "votes": 2386
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1146,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Northampton",
+   "date": "2023-11-07",
+   "office_original": "Community Preservation Committee At-Large",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Emily Coffin",
+     "votes": 3455
+    },
+    {
+     "name_original": "K. Christopher Hellman",
+     "votes": 3110
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4327,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Northampton2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Northampton2023.pdf",
+ "ballots_cast": 5450,
+ "ballots_cast_source": "stated_in_record"
 }

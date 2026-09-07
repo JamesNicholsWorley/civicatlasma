@@ -1,114 +1,114 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "RUSSEL KAPHAN",
-          "votes": 51
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "CONSTABLE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "TIM ORTWEIN",
-          "votes": 52
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "MORTON JOSEL",
-          "votes": 50
-        },
-        {
-          "name_original": "ALEXANDRA GLOVER",
-          "votes": 48
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "SELECTMAN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "PEGGY RAE HENDEN-WILSON",
-          "votes": 43
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "FINANCE COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "MORTON JOSEL",
-          "votes": 48
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": null,
-      "date": "2021-05-18",
-      "office_original": "MODERATOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "MICHAEL F. WILCOX",
-          "votes": 48
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "RUSSEL KAPHAN",
+     "votes": 51
     }
-  ],
-  "_source_stem": "Alford2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Alford2021.pdf",
-  "ballots_cast": 53,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "CONSTABLE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "TIM ORTWEIN",
+     "votes": 52
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "MORTON JOSEL",
+     "votes": 50
+    },
+    {
+     "name_original": "ALEXANDRA GLOVER",
+     "votes": 48
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "SELECTMAN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "PEGGY RAE HENDEN-WILSON",
+     "votes": 43
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "FINANCE COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "MORTON JOSEL",
+     "votes": 48
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": null,
+   "date": "2021-05-18",
+   "office_original": "MODERATOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "MICHAEL F. WILCOX",
+     "votes": 48
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Alford2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Alford2021.pdf",
+ "ballots_cast": 53,
+ "ballots_cast_source": "stated_in_record"
 }

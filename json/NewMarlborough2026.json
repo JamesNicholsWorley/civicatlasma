@@ -1,194 +1,194 @@
 {
-  "document": {
-    "heading_verbatim": "OFFICIAL RESULTS OF ANNUAL TOWN ELECTION",
-    "date_verbatim": "MODAY, MAY 11, 2026",
-    "election_type": "Regular",
-    "election_type_evidence": "OFFICIAL RESULTS OF ANNUAL TOWN ELECTION",
-    "is_sample_ballot": false,
-    "offices_on_ballot": 14,
-    "uncontested_remainder": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "OFFICIAL RESULTS OF ANNUAL TOWN ELECTION",
+  "date_verbatim": "MODAY, MAY 11, 2026",
+  "election_type": "Regular",
+  "election_type_evidence": "OFFICIAL RESULTS OF ANNUAL TOWN ELECTION",
+  "is_sample_ballot": false,
+  "offices_on_ballot": 14,
+  "uncontested_remainder": false
+ },
+ "elections": [
+  {
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
     {
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Barry Shapiro",
-          "votes": 57
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Selectmen",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Maggie Arian",
-          "votes": 54
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Assessor",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Frederick Friedman",
-          "votes": 57
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Christian Stovall",
-          "votes": 61
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Lawrence H. Davis III",
-          "votes": 59
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Tree Warden",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Matthew Wright",
-          "votes": 56
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Cemetery Commissioner",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Tammi Palmer",
-          "votes": 61
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Library Trustee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Thomas Master",
-          "votes": 62
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Finance Committee",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Timothy Fitzgerald",
-          "votes": 55
-        },
-        {
-          "name_original": "Jane Fuccillo",
-          "votes": 55
-        },
-        {
-          "name_original": "Sharon Fleck",
-          "votes": 55
-        },
-        {
-          "name_original": "Anne Riney",
-          "votes": 53
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Town Clerk",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Katherine Chretien",
-          "votes": 59
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "office_original": "Constable",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "date": "2026-05-11",
-      "candidates": [
-        {
-          "name_original": "Bill West",
-          "votes": 55
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Barry Shapiro",
+     "votes": 57
     }
-  ],
-  "_source_stem": "NewMarlborough2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewMarlborough2026.pdf",
-  "ballots_cast": 65,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Selectmen",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Maggie Arian",
+     "votes": 54
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Assessor",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Frederick Friedman",
+     "votes": 57
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Christian Stovall",
+     "votes": 61
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Lawrence H. Davis III",
+     "votes": 59
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Tree Warden",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Matthew Wright",
+     "votes": 56
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Cemetery Commissioner",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Tammi Palmer",
+     "votes": 61
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Library Trustee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Thomas Master",
+     "votes": 62
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Finance Committee",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Timothy Fitzgerald",
+     "votes": 55
+    },
+    {
+     "name_original": "Jane Fuccillo",
+     "votes": 55
+    },
+    {
+     "name_original": "Sharon Fleck",
+     "votes": 55
+    },
+    {
+     "name_original": "Anne Riney",
+     "votes": 53
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Town Clerk",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Katherine Chretien",
+     "votes": 59
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "office_original": "Constable",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "date": "2026-05-11",
+   "candidates": [
+    {
+     "name_original": "Bill West",
+     "votes": 55
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewMarlborough2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewMarlborough2026.pdf",
+ "ballots_cast": 65,
+ "ballots_cast_source": "stated_in_record"
 }

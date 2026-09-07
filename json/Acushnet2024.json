@@ -1,182 +1,182 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Selectboard",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Selectboard",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Kevin Gaspar",
-          "votes": 437
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Assessor",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Francis Mello",
-          "votes": 438
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "David Davignon",
-          "votes": 452
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "School Committee",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "John Howcroft",
-          "votes": 439
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Planning Commission",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Richard Ellis",
-          "votes": 433
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Planning Commission (unexpired term)",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Peter John Giampa",
-          "votes": 425
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Cemetery Board",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Paul Fortin",
-          "votes": 460
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Library Board of Trustees",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Alan Miner",
-          "votes": 442
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Park Commissioner",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Chad Leclair",
-          "votes": 443
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Acushnet",
-      "date": "2024-05-18",
-      "office_original": "Housing Authority",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Andrew Gomes",
-          "votes": 439
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Kevin Gaspar",
+     "votes": 437
     }
-  ],
-  "_source_stem": "Acushnet2024",
-  "_notes": "Fairhaven Neighborhood News, Thursday 23 May 2024, page 8, \"Fewer than 500 vote in Acushnet Election\" by Beth David -- an outlet with no prior row anywhere in this corpus. 498 ballots of 8,573 registered (5.8%); NO CONTESTED RACES. THREE SEATS DREW NO CANDIDATE and are recorded here rather than as zero-vote candidates: Commissioner of Trust Funds x2 (one full term, one remainder of an unexpired term) and Trustee of the Free Public Library x1. The source reports no blanks or write-in totals, so every count is bounded by the 498 ballots but no race can be closed against it. Acushnet's annual reports always print the full precinct-level return; the 2024 report is not yet published and should supersede this when it is.",
-  "document": {
-    "heading_verbatim": "Annual Town Election, Acushnet, Massachusetts, 2024-05-18",
-    "turnout_verbatim": "498 ballots cast"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": 498,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Assessor",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Francis Mello",
+     "votes": 438
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "David Davignon",
+     "votes": 452
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "School Committee",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "John Howcroft",
+     "votes": 439
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Planning Commission",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Richard Ellis",
+     "votes": 433
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Planning Commission (unexpired term)",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Peter John Giampa",
+     "votes": 425
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Cemetery Board",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Paul Fortin",
+     "votes": 460
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Library Board of Trustees",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Alan Miner",
+     "votes": 442
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Park Commissioner",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Chad Leclair",
+     "votes": 443
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Acushnet",
+   "date": "2024-05-18",
+   "office_original": "Housing Authority",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Andrew Gomes",
+     "votes": 439
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Acushnet2024",
+ "_notes": "Fairhaven Neighborhood News, Thursday 23 May 2024, page 8, \"Fewer than 500 vote in Acushnet Election\" by Beth David -- an outlet with no prior row anywhere in this corpus. 498 ballots of 8,573 registered (5.8%); NO CONTESTED RACES. THREE SEATS DREW NO CANDIDATE and are recorded here rather than as zero-vote candidates: Commissioner of Trust Funds x2 (one full term, one remainder of an unexpired term) and Trustee of the Free Public Library x1. The source reports no blanks or write-in totals, so every count is bounded by the 498 ballots but no race can be closed against it. Acushnet's annual reports always print the full precinct-level return; the 2024 report is not yet published and should supersede this when it is.",
+ "document": {
+  "heading_verbatim": "Annual Town Election, Acushnet, Massachusetts, 2024-05-18",
+  "turnout_verbatim": "498 ballots cast"
+ },
+ "ballots_cast": 498,
+ "ballots_cast_source": "stated_in_record"
 }

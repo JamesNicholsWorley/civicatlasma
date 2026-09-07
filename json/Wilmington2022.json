@@ -1,128 +1,128 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Wilmington",
+   "date": "2022-04-23",
+   "office_original": "BOARD OF SELECTMEN",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Wilmington",
-      "date": "2022-04-23",
-      "office_original": "BOARD OF SELECTMEN",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "GREGORY B. BENDEL",
-          "votes": 516
-        },
-        {
-          "name_original": "KEVIN CAIRA",
-          "votes": 491
-        },
-        {
-          "name_original": "Others",
-          "votes": 39,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 233,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "GREGORY B. BENDEL",
+     "votes": 516
     },
     {
-      "municipality": "Wilmington",
-      "date": "2022-04-23",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JESSE L. FENNELLY",
-          "votes": 460
-        },
-        {
-          "name_original": "JASON GRANT SAMAHA",
-          "votes": 440
-        },
-        {
-          "name_original": "STEPHEN G. TURNER",
-          "votes": 462
-        },
-        {
-          "name_original": "Others",
-          "votes": 22,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 523,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "KEVIN CAIRA",
+     "votes": 491
     },
     {
-      "municipality": "Wilmington",
-      "date": "2022-04-23",
-      "office_original": "SHAWSHEEN TECH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "GWENDILYN HUPPER-LAWSON",
-          "votes": 519
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 111,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 39,
+     "tally_row": true
     },
     {
-      "municipality": "Wilmington",
-      "date": "2022-04-23",
-      "office_original": "WILMINGTON HOUSING AUTHORITY",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "STACIE MURPHY",
-          "votes": 508
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 118,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 233,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Wilmington2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2022.pdf",
-  "ballots_cast": 638,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2022-04-23",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JESSE L. FENNELLY",
+     "votes": 460
+    },
+    {
+     "name_original": "JASON GRANT SAMAHA",
+     "votes": 440
+    },
+    {
+     "name_original": "STEPHEN G. TURNER",
+     "votes": 462
+    },
+    {
+     "name_original": "Others",
+     "votes": 22,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 523,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2022-04-23",
+   "office_original": "SHAWSHEEN TECH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "GWENDILYN HUPPER-LAWSON",
+     "votes": 519
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 111,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2022-04-23",
+   "office_original": "WILMINGTON HOUSING AUTHORITY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "STACIE MURPHY",
+     "votes": 508
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 118,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Wilmington2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wilmington2022.pdf",
+ "ballots_cast": 638,
+ "ballots_cast_source": "stated_in_record"
 }

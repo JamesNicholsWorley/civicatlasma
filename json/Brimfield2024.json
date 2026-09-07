@@ -1,281 +1,281 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "SELECT BOARD – 3 YEARS EACH – VOTE FOR TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "SELECT BOARD – 3 YEARS EACH – VOTE FOR TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ALAN BERCOVICI",
-          "votes": 397
-        },
-        {
-          "name_original": "MARTIN KELLY",
-          "votes": 400
-        },
-        {
-          "name_original": "CHRISTOPHER HARRY",
-          "votes": 331
-        },
-        {
-          "name_original": "CRYSTAL MCGUIRE",
-          "votes": 436
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "ALAN BERCOVICI",
+     "votes": 397
     },
     {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "BOARD OF ASSESSORS – 3 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JEAN SULLIVAN",
-          "votes": 661
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "MARTIN KELLY",
+     "votes": 400
     },
     {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "TOWN CLERK – 3 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DEBRA FAGERSTROM",
-          "votes": 662
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "CHRISTOPHER HARRY",
+     "votes": 331
     },
     {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "BOARD OF HEALTH – 3 YEARS EACH – VOTE FOR TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "RICHARD COSTA",
-          "votes": 471
-        },
-        {
-          "name_original": "MICHAEL KOPROWSKI",
-          "votes": 470
-        },
-        {
-          "name_original": "JILL CAFARELLI",
-          "votes": 325
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "PLANNING BOARD – 5 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "MICHAEL CORDI",
-          "votes": 15
-        },
-        {
-          "name_original": "JAMES SMITH",
-          "votes": 11
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "SCHOOL COMMITTEE – 3 YEARS EACH – VOTE FOR TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JENNIFER POLESNAK-CUSTANCE",
-          "votes": 525
-        },
-        {
-          "name_original": "JOHN FABRIZIO",
-          "votes": 532
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "HIGHWAY SURVEYOR – 3 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ZACHARY LEMIEUX",
-          "votes": 610
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "CEMETERY COMMISSION – 3 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "STEPHEN PHIFER",
-          "votes": 618
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "LIBRARY BOARD OF TRUSTEES – 3 YEARS EACH – VOTE FOR TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DENISE FORTUNA",
-          "votes": 560
-        },
-        {
-          "name_original": "CHRISTINA MEALEY",
-          "votes": 558
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "HARDING FUND – 3 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "R. MITCHELL FRAZIER",
-          "votes": 619
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "LINCOLN FUND – 3 YEARS EACH – VOTE FOR 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "DAVID KILLIAN",
-          "votes": 398
-        },
-        {
-          "name_original": "SARAH MEITZLER",
-          "votes": 280
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "HOUSING AUTHORITY – 5 YEARS – VOTE FOR ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CHRISTOPHER DEFALCO",
-          "votes": 604
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Brimfield",
-      "date": "2024-06-18",
-      "office_original": "CONSTABLE – 3 YEARS EACH – VOTE FOR FIVE",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ALAN MARCHAND",
-          "votes": 530
-        },
-        {
-          "name_original": "ANTHONY SOTO",
-          "votes": 447
-        },
-        {
-          "name_original": "CHRISTOPHER DEBRUIN",
-          "votes": 484
-        },
-        {
-          "name_original": "MICHAEL PALERMO",
-          "votes": 491
-        },
-        {
-          "name_original": "THOMAS STEWART",
-          "votes": 475
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "CRYSTAL MCGUIRE",
+     "votes": 436
     }
-  ],
-  "_source_stem": "Brimfield2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brimfield2024.pdf",
-  "ballots_cast": 828,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "BOARD OF ASSESSORS – 3 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JEAN SULLIVAN",
+     "votes": 661
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "TOWN CLERK – 3 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DEBRA FAGERSTROM",
+     "votes": 662
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "BOARD OF HEALTH – 3 YEARS EACH – VOTE FOR TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "RICHARD COSTA",
+     "votes": 471
+    },
+    {
+     "name_original": "MICHAEL KOPROWSKI",
+     "votes": 470
+    },
+    {
+     "name_original": "JILL CAFARELLI",
+     "votes": 325
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "PLANNING BOARD – 5 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "MICHAEL CORDI",
+     "votes": 15
+    },
+    {
+     "name_original": "JAMES SMITH",
+     "votes": 11
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "SCHOOL COMMITTEE – 3 YEARS EACH – VOTE FOR TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JENNIFER POLESNAK-CUSTANCE",
+     "votes": 525
+    },
+    {
+     "name_original": "JOHN FABRIZIO",
+     "votes": 532
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "HIGHWAY SURVEYOR – 3 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ZACHARY LEMIEUX",
+     "votes": 610
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "CEMETERY COMMISSION – 3 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "STEPHEN PHIFER",
+     "votes": 618
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "LIBRARY BOARD OF TRUSTEES – 3 YEARS EACH – VOTE FOR TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DENISE FORTUNA",
+     "votes": 560
+    },
+    {
+     "name_original": "CHRISTINA MEALEY",
+     "votes": 558
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "HARDING FUND – 3 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "R. MITCHELL FRAZIER",
+     "votes": 619
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "LINCOLN FUND – 3 YEARS EACH – VOTE FOR 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "DAVID KILLIAN",
+     "votes": 398
+    },
+    {
+     "name_original": "SARAH MEITZLER",
+     "votes": 280
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "HOUSING AUTHORITY – 5 YEARS – VOTE FOR ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "CHRISTOPHER DEFALCO",
+     "votes": 604
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Brimfield",
+   "date": "2024-06-18",
+   "office_original": "CONSTABLE – 3 YEARS EACH – VOTE FOR FIVE",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ALAN MARCHAND",
+     "votes": 530
+    },
+    {
+     "name_original": "ANTHONY SOTO",
+     "votes": 447
+    },
+    {
+     "name_original": "CHRISTOPHER DEBRUIN",
+     "votes": 484
+    },
+    {
+     "name_original": "MICHAEL PALERMO",
+     "votes": 491
+    },
+    {
+     "name_original": "THOMAS STEWART",
+     "votes": 475
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Brimfield2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brimfield2024.pdf",
+ "ballots_cast": 828,
+ "ballots_cast_source": "stated_in_record"
 }

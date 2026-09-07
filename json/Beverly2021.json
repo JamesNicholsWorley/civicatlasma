@@ -1,450 +1,450 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "MAYOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "MAYOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael P. Cahill",
-          "votes": 5904
-        },
-        {
-          "name_original": "Esther W. Ngotho",
-          "votes": 2258
-        },
-        {
-          "name_original": "Others",
-          "votes": 114,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 166,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Michael P. Cahill",
+     "votes": 5904
     },
     {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR AT LARGE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Julie Rebecca Flowers",
-          "votes": 5934
-        },
-        {
-          "name_original": "Brendan Scott Sweeney",
-          "votes": 3678
-        },
-        {
-          "name_original": "William Cosmas",
-          "votes": 3079
-        },
-        {
-          "name_original": "Richard B. Tabbut",
-          "votes": 1449
-        },
-        {
-          "name_original": "Hannah Louise Bowen",
-          "votes": 4394
-        },
-        {
-          "name_original": "Jason Silva",
-          "votes": 10
-        },
-        {
-          "name_original": "Lindsay Ducharme",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 94,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6682,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Esther W. Ngotho",
+     "votes": 2258
     },
     {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD ONE",
-      "district_original": "Ward One",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Todd C. Rotondo",
-          "votes": 1181
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 117,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 114,
+     "tally_row": true
     },
     {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD ONE",
-      "district_original": "Ward One",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rachael O. Abell",
-          "votes": 1070
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 225,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD TWO",
-      "district_original": "Ward Two",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Estelle M. Rand",
-          "votes": 860
-        },
-        {
-          "name_original": "Kimberly Marie Peckham",
-          "votes": 358
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 73,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD TWO",
-      "district_original": "Ward Two",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenann Fondelle McKenzie",
-          "votes": 969
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 315,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD THREE",
-      "district_original": "Ward Three",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Euplio R. Marciano",
-          "votes": 374
-        },
-        {
-          "name_original": "Steven M. Crowley",
-          "votes": 623
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 42,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD THREE",
-      "district_original": "Ward Three",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kimberley J. Coelho",
-          "votes": 808
-        },
-        {
-          "name_original": "Others",
-          "votes": 18,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 218,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD FOUR",
-      "district_original": "Ward Four",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott D. Houseman",
-          "votes": 1331
-        },
-        {
-          "name_original": "Others",
-          "votes": 28,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 313,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD FOUR",
-      "district_original": "Ward Four",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lindsay Ducharme",
-          "votes": 410
-        },
-        {
-          "name_original": "Jeffrey Silva",
-          "votes": 492
-        },
-        {
-          "name_original": "Others",
-          "votes": 37,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 733,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD FIVE",
-      "district_original": "Ward Five",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathleen M. Feldman",
-          "votes": 1015
-        },
-        {
-          "name_original": "Donald Martin",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 244,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD FIVE",
-      "district_original": "Ward Five",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kaarin L. Robinson",
-          "votes": 990
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 282,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "COUNCILOR WARD SIX",
-      "district_original": "Ward Six",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dominic William Copeland",
-          "votes": 773
-        },
-        {
-          "name_original": "Matthew J. St. Hilaire",
-          "votes": 1018
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 48,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Beverly, Massachusetts",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE WARD SIX",
-      "district_original": "Ward Six",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lorinda K. Visnick",
-          "votes": 1366
-        },
-        {
-          "name_original": "Kevin Stacey",
-          "votes": 6
-        },
-        {
-          "name_original": "Others",
-          "votes": 41,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 430,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 166,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Beverly2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Beverly2021.pdf",
-  "ballots_cast": 8442,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR AT LARGE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Julie Rebecca Flowers",
+     "votes": 5934
+    },
+    {
+     "name_original": "Brendan Scott Sweeney",
+     "votes": 3678
+    },
+    {
+     "name_original": "William Cosmas",
+     "votes": 3079
+    },
+    {
+     "name_original": "Richard B. Tabbut",
+     "votes": 1449
+    },
+    {
+     "name_original": "Hannah Louise Bowen",
+     "votes": 4394
+    },
+    {
+     "name_original": "Jason Silva",
+     "votes": 10
+    },
+    {
+     "name_original": "Lindsay Ducharme",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 94,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 6682,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD ONE",
+   "district_original": "Ward One",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Todd C. Rotondo",
+     "votes": 1181
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 117,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD ONE",
+   "district_original": "Ward One",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rachael O. Abell",
+     "votes": 1070
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 225,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD TWO",
+   "district_original": "Ward Two",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Estelle M. Rand",
+     "votes": 860
+    },
+    {
+     "name_original": "Kimberly Marie Peckham",
+     "votes": 358
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 73,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD TWO",
+   "district_original": "Ward Two",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenann Fondelle McKenzie",
+     "votes": 969
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 315,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD THREE",
+   "district_original": "Ward Three",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Euplio R. Marciano",
+     "votes": 374
+    },
+    {
+     "name_original": "Steven M. Crowley",
+     "votes": 623
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 42,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD THREE",
+   "district_original": "Ward Three",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kimberley J. Coelho",
+     "votes": 808
+    },
+    {
+     "name_original": "Others",
+     "votes": 18,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 218,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD FOUR",
+   "district_original": "Ward Four",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott D. Houseman",
+     "votes": 1331
+    },
+    {
+     "name_original": "Others",
+     "votes": 28,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 313,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD FOUR",
+   "district_original": "Ward Four",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lindsay Ducharme",
+     "votes": 410
+    },
+    {
+     "name_original": "Jeffrey Silva",
+     "votes": 492
+    },
+    {
+     "name_original": "Others",
+     "votes": 37,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 733,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD FIVE",
+   "district_original": "Ward Five",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathleen M. Feldman",
+     "votes": 1015
+    },
+    {
+     "name_original": "Donald Martin",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 244,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD FIVE",
+   "district_original": "Ward Five",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kaarin L. Robinson",
+     "votes": 990
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 282,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "COUNCILOR WARD SIX",
+   "district_original": "Ward Six",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dominic William Copeland",
+     "votes": 773
+    },
+    {
+     "name_original": "Matthew J. St. Hilaire",
+     "votes": 1018
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 48,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Beverly, Massachusetts",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE WARD SIX",
+   "district_original": "Ward Six",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lorinda K. Visnick",
+     "votes": 1366
+    },
+    {
+     "name_original": "Kevin Stacey",
+     "votes": 6
+    },
+    {
+     "name_original": "Others",
+     "votes": 41,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 430,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Beverly2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Beverly2021.pdf",
+ "ballots_cast": 8442,
+ "ballots_cast_source": "derived_from_contests"
 }

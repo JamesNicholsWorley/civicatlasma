@@ -1,252 +1,252 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "SELECT BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "SELECT BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Charles J Decoste",
-          "votes": 1085
-        },
-        {
-          "name_original": "Christine Brazas Nordhaus",
-          "votes": 347
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Charles J Decoste",
+     "votes": 1085
     },
     {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Bartlett Harvey",
-          "votes": 1061
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "BOARD OF HEALTH",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kevin E Baker",
-          "votes": 847
-        },
-        {
-          "name_original": "Louise C Nichols",
-          "votes": 756
-        },
-        {
-          "name_original": "Daniel Kane",
-          "votes": 791
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "LIBRARY TRUSTEES",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kimberly H Harriman",
-          "votes": 1035
-        },
-        {
-          "name_original": "Wendy Isaac",
-          "votes": 1040
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Justin Mccarthy",
-          "votes": 1029
-        },
-        {
-          "name_original": "Jennifer Gold",
-          "votes": 806
-        },
-        {
-          "name_original": "Jennifer Ann Wilson",
-          "votes": 735
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "PARK & RECREATION COMMISSIONERS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Solomon Marini",
-          "votes": 1012
-        },
-        {
-          "name_original": "Aaron D Morse",
-          "votes": 1031
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Bartlett Harvey",
-          "votes": 1060
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "BOARD OF ASSESSORS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Pamela Campbell",
-          "votes": 23
-        },
-        {
-          "name_original": "Debra Brine",
-          "votes": 23
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "TRUST FUND COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Fred Faulkner",
-          "votes": 93
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "CEMETERY COMMISSIONERS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Carolyn L Mueller",
-          "votes": 1116
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "WATER COMMISSIONERS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Dick Taylor",
-          "votes": 1075
-        },
-        {
-          "name_original": "Bruce S Trumbull",
-          "votes": 1045
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Littleton",
-      "date": "2021-05-08",
-      "office_original": "ELECTRIC LIGHT COMMISSIONERS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Dick Taylor",
-          "votes": 1089
-        },
-        {
-          "name_original": "Bruce S Trumbull",
-          "votes": 1056
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Christine Brazas Nordhaus",
+     "votes": 347
     }
-  ],
-  "_source_stem": "Littleton2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Littleton2021.pdf",
-  "ballots_cast": 1486,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Bartlett Harvey",
+     "votes": 1061
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "BOARD OF HEALTH",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kevin E Baker",
+     "votes": 847
+    },
+    {
+     "name_original": "Louise C Nichols",
+     "votes": 756
+    },
+    {
+     "name_original": "Daniel Kane",
+     "votes": 791
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "LIBRARY TRUSTEES",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kimberly H Harriman",
+     "votes": 1035
+    },
+    {
+     "name_original": "Wendy Isaac",
+     "votes": 1040
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Justin Mccarthy",
+     "votes": 1029
+    },
+    {
+     "name_original": "Jennifer Gold",
+     "votes": 806
+    },
+    {
+     "name_original": "Jennifer Ann Wilson",
+     "votes": 735
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "PARK & RECREATION COMMISSIONERS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Solomon Marini",
+     "votes": 1012
+    },
+    {
+     "name_original": "Aaron D Morse",
+     "votes": 1031
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Bartlett Harvey",
+     "votes": 1060
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "BOARD OF ASSESSORS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Pamela Campbell",
+     "votes": 23
+    },
+    {
+     "name_original": "Debra Brine",
+     "votes": 23
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "TRUST FUND COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Fred Faulkner",
+     "votes": 93
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "CEMETERY COMMISSIONERS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Carolyn L Mueller",
+     "votes": 1116
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "WATER COMMISSIONERS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Dick Taylor",
+     "votes": 1075
+    },
+    {
+     "name_original": "Bruce S Trumbull",
+     "votes": 1045
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Littleton",
+   "date": "2021-05-08",
+   "office_original": "ELECTRIC LIGHT COMMISSIONERS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Dick Taylor",
+     "votes": 1089
+    },
+    {
+     "name_original": "Bruce S Trumbull",
+     "votes": 1056
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Littleton2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Littleton2021.pdf",
+ "ballots_cast": 1486,
+ "ballots_cast_source": "stated_in_record"
 }

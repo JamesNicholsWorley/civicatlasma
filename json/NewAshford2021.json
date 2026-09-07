@@ -1,130 +1,130 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "Selectmen - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "Selectmen - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Jason Jayko",
-          "votes": 49
-        },
-        {
-          "name_original": "Lori Trottier",
-          "votes": 30
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jason Jayko",
+     "votes": 49
     },
     {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "School Committee - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Brenda Frye",
-          "votes": 67
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "Town Clerk - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Susan Supranowicz",
-          "votes": 43
-        },
-        {
-          "name_original": "Lori Trottier",
-          "votes": 37
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "Board of Health - 3 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Walker Haig",
-          "votes": 70
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "Planning Board - 5 years",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Richard George",
-          "votes": 64
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2021-05-25",
-      "office_original": "Cemetery Committee - 1 year",
-      "num_winners": 4,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "John Haig Jr.",
-          "votes": 68
-        },
-        {
-          "name_original": "Kurt Singer",
-          "votes": 61
-        },
-        {
-          "name_original": "Anthony Bossana",
-          "votes": 56
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Lori Trottier",
+     "votes": 30
     }
-  ],
-  "_source_stem": "NewAshford2021",
-  "_notes": "Source: the town's own OFFICIAL BALLOT for the annual town election with the Town Clerk's counts written on it, marked \"POSTED 5/25/2021\" and \"81 Voters\", still served from the town's WordPress media library. Two races were genuinely contested: Selectmen (Jayko 49 / Trottier 30) and Town Clerk (Supranowicz 43 / Trottier 37). The ballot also carried a question -- shall the elected Town Clerk become appointed -- Yes 44 / No 36, which is outside the parse spec. The Cemetery Committee write-in line is annotated \"Undetermined\" by the clerk and is not carried. No blanks are recorded, so 81 is a ceiling and no race closes against it. The date is PRINTED ON THE DOCUMENT: \"ANNUAL TOWN ELECTION NEW ASHFORD, MASSACHUSETTS MAY 25, 2021\". INDEPENDENTLY CORROBORATED: the Berkshire Eagle, 27 May 2021, \"Former town clerk loses two races in New Ashford election\" (Scott Stafford) reports every figure on this ballot and all NINE match -- Jayko 49 / Trottier 30, Supranowicz 43 / Trottier 37, Frye 67, George 64, Haig Jr. 68, Singer 61, Bossana 56 -- plus the ballot question at 44 to 36. THE FOURTH CEMETERY COMMITTEE SEAT WAS NOT FILLED: the article says \"There were three candidates running for four, one-year terms\", which is why the ballot's write-in line for that race is annotated \"Undetermined\" by the clerk. num_winners=4 records the seats up; only three were filled.",
-  "document": {
-    "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NEW ASHFORD, MASSACHUSETTS MAY 25, 2021",
-    "turnout_verbatim": "81 ballots cast (a ceiling; no blanks recorded)"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": 81,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "School Committee - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Brenda Frye",
+     "votes": 67
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "Town Clerk - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Susan Supranowicz",
+     "votes": 43
+    },
+    {
+     "name_original": "Lori Trottier",
+     "votes": 37
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "Board of Health - 3 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Walker Haig",
+     "votes": 70
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "Planning Board - 5 years",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Richard George",
+     "votes": 64
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2021-05-25",
+   "office_original": "Cemetery Committee - 1 year",
+   "num_winners": 4,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "John Haig Jr.",
+     "votes": 68
+    },
+    {
+     "name_original": "Kurt Singer",
+     "votes": 61
+    },
+    {
+     "name_original": "Anthony Bossana",
+     "votes": 56
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewAshford2021",
+ "_notes": "Source: the town's own OFFICIAL BALLOT for the annual town election with the Town Clerk's counts written on it, marked \"POSTED 5/25/2021\" and \"81 Voters\", still served from the town's WordPress media library. Two races were genuinely contested: Selectmen (Jayko 49 / Trottier 30) and Town Clerk (Supranowicz 43 / Trottier 37). The ballot also carried a question -- shall the elected Town Clerk become appointed -- Yes 44 / No 36, which is outside the parse spec. The Cemetery Committee write-in line is annotated \"Undetermined\" by the clerk and is not carried. No blanks are recorded, so 81 is a ceiling and no race closes against it. The date is PRINTED ON THE DOCUMENT: \"ANNUAL TOWN ELECTION NEW ASHFORD, MASSACHUSETTS MAY 25, 2021\". INDEPENDENTLY CORROBORATED: the Berkshire Eagle, 27 May 2021, \"Former town clerk loses two races in New Ashford election\" (Scott Stafford) reports every figure on this ballot and all NINE match -- Jayko 49 / Trottier 30, Supranowicz 43 / Trottier 37, Frye 67, George 64, Haig Jr. 68, Singer 61, Bossana 56 -- plus the ballot question at 44 to 36. THE FOURTH CEMETERY COMMITTEE SEAT WAS NOT FILLED: the article says \"There were three candidates running for four, one-year terms\", which is why the ballot's write-in line for that race is annotated \"Undetermined\" by the clerk. num_winners=4 records the seats up; only three were filled.",
+ "document": {
+  "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NEW ASHFORD, MASSACHUSETTS MAY 25, 2021",
+  "turnout_verbatim": "81 ballots cast (a ceiling; no blanks recorded)"
+ },
+ "ballots_cast": 81,
+ "ballots_cast_source": "stated_in_record"
 }

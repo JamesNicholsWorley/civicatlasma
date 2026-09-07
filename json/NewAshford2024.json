@@ -1,76 +1,70 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Ashford",
+   "date": "2024-05-28",
+   "office_original": "Select Board - 3 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "New Ashford",
-      "date": "2024-05-28",
-      "office_original": "Select Board - 3 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Jason Jayco",
-          "votes": 33
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2024-05-28",
-      "office_original": "Board of Health - 3 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Emilee Gagliardi",
-          "votes": 21
-        },
-        {
-          "name_original": "Helen Majchrowski",
-          "votes": null,
-          "note": "named as a candidate by the Berkshire Eagle preview of 19 May 2024; the clerk's sheet gives the winner only, so this count is UNKNOWN and bounded by 37 - 21 = 16",
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2024-05-28",
-      "office_original": "Planning Board - 5 year term",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Tammy Steinhoff",
-          "votes": 31
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jason Jayco",
+     "votes": 33
     }
-  ],
-  "_source_stem": "NewAshford2024",
-  "_notes": "Source: the Town Clerk's \"Results of elections\" sheet, supplied 2026-08-28 in answer to the owner's public-records request, covering 2022-2026. IT IS A WINNER-AND-COUNT LIST FOR THE PRINCIPAL TOWN OFFICES, NOT A RETURN: it carries no blanks, no write-in totals and no ballot questions, and it omits the School Committee in both years where an independent source shows one was elected (2023, per the Berkshire Eagle; 2026, per the town's own caucus notice nominating Jen Welch). The ballot figure is therefore a CEILING and no race can be closed against it. Election date 2024-05-28 established from the town's 2024 Important Dates PDF: \"ANNUAL TOWN ELECTION Tuesday MAY 28,2024 2PM-4PM 6PM-8PM\"; corroborated by the Berkshire Eagle preview of 19 May 2024. THE ONE REAL CONTEST IN 2022-2026: Board of Health, Emilee Gagliardi against Helen Majchrowski. The Eagle article is a PRE-ELECTION PREVIEW (19 May 2024) and reports no counts; the clerk's sheet gives the winner only. Majchrowski's count is unknown. Gagliardi succeeded Walker Haig, who won the seat in 2021 on the ballot recovered for that year. SCHOOL COMMITTEE IS MISSING FROM THIS RECORD AND A SEAT WAS ALMOST CERTAINLY UP. The town's own posted ballots show a School Committee 3-year seat on the ballot in 2017 (Jen Welch, on write-ins), 2018 (Brenda Frye), 2019 (Lori Jayko) and 2021 (Frye again), and independent sources show one in 2023 (Eagle: Welch def. Scace) and 2026 (caucus notice: Jen Welch nominated). Three staggered three-year seats means one falls due EVERY year, so the office cannot legitimately vanish. The clerk's summary sheet simply does not carry it -- nor the Cemetery Committee, whose one-year terms are also up every year. This is NOT the 2021 restructure: that made the Town Clerk appointed (2021 ballot question, passed 44-36) and had already removed Tree Warden, Fire Warden and Library Trustee, but a School Committee is state-mandated and elected. See research/newashford_office_cycle.md.",
-  "document": {
-    "heading_verbatim": "Results of elections -- 2024",
-    "turnout_verbatim": "37 ballots cast (a ceiling; no blanks recorded)",
-    "date_corroboration": {
-      "source": "the town's own published notices",
-      "value": "2024-05-28",
-      "strength": "corroborated",
-      "quote": "the town's 2024 Important Dates PDF: \"ANNUAL TOWN ELECTION Tuesday MAY 28,2024 2PM-4PM 6PM-8PM\"; corroborated by the Berkshire Eagle preview of 19 May 2024",
-      "note": "established 2026-08-28 by src/land_newashford.py"
-    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "New Ashford",
+   "date": "2024-05-28",
+   "office_original": "Board of Health - 3 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Emilee Gagliardi",
+     "votes": 21
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2024-05-28",
+   "office_original": "Planning Board - 5 year term",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Tammy Steinhoff",
+     "votes": 31
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewAshford2024",
+ "_notes": "Source: the Town Clerk's \"Results of elections\" sheet, supplied 2026-08-28 in answer to the owner's public-records request, covering 2022-2026. IT IS A WINNER-AND-COUNT LIST FOR THE PRINCIPAL TOWN OFFICES, NOT A RETURN: it carries no blanks, no write-in totals and no ballot questions, and it omits the School Committee in both years where an independent source shows one was elected (2023, per the Berkshire Eagle; 2026, per the town's own caucus notice nominating Jen Welch). The ballot figure is therefore a CEILING and no race can be closed against it. Election date 2024-05-28 established from the town's 2024 Important Dates PDF: \"ANNUAL TOWN ELECTION Tuesday MAY 28,2024 2PM-4PM 6PM-8PM\"; corroborated by the Berkshire Eagle preview of 19 May 2024. THE ONE REAL CONTEST IN 2022-2026: Board of Health, Emilee Gagliardi against Helen Majchrowski. The Eagle article is a PRE-ELECTION PREVIEW (19 May 2024) and reports no counts; the clerk's sheet gives the winner only. Majchrowski's count is unknown. Gagliardi succeeded Walker Haig, who won the seat in 2021 on the ballot recovered for that year. SCHOOL COMMITTEE IS MISSING FROM THIS RECORD AND A SEAT WAS ALMOST CERTAINLY UP. The town's own posted ballots show a School Committee 3-year seat on the ballot in 2017 (Jen Welch, on write-ins), 2018 (Brenda Frye), 2019 (Lori Jayko) and 2021 (Frye again), and independent sources show one in 2023 (Eagle: Welch def. Scace) and 2026 (caucus notice: Jen Welch nominated). Three staggered three-year seats means one falls due EVERY year, so the office cannot legitimately vanish. The clerk's summary sheet simply does not carry it -- nor the Cemetery Committee, whose one-year terms are also up every year. This is NOT the 2021 restructure: that made the Town Clerk appointed (2021 ballot question, passed 44-36) and had already removed Tree Warden, Fire Warden and Library Trustee, but a School Committee is state-mandated and elected. See research/newashford_office_cycle.md.",
+ "document": {
+  "heading_verbatim": "Results of elections -- 2024",
+  "turnout_verbatim": "37 ballots cast (a ceiling; no blanks recorded)",
+  "date_corroboration": {
+   "source": "the town's own published notices",
+   "value": "2024-05-28",
+   "strength": "corroborated",
+   "quote": "the town's 2024 Important Dates PDF: \"ANNUAL TOWN ELECTION Tuesday MAY 28,2024 2PM-4PM 6PM-8PM\"; corroborated by the Berkshire Eagle preview of 19 May 2024",
+   "note": "established 2026-08-28 by src/land_newashford.py"
+  }
+ },
+ "ballots_cast": 37,
+ "ballots_cast_source": "stated_in_record"
 }

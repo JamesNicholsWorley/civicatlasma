@@ -1,210 +1,210 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Board of Assessors 3-year term",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Board of Assessors 3-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Alexander Buedinger",
-          "votes": 202
-        },
-        {
-          "name_original": "Noavakay Knight",
-          "votes": 8
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Alexander Buedinger",
+     "votes": 202
     },
     {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Board of Assessors 1-year term",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Noavakay Knight",
-          "votes": 33
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Selectboard, Sewer Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Jennifer Waldron",
-          "votes": 171
-        },
-        {
-          "name_original": "Dan Flagg",
-          "votes": 69
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Cemetery Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Fred O. Chase III",
-          "votes": 222
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Constables",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Alexander Buedinger",
-          "votes": 183
-        },
-        {
-          "name_original": "Craig Gaudry",
-          "votes": 195
-        },
-        {
-          "name_original": "Fred O. Chase III",
-          "votes": 194
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Megan Bathory-Peeler",
-          "votes": 228
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Charles Garbiel II",
-          "votes": 218
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "Tree Warden",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Joseph Williams",
-          "votes": 223
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "School Committee",
-      "district_original": "Representing Gill",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "William Tomb",
-          "votes": 222
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 28,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Gill",
-      "date": "2026-05-18",
-      "office_original": "School Committee",
-      "district_original": "Representing Montague",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Clifford Spatcher",
-          "votes": 170
-        },
-        {
-          "name_original": "Sue Ann Richardson",
-          "votes": 154
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 176,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Noavakay Knight",
+     "votes": 8
     }
-  ],
-  "_source_stem": "Gill2026",
-  "_source_pdf": "",
-  "ballots_cast": 250,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Board of Assessors 1-year term",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Noavakay Knight",
+     "votes": 33
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Selectboard, Sewer Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Jennifer Waldron",
+     "votes": 171
+    },
+    {
+     "name_original": "Dan Flagg",
+     "votes": 69
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Cemetery Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Fred O. Chase III",
+     "votes": 222
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Constables",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Alexander Buedinger",
+     "votes": 183
+    },
+    {
+     "name_original": "Craig Gaudry",
+     "votes": 195
+    },
+    {
+     "name_original": "Fred O. Chase III",
+     "votes": 194
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Megan Bathory-Peeler",
+     "votes": 228
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Charles Garbiel II",
+     "votes": 218
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "Tree Warden",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Joseph Williams",
+     "votes": 223
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "School Committee",
+   "district_original": "Representing Gill",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "William Tomb",
+     "votes": 222
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 28,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gill",
+   "date": "2026-05-18",
+   "office_original": "School Committee",
+   "district_original": "Representing Montague",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Clifford Spatcher",
+     "votes": 170
+    },
+    {
+     "name_original": "Sue Ann Richardson",
+     "votes": 154
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 176,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Gill2026",
+ "_source_pdf": "",
+ "ballots_cast": 250,
+ "ballots_cast_source": "stated_in_record"
 }

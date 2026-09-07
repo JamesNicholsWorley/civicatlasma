@@ -1,277 +1,277 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "MAYOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "MAYOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JOSEPH M. PETTY",
-          "votes": 10100
-        },
-        {
-          "name_original": "DONNA M. COLORID",
-          "votes": 4153
-        },
-        {
-          "name_original": "BILL COLEMAN",
-          "votes": 1513
-        },
-        {
-          "name_original": "PETER A. STEFAN",
-          "votes": 933
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 627,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "JOSEPH M. PETTY",
+     "votes": 10100
     },
     {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR AT LARGE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JOSEPH M. PETTY",
-          "votes": 8805
-        },
-        {
-          "name_original": "KATE TOOMEY",
-          "votes": 7976
-        },
-        {
-          "name_original": "KHRYSTIAN E. KING",
-          "votes": 7808
-        },
-        {
-          "name_original": "THU NGUYEN",
-          "votes": 7374
-        },
-        {
-          "name_original": "MORRIS A. BERGMAN",
-          "votes": 7344
-        },
-        {
-          "name_original": "DONNA M. COLORID",
-          "votes": 7285
-        },
-        {
-          "name_original": "MATTHEW E. WALLY",
-          "votes": 6664
-        },
-        {
-          "name_original": "BILL COLEMAN",
-          "votes": 5448
-        },
-        {
-          "name_original": "GUILLERMO CREAMER, JR",
-          "votes": 5271
-        },
-        {
-          "name_original": "PETER A. STEFAN",
-          "votes": 3758
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 36223,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "DONNA M. COLORID",
+     "votes": 4153
     },
     {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR DISTRICT 1",
-      "district_original": "District 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SEAN M. ROSE",
-          "votes": 3408
-        },
-        {
-          "name_original": "RICHARD CIPRO",
-          "votes": 2999
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 109,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "BILL COLEMAN",
+     "votes": 1513
     },
     {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR DISTRICT 2",
-      "district_original": "District 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "CANDY F. MERO-CARLSON",
-          "votes": 1164
-        },
-        {
-          "name_original": "JOHANNA HAMPTON-DANCE",
-          "votes": 904
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 187,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "PETER A. STEFAN",
+     "votes": 933
     },
     {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR DISTRICT 3",
-      "district_original": "District 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "GEORGE J. RUSSELL",
-          "votes": 1522
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 700,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR DISTRICT 4",
-      "district_original": "District 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "SARAI RIVERA",
-          "votes": 925
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 360,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR DISTRICT 5",
-      "district_original": "District 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "ETEL HAXHIAJ",
-          "votes": 2585
-        },
-        {
-          "name_original": "GREGORY L. STRATMAN",
-          "votes": 2206
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 257,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Worcester",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE MEMBER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "JERMAINE L. JOHNSON",
-          "votes": 8908
-        },
-        {
-          "name_original": "SUSAN M. MAILMAN",
-          "votes": 8879
-        },
-        {
-          "name_original": "MOLLY O. McCULLOUGH",
-          "votes": 8197
-        },
-        {
-          "name_original": "TRACY O'CONNELL NOVICK",
-          "votes": 8022
-        },
-        {
-          "name_original": "JERMOH V. KAMARA",
-          "votes": 8001
-        },
-        {
-          "name_original": "LAURA B. CLANCEY",
-          "votes": 6911
-        },
-        {
-          "name_original": "DIANNA L. BIANCHERIA",
-          "votes": 6132
-        },
-        {
-          "name_original": "SHANEL C. SOUCY",
-          "votes": 5085
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 43821,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 627,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Worcester2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worcester2021.pdf",
-  "ballots_cast": 17326,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR AT LARGE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JOSEPH M. PETTY",
+     "votes": 8805
+    },
+    {
+     "name_original": "KATE TOOMEY",
+     "votes": 7976
+    },
+    {
+     "name_original": "KHRYSTIAN E. KING",
+     "votes": 7808
+    },
+    {
+     "name_original": "THU NGUYEN",
+     "votes": 7374
+    },
+    {
+     "name_original": "MORRIS A. BERGMAN",
+     "votes": 7344
+    },
+    {
+     "name_original": "DONNA M. COLORID",
+     "votes": 7285
+    },
+    {
+     "name_original": "MATTHEW E. WALLY",
+     "votes": 6664
+    },
+    {
+     "name_original": "BILL COLEMAN",
+     "votes": 5448
+    },
+    {
+     "name_original": "GUILLERMO CREAMER, JR",
+     "votes": 5271
+    },
+    {
+     "name_original": "PETER A. STEFAN",
+     "votes": 3758
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 36223,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR DISTRICT 1",
+   "district_original": "District 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SEAN M. ROSE",
+     "votes": 3408
+    },
+    {
+     "name_original": "RICHARD CIPRO",
+     "votes": 2999
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 109,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR DISTRICT 2",
+   "district_original": "District 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "CANDY F. MERO-CARLSON",
+     "votes": 1164
+    },
+    {
+     "name_original": "JOHANNA HAMPTON-DANCE",
+     "votes": 904
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 187,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR DISTRICT 3",
+   "district_original": "District 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "GEORGE J. RUSSELL",
+     "votes": 1522
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 700,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR DISTRICT 4",
+   "district_original": "District 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "SARAI RIVERA",
+     "votes": 925
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 360,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR DISTRICT 5",
+   "district_original": "District 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "ETEL HAXHIAJ",
+     "votes": 2585
+    },
+    {
+     "name_original": "GREGORY L. STRATMAN",
+     "votes": 2206
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 257,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Worcester",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE MEMBER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "JERMAINE L. JOHNSON",
+     "votes": 8908
+    },
+    {
+     "name_original": "SUSAN M. MAILMAN",
+     "votes": 8879
+    },
+    {
+     "name_original": "MOLLY O. McCULLOUGH",
+     "votes": 8197
+    },
+    {
+     "name_original": "TRACY O'CONNELL NOVICK",
+     "votes": 8022
+    },
+    {
+     "name_original": "JERMOH V. KAMARA",
+     "votes": 8001
+    },
+    {
+     "name_original": "LAURA B. CLANCEY",
+     "votes": 6911
+    },
+    {
+     "name_original": "DIANNA L. BIANCHERIA",
+     "votes": 6132
+    },
+    {
+     "name_original": "SHANEL C. SOUCY",
+     "votes": 5085
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 43821,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Worcester2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Worcester2021.pdf",
+ "ballots_cast": 17326,
+ "ballots_cast_source": "stated_in_record"
 }

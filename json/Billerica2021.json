@@ -1,930 +1,930 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "SELECTMAN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "SELECTMAN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andrew N Deslaurier",
-          "votes": 1954
-        },
-        {
-          "name_original": "Darlene M Torre",
-          "votes": 1721
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Andrew N Deslaurier",
+     "votes": 1954
     },
     {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "MODERATOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John J McKenna",
-          "votes": 2649
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 41,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Darlene M Torre",
+     "votes": 1721
     },
     {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Marlies Henderson",
-          "votes": 1834
-        },
-        {
-          "name_original": "John Meneghini",
-          "votes": 1479
-        },
-        {
-          "name_original": "William Bulens",
-          "votes": 1272
-        },
-        {
-          "name_original": "Christopher J Tribou",
-          "votes": 1649
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
     },
     {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Michael A Domina",
-          "votes": 2560
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Martin E Conway",
-          "votes": 2477
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 45,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "REG SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Taryn Gillis",
-          "votes": 2593
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 1 MTG MBRS",
-      "district_original": "Precinct 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Larry Libby",
-          "votes": 184
-        },
-        {
-          "name_original": "Joanne M Gagliardi",
-          "votes": 201
-        },
-        {
-          "name_original": "Paula M Moriconi",
-          "votes": 211
-        },
-        {
-          "name_original": "Lance Patrick Kelly",
-          "votes": 176
-        },
-        {
-          "name_original": "Lisa Anne Charland",
-          "votes": 205
-        },
-        {
-          "name_original": "David A Gagliardi",
-          "votes": 188
-        },
-        {
-          "name_original": "Craig E Rich",
-          "votes": 185
-        },
-        {
-          "name_original": "Teresa N English",
-          "votes": 208
-        },
-        {
-          "name_original": "Douglas J Meagher",
-          "votes": 198
-        },
-        {
-          "name_original": "Kenneth B English",
-          "votes": 189
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 2 MTG MBRS 3yrs",
-      "district_original": "Precinct 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 8,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ellen Day Rawlings",
-          "votes": 275
-        },
-        {
-          "name_original": "Darlene M Torre",
-          "votes": 182
-        },
-        {
-          "name_original": "John R Morrison",
-          "votes": 235
-        },
-        {
-          "name_original": "Lisa Michelle Botte",
-          "votes": 219
-        },
-        {
-          "name_original": "Kevin P Conway",
-          "votes": 258
-        },
-        {
-          "name_original": "Andrew N Deslaurier",
-          "votes": 271
-        },
-        {
-          "name_original": "Martin Boermeester",
-          "votes": 218
-        },
-        {
-          "name_original": "Cheri Gargalianos",
-          "votes": 216
-        },
-        {
-          "name_original": "Henry Boermeester",
-          "votes": 210
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 3 MTG MBRS 3yrs",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Elaine C Tuccelli",
-          "votes": 184
-        },
-        {
-          "name_original": "John F Gray Jr",
-          "votes": 172
-        },
-        {
-          "name_original": "Vicky Roy",
-          "votes": 74
-        },
-        {
-          "name_original": "Robert Roy",
-          "votes": 14
-        },
-        {
-          "name_original": "Mike Riley",
-          "votes": 23
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 4 MTG MBRS 3yrs",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Robert M Correnti",
-          "votes": 191
-        },
-        {
-          "name_original": "George Edward Noel",
-          "votes": 191
-        },
-        {
-          "name_original": "Paul A Lamarca",
-          "votes": 195
-        },
-        {
-          "name_original": "Anne M Noel",
-          "votes": 193
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 5 MTG MBRS",
-      "district_original": "Precinct 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Maura Gaffey",
-          "votes": 256
-        },
-        {
-          "name_original": "Michael S Rosa",
-          "votes": 250
-        },
-        {
-          "name_original": "Michael F Parker",
-          "votes": 245
-        },
-        {
-          "name_original": "Michael A Fantasia",
-          "votes": 250
-        },
-        {
-          "name_original": "Scott Edward Morris",
-          "votes": 250
-        },
-        {
-          "name_original": "Charles Grillo",
-          "votes": 87
-        },
-        {
-          "name_original": "Donna Chandler",
-          "votes": 33
-        },
-        {
-          "name_original": "Salvatore Dampolo",
-          "votes": 26
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 6 MTG MBRS 3yrs",
-      "district_original": "Precinct 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 5,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Donald F MacDonald",
-          "votes": 167
-        },
-        {
-          "name_original": "Francis X O'Brien",
-          "votes": 160
-        },
-        {
-          "name_original": "Kristen M Sullivan",
-          "votes": 163
-        },
-        {
-          "name_original": "Phyllis A MacDonald",
-          "votes": 162
-        },
-        {
-          "name_original": "Cosmo D Cavicchio Jr",
-          "votes": 172
-        },
-        {
-          "name_original": "Caddy Maxwell Em",
-          "votes": 156
-        },
-        {
-          "name_original": "Sandra B Donovan",
-          "votes": 159
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 31,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 7 MTG MBRS 3yrs",
-      "district_original": "Precinct 7",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Christopher Ravin",
-          "votes": 148
-        },
-        {
-          "name_original": "John Meneghini",
-          "votes": 171
-        },
-        {
-          "name_original": "Vincent A Amato Jr",
-          "votes": 156
-        },
-        {
-          "name_original": "Kenneth B Glasser",
-          "votes": 168
-        },
-        {
-          "name_original": "Jodi Ann Hogan",
-          "votes": 157
-        },
-        {
-          "name_original": "Jacqueline Chaffins",
-          "votes": 153
-        },
-        {
-          "name_original": "Ralph J McKenna",
-          "votes": 22
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 8 MTG MBRS 3yrs",
-      "district_original": "Precinct 8",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Michael Farrell",
-          "votes": 265
-        },
-        {
-          "name_original": "Barbara A Flaherty",
-          "votes": 290
-        },
-        {
-          "name_original": "Matthew Hrono",
-          "votes": 284
-        },
-        {
-          "name_original": "Joseph P Shaw",
-          "votes": 271
-        },
-        {
-          "name_original": "Charlene McCarthy",
-          "votes": 285
-        },
-        {
-          "name_original": "Lynne Forbes",
-          "votes": 11
-        },
-        {
-          "name_original": "Bill Forbes",
-          "votes": 11
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 79,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 9 MTG MBRS",
-      "district_original": "Precinct 9",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 7,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Guillermo Perez",
-          "votes": 206
-        },
-        {
-          "name_original": "William G Greene Jr",
-          "votes": 214
-        },
-        {
-          "name_original": "Nicholas J Rosa",
-          "votes": 202
-        },
-        {
-          "name_original": "Carol R Rosa",
-          "votes": 202
-        },
-        {
-          "name_original": "Cynthia Keesler",
-          "votes": 204
-        },
-        {
-          "name_original": "Patricia C Flemming",
-          "votes": 213
-        },
-        {
-          "name_original": "John Mulloy",
-          "votes": 203
-        },
-        {
-          "name_original": "Justin A Damon",
-          "votes": 203
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 10 MTG MBRS 3yrs",
-      "district_original": "Precinct 10",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 5,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Katharine M Mahoney",
-          "votes": 234
-        },
-        {
-          "name_original": "David M Overton",
-          "votes": 212
-        },
-        {
-          "name_original": "Kimberly J Conway",
-          "votes": 245
-        },
-        {
-          "name_original": "Robert Peatfield",
-          "votes": 201
-        },
-        {
-          "name_original": "Eric K Gerade",
-          "votes": 207
-        },
-        {
-          "name_original": "Shawn M Kerr",
-          "votes": 205
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 32,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 11 MTG MBRS",
-      "district_original": "Precinct 11",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Thomas H Conway III",
-          "votes": 216
-        },
-        {
-          "name_original": "Meredith Lovell",
-          "votes": 199
-        },
-        {
-          "name_original": "William F King",
-          "votes": 179
-        },
-        {
-          "name_original": "Joseph Silva",
-          "votes": 41
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 85,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 3 MTG MBRS 2yrs",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 6 MTG MBR 2yrs",
-      "district_original": "Precinct 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jennifer Normand",
-          "votes": 168
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 7 MTG MBR 2yrs",
-      "district_original": "Precinct 7",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Bartley Hogan",
-          "votes": 164
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 8 MTG MBR 2yrs",
-      "district_original": "Precinct 8",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 43,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 2 MTG MBR 1yr",
-      "district_original": "Precinct 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "John H Kleschinsky",
-          "votes": 271
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 3 MTG MBR 1yr",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Billerica",
-      "date": "2021-04-10",
-      "office_original": "PCT 4 MTG MBRS 1yr",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Billerica2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Billerica2021.pdf",
-  "ballots_cast": 3715,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "MODERATOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John J McKenna",
+     "votes": 2649
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 41,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Marlies Henderson",
+     "votes": 1834
+    },
+    {
+     "name_original": "John Meneghini",
+     "votes": 1479
+    },
+    {
+     "name_original": "William Bulens",
+     "votes": 1272
+    },
+    {
+     "name_original": "Christopher J Tribou",
+     "votes": 1649
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Michael A Domina",
+     "votes": 2560
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Martin E Conway",
+     "votes": 2477
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 45,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "REG SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Taryn Gillis",
+     "votes": 2593
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 1 MTG MBRS",
+   "district_original": "Precinct 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Larry Libby",
+     "votes": 184
+    },
+    {
+     "name_original": "Joanne M Gagliardi",
+     "votes": 201
+    },
+    {
+     "name_original": "Paula M Moriconi",
+     "votes": 211
+    },
+    {
+     "name_original": "Lance Patrick Kelly",
+     "votes": 176
+    },
+    {
+     "name_original": "Lisa Anne Charland",
+     "votes": 205
+    },
+    {
+     "name_original": "David A Gagliardi",
+     "votes": 188
+    },
+    {
+     "name_original": "Craig E Rich",
+     "votes": 185
+    },
+    {
+     "name_original": "Teresa N English",
+     "votes": 208
+    },
+    {
+     "name_original": "Douglas J Meagher",
+     "votes": 198
+    },
+    {
+     "name_original": "Kenneth B English",
+     "votes": 189
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 2 MTG MBRS 3yrs",
+   "district_original": "Precinct 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 8,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ellen Day Rawlings",
+     "votes": 275
+    },
+    {
+     "name_original": "Darlene M Torre",
+     "votes": 182
+    },
+    {
+     "name_original": "John R Morrison",
+     "votes": 235
+    },
+    {
+     "name_original": "Lisa Michelle Botte",
+     "votes": 219
+    },
+    {
+     "name_original": "Kevin P Conway",
+     "votes": 258
+    },
+    {
+     "name_original": "Andrew N Deslaurier",
+     "votes": 271
+    },
+    {
+     "name_original": "Martin Boermeester",
+     "votes": 218
+    },
+    {
+     "name_original": "Cheri Gargalianos",
+     "votes": 216
+    },
+    {
+     "name_original": "Henry Boermeester",
+     "votes": 210
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 3 MTG MBRS 3yrs",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Elaine C Tuccelli",
+     "votes": 184
+    },
+    {
+     "name_original": "John F Gray Jr",
+     "votes": 172
+    },
+    {
+     "name_original": "Vicky Roy",
+     "votes": 74
+    },
+    {
+     "name_original": "Robert Roy",
+     "votes": 14
+    },
+    {
+     "name_original": "Mike Riley",
+     "votes": 23
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 4 MTG MBRS 3yrs",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Robert M Correnti",
+     "votes": 191
+    },
+    {
+     "name_original": "George Edward Noel",
+     "votes": 191
+    },
+    {
+     "name_original": "Paul A Lamarca",
+     "votes": 195
+    },
+    {
+     "name_original": "Anne M Noel",
+     "votes": 193
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 5 MTG MBRS",
+   "district_original": "Precinct 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Maura Gaffey",
+     "votes": 256
+    },
+    {
+     "name_original": "Michael S Rosa",
+     "votes": 250
+    },
+    {
+     "name_original": "Michael F Parker",
+     "votes": 245
+    },
+    {
+     "name_original": "Michael A Fantasia",
+     "votes": 250
+    },
+    {
+     "name_original": "Scott Edward Morris",
+     "votes": 250
+    },
+    {
+     "name_original": "Charles Grillo",
+     "votes": 87
+    },
+    {
+     "name_original": "Donna Chandler",
+     "votes": 33
+    },
+    {
+     "name_original": "Salvatore Dampolo",
+     "votes": 26
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 6 MTG MBRS 3yrs",
+   "district_original": "Precinct 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 5,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Donald F MacDonald",
+     "votes": 167
+    },
+    {
+     "name_original": "Francis X O'Brien",
+     "votes": 160
+    },
+    {
+     "name_original": "Kristen M Sullivan",
+     "votes": 163
+    },
+    {
+     "name_original": "Phyllis A MacDonald",
+     "votes": 162
+    },
+    {
+     "name_original": "Cosmo D Cavicchio Jr",
+     "votes": 172
+    },
+    {
+     "name_original": "Caddy Maxwell Em",
+     "votes": 156
+    },
+    {
+     "name_original": "Sandra B Donovan",
+     "votes": 159
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 31,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 7 MTG MBRS 3yrs",
+   "district_original": "Precinct 7",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Christopher Ravin",
+     "votes": 148
+    },
+    {
+     "name_original": "John Meneghini",
+     "votes": 171
+    },
+    {
+     "name_original": "Vincent A Amato Jr",
+     "votes": 156
+    },
+    {
+     "name_original": "Kenneth B Glasser",
+     "votes": 168
+    },
+    {
+     "name_original": "Jodi Ann Hogan",
+     "votes": 157
+    },
+    {
+     "name_original": "Jacqueline Chaffins",
+     "votes": 153
+    },
+    {
+     "name_original": "Ralph J McKenna",
+     "votes": 22
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 8 MTG MBRS 3yrs",
+   "district_original": "Precinct 8",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Michael Farrell",
+     "votes": 265
+    },
+    {
+     "name_original": "Barbara A Flaherty",
+     "votes": 290
+    },
+    {
+     "name_original": "Matthew Hrono",
+     "votes": 284
+    },
+    {
+     "name_original": "Joseph P Shaw",
+     "votes": 271
+    },
+    {
+     "name_original": "Charlene McCarthy",
+     "votes": 285
+    },
+    {
+     "name_original": "Lynne Forbes",
+     "votes": 11
+    },
+    {
+     "name_original": "Bill Forbes",
+     "votes": 11
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 79,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 9 MTG MBRS",
+   "district_original": "Precinct 9",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 7,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Guillermo Perez",
+     "votes": 206
+    },
+    {
+     "name_original": "William G Greene Jr",
+     "votes": 214
+    },
+    {
+     "name_original": "Nicholas J Rosa",
+     "votes": 202
+    },
+    {
+     "name_original": "Carol R Rosa",
+     "votes": 202
+    },
+    {
+     "name_original": "Cynthia Keesler",
+     "votes": 204
+    },
+    {
+     "name_original": "Patricia C Flemming",
+     "votes": 213
+    },
+    {
+     "name_original": "John Mulloy",
+     "votes": 203
+    },
+    {
+     "name_original": "Justin A Damon",
+     "votes": 203
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 10 MTG MBRS 3yrs",
+   "district_original": "Precinct 10",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 5,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Katharine M Mahoney",
+     "votes": 234
+    },
+    {
+     "name_original": "David M Overton",
+     "votes": 212
+    },
+    {
+     "name_original": "Kimberly J Conway",
+     "votes": 245
+    },
+    {
+     "name_original": "Robert Peatfield",
+     "votes": 201
+    },
+    {
+     "name_original": "Eric K Gerade",
+     "votes": 207
+    },
+    {
+     "name_original": "Shawn M Kerr",
+     "votes": 205
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 32,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 11 MTG MBRS",
+   "district_original": "Precinct 11",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Thomas H Conway III",
+     "votes": 216
+    },
+    {
+     "name_original": "Meredith Lovell",
+     "votes": 199
+    },
+    {
+     "name_original": "William F King",
+     "votes": 179
+    },
+    {
+     "name_original": "Joseph Silva",
+     "votes": 41
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 85,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 3 MTG MBRS 2yrs",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 6 MTG MBR 2yrs",
+   "district_original": "Precinct 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Jennifer Normand",
+     "votes": 168
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 7 MTG MBR 2yrs",
+   "district_original": "Precinct 7",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Bartley Hogan",
+     "votes": 164
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 8 MTG MBR 2yrs",
+   "district_original": "Precinct 8",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 43,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 2 MTG MBR 1yr",
+   "district_original": "Precinct 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "John H Kleschinsky",
+     "votes": 271
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 3 MTG MBR 1yr",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Billerica",
+   "date": "2021-04-10",
+   "office_original": "PCT 4 MTG MBRS 1yr",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Billerica2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Billerica2021.pdf",
+ "ballots_cast": 3715,
+ "ballots_cast_source": "stated_in_record"
 }

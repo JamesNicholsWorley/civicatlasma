@@ -1,364 +1,364 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "SELECTMAN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "SELECTMAN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Jason M. Petraitis",
-          "votes": 420
-        },
-        {
-          "name_original": "Others",
-          "votes": 242,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jason M. Petraitis",
+     "votes": 420
     },
     {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Priscilla A. Johnson",
-          "votes": 501
-        },
-        {
-          "name_original": "Others",
-          "votes": 161,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "PLANNING BOARD",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John Tripp",
-          "votes": 398
-        },
-        {
-          "name_original": "Others",
-          "votes": 264,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Timothy Canada",
-          "votes": 373
-        },
-        {
-          "name_original": "Daniel J. Riendeau",
-          "votes": 386
-        },
-        {
-          "name_original": "Others",
-          "votes": 565,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Tonya Matthews",
-          "votes": 397
-        },
-        {
-          "name_original": "Others",
-          "votes": 265,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John Magario",
-          "votes": 422
-        },
-        {
-          "name_original": "Others",
-          "votes": 240,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "WATER COMMISSIONER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Patrick Gustafson",
-          "votes": 497
-        },
-        {
-          "name_original": "Others",
-          "votes": 165,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Ethan Melad",
-          "votes": 358
-        },
-        {
-          "name_original": "John Tripp",
-          "votes": 281
-        },
-        {
-          "name_original": "Others",
-          "votes": 23,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "CEMETERY COMMISSIONER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kirk Burnham",
-          "votes": 526
-        },
-        {
-          "name_original": "Others",
-          "votes": 136,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "LIBRARY TRUSTEES",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Betty Wuelfing",
-          "votes": 484
-        },
-        {
-          "name_original": "Carol Kelley",
-          "votes": 413
-        },
-        {
-          "name_original": "Others",
-          "votes": 427,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "PLAYGROUND COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 662,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "HOUSING AUTHORITY",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Mary Waytina",
-          "votes": 492
-        },
-        {
-          "name_original": "Carole Ryback",
-          "votes": 476
-        },
-        {
-          "name_original": "Others",
-          "votes": 356,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Donald Gillette",
-          "votes": 530
-        },
-        {
-          "name_original": "Others",
-          "votes": 132,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "CONSTABLE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Michael Hinkley",
-          "votes": 492
-        },
-        {
-          "name_original": "Others",
-          "votes": 170,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "PLAYGROUND COMMITTEE FOR 2 YEARS",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 662,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2023-05-01",
-      "office_original": "PLAYGROUND COMMITTEE FOR 1 YEAR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 662,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 242,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "NorthBrookfield2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthBrookfield2023.pdf",
-  "ballots_cast": 662,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Priscilla A. Johnson",
+     "votes": 501
+    },
+    {
+     "name_original": "Others",
+     "votes": 161,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "PLANNING BOARD",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John Tripp",
+     "votes": 398
+    },
+    {
+     "name_original": "Others",
+     "votes": 264,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Timothy Canada",
+     "votes": 373
+    },
+    {
+     "name_original": "Daniel J. Riendeau",
+     "votes": 386
+    },
+    {
+     "name_original": "Others",
+     "votes": 565,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Tonya Matthews",
+     "votes": 397
+    },
+    {
+     "name_original": "Others",
+     "votes": 265,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John Magario",
+     "votes": 422
+    },
+    {
+     "name_original": "Others",
+     "votes": 240,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "WATER COMMISSIONER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Patrick Gustafson",
+     "votes": 497
+    },
+    {
+     "name_original": "Others",
+     "votes": 165,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Ethan Melad",
+     "votes": 358
+    },
+    {
+     "name_original": "John Tripp",
+     "votes": 281
+    },
+    {
+     "name_original": "Others",
+     "votes": 23,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "CEMETERY COMMISSIONER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kirk Burnham",
+     "votes": 526
+    },
+    {
+     "name_original": "Others",
+     "votes": 136,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "LIBRARY TRUSTEES",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Betty Wuelfing",
+     "votes": 484
+    },
+    {
+     "name_original": "Carol Kelley",
+     "votes": 413
+    },
+    {
+     "name_original": "Others",
+     "votes": 427,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "PLAYGROUND COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 662,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "HOUSING AUTHORITY",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Mary Waytina",
+     "votes": 492
+    },
+    {
+     "name_original": "Carole Ryback",
+     "votes": 476
+    },
+    {
+     "name_original": "Others",
+     "votes": 356,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Donald Gillette",
+     "votes": 530
+    },
+    {
+     "name_original": "Others",
+     "votes": 132,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "CONSTABLE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Michael Hinkley",
+     "votes": 492
+    },
+    {
+     "name_original": "Others",
+     "votes": 170,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "PLAYGROUND COMMITTEE FOR 2 YEARS",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 662,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2023-05-01",
+   "office_original": "PLAYGROUND COMMITTEE FOR 1 YEAR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 662,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NorthBrookfield2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthBrookfield2023.pdf",
+ "ballots_cast": 662,
+ "ballots_cast_source": "derived_from_contests"
 }

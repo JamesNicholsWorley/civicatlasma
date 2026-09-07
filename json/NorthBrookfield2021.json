@@ -1,295 +1,295 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "SELECTMAN",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "SELECTMAN",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Tripp",
-          "votes": 454
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 176
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "John Tripp",
+     "votes": 454
     },
     {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "BOARD OF ASSESSORS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lene Guertin",
-          "votes": 481
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 149
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "PLANNING BOARD (5 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michelle Petraitis",
-          "votes": 429
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 201
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "SCHOOL COMMITTEE",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Elisabeth Melad",
-          "votes": 287
-        },
-        {
-          "name_original": "Christie Omasta",
-          "votes": 328
-        },
-        {
-          "name_original": "Ronald Ryel",
-          "votes": 325
-        },
-        {
-          "name_original": "Chris Hickman",
-          "votes": 162
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 158
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "WATER COMMISSIONER (3 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tim Nason",
-          "votes": 498
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 132
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "WATER COMMISSIONER (2 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Grace",
-          "votes": 497
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 133
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "BOARD OF HEALTH",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas Borowski",
-          "votes": 349
-        },
-        {
-          "name_original": "Justine Floria",
-          "votes": 211
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 70
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "CEMETERY COMMISSIONER",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary E Kularski",
-          "votes": 29
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 601
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "LIBRARY TRUSTEES",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Harbour Fraser Hodder",
-          "votes": 463
-        },
-        {
-          "name_original": "Thomas Skowron",
-          "votes": 462
-        },
-        {
-          "name_original": "Ellen Smith",
-          "votes": 509
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 456
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "PLAYGROUND COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Doe",
-          "votes": 494
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 136
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "HOUSING AUTHORITY (5 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Darlene Lavin",
-          "votes": 12
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 618
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "North Brookfield",
-      "date": "2021-05-03",
-      "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Caldwell",
-          "votes": 489
-        },
-        {
-          "name_original": "All Other & Blank",
-          "votes": 141
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
+     "name_original": "All Other & Blank",
+     "votes": 176
     }
-  ],
-  "_source_stem": "NorthBrookfield2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthBrookfield2021.pdf",
-  "_corrected": "2026-08-24: rebuilt from a vision read of the document; the previous parse was materially wrong. See logs/qa_vision_verdicts.csv and src/correct_vision_defects.py",
-  "_heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NORTH BROOKFIELD, MASSACHUSETTS MAY 3, 2021",
-  "document": {
-    "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NORTH BROOKFIELD, MASSACHUSETTS MAY 3, 2021",
-    "date_verbatim": "MAY 3, 2021",
-    "date_note": "",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION",
-    "is_sample_ballot": false,
-    "transcription": "read from a rendered page 2026-08-24; see src/correct_vision_defects.py"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": 630,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "BOARD OF ASSESSORS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lene Guertin",
+     "votes": 481
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 149
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "PLANNING BOARD (5 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michelle Petraitis",
+     "votes": 429
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 201
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "SCHOOL COMMITTEE",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Elisabeth Melad",
+     "votes": 287
+    },
+    {
+     "name_original": "Christie Omasta",
+     "votes": 328
+    },
+    {
+     "name_original": "Ronald Ryel",
+     "votes": 325
+    },
+    {
+     "name_original": "Chris Hickman",
+     "votes": 162
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 158
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "WATER COMMISSIONER (3 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Tim Nason",
+     "votes": 498
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 132
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "WATER COMMISSIONER (2 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Grace",
+     "votes": 497
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 133
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "BOARD OF HEALTH",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas Borowski",
+     "votes": 349
+    },
+    {
+     "name_original": "Justine Floria",
+     "votes": 211
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 70
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "CEMETERY COMMISSIONER",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary E Kularski",
+     "votes": 29
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 601
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "LIBRARY TRUSTEES",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Harbour Fraser Hodder",
+     "votes": 463
+    },
+    {
+     "name_original": "Thomas Skowron",
+     "votes": 462
+    },
+    {
+     "name_original": "Ellen Smith",
+     "votes": 509
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 456
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "PLAYGROUND COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Doe",
+     "votes": 494
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 136
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "HOUSING AUTHORITY (5 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Darlene Lavin",
+     "votes": 12
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 618
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Brookfield",
+   "date": "2021-05-03",
+   "office_original": "SOUTHERN WORCESTER COUNTY REGIONAL VOCATIONAL SCHOOL DISTRICT",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Caldwell",
+     "votes": 489
+    },
+    {
+     "name_original": "All Other & Blank",
+     "votes": 141
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NorthBrookfield2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NorthBrookfield2021.pdf",
+ "_corrected": "2026-08-24: rebuilt from a vision read of the document; the previous parse was materially wrong. See logs/qa_vision_verdicts.csv and src/correct_vision_defects.py",
+ "_heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NORTH BROOKFIELD, MASSACHUSETTS MAY 3, 2021",
+ "document": {
+  "heading_verbatim": "OFFICIAL BALLOT ANNUAL TOWN ELECTION NORTH BROOKFIELD, MASSACHUSETTS MAY 3, 2021",
+  "date_verbatim": "MAY 3, 2021",
+  "date_note": "",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION",
+  "is_sample_ballot": false,
+  "transcription": "read from a rendered page 2026-08-24; see src/correct_vision_defects.py"
+ },
+ "ballots_cast": 630,
+ "ballots_cast_source": "derived_from_contests"
 }

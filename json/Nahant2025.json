@@ -1,211 +1,211 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Board of Selectmen",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Board of Selectmen",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael P. Manning",
-          "votes": 290
-        },
-        {
-          "name_original": "Patrick O'Reilly",
-          "votes": 449
-        },
-        {
-          "name_original": "David Wilson",
-          "votes": 77
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Michael P. Manning",
+     "votes": 290
     },
     {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Barba",
-          "votes": 653
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Patrick O'Reilly",
+     "votes": 449
     },
     {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Diane Savage Dunfee",
-          "votes": 725
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Assessor - 3 years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Edward Ted Costigan",
-          "votes": 583
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Public Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Anne Broomer",
-          "votes": 611
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert J. Scanlan, Jr.",
-          "votes": 539
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "School Committee- 3 year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Beth Anderson",
-          "votes": 571
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "School Committee 2-yr. unexp",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Judith Murphy",
-          "votes": 203
-        },
-        {
-          "name_original": "Meredith Tibbo",
-          "votes": 467
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Planning Board- 5 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sheila Hambleton",
-          "votes": 627
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Planning Board- 2 year unexp.",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Cullinan",
-          "votes": 505
-        },
-        {
-          "name_original": "Scott Kirkland",
-          "votes": 177
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nahant",
-      "date": "2025-04-26",
-      "office_original": "Nahant Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan Edwards",
-          "votes": 603
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "David Wilson",
+     "votes": 77
     }
-  ],
-  "_source_stem": "Nahant2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Nahant2025.pdf",
-  "ballots_cast": 821,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Barba",
+     "votes": 653
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Diane Savage Dunfee",
+     "votes": 725
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Assessor - 3 years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Edward Ted Costigan",
+     "votes": 583
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Public Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Anne Broomer",
+     "votes": 611
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert J. Scanlan, Jr.",
+     "votes": 539
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "School Committee- 3 year",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Beth Anderson",
+     "votes": 571
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "School Committee 2-yr. unexp",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Judith Murphy",
+     "votes": 203
+    },
+    {
+     "name_original": "Meredith Tibbo",
+     "votes": 467
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Planning Board- 5 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sheila Hambleton",
+     "votes": 627
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Planning Board- 2 year unexp.",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Cullinan",
+     "votes": 505
+    },
+    {
+     "name_original": "Scott Kirkland",
+     "votes": 177
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nahant",
+   "date": "2025-04-26",
+   "office_original": "Nahant Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan Edwards",
+     "votes": 603
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Nahant2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Nahant2025.pdf",
+ "ballots_cast": 821,
+ "ballots_cast_source": "stated_in_record"
 }

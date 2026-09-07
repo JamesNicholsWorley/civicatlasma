@@ -1,206 +1,206 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Deane",
-          "votes": 42
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Powers",
-          "votes": 44
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Constables",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Byron Call",
-          "votes": 44
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Cushman Library Trustees",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Anne-Marie Mallon",
-          "votes": 49
-        },
-        {
-          "name_original": "Kimberly Garland",
-          "votes": 43
-        },
-        {
-          "name_original": "Susan Shedd",
-          "votes": 19
-        },
-        {
-          "name_original": "OPEN",
-          "votes": 0
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Powers Institute Trustees",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Greta Shores",
-          "votes": 48
-        },
-        {
-          "name_original": "Ingrid Skiff",
-          "votes": 49
-        },
-        {
-          "name_original": "Elizabeth Deck",
-          "votes": 41
-        },
-        {
-          "name_original": "OPEN",
-          "votes": 0
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Recreation Commission Vote",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Stennes",
-          "votes": 46
-        },
-        {
-          "name_original": "Erin Bernard",
-          "votes": 40
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Selectboard",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth Bordewieck",
-          "votes": 43
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Tax Collector",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mona Minor",
-          "votes": 45
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Tree Warden",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bradley Bordewieck",
-          "votes": 44
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bernardston",
-      "date": "2025-05-05",
-      "office_original": "Warner Fund Trustee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marsha Pratt",
-          "votes": 44
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "William Deane",
+     "votes": 42
     }
-  ],
-  "_source_stem": "Bernardston2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bernardston2025.pdf",
-  "ballots_cast": 56,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Powers",
+     "votes": 44
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Constables",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Byron Call",
+     "votes": 44
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Cushman Library Trustees",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Anne-Marie Mallon",
+     "votes": 49
+    },
+    {
+     "name_original": "Kimberly Garland",
+     "votes": 43
+    },
+    {
+     "name_original": "Susan Shedd",
+     "votes": 19
+    },
+    {
+     "name_original": "OPEN",
+     "votes": 0
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Powers Institute Trustees",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Greta Shores",
+     "votes": 48
+    },
+    {
+     "name_original": "Ingrid Skiff",
+     "votes": 49
+    },
+    {
+     "name_original": "Elizabeth Deck",
+     "votes": 41
+    },
+    {
+     "name_original": "OPEN",
+     "votes": 0
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Recreation Commission Vote",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer Stennes",
+     "votes": 46
+    },
+    {
+     "name_original": "Erin Bernard",
+     "votes": 40
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Selectboard",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth Bordewieck",
+     "votes": 43
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Tax Collector",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mona Minor",
+     "votes": 45
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Tree Warden",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bradley Bordewieck",
+     "votes": 44
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bernardston",
+   "date": "2025-05-05",
+   "office_original": "Warner Fund Trustee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marsha Pratt",
+     "votes": 44
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Bernardston2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Bernardston2025.pdf",
+ "ballots_cast": 56,
+ "ballots_cast_source": "stated_in_record"
 }

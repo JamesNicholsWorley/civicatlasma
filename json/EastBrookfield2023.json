@@ -1,236 +1,236 @@
 {
-  "document": {
-    "heading_verbatim": "OFFICIAL BALLOT / ANNUAL TOWN ELECTION / EAST BROOKFIELD, MASSACHUSETTS / MAY 9, 2023",
-    "election_type": "Regular",
-    "election_type_evidence": "ANNUAL TOWN ELECTION",
-    "date_verbatim": "MAY 9, 2023",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "OFFICIAL BALLOT / ANNUAL TOWN ELECTION / EAST BROOKFIELD, MASSACHUSETTS / MAY 9, 2023",
+  "election_type": "Regular",
+  "election_type_evidence": "ANNUAL TOWN ELECTION",
+  "date_verbatim": "MAY 9, 2023",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Board of Selectmen",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joe Fish",
-          "votes": 176
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Treasurer",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rae Anne Barnes",
-          "votes": 139
-        },
-        {
-          "name_original": "Nicole D. Allen",
-          "votes": 148
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan V. Jacobs",
-          "votes": 264
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ellen Morin",
-          "votes": 215
-        },
-        {
-          "name_original": "Russell A. DiBara",
-          "votes": 74
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Cemetery Commissioner",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer R. McNeaney",
-          "votes": 267
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Trustee of Shade Trees & Cemetery Funds",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer R. McNeaney",
-          "votes": 267
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Finance Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bryonny Torres",
-          "votes": 20
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Trustees of Public Library",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patricia K. O'Neil",
-          "votes": 232
-        },
-        {
-          "name_original": "Richard S. Ellery",
-          "votes": 144
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Constable",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Glenn A. Fletcher",
-          "votes": 235
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Spencer-East Brookfield Regional School District Representative",
-      "district_original": "East Brookfield",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patrick L. Lacaire",
-          "votes": 266
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "East Brookfield",
-      "date": "2023-05-09",
-      "office_original": "Spencer-East Brookfield Regional School District Representative",
-      "district_original": "Spencer",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher Lee Woodbury",
-          "votes": 155
-        },
-        {
-          "name_original": "Catherine A. Knowles",
-          "votes": 42
-        },
-        {
-          "name_original": "Melinda Lutzen O'Connor",
-          "votes": 68
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
+     "name_original": "Joe Fish",
+     "votes": 176
     }
-  ],
-  "_source_stem": "EastBrookfield2023",
-  "_source_pdf": "",
-  "ballots_cast": 297,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Treasurer",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rae Anne Barnes",
+     "votes": 139
+    },
+    {
+     "name_original": "Nicole D. Allen",
+     "votes": 148
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan V. Jacobs",
+     "votes": 264
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ellen Morin",
+     "votes": 215
+    },
+    {
+     "name_original": "Russell A. DiBara",
+     "votes": 74
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Cemetery Commissioner",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer R. McNeaney",
+     "votes": 267
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Trustee of Shade Trees & Cemetery Funds",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer R. McNeaney",
+     "votes": 267
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bryonny Torres",
+     "votes": 20
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Trustees of Public Library",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patricia K. O'Neil",
+     "votes": 232
+    },
+    {
+     "name_original": "Richard S. Ellery",
+     "votes": 144
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Glenn A. Fletcher",
+     "votes": 235
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Spencer-East Brookfield Regional School District Representative",
+   "district_original": "East Brookfield",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patrick L. Lacaire",
+     "votes": 266
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "East Brookfield",
+   "date": "2023-05-09",
+   "office_original": "Spencer-East Brookfield Regional School District Representative",
+   "district_original": "Spencer",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christopher Lee Woodbury",
+     "votes": 155
+    },
+    {
+     "name_original": "Catherine A. Knowles",
+     "votes": 42
+    },
+    {
+     "name_original": "Melinda Lutzen O'Connor",
+     "votes": 68
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "EastBrookfield2023",
+ "_source_pdf": "",
+ "ballots_cast": 297,
+ "ballots_cast_source": "stated_in_record"
 }
