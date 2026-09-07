@@ -1,687 +1,687 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "MAYOR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "MAYOR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John L Vieau",
-          "votes": 5058
-        },
-        {
-          "name_original": "Delmarina Lopez",
-          "votes": 3695
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 58,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "John L Vieau",
+     "votes": 5058
     },
     {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "ASSESSOR",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Victor Michael Anop",
-          "votes": 6338
-        },
-        {
-          "name_original": "Brian William Suchy",
-          "votes": 5957
-        },
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 5311,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Delmarina Lopez",
+     "votes": 3695
     },
     {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "CLERK",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Keith W Rattell",
-          "votes": 7146
-        },
-        {
-          "name_original": "Others",
-          "votes": 70,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1621,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
     },
     {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR AT-LARGE",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frank M Laflamme",
-          "votes": 5409
-        },
-        {
-          "name_original": "Gerard Jerry A Roy",
-          "votes": 5255
-        },
-        {
-          "name_original": "Robert Joseph Zaporowski",
-          "votes": 4993
-        },
-        {
-          "name_original": "Sean Goonan",
-          "votes": 3058
-        },
-        {
-          "name_original": "Joel David McAuliffe",
-          "votes": 3510
-        },
-        {
-          "name_original": "Timothy Joseph Hagner",
-          "votes": 4261
-        },
-        {
-          "name_original": "Others",
-          "votes": 78,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 8784,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Abigail Arriaga",
-          "votes": 570
-        },
-        {
-          "name_original": "James E Tanhauser Jr",
-          "votes": 530
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 63,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shane Brooks",
-          "votes": 694
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 180,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lucjan J Galecki",
-          "votes": 402
-        },
-        {
-          "name_original": "Frank M Goff",
-          "votes": 457
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George A Balakier",
-          "votes": 646
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 172,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Frederick T Krampits",
-          "votes": 736
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 160,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Samuel Robert Shumsky",
-          "votes": 1032
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 225,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 7",
-      "district_original": "Ward 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Courchesne",
-          "votes": 507
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 99,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 8",
-      "district_original": "Ward 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary R Labrie",
-          "votes": 831
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 133,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "COUNCILOR WARD 9",
-      "district_original": "Ward 9",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary-Elizabeth Pniak-Costello",
-          "votes": 767
-        },
-        {
-          "name_original": "John E Paquette Jr",
-          "votes": 469
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE AT-LARGE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan Ann Szentela Lopes",
-          "votes": 7043
-        },
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1726,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 1",
-      "district_original": "Ward 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Deanna Lise Rousseau",
-          "votes": 932
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 225,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 2",
-      "district_original": "Ward 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Barsalou",
-          "votes": 679
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 204,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 3",
-      "district_original": "Ward 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jason Alan Dout",
-          "votes": 730
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 173,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 4",
-      "district_original": "Ward 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sandra Ann Peret",
-          "votes": 620
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 198,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 5",
-      "district_original": "Ward 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Grace Schofield",
-          "votes": 718
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 195,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 6",
-      "district_original": "Ward 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carlton Sonny R Brooks Jr",
-          "votes": 997
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 275,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 7",
-      "district_original": "Ward 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald J Lamothe",
-          "votes": 509
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 98,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 8",
-      "district_original": "Ward 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas P Girouard",
-          "votes": 792
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 169,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "City of Chicopee",
-      "date": "2023-11-07",
-      "office_original": "SCHOOL COMMITTEE WARD 9",
-      "district_original": "Ward 9",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ronald J Benard",
-          "votes": 1012
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 223,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 58,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Chicopee2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2023.pdf",
-  "ballots_cast": 8837,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "ASSESSOR",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Victor Michael Anop",
+     "votes": 6338
+    },
+    {
+     "name_original": "Brian William Suchy",
+     "votes": 5957
+    },
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5311,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "CLERK",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Keith W Rattell",
+     "votes": 7146
+    },
+    {
+     "name_original": "Others",
+     "votes": 70,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1621,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR AT-LARGE",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Frank M Laflamme",
+     "votes": 5409
+    },
+    {
+     "name_original": "Gerard Jerry A Roy",
+     "votes": 5255
+    },
+    {
+     "name_original": "Robert Joseph Zygarowski",
+     "votes": 4993
+    },
+    {
+     "name_original": "Sean Goonan",
+     "votes": 3058
+    },
+    {
+     "name_original": "Joel David McAuliffe",
+     "votes": 3510
+    },
+    {
+     "name_original": "Timothy Joseph Wagner",
+     "votes": 4261
+    },
+    {
+     "name_original": "Others",
+     "votes": 78,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 8784,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Abigail Arriaga",
+     "votes": 570
+    },
+    {
+     "name_original": "James E Tanhauser Jr",
+     "votes": 530
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 63,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shane Brooks",
+     "votes": 694
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 180,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lucjan J Galecki",
+     "votes": 402
+    },
+    {
+     "name_original": "Frank M Goff",
+     "votes": 457
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George A Balakier",
+     "votes": 646
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 172,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Frederick T Krampits",
+     "votes": 736
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 160,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Samuel Robert Shumsky",
+     "votes": 1032
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 225,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 7",
+   "district_original": "Ward 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Courchesne",
+     "votes": 507
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 99,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 8",
+   "district_original": "Ward 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gary R Labrie",
+     "votes": 831
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 133,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "COUNCILOR WARD 9",
+   "district_original": "Ward 9",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary-Elizabeth Pniak-Costello",
+     "votes": 767
+    },
+    {
+     "name_original": "John E Paquette Jr",
+     "votes": 469
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE AT-LARGE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan Ann Szentela Lopes",
+     "votes": 7043
+    },
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1726,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 1",
+   "district_original": "Ward 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Deanna Lise Rousseau",
+     "votes": 932
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 225,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 2",
+   "district_original": "Ward 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Barsalou",
+     "votes": 679
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 204,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 3",
+   "district_original": "Ward 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jason Alan Dout",
+     "votes": 730
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 173,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 4",
+   "district_original": "Ward 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sandra Ann Peret",
+     "votes": 620
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 198,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 5",
+   "district_original": "Ward 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Grace Schofield",
+     "votes": 718
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 195,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 6",
+   "district_original": "Ward 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carlton Sonny R Brooks Jr",
+     "votes": 997
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 275,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 7",
+   "district_original": "Ward 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald J Lamothe",
+     "votes": 509
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 98,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 8",
+   "district_original": "Ward 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas P Girouard",
+     "votes": 792
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 169,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "City of Chicopee",
+   "date": "2023-11-07",
+   "office_original": "SCHOOL COMMITTEE WARD 9",
+   "district_original": "Ward 9",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ronald J Benard",
+     "votes": 1012
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 223,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Chicopee2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2023.pdf",
+ "ballots_cast": 8837,
+ "ballots_cast_source": "derived_from_contests"
 }
