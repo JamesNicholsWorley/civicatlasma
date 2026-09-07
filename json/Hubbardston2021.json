@@ -1,294 +1,294 @@
 {
- "document": {
-  "heading_verbatim": "COMMONWEALTH OF MASSACHUSETTS / TOWN OF HUBBARDSTON / Annual Town Election, June 8, 2021 / UNOFFICIAL Election Results",
-  "election_type": "Regular",
-  "election_type_evidence": "Annual Town Election",
-  "date_verbatim": "June 8, 2021",
-  "offices_on_ballot": -1,
-  "uncontested_remainder": true,
-  "uncontested_remainder_evidence": "Every other office was uncontested or drew no candidate at all",
-  "is_sample_ballot": false
- },
- "elections": [
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Select Board",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.98,
-   "candidates": [
+  "document": {
+    "heading_verbatim": "COMMONWEALTH OF MASSACHUSETTS / TOWN OF HUBBARDSTON / Annual Town Election, June 8, 2021 / UNOFFICIAL Election Results",
+    "election_type": "Regular",
+    "election_type_evidence": "Annual Town Election",
+    "date_verbatim": "June 8, 2021",
+    "offices_on_ballot": -1,
+    "uncontested_remainder": true,
+    "uncontested_remainder_evidence": "Every other office was uncontested or drew no candidate at all",
+    "is_sample_ballot": false
+  },
+  "elections": [
     {
-     "name_original": "Jeffrey L. Williams",
-     "votes": 161
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Select Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Jeffrey L. Williams",
+          "votes": 161
+        },
+        {
+          "name_original": "Heather Marie Munroe",
+          "votes": 175
+        },
+        {
+          "name_original": "Peter J. Walker",
+          "votes": 74
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Heather Marie Munroe",
-     "votes": 175
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Board of Assessors",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Jeffrey A. Young",
+          "votes": 189
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Peter J. Walker",
-     "votes": 74
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Planning Board",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "John A. DeMalia Jr.",
+          "votes": 31
+        },
+        {
+          "name_original": "Kristofer Munroe",
+          "votes": 159
+        },
+        {
+          "name_original": "Peter Jefts",
+          "votes": 62
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Others",
-     "votes": 1,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Board of Assessors",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.98,
-   "candidates": [
-    {
-     "name_original": "Jeffrey A. Young",
-     "votes": 189
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Board of Health",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Others",
-     "votes": 0,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Planning Board",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.98,
-   "candidates": [
-    {
-     "name_original": "John A. DeMalia Jr.",
-     "votes": 31
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Quabbin School Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 14,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Kristofer Munroe",
-     "votes": 159
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Finance Committee",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Peter Jefts",
-     "votes": 62
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Board of Health",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Others",
-     "votes": 16,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Quabbin School Committee",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Others",
-     "votes": 14,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Finance Committee",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Others",
-     "votes": 5,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Cemetery Commission",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.98,
-   "candidates": [
-    {
-     "name_original": "Pamela Holland Henning",
-     "votes": 196
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Cemetery Commission",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Pamela Holland Henning",
+          "votes": 196
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Others",
-     "votes": 0,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Trustees of Public Library",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 2,
-   "extraction_confidence": 0.98,
-   "candidates": [
-    {
-     "name_original": "Connie M. Strittmatter",
-     "votes": 203
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Trustees of Public Library",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 2,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Connie M. Strittmatter",
+          "votes": 203
+        },
+        {
+          "name_original": "Thomas F. Robinson",
+          "votes": 185
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Thomas F. Robinson",
-     "votes": 185
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Housing Authority",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
     {
-     "name_original": "Others",
-     "votes": 2,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Housing Authority",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
     {
-     "name_original": "Others",
-     "votes": 1,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Housing Authority",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
     {
-     "name_original": "Others",
-     "votes": 1,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Housing Authority",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.95,
-   "candidates": [
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Housing Authority",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
     {
-     "name_original": "Others",
-     "votes": 3,
-     "tally_row": true
+      "municipality": "Hubbardston",
+      "date": "2021-06-08",
+      "office_original": "Park Commissioner",
+      "district_original": "",
+      "stage": "General",
+      "type": "Regular",
+      "num_winners": 1,
+      "extraction_confidence": 0.98,
+      "candidates": [
+        {
+          "name_original": "Eric Gemborys",
+          "votes": 10
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "Hubbardston",
-   "date": "2021-06-08",
-   "office_original": "Park Commissioner",
-   "district_original": "",
-   "stage": "General",
-   "type": "Regular",
-   "num_winners": 1,
-   "extraction_confidence": 0.98,
-   "candidates": [
-    {
-     "name_original": "Eric Gemborys",
-     "votes": 10
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  }
- ],
- "_source_stem": "Hubbardston2021",
- "_source_pdf": "",
- "ballots_cast": null,
- "ballots_cast_source": "cannot_derive"
+  ],
+  "_source_stem": "Hubbardston2021",
+  "_source_pdf": "",
+  "ballots_cast": 254,
+  "ballots_cast_source": "cannot_derive"
 }
