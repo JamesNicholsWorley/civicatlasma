@@ -1,0 +1,71 @@
+name: Rebuild the defect register
+
+# `audit.html` is a static shell; `defects.js` is the data behind it. Only the
+# data ages, which is why the page could look current while listing records that
+# had been resolved a day earlier and omitting defects found since. CLAUDE.md
+# points agents at that page to find work, so a stale one sends them to work that
+# is already done.
+#
+# The generator lives in muni-harvest (see pages/README.md there) because it
+# could not live here: this repository is generated output, and the thing that
+# generates it is not. The script computes its own root two directories up and
+# reads a particular layout, so rather than fork it for CI, the layout is
+# assembled here and the script runs unchanged -- the same code the owner runs on
+# his own machine.
+#
+# Runs when the corpus changes, not on every push, or committing defects.js
+# would trigger a rebuild of defects.js.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'json/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: civicatlasma-pages
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: The corpus
+        uses: actions/checkout@v4
+
+      - name: The generator
+        uses: actions/checkout@v4
+        with:
+          repository: JamesNicholsWorley/muni-harvest
+          path: .tools
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Assemble the layout the script expects
+        run: |
+          mkdir -p work/data/inventory work/publish work/research/interface/enrollment
+          cp .tools/pages/audit_defects.py        work/research/interface/
+          cp .tools/pages/inventory/*.csv         work/data/inventory/
+          cp .tools/config/denominators.csv       work/research/interface/enrollment/
+          ln -s "$GITHUB_WORKSPACE/json"          work/publish/json
+
+      - name: Rebuild
+        run: python work/research/interface/audit_defects.py
+
+      - name: Commit it, if it changed
+        run: |
+          cp work/research/interface/defects.js defects.js
+          if git diff --quiet defects.js; then
+            echo "the register is unchanged"; exit 0
+          fi
+          git config user.name "civicatlas-qa"
+          git config user.email "jamesnicholsworleyassistant@gmail.com"
+          git add defects.js
+          git commit             -m "Rebuild the defect register against the corpus as it now stands"             -m "The register is derived from json/, and json/ moved. Rebuilt by .github/workflows/rebuild-pages.yml so the page cannot quietly age again."
+          git push origin main
