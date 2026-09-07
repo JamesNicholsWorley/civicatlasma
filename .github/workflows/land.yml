@@ -1,0 +1,49 @@
+name: Land a run's work
+
+# An unattended QA run applies corrections here and pushes them to its own
+# `claude/*` branch. Nothing merged those branches, so the published site went on
+# serving the uncorrected figures while the ledger said "applied" -- and a row
+# marked applied is never retried, so the corrections were silently lost.
+#
+# Four branches had accumulated before anyone noticed. The equivalent workflow in
+# muni-harvest has been landing that repository's branches since; this is the
+# same thing for this one.
+#
+# A push event is reliable, unlike a schedule, which is why this is not on a cron.
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: civicatlasma-land
+  cancel-in-progress: false
+
+jobs:
+  land:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Merge the branch that was just pushed
+        run: |
+          git config user.name "civicatlas-qa"
+          git config user.email "jamesnicholsworleyassistant@gmail.com"
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          if [ "$(git rev-list --count main..origin/$BRANCH)" -eq 0 ]; then
+            echo "nothing to land"; exit 0
+          fi
+          if git merge --no-edit -m "Land $BRANCH" "origin/$BRANCH"; then
+            git push origin main
+            echo "landed $BRANCH"
+          else
+            git merge --abort || true
+            echo "::warning::$BRANCH conflicts with main and was left alone. Two runs corrected the same record differently; choosing between two readings of one document is a judgement, not a merge strategy."
+          fi
