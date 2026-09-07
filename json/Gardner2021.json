@@ -1,439 +1,439 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "MAYOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "MAYOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Joseph Nicholson",
-          "votes": 2255
-        },
-        {
-          "name_original": "Peter T. Sargent",
-          "votes": 576
-        },
-        {
-          "name_original": "Sam Gallant (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Rebecca Cormier (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Carol Kamuda (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Carlene Breen (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Dana Heath (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Linda Bedinler (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Joel Pettit (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Edward A. Gravel (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Glenn Revikes (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul Deme (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Pita Hamel (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Jim Johnson (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Others (Write-ins)",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 41,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Michael Joseph Nicholson",
+     "votes": 2255
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "COUNCILLOR AT LARGE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Blanks",
-          "votes": 4635
-        },
-        {
-          "name_original": "Scott Joseph Graves",
-          "votes": 1224
-        },
-        {
-          "name_original": "Elizabeth J. Kazinskas",
-          "votes": 1896
-        },
-        {
-          "name_original": "Carolyn A. Kamuda",
-          "votes": 943
-        },
-        {
-          "name_original": "James S. Boone",
-          "votes": 1267
-        },
-        {
-          "name_original": "Ronald F. Cormier",
-          "votes": 1435
-        },
-        {
-          "name_original": "George S. Tyros",
-          "votes": 1435
-        },
-        {
-          "name_original": "Mark Patrick Monahan",
-          "votes": 905
-        },
-        {
-          "name_original": "Craig R. Cormier",
-          "votes": 1242
-        },
-        {
-          "name_original": "Scott Michael Graves",
-          "votes": 777
-        },
-        {
-          "name_original": "Judy A. Mack",
-          "votes": 1547
-        },
-        {
-          "name_original": "Nicholas Pantala (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Dana Heath (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Carlene Breen (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Scott Cordeiro (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Joel Pettit (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Steve Rockwood (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Mark Hawke (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Ozzy Osbourne (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Matthew P. Lee (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Ed Gravel (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "James Johnson (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Christine Johnson (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Others (Write-ins)",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Peter T. Sargent",
+     "votes": 576
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "WARD ONE COUNCILLOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James M. Walsh",
-          "votes": 441
-        },
-        {
-          "name_original": "John McDermott (Write-in)",
-          "votes": 2
-        },
-        {
-          "name_original": "Ernest King (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Mark Hawke (Write-in)",
-          "votes": 7
-        },
-        {
-          "name_original": "Mick Short (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Others (Write-ins)",
-          "votes": 3
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 118,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Sam Gallant (Write-in)",
+     "votes": 2
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "WARD TWO COUNCILLOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Steven W. Rockwood",
-          "votes": 301
-        },
-        {
-          "name_original": "Dana M. Heath",
-          "votes": 391
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 29,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Rebecca Cormier (Write-in)",
+     "votes": 1
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "WARD THREE COUNCILLOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nathan Boudreau",
-          "votes": 485
-        },
-        {
-          "name_original": "Joel Pettit (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Eric Gray (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul DeMao (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Randy Weidle (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 77,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Carol Kamuda (Write-in)",
+     "votes": 1
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "WARD FOUR COUNCILLOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karen G. Hardern",
-          "votes": 359
-        },
-        {
-          "name_original": "Mark Metzger Jr. (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Tim Horrigan (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Sheila Murphy (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul Demao (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 91,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Carlene Breen (Write-in)",
+     "votes": 1
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "WARD FIVE COUNCILLOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Aleksandr Dernalowicz",
-          "votes": 467
-        },
-        {
-          "name_original": "James Johnson (Write-in)",
-          "votes": 7
-        },
-        {
-          "name_original": "Herbert Ridley (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Christine Johnson (Write-in)",
-          "votes": 4
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 94,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Dana Heath (Write-in)",
+     "votes": 1
     },
     {
-      "municipality": "Gardner",
-      "date": "2021-11-02",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shannon M. Ward-Leighton",
-          "votes": 1098
-        },
-        {
-          "name_original": "Nevonya Smith",
-          "votes": 1071
-        },
-        {
-          "name_original": "Anne F. Hurst",
-          "votes": 1387
-        },
-        {
-          "name_original": "Timothy Markey",
-          "votes": 1061
-        },
-        {
-          "name_original": "Jennifer Zlotnik Pelavin",
-          "votes": 1735
-        },
-        {
-          "name_original": "Nicholas Pantala (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "James Boone (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Joel Pettit (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Joseph R. Lyman II (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Michael Wrzbski Jr. (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Jim Johnson (Write-in)",
-          "votes": 1
-        },
-        {
-          "name_original": "Others (Write-ins)",
-          "votes": 2
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2301,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Linda Bedinler (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Joel Pettit (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Edward A. Gravel (Write-in)",
+     "votes": 2
+    },
+    {
+     "name_original": "Glenn Revikes (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul Deme (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Pita Hamel (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Jim Johnson (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Others (Write-ins)",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 41,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Gardner2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gardner2021.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "COUNCILLOR AT LARGE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Blanks",
+     "votes": 4635
+    },
+    {
+     "name_original": "Scott Joseph Graves",
+     "votes": 1224
+    },
+    {
+     "name_original": "Elizabeth J. Kazinskas",
+     "votes": 1896
+    },
+    {
+     "name_original": "Carolyn A. Kamuda",
+     "votes": 943
+    },
+    {
+     "name_original": "James S. Boone",
+     "votes": 1267
+    },
+    {
+     "name_original": "Ronald F. Cormier",
+     "votes": 1435
+    },
+    {
+     "name_original": "George S. Tyros",
+     "votes": 1435
+    },
+    {
+     "name_original": "Mark Patrick Monahan",
+     "votes": 905
+    },
+    {
+     "name_original": "Craig R. Cormier",
+     "votes": 1242
+    },
+    {
+     "name_original": "Scott Michael Graves",
+     "votes": 777
+    },
+    {
+     "name_original": "Judy A. Mack",
+     "votes": 1547
+    },
+    {
+     "name_original": "Nicholas Pantala (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Dana Heath (Write-in)",
+     "votes": 2
+    },
+    {
+     "name_original": "Carlene Breen (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Scott Cordeiro (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Joel Pettit (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Steve Rockwood (Write-in)",
+     "votes": 2
+    },
+    {
+     "name_original": "Mark Hawke (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Ozzy Osbourne (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Matthew P. Lee (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Ed Gravel (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "James Johnson (Write-in)",
+     "votes": 2
+    },
+    {
+     "name_original": "Christine Johnson (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Others (Write-ins)",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "WARD ONE COUNCILLOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James M. Walsh",
+     "votes": 441
+    },
+    {
+     "name_original": "John McDermott (Write-in)",
+     "votes": 2
+    },
+    {
+     "name_original": "Ernest King (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Mark Hawke (Write-in)",
+     "votes": 7
+    },
+    {
+     "name_original": "Mick Short (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Others (Write-ins)",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 118,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "WARD TWO COUNCILLOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Steven W. Rockwood",
+     "votes": 301
+    },
+    {
+     "name_original": "Dana M. Heath",
+     "votes": 391
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 29,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "WARD THREE COUNCILLOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nathan Boudreau",
+     "votes": 485
+    },
+    {
+     "name_original": "Joel Pettit (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Eric Gray (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul DeMao (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Randy Weidle (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 77,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "WARD FOUR COUNCILLOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karen G. Hardern",
+     "votes": 359
+    },
+    {
+     "name_original": "Mark Metzger Jr. (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Tim Horrigan (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Sheila Murphy (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul Demao (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 91,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "WARD FIVE COUNCILLOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Aleksander Dernalowicz",
+     "votes": 467
+    },
+    {
+     "name_original": "James Johnson (Write-in)",
+     "votes": 7
+    },
+    {
+     "name_original": "Herbert Ridley (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Christine Johnson (Write-in)",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 94,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Gardner",
+   "date": "2021-11-02",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shannon M. Ward-Leighton",
+     "votes": 1098
+    },
+    {
+     "name_original": "Nevonya Smith",
+     "votes": 1071
+    },
+    {
+     "name_original": "Anne F. Hurst",
+     "votes": 1387
+    },
+    {
+     "name_original": "Timothy Markey",
+     "votes": 1061
+    },
+    {
+     "name_original": "Jennifer Zlotnik Pelavin",
+     "votes": 1735
+    },
+    {
+     "name_original": "Nicholas Pantala (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "James Boone (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Joel Pettit (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Joseph R. Lyman II (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Michael Wrzbski Jr. (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Jim Johnson (Write-in)",
+     "votes": 1
+    },
+    {
+     "name_original": "Others (Write-ins)",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2301,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Gardner2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Gardner2021.pdf",
+ "ballots_cast": null,
+ "ballots_cast_source": "cannot_derive"
 }

@@ -1,472 +1,472 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "MODERATOR (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "MODERATOR (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John F. Schilling",
-          "votes": 611
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "John F. Schilling",
+     "votes": 611
     },
     {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "TOWN CLERK (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hillary Conklin",
-          "votes": 509
-        },
-        {
-          "name_original": "Joanna H. Jernegan",
-          "votes": 119
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 58,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
     },
     {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "CONSTABLE (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth A. Barwick",
-          "votes": 564
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 121,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "SELECT BOARD (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Constance Alexander",
-          "votes": 444
-        },
-        {
-          "name_original": "John Gregory Martino",
-          "votes": 225
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "BOARD OF ASSESSORS (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James B. Norton",
-          "votes": 523
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 163,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "BOARD OF HEALTH (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Betsy Carnie",
-          "votes": 406
-        },
-        {
-          "name_original": "Emma Kaitlin Kristal",
-          "votes": 208
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 73,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "SCHOOL COMMITTEE (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer M. Cutrer",
-          "votes": 522
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 163,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "WATER COMMISSIONER (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David J. Schwab",
-          "votes": 567
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 120,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "WATER COMMISSIONER (1 for 2YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patrick B. Rolston",
-          "votes": 525
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 160,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "PLANNING BOARD (1 for 5YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary Bernadette Budinger-Cormie",
-          "votes": 478
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 196,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "LIBRARY BD OF TRUSTEES (3 for 3YRS)",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Peyton Gilpin",
-          "votes": 475
-        },
-        {
-          "name_original": "Jean B. Lewellyn",
-          "votes": 500
-        },
-        {
-          "name_original": "Vacancy-Failure to Elect",
-          "votes": 0
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1069,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "LIBRARY BD OF TRUSTEES (1 for 2YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Norah Anne Van Riper",
-          "votes": 509
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 176,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "FINANCE AND ADVISORY COMM (3 for 3YRS)",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ruth Konigsberg",
-          "votes": 470
-        },
-        {
-          "name_original": "John Alexander Meleney",
-          "votes": 467
-        },
-        {
-          "name_original": "Bruce J. Campbell",
-          "votes": 17
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1087,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "FINANCE AND ADVISORY COMM (1 for 2YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bruce J. Campbell",
-          "votes": 310
-        },
-        {
-          "name_original": "Richard Wayne Homans Jr.",
-          "votes": 229
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 146,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "FINANCE AND ADVISORY COMM (1 for 1YR)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas George Goulet",
-          "votes": 469
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 212,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Tisbury",
-      "date": "2026-05-12",
-      "office_original": "MARTHA'S VINEYARD LANDBANK (1 for 3YRS)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nancy Lee Weaver",
-          "votes": 534
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 153,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Tisbury2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Tisbury2026.pdf",
-  "ballots_cast": 687,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "TOWN CLERK (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "J. Hillary Conklin",
+     "votes": 509
+    },
+    {
+     "name_original": "Joanna H. Jernegan",
+     "votes": 119
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 58,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "CONSTABLE (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth A. Barwick",
+     "votes": 564
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 121,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "SELECT BOARD (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Constance Alexander",
+     "votes": 444
+    },
+    {
+     "name_original": "John Gregory Martino",
+     "votes": 225
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "BOARD OF ASSESSORS (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James B. Norton",
+     "votes": 523
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 163,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "BOARD OF HEALTH (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Betsy Carnie",
+     "votes": 406
+    },
+    {
+     "name_original": "Emma Kaitlin Kristal",
+     "votes": 208
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 73,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "SCHOOL COMMITTEE (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jennifer M. Cutrer",
+     "votes": 522
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 163,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "WATER COMMISSIONER (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David J. Schwab",
+     "votes": 567
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 120,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "WATER COMMISSIONER (1 for 2YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patrick B. Rolston",
+     "votes": 525
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 160,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "PLANNING BOARD (1 for 5YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary Bernadette Budinger-Cormie",
+     "votes": 478
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 196,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "LIBRARY BD OF TRUSTEES (3 for 3YRS)",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Peyton Gilpin",
+     "votes": 475
+    },
+    {
+     "name_original": "Jean B. Lewellyn",
+     "votes": 500
+    },
+    {
+     "name_original": "Vacancy-Failure to Elect",
+     "votes": 0
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1069,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "LIBRARY BD OF TRUSTEES (1 for 2YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Norah Anne Van Riper",
+     "votes": 509
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 176,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "FINANCE AND ADVISORY COMM (3 for 3YRS)",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ruth Konigsberg",
+     "votes": 470
+    },
+    {
+     "name_original": "John Alexander Meleney",
+     "votes": 467
+    },
+    {
+     "name_original": "Bruce J. Campbell",
+     "votes": 17
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1087,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "FINANCE AND ADVISORY COMM (1 for 2YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bruce J. Campbell",
+     "votes": 310
+    },
+    {
+     "name_original": "Richard Wayne Homans Jr.",
+     "votes": 229
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 146,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "FINANCE AND ADVISORY COMM (1 for 1YR)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas George Goulet",
+     "votes": 469
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 212,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Tisbury",
+   "date": "2026-05-12",
+   "office_original": "MARTHA'S VINEYARD LANDBANK (1 for 3YRS)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nancy Lee Weaver",
+     "votes": 534
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 153,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Tisbury2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Tisbury2026.pdf",
+ "ballots_cast": 687,
+ "ballots_cast_source": "derived_from_contests"
 }

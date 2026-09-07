@@ -1,293 +1,288 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Moderator-1Year",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Moderator-1Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William J. Gillmeister",
-          "votes": 202
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 88,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "William J. Gillmeister",
+     "votes": 202
     },
     {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Board of Assessors- 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Holly J. Chisholm",
-          "votes": 254
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 49,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
     },
     {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Water Commissioner-3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alan K. Jones",
-          "votes": 195
-        },
-        {
-          "name_original": "Marlene M. Fairbrother",
-          "votes": 81
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 29,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Cemetery Commissioner-3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Phillip R. Merriam",
-          "votes": 248
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 57,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Board of Selectmen-3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Adam J. Jolicoeur",
-          "votes": 232
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Board of Health- 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "George A. Hirtle",
-          "votes": 257
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 48,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Public Library Trustee-3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carol J. Plumb",
-          "votes": 218
-        },
-        {
-          "name_original": "Rebecca L. Morin",
-          "votes": 155
-        },
-        {
-          "name_original": "Erica Lee Robert",
-          "votes": 87
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 149,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Elementary School Committee-3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicole M. C. Chaffee",
-          "votes": 236
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 57,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Planning Board-5 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David R. Ayers",
-          "votes": 72
-        },
-        {
-          "name_original": "Christopher P. Gorman",
-          "votes": 223
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Brookfield",
-      "date": "2021-05-03",
-      "office_original": "Tantasqua Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Pamela B. Fitzgerald",
-          "votes": 127
-        },
-        {
-          "name_original": "Danielle M. Lamoureaux-Kane",
-          "votes": 144
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 34,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 88,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Brookfield2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brookfield2021.pdf",
-  "ballots_cast": 305,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Board of Assessors- 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Holly J. Chisholm",
+     "votes": 254
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 49,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Water Commissioner-3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alan K. Jones",
+     "votes": 195
+    },
+    {
+     "name_original": "Marlene M. Fairbrother",
+     "votes": 81
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 29,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Cemetery Commissioner-3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Phillip R. Merriam",
+     "votes": 248
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 57,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Board of Selectmen-3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Adam J. Jolicoeur",
+     "votes": 232
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Board of Health- 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "George A. Hirtle",
+     "votes": 257
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 48,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Public Library Trustee-3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carol J. Plumb",
+     "votes": 218
+    },
+    {
+     "name_original": "Rebecca L. Morin",
+     "votes": 155
+    },
+    {
+     "name_original": "Erica Lee Robert",
+     "votes": 87
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 149,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Elementary School Committee-3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicole M. C. Chaffee",
+     "votes": 236
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 57,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Planning Board-5 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David R. Ayers",
+     "votes": 72
+    },
+    {
+     "name_original": "Christopher P. Gorman",
+     "votes": 223
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Brookfield",
+   "date": "2021-05-03",
+   "office_original": "Tantasqua Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Pamela B. Fitzgerald",
+     "votes": 127
+    },
+    {
+     "name_original": "Danielle M. Lamoureaux-Kane",
+     "votes": 144
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 34,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Brookfield2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Brookfield2021.pdf",
+ "ballots_cast": 305,
+ "ballots_cast_source": "derived_from_contests"
 }

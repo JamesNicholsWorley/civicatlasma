@@ -1,317 +1,312 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "MODERATOR, 1 YEAR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "MODERATOR, 1 YEAR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard R Green",
-          "votes": 153
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 19,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Richard R Green",
+     "votes": 153
     },
     {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "SELECTBOARD, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald L Davenport",
-          "votes": 148
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 23,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "TOWN CLERK, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eva A Wiseman",
-          "votes": 163
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 9,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "TAX COLLECTOR, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Eva A Wiseman",
-          "votes": 162
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "TREASURER, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard E Patullo",
-          "votes": 152
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "BOARD OF ASSESSORS, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Philip J Schneider Jr",
-          "votes": 157
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 15,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "LIBRARY TRUSTEE, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathleen Hutchison",
-          "votes": 156
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "CONSTABLE, 3 YEARS",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dennis L Hackett Sr",
-          "votes": 151
-        },
-        {
-          "name_original": "Andrew Phillip Netherwood",
-          "votes": 139
-        },
-        {
-          "name_original": "Adam Edward Poulin",
-          "votes": 137
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 87,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "CEMETERY COMMISSIONER, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Duane E Mosier",
-          "votes": 153
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 19,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "PARK COMMISSIONER, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael V Salemi",
-          "votes": 147
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 25,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "PLANNING BOARD, 3 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Philip Berson",
-          "votes": 138
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 34,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "PLANNING BOARD, 5 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christina Brodeur",
-          "votes": 151
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Hampden",
-      "date": "2025-05-19",
-      "office_original": "HOUSING AUTHORITY, 5 YEARS",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amy Bilodeau",
-          "votes": 20
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 144,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 19,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Hampden2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hampden2025.pdf",
-  "ballots_cast": 172,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "SELECTBOARD, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald L Davenport",
+     "votes": 148
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 23,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "TOWN CLERK, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eva A Wiseman",
+     "votes": 163
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 9,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "TAX COLLECTOR, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Eva A Wiseman",
+     "votes": 162
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "TREASURER, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard E Patullo",
+     "votes": 152
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "BOARD OF ASSESSORS, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Philip J Schneider Jr",
+     "votes": 157
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "LIBRARY TRUSTEE, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathleen Hutchison",
+     "votes": 156
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "CONSTABLE, 3 YEARS",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dennis L Hackett Sr",
+     "votes": 151
+    },
+    {
+     "name_original": "Andrew Phillip Netherwood",
+     "votes": 139
+    },
+    {
+     "name_original": "Adam Edward Poulin",
+     "votes": 137
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 87,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "CEMETERY COMMISSIONER, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Duane E Mosier",
+     "votes": 153
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 19,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "PARK COMMISSIONER, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael V Salemi",
+     "votes": 147
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 25,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "PLANNING BOARD, 3 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Philip Berson",
+     "votes": 138
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 34,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "PLANNING BOARD, 5 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christina Brodeur",
+     "votes": 151
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Hampden",
+   "date": "2025-05-19",
+   "office_original": "HOUSING AUTHORITY, 5 YEARS",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Amy Bilodeau",
+     "votes": 20
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 144,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Hampden2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Hampden2025.pdf",
+ "ballots_cast": 172,
+ "ballots_cast_source": "derived_from_contests"
 }

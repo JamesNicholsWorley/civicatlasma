@@ -1,279 +1,279 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Town Council President",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Town Council President",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Philip Boncore",
-          "votes": 1108
-        },
-        {
-          "name_original": "James Letterie",
-          "votes": 1807
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 75,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Philip Boncore",
+     "votes": 1108
     },
     {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Councillor At Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert DeMarco",
-          "votes": 2044
-        },
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 932,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "James Letterie",
+     "votes": 1807
     },
     {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Town Councillor Precinct 1",
-      "district_original": "Precinct 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard Fucillo",
-          "votes": 411
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 139,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
     },
     {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Town Councillor Precinct 3",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hannah Belcher",
-          "votes": 235
-        },
-        {
-          "name_original": "Jeremy Mahoney-Wright",
-          "votes": 128
-        },
-        {
-          "name_original": "Amy Pascar",
-          "votes": 63
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 34,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Town Councillor Precinct 5",
-      "district_original": "Precinct 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Aiello",
-          "votes": 456
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 176,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Winthrop Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Gill",
-          "votes": 2218
-        },
-        {
-          "name_original": "Others",
-          "votes": 28,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 763,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brianna Molloy",
-          "votes": 598
-        },
-        {
-          "name_original": "Layne Pettie",
-          "votes": 853
-        },
-        {
-          "name_original": "Jennifer Powell",
-          "votes": 1370
-        },
-        {
-          "name_original": "Ellen Gallaris",
-          "votes": 443
-        },
-        {
-          "name_original": "Suzanne Leonard",
-          "votes": 1134
-        },
-        {
-          "name_original": "Celeste Heinonen",
-          "votes": 838
-        },
-        {
-          "name_original": "Julie Barry",
-          "votes": 1461
-        },
-        {
-          "name_original": "Others",
-          "votes": 26,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2204,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2021-11-02",
-      "office_original": "Trustees of Public Library",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marie Matarazzo",
-          "votes": 1274
-        },
-        {
-          "name_original": "Gillian Teixeira",
-          "votes": 1572
-        },
-        {
-          "name_original": "Alyssa True",
-          "votes": 765
-        },
-        {
-          "name_original": "Laura Marie Christopher",
-          "votes": 1059
-        },
-        {
-          "name_original": "Betty Peabody",
-          "votes": 1435
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2908,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 75,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Winthrop2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winthrop2021.pdf",
-  "ballots_cast": 3009,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Councillor At Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert DeMarco",
+     "votes": 2044
+    },
+    {
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 932,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Town Councillor Precinct 1",
+   "district_original": "Precinct 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard Fucillo",
+     "votes": 411
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 139,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Town Councillor Precinct 3",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Hannah Belcher",
+     "votes": 235
+    },
+    {
+     "name_original": "Jeremy Mahoney-Wright",
+     "votes": 128
+    },
+    {
+     "name_original": "Amy Pascar",
+     "votes": 63
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 34,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Town Councillor Precinct 5",
+   "district_original": "Precinct 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Aiello",
+     "votes": 456
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 176,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Winthrop Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Gill",
+     "votes": 2218
+    },
+    {
+     "name_original": "Others",
+     "votes": 28,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 763,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brianna Molloy",
+     "votes": 598
+    },
+    {
+     "name_original": "Layne Petrie",
+     "votes": 853
+    },
+    {
+     "name_original": "Jennifer Powell",
+     "votes": 1370
+    },
+    {
+     "name_original": "Ellen Galuris",
+     "votes": 443
+    },
+    {
+     "name_original": "Suzanne Leonard",
+     "votes": 1134
+    },
+    {
+     "name_original": "Celeste Heinonen",
+     "votes": 938
+    },
+    {
+     "name_original": "Julie Barry",
+     "votes": 1461
+    },
+    {
+     "name_original": "Others",
+     "votes": 26,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2204,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2021-11-02",
+   "office_original": "Trustees of Public Library",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marie Matarazzo",
+     "votes": 1274
+    },
+    {
+     "name_original": "Gillian Teixeira",
+     "votes": 1572
+    },
+    {
+     "name_original": "Alyssa True",
+     "votes": 765
+    },
+    {
+     "name_original": "Laura Marie Christopher",
+     "votes": 1059
+    },
+    {
+     "name_original": "Betty Peabody",
+     "votes": 1435
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2908,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Winthrop2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Winthrop2021.pdf",
+ "ballots_cast": 3009,
+ "ballots_cast_source": "derived_from_contests"
 }

@@ -1,244 +1,239 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "SELECT BOARD- 3 yrs",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "SELECT BOARD- 3 yrs",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael E Dvareckas Sr",
-          "votes": 258
-        },
-        {
-          "name_original": "Alexander S Mowatt",
-          "votes": 447
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 23,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Michael E Dvareckas Sr",
+     "votes": 258
     },
     {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "ASSESSOR - 1 year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian A Green",
-          "votes": 522
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 206,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Alexander S Mowatt",
+     "votes": 447
     },
     {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "ASSESSOR - 3 years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robin A Tarani",
-          "votes": 564
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 165,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
     },
     {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "BOARD OF HEALTH - 3 yrs",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Karen M Prucnal",
-          "votes": 548
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 182,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "PLANNING BOARD - 5 yrs",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy A Nahrwold",
-          "votes": 305
-        },
-        {
-          "name_original": "Alexander Tobin Maus",
-          "votes": 379
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 46,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "LIBRARY TRUSTEE/2 for 3 yrs",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shelley A Mitchell",
-          "votes": 550
-        },
-        {
-          "name_original": "Ruthann Rovezzi",
-          "votes": 519
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 388,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "WRSDSC - 2 for 3 yrs",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kumara Krisna Govardhan",
-          "votes": 488
-        },
-        {
-          "name_original": "Natalie Borreson",
-          "votes": 227
-        },
-        {
-          "name_original": "Matthew Lavoie",
-          "votes": 124
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 594,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Rutland",
-      "date": "2025-05-12",
-      "office_original": "SWCVSDSC",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael S Pantos",
-          "votes": 515
-        },
-        {
-          "name_original": "Others",
-          "votes": 28,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 187,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 23,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Rutland2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rutland2025.pdf",
-  "ballots_cast": 730,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "ASSESSOR - 1 year",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian A Green",
+     "votes": 522
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 206,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "ASSESSOR - 3 years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robin A Tarani",
+     "votes": 564
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 165,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "BOARD OF HEALTH - 3 yrs",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Karen M Prucnal",
+     "votes": 548
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 182,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "PLANNING BOARD - 5 yrs",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Timothy A Nahrwold",
+     "votes": 305
+    },
+    {
+     "name_original": "Alexander Tobin Maus",
+     "votes": 379
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 46,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "LIBRARY TRUSTEE/2 for 3 yrs",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shelley A Mitchell",
+     "votes": 550
+    },
+    {
+     "name_original": "Ruthann Rovezzi",
+     "votes": 519
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 388,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "WRSDSC - 2 for 3 yrs",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kumara Krisna Govardhan",
+     "votes": 488
+    },
+    {
+     "name_original": "Natalie Borreson",
+     "votes": 227
+    },
+    {
+     "name_original": "Matthew Lavoie",
+     "votes": 124
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 594,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Rutland",
+   "date": "2025-05-12",
+   "office_original": "SWCVSDSC",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael S Pantos",
+     "votes": 515
+    },
+    {
+     "name_original": "Others",
+     "votes": 28,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 187,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Rutland2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Rutland2025.pdf",
+ "ballots_cast": 730,
+ "ballots_cast_source": "derived_from_contests"
 }

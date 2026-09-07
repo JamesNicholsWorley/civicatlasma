@@ -1,720 +1,720 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Moderator (Vote for 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Moderator (Vote for 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 454,
-          "tally_row": true
-        },
-        {
-          "name_original": "Daniel F. Bruce",
-          "votes": 1309
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 454,
+     "tally_row": true
     },
     {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Select Board (Vote for 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 72,
-          "tally_row": true
-        },
-        {
-          "name_original": "Mark E. Gallivan",
-          "votes": 1090
-        },
-        {
-          "name_original": "Sarah Khatib",
-          "votes": 596
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Daniel F. Bruce",
+     "votes": 1309
     },
     {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Assessor (Voter for 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 149,
-          "tally_row": true
-        },
-        {
-          "name_original": "John R. Fisher",
-          "votes": 926
-        },
-        {
-          "name_original": "Robert B. Damish",
-          "votes": 699
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Sewer & Water (Vote for 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 518,
-          "tally_row": true
-        },
-        {
-          "name_original": "William F. Abbott",
-          "votes": 1099
-        },
-        {
-          "name_original": "John T. Hasenjaeger",
-          "votes": 715
-        },
-        {
-          "name_original": "Michael J. Ciallella",
-          "votes": 713
-        },
-        {
-          "name_original": "William T. Hamilton",
-          "votes": 498
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "School Committee (Vote for 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1175,
-          "tally_row": true
-        },
-        {
-          "name_original": "Kristen W. Syrek",
-          "votes": 1145
-        },
-        {
-          "name_original": "Adrienne Rogers",
-          "votes": 1207
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Library Trustee (Vote for 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1212,
-          "tally_row": true
-        },
-        {
-          "name_original": "Jennifer Michelle Marciello",
-          "votes": 1186
-        },
-        {
-          "name_original": "Jane M. Blair",
-          "votes": 1142
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Planning Board (Vote for 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1224,
-          "tally_row": true
-        },
-        {
-          "name_original": "John Conroy",
-          "votes": 1105
-        },
-        {
-          "name_original": "Paul C. Smith, Jr.",
-          "votes": 1207
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Housing Authority (Vote for 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 570,
-          "tally_row": true
-        },
-        {
-          "name_original": "Thomas C. White",
-          "votes": 1200
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 1",
-      "num_winners": 7,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 437,
-          "tally_row": true
-        },
-        {
-          "name_original": "Megan Rees Allman",
-          "votes": 145
-        },
-        {
-          "name_original": "Erin Michele Boyd",
-          "votes": 152
-        },
-        {
-          "name_original": "Jennifer N. Gesotis",
-          "votes": 151
-        },
-        {
-          "name_original": "John T. Hasenjaeger",
-          "votes": 101
-        },
-        {
-          "name_original": "Jennifer Jackson",
-          "votes": 152
-        },
-        {
-          "name_original": "Jillian D. Morley",
-          "votes": 137
-        },
-        {
-          "name_original": "Marc E. Litz",
-          "votes": 132
-        },
-        {
-          "name_original": "Heather L. Miller",
-          "votes": 141
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 452,
-          "tally_row": true
-        },
-        {
-          "name_original": "Thomas F. Coyne, III",
-          "votes": 155
-        },
-        {
-          "name_original": "Michael Joseph Finocchi",
-          "votes": 143
-        },
-        {
-          "name_original": "MaryEllen Jordan-Mercier",
-          "votes": 121
-        },
-        {
-          "name_original": "Nicole F. Lane",
-          "votes": 146
-        },
-        {
-          "name_original": "Deborah JA Pedersen",
-          "votes": 145
-        },
-        {
-          "name_original": "Laura E. Whelan-Bratsis",
-          "votes": 131
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2 - 1YR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 84,
-          "tally_row": true
-        },
-        {
-          "name_original": "Glenn A. Williams",
-          "votes": 175
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 3",
-      "num_winners": 7,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 569,
-          "tally_row": true
-        },
-        {
-          "name_original": "John R. Fisher",
-          "votes": 160
-        },
-        {
-          "name_original": "Justin K. Haner",
-          "votes": 137
-        },
-        {
-          "name_original": "Michael McGrath",
-          "votes": 170
-        },
-        {
-          "name_original": "Betsy Mullen",
-          "votes": 173
-        },
-        {
-          "name_original": "John M. O'Leary",
-          "votes": 152
-        },
-        {
-          "name_original": "Martha M. Ryan",
-          "votes": 183
-        },
-        {
-          "name_original": "Paul C. Smith, Jr.",
-          "votes": 170
-        },
-        {
-          "name_original": "Terri B. Thornton",
-          "votes": 167
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4",
-      "num_winners": 6,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 379,
-          "tally_row": true
-        },
-        {
-          "name_original": "William M. Carroll",
-          "votes": 137
-        },
-        {
-          "name_original": "Mary E. Cotter",
-          "votes": 135
-        },
-        {
-          "name_original": "Brad G. Hickey",
-          "votes": 134
-        },
-        {
-          "name_original": "David Melish",
-          "votes": 129
-        },
-        {
-          "name_original": "Mark E. Trudell",
-          "votes": 134
-        },
-        {
-          "name_original": "Adrienne Rogers",
-          "votes": 136
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4 - 1YR",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 169,
-          "tally_row": true
-        },
-        {
-          "name_original": "Michael Douglass McCracken",
-          "votes": 15
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 5",
-      "num_winners": 5,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        },
-        {
-          "name_original": "Craig C. Dalton",
-          "votes": 109
-        },
-        {
-          "name_original": "Peter F. Drogan",
-          "votes": 102
-        },
-        {
-          "name_original": "Bruce H. Norwell, IV",
-          "votes": 104
-        },
-        {
-          "name_original": "Mark L. Major",
-          "votes": 103
-        },
-        {
-          "name_original": "Susan Naughton",
-          "votes": 100
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 6",
-      "num_winners": 6,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 452,
-          "tally_row": true
-        },
-        {
-          "name_original": "Cassi Braithwaite",
-          "votes": 112
-        },
-        {
-          "name_original": "Amy E. DeVito",
-          "votes": 120
-        },
-        {
-          "name_original": "John M. Mosetich",
-          "votes": 112
-        },
-        {
-          "name_original": "Donna K. Sherman",
-          "votes": 101
-        },
-        {
-          "name_original": "Bernard S. Smith",
-          "votes": 111
-        },
-        {
-          "name_original": "Richard F. Buckley",
-          "votes": 87
-        },
-        {
-          "name_original": "Ellen Nora Degirolamo",
-          "votes": 109
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 7",
-      "num_winners": 6,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 544,
-          "tally_row": true
-        },
-        {
-          "name_original": "David Anderson",
-          "votes": 175
-        },
-        {
-          "name_original": "Robert J. Buckley",
-          "votes": 180
-        },
-        {
-          "name_original": "Zachary R. Conrad",
-          "votes": 174
-        },
-        {
-          "name_original": "Diane M. Culhane",
-          "votes": 181
-        },
-        {
-          "name_original": "Philip F. Czachorowski",
-          "votes": 174
-        },
-        {
-          "name_original": "Francis E. Kenney",
-          "votes": 176
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Walpole",
-      "date": "2023-06-03",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 8",
-      "num_winners": 8,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 727,
-          "tally_row": true
-        },
-        {
-          "name_original": "Brian J. Connor",
-          "votes": 116
-        },
-        {
-          "name_original": "Emidio DiVirgilio, Jr.",
-          "votes": 124
-        },
-        {
-          "name_original": "Mark E. Gallivan",
-          "votes": 130
-        },
-        {
-          "name_original": "Sarah Khatib",
-          "votes": 124
-        },
-        {
-          "name_original": "Lisa A Van der Linden",
-          "votes": 126
-        },
-        {
-          "name_original": "Daniel B. Ellard",
-          "votes": 123
-        },
-        {
-          "name_original": "Aaron Singer",
-          "votes": 116
-        },
-        {
-          "name_original": "Gerard R. Lane, Jr.",
-          "votes": 9
-        },
-        {
-          "name_original": "Others",
-          "votes": 29,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Walpole2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Walpole2023.pdf",
-  "ballots_cast": 1774,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Select Board (Vote for 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 72,
+     "tally_row": true
+    },
+    {
+     "name_original": "Mark E. Gallivan",
+     "votes": 1090
+    },
+    {
+     "name_original": "Sarah Khatib",
+     "votes": 596
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Assessor (Voter for 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 149,
+     "tally_row": true
+    },
+    {
+     "name_original": "John R. Fisher",
+     "votes": 926
+    },
+    {
+     "name_original": "Robert B. Damish",
+     "votes": 699
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Sewer & Water (Vote for 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 518,
+     "tally_row": true
+    },
+    {
+     "name_original": "William F. Abbott",
+     "votes": 1099
+    },
+    {
+     "name_original": "John T. Hasenjaeger",
+     "votes": 715
+    },
+    {
+     "name_original": "Michael J. Ciallella",
+     "votes": 713
+    },
+    {
+     "name_original": "William T. Hamilton",
+     "votes": 498
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "School Committee (Vote for 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1175,
+     "tally_row": true
+    },
+    {
+     "name_original": "Kristen W. Syrek",
+     "votes": 1145
+    },
+    {
+     "name_original": "Adrienne Rogers",
+     "votes": 1207
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Library Trustee (Vote for 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1212,
+     "tally_row": true
+    },
+    {
+     "name_original": "Jennifer Michelle Marciello",
+     "votes": 1186
+    },
+    {
+     "name_original": "Jane M. Blair",
+     "votes": 1142
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Planning Board (Vote for 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1224,
+     "tally_row": true
+    },
+    {
+     "name_original": "John Conroy",
+     "votes": 1105
+    },
+    {
+     "name_original": "Paul C. Smith, Jr.",
+     "votes": 1207
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Housing Authority (Vote for 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 570,
+     "tally_row": true
+    },
+    {
+     "name_original": "Thomas C. White",
+     "votes": 1200
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 1",
+   "num_winners": 7,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 437,
+     "tally_row": true
+    },
+    {
+     "name_original": "Megan Rees Ahigian",
+     "votes": 145
+    },
+    {
+     "name_original": "Erin Michele Boyd",
+     "votes": 152
+    },
+    {
+     "name_original": "Jennifer N. Geosits",
+     "votes": 151
+    },
+    {
+     "name_original": "John T. Hasenjaeger",
+     "votes": 101
+    },
+    {
+     "name_original": "Jennifer Jackson",
+     "votes": 152
+    },
+    {
+     "name_original": "Jillian D. Morley",
+     "votes": 137
+    },
+    {
+     "name_original": "Marc E. Litz",
+     "votes": 132
+    },
+    {
+     "name_original": "Heather L. Miller",
+     "votes": 141
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 452,
+     "tally_row": true
+    },
+    {
+     "name_original": "Thomas F. Coyne, III",
+     "votes": 155
+    },
+    {
+     "name_original": "Michael Joseph Finocchi",
+     "votes": 143
+    },
+    {
+     "name_original": "MaryEllen Jordan-Mercier",
+     "votes": 121
+    },
+    {
+     "name_original": "Nicole F. Lane",
+     "votes": 146
+    },
+    {
+     "name_original": "Deborah JA Pedersen",
+     "votes": 145
+    },
+    {
+     "name_original": "Laura E. Whelan-Bratsis",
+     "votes": 131
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2 - 1YR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 84,
+     "tally_row": true
+    },
+    {
+     "name_original": "Glenn A. Williams",
+     "votes": 175
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 3",
+   "num_winners": 7,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 569,
+     "tally_row": true
+    },
+    {
+     "name_original": "John R. Fisher",
+     "votes": 160
+    },
+    {
+     "name_original": "Justin K. Haner",
+     "votes": 137
+    },
+    {
+     "name_original": "Michael McGrath",
+     "votes": 170
+    },
+    {
+     "name_original": "Betsy Mullen",
+     "votes": 173
+    },
+    {
+     "name_original": "John M. O'Leary",
+     "votes": 152
+    },
+    {
+     "name_original": "Martha M. Ryan",
+     "votes": 183
+    },
+    {
+     "name_original": "Paul C. Smith, Jr.",
+     "votes": 170
+    },
+    {
+     "name_original": "Terri B. Thornton",
+     "votes": 167
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4",
+   "num_winners": 6,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 379,
+     "tally_row": true
+    },
+    {
+     "name_original": "William M. Carroll",
+     "votes": 137
+    },
+    {
+     "name_original": "Mary E. Cotter",
+     "votes": 135
+    },
+    {
+     "name_original": "Brad G. Hickey",
+     "votes": 134
+    },
+    {
+     "name_original": "David Melish",
+     "votes": 129
+    },
+    {
+     "name_original": "Mark E. Trudell",
+     "votes": 134
+    },
+    {
+     "name_original": "Adrienne Rogers",
+     "votes": 136
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4 - 1YR",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 169,
+     "tally_row": true
+    },
+    {
+     "name_original": "Michael Douglass McCracken",
+     "votes": 15
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 5",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    },
+    {
+     "name_original": "Craig C. Dalton",
+     "votes": 109
+    },
+    {
+     "name_original": "Peter F. Drogan",
+     "votes": 102
+    },
+    {
+     "name_original": "Bruce H. Norwell, IV",
+     "votes": 104
+    },
+    {
+     "name_original": "Mark L. Major",
+     "votes": 103
+    },
+    {
+     "name_original": "Susan Naughton",
+     "votes": 100
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 6",
+   "num_winners": 6,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 452,
+     "tally_row": true
+    },
+    {
+     "name_original": "Cassi Braithwaite",
+     "votes": 112
+    },
+    {
+     "name_original": "Amy E. DeVito",
+     "votes": 120
+    },
+    {
+     "name_original": "John M. Mosetich",
+     "votes": 112
+    },
+    {
+     "name_original": "Donna K. Sherman",
+     "votes": 101
+    },
+    {
+     "name_original": "Bernard S. Smith",
+     "votes": 111
+    },
+    {
+     "name_original": "Richard F. Buckley",
+     "votes": 87
+    },
+    {
+     "name_original": "Ellen Nora Degirolamo",
+     "votes": 109
+    },
+    {
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 7",
+   "num_winners": 6,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 544,
+     "tally_row": true
+    },
+    {
+     "name_original": "David Anderson",
+     "votes": 175
+    },
+    {
+     "name_original": "Robert J. Buckley",
+     "votes": 180
+    },
+    {
+     "name_original": "Zachary R. Conrad",
+     "votes": 174
+    },
+    {
+     "name_original": "Diane M. Culhane",
+     "votes": 181
+    },
+    {
+     "name_original": "Philip F. Czachorowski",
+     "votes": 174
+    },
+    {
+     "name_original": "Francis E. Kenney",
+     "votes": 176
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Walpole",
+   "date": "2023-06-03",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 8",
+   "num_winners": 8,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 727,
+     "tally_row": true
+    },
+    {
+     "name_original": "Brian J. Connor",
+     "votes": 116
+    },
+    {
+     "name_original": "Emidio DiVirgilio, Jr.",
+     "votes": 124
+    },
+    {
+     "name_original": "Mark E. Gallivan",
+     "votes": 130
+    },
+    {
+     "name_original": "Sarah Khatib",
+     "votes": 124
+    },
+    {
+     "name_original": "Lisa A Van der Linden",
+     "votes": 126
+    },
+    {
+     "name_original": "Daniel B. Ellard",
+     "votes": 123
+    },
+    {
+     "name_original": "Aaron Singer",
+     "votes": 116
+    },
+    {
+     "name_original": "Gerard R. Lane, Jr.",
+     "votes": 9
+    },
+    {
+     "name_original": "Others",
+     "votes": 29,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Walpole2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Walpole2023.pdf",
+ "ballots_cast": 1774,
+ "ballots_cast_source": "derived_from_contests"
 }

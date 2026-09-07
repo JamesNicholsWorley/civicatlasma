@@ -1,290 +1,285 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "SELECTMAN - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "SELECTMAN - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Daniel M. Cadogan",
-          "votes": 234
-        },
-        {
-          "name_original": "Jacquelynn M. Norrie",
-          "votes": 122
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Daniel M. Cadogan",
+     "votes": 234
     },
     {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "ASSESSOR - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ethan C. Stiles",
-          "votes": 283
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 94,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jacquelynn M. Norrie",
+     "votes": 122
     },
     {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "BOARD OF HEALTH - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Arthur G. Bloomquist",
-          "votes": 230
-        },
-        {
-          "name_original": "Kyle Justin Lambert",
-          "votes": 137
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
     },
     {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "CONSTABLE - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas F. Reese",
-          "votes": 280
-        },
-        {
-          "name_original": "Jameson Wright",
-          "votes": 61
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 408,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "FINANCE COMMITTEE - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathryn E. Shepard",
-          "votes": 267
-        },
-        {
-          "name_original": "Jon K. Wilhelmsen",
-          "votes": 240
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 246,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "FINANCE COMMITTEE - 1 Year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marilyn H. Browne",
-          "votes": 297
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 80,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "LIBRARY TRUSTEES - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jonathan R. Mulcahy",
-          "votes": 301
-        },
-        {
-          "name_original": "Rebecca Archambeault",
-          "votes": 48
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 404,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "LIBRARY TRUSTEES - 2 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rebecca Archambeault",
-          "votes": 15
-        },
-        {
-          "name_original": "Colby Leoncio",
-          "votes": 8
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 343,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "PLANNING BOARD - 5 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James E. Cohen",
-          "votes": 225
-        },
-        {
-          "name_original": "Jaquelynn M. Norrie",
-          "votes": 117
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 35,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2026-05-16",
-      "office_original": "SCHOOL COMMITTEE - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ross MacPherson",
-          "votes": 267
-        },
-        {
-          "name_original": "Robert Montgomery",
-          "votes": 270
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 217,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Plympton2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plympton2026.pdf",
-  "ballots_cast": 377,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "ASSESSOR - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ethan C. Stiles",
+     "votes": 283
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 94,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "BOARD OF HEALTH - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Arthur G. Bloomquist",
+     "votes": 230
+    },
+    {
+     "name_original": "Kyle Justin Lambert",
+     "votes": 137
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "CONSTABLE - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas F. Reese",
+     "votes": 280
+    },
+    {
+     "name_original": "Jameson Wright",
+     "votes": 61
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 408,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "FINANCE COMMITTEE - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathryn E. Shepard",
+     "votes": 267
+    },
+    {
+     "name_original": "Jon K. Wilhelmsen",
+     "votes": 240
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 246,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "FINANCE COMMITTEE - 1 Year",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marilyn H. Browne",
+     "votes": 297
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 80,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "LIBRARY TRUSTEES - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jonathan R. Mulcahy",
+     "votes": 301
+    },
+    {
+     "name_original": "Rebecca Archambeault",
+     "votes": 48
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 404,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "LIBRARY TRUSTEES - 2 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rebecca Archambeault",
+     "votes": 15
+    },
+    {
+     "name_original": "Colby Leoncio",
+     "votes": 8
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 343,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "PLANNING BOARD - 5 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James E. Cohen",
+     "votes": 225
+    },
+    {
+     "name_original": "Jaquelynn M. Norrie",
+     "votes": 117
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 35,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2026-05-16",
+   "office_original": "SCHOOL COMMITTEE - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ross MacPherson",
+     "votes": 267
+    },
+    {
+     "name_original": "Robert Montgomery",
+     "votes": 270
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 217,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Plympton2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plympton2026.pdf",
+ "ballots_cast": 377,
+ "ballots_cast_source": "derived_from_contests"
 }

@@ -1,223 +1,233 @@
 {
-  "document": {
-    "heading_verbatim": "Bohn wins New Salem Planning Board seat, besting write-in",
-    "election_type": "Regular",
-    "election_type_evidence": "Monday's election",
-    "date_verbatim": "May 5, 2022",
-    "offices_on_ballot": 11,
-    "uncontested_remainder": false,
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Bohn wins New Salem Planning Board seat, besting write-in",
+  "election_type": "Regular",
+  "election_type_evidence": "Monday's election",
+  "date_verbatim": "May 5, 2022",
+  "offices_on_ballot": 11,
+  "uncontested_remainder": false,
+  "is_sample_ballot": false,
+  "turnout_quote": "According to Town Clerk Stacy Senflug, 140 (or 16%) of the town's 831 registered voters showed up to the polls."
+ },
+ "elections": [
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Heidi Bohn",
-          "votes": 115
-        },
-        {
-          "name_original": "Ta Mara Conde",
-          "votes": 17
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Heidi Bohn",
+     "votes": 115
     },
     {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Steven Blinder",
-          "votes": 105
-        },
-        {
-          "name_original": "Barbara Doyle",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Elizabeth Devlin",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carl Seppala",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lynn Layton",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "town clerk",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stacy Senflug",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cameron Dunbar",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "constable",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Andrew Ohlson",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "assessor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Briand",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "library trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Judith Northup-Bennett",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2022-05-03",
-      "office_original": "Municipal Light Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathryn Soule-Regine",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Ta Mara Conde",
+     "votes": 17
     }
-  ],
-  "_source_stem": "NewSalem2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2022.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Steven Blinder",
+     "votes": 105
+    },
+    {
+     "name_original": "Barbara Doyle",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Elizabeth Devlin",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carl Seppala",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lynn Layton",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "town clerk",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stacy Senflug",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cameron Dunbar",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "constable",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Andrew Ohlson",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "assessor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Briand",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "library trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Judith Northup-Bennett",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2022-05-03",
+   "office_original": "Municipal Light Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathryn Soule-Regine",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewSalem2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2022.pdf",
+ "ballots_cast": 140,
+ "ballots_cast_source": "stated_in_record"
 }

@@ -1,749 +1,744 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Priest",
-          "votes": 2440
-        },
-        {
-          "name_original": "Others",
-          "votes": 53,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 862,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Jennifer Priest",
+     "votes": 2440
     },
     {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Beyer",
-          "votes": 2436
-        },
-        {
-          "name_original": "Others",
-          "votes": 25,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 894,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 53,
+     "tally_row": true
     },
     {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Espejo",
-          "votes": 2379
-        },
-        {
-          "name_original": "Nicholas Priest",
-          "votes": 2245
-        },
-        {
-          "name_original": "Others",
-          "votes": 27,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2063,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Catherine H Oneil",
-          "votes": 2398
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 948,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Melissa Massardo",
-          "votes": 2175
-        },
-        {
-          "name_original": "Christine Monaco",
-          "votes": 2074
-        },
-        {
-          "name_original": "Hilda Darian",
-          "votes": 259
-        },
-        {
-          "name_original": "Others",
-          "votes": 58,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2146,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Janice Cohen",
-          "votes": 2354
-        },
-        {
-          "name_original": "Robert Neufeld",
-          "votes": 2243
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2113,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeremy Harrington",
-          "votes": 1758
-        },
-        {
-          "name_original": "Jack Kelly",
-          "votes": 1432
-        },
-        {
-          "name_original": "Gregory Ryan",
-          "votes": 1881
-        },
-        {
-          "name_original": "Others",
-          "votes": 15,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1604,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gayle Demore",
-          "votes": 2275
-        },
-        {
-          "name_original": "Edward J Weiner",
-          "votes": 2252
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2180,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Dennis D Otis",
-          "votes": 2161
-        },
-        {
-          "name_original": "William Pepicelli",
-          "votes": 2163
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2383,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Recreation Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen A Nelson",
-          "votes": 2395
-        },
-        {
-          "name_original": "Others",
-          "votes": 9,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 952,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mimi Bix-Hylan",
-          "votes": 320
-        },
-        {
-          "name_original": "Michelle Rae Huntoon",
-          "votes": 339
-        },
-        {
-          "name_original": "Florence Leone",
-          "votes": 320
-        },
-        {
-          "name_original": "Gregory Ryan",
-          "votes": 302
-        },
-        {
-          "name_original": "Maureen Elizabeth Ryan",
-          "votes": 347
-        },
-        {
-          "name_original": "Shayan Bhattacherya",
-          "votes": 260
-        },
-        {
-          "name_original": "Shannon Robinson",
-          "votes": 312
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1284,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 1 (1 Year)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paul Coady",
-          "votes": 14
-        },
-        {
-          "name_original": "Others",
-          "votes": 56,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 519,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jorge A Andrade",
-          "votes": 165
-        },
-        {
-          "name_original": "Doug R Davison",
-          "votes": 164
-        },
-        {
-          "name_original": "Angela J Hanafin",
-          "votes": 189
-        },
-        {
-          "name_original": "Daniel J Hanafin",
-          "votes": 189
-        },
-        {
-          "name_original": "Patricia Ann O'Brien",
-          "votes": 161
-        },
-        {
-          "name_original": "Cynthia J Phillips",
-          "votes": 174
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 517,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sean P Connors",
-          "votes": 270
-        },
-        {
-          "name_original": "Christopher Hartling",
-          "votes": 273
-        },
-        {
-          "name_original": "Sharon L Lore",
-          "votes": 289
-        },
-        {
-          "name_original": "Steven Morin",
-          "votes": 242
-        },
-        {
-          "name_original": "Brian T Pupa",
-          "votes": 237
-        },
-        {
-          "name_original": "William A McCarthy",
-          "votes": 219
-        },
-        {
-          "name_original": "Martha Simon",
-          "votes": 229
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1223,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 3 (1 Year)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Young",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 37,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 460,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark V Gerbrands",
-          "votes": 268
-        },
-        {
-          "name_original": "Douglas A Hastings",
-          "votes": 283
-        },
-        {
-          "name_original": "Daniel Joel Miller",
-          "votes": 259
-        },
-        {
-          "name_original": "Christine Herter Warren",
-          "votes": 263
-        },
-        {
-          "name_original": "Kathleen A Asher",
-          "votes": 240
-        },
-        {
-          "name_original": "Wayne Root",
-          "votes": 248
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 858,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Craig William Callahan",
-          "votes": 361
-        },
-        {
-          "name_original": "Erin Jeanne Ellis",
-          "votes": 358
-        },
-        {
-          "name_original": "Phyllis B Neufeld",
-          "votes": 367
-        },
-        {
-          "name_original": "Frank Ursino",
-          "votes": 348
-        },
-        {
-          "name_original": "Wang Zi",
-          "votes": 343
-        },
-        {
-          "name_original": "William Gaffney",
-          "votes": 328
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1397,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Anthony Aloisi",
-          "votes": 295
-        },
-        {
-          "name_original": "Daniel Joseph Collins",
-          "votes": 300
-        },
-        {
-          "name_original": "Daniel R Ditucci",
-          "votes": 326
-        },
-        {
-          "name_original": "James Robert Fraczek",
-          "votes": 266
-        },
-        {
-          "name_original": "Darrell C Interess",
-          "votes": 239
-        },
-        {
-          "name_original": "William Francis Trelegan",
-          "votes": 261
-        },
-        {
-          "name_original": "Anthony Clark",
-          "votes": 280
-        },
-        {
-          "name_original": "Matthew J Denaro",
-          "votes": 382
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1243,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 7",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Adriane J Callahan",
-          "votes": 259
-        },
-        {
-          "name_original": "Cynthia H Kazanjian",
-          "votes": 249
-        },
-        {
-          "name_original": "Keri A Riley",
-          "votes": 260
-        },
-        {
-          "name_original": "Anthony John Salamone",
-          "votes": 232
-        },
-        {
-          "name_original": "Paul Shvartsman",
-          "votes": 228
-        },
-        {
-          "name_original": "Daniel R Van Camp",
-          "votes": 216
-        },
-        {
-          "name_original": "Neal A Lespasio",
-          "votes": 157
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 855,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Burlington",
-      "date": "2025-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 7 (1 Year)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Busa",
-          "votes": 285
-        },
-        {
-          "name_original": "Mark Ellis Smukler",
-          "votes": 280
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 265,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 862,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Burlington2025",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Burlington2025.pdf",
-  "ballots_cast": 3355,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Beyer",
+     "votes": 2436
+    },
+    {
+     "name_original": "Others",
+     "votes": 25,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 894,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Espejo",
+     "votes": 2379
+    },
+    {
+     "name_original": "Nicholas Priest",
+     "votes": 2245
+    },
+    {
+     "name_original": "Others",
+     "votes": 27,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2063,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Catherine H Oneil",
+     "votes": 2398
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 948,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Melissa Massardo",
+     "votes": 2175
+    },
+    {
+     "name_original": "Christine Monaco",
+     "votes": 2074
+    },
+    {
+     "name_original": "Hilda Darian",
+     "votes": 259
+    },
+    {
+     "name_original": "Others",
+     "votes": 58,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2146,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Janice Cohen",
+     "votes": 2354
+    },
+    {
+     "name_original": "Robert Neufeld",
+     "votes": 2243
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2113,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeremy Harrington",
+     "votes": 1758
+    },
+    {
+     "name_original": "Jack Kelly",
+     "votes": 1432
+    },
+    {
+     "name_original": "Gregory Ryan",
+     "votes": 1881
+    },
+    {
+     "name_original": "Others",
+     "votes": 15,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1604,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gayle Demore",
+     "votes": 2275
+    },
+    {
+     "name_original": "Edward J Weiner",
+     "votes": 2252
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2180,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Dennis D Otis",
+     "votes": 2161
+    },
+    {
+     "name_original": "William Pepicelli",
+     "votes": 2163
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2383,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Recreation Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen A Nelson",
+     "votes": 2395
+    },
+    {
+     "name_original": "Others",
+     "votes": 9,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 952,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mimi Bix-Hylan",
+     "votes": 320
+    },
+    {
+     "name_original": "Michelle Rae Huntoon",
+     "votes": 339
+    },
+    {
+     "name_original": "Florence Leone",
+     "votes": 320
+    },
+    {
+     "name_original": "Gregory Ryan",
+     "votes": 302
+    },
+    {
+     "name_original": "Maureen Elizabeth Ryan",
+     "votes": 347
+    },
+    {
+     "name_original": "Shayan Bhattacherya",
+     "votes": 260
+    },
+    {
+     "name_original": "Shannon Robinson",
+     "votes": 312
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1284,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 1 (1 Year)",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paul Coady",
+     "votes": 14
+    },
+    {
+     "name_original": "Others",
+     "votes": 56,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 519,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jorge A Andrade",
+     "votes": 165
+    },
+    {
+     "name_original": "Doug R Davison",
+     "votes": 164
+    },
+    {
+     "name_original": "Angela J Hanafin",
+     "votes": 189
+    },
+    {
+     "name_original": "Daniel J Hanafin",
+     "votes": 189
+    },
+    {
+     "name_original": "Patricia Ann O'Brien",
+     "votes": 161
+    },
+    {
+     "name_original": "Cynthia J Phillips",
+     "votes": 174
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 517,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sean P Connors",
+     "votes": 270
+    },
+    {
+     "name_original": "Christopher Hartling",
+     "votes": 273
+    },
+    {
+     "name_original": "Sharon L Lore",
+     "votes": 289
+    },
+    {
+     "name_original": "Steven Morin",
+     "votes": 242
+    },
+    {
+     "name_original": "Brian T Pupa",
+     "votes": 237
+    },
+    {
+     "name_original": "William A McCarthy",
+     "votes": 219
+    },
+    {
+     "name_original": "Martha Simon",
+     "votes": 229
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1223,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 3 (1 Year)",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Young",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 37,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 460,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mark V Gerbrands",
+     "votes": 268
+    },
+    {
+     "name_original": "Douglas A Hastings",
+     "votes": 283
+    },
+    {
+     "name_original": "Daniel Joel Miller",
+     "votes": 259
+    },
+    {
+     "name_original": "Christine Herter Warren",
+     "votes": 263
+    },
+    {
+     "name_original": "Kathleen A Asher",
+     "votes": 240
+    },
+    {
+     "name_original": "Wayne Root",
+     "votes": 248
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 858,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Craig William Callahan",
+     "votes": 361
+    },
+    {
+     "name_original": "Erin Jeanne Ellis",
+     "votes": 358
+    },
+    {
+     "name_original": "Phyllis B Neufeld",
+     "votes": 367
+    },
+    {
+     "name_original": "Frank Ursino",
+     "votes": 348
+    },
+    {
+     "name_original": "Wang Zi",
+     "votes": 343
+    },
+    {
+     "name_original": "William Gaffney",
+     "votes": 328
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1397,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Anthony Aloisi",
+     "votes": 295
+    },
+    {
+     "name_original": "Daniel Joseph Collins",
+     "votes": 300
+    },
+    {
+     "name_original": "Daniel R Ditucci",
+     "votes": 326
+    },
+    {
+     "name_original": "James Robert Fraczek",
+     "votes": 266
+    },
+    {
+     "name_original": "Darrell C Interess",
+     "votes": 239
+    },
+    {
+     "name_original": "William Francis Trelegan",
+     "votes": 261
+    },
+    {
+     "name_original": "Anthony Clark",
+     "votes": 280
+    },
+    {
+     "name_original": "Matthew J Denaro",
+     "votes": 382
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1243,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 7",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Adriane J Callahan",
+     "votes": 259
+    },
+    {
+     "name_original": "Cynthia H Kazanjian",
+     "votes": 249
+    },
+    {
+     "name_original": "Keri A Riley",
+     "votes": 260
+    },
+    {
+     "name_original": "Anthony John Salamone",
+     "votes": 232
+    },
+    {
+     "name_original": "Paul Shvartsman",
+     "votes": 228
+    },
+    {
+     "name_original": "Daniel R Van Camp",
+     "votes": 216
+    },
+    {
+     "name_original": "Neal A Lespasio",
+     "votes": 157
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 855,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Burlington",
+   "date": "2025-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 7 (1 Year)",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Busa",
+     "votes": 285
+    },
+    {
+     "name_original": "Mark Ellis Smukler",
+     "votes": 280
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 265,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Burlington2025",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Burlington2025.pdf",
+ "ballots_cast": 3355,
+ "ballots_cast_source": "derived_from_contests"
 }

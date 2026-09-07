@@ -1,1055 +1,1050 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "SELECT BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "SELECT BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lauren Morris",
-          "votes": 1049
-        },
-        {
-          "name_original": "Scott D. Carrara",
-          "votes": 1257
-        },
-        {
-          "name_original": "Stephen Cavey",
-          "votes": 1092
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 846,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 14,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Lauren Morris",
+     "votes": 1049
     },
     {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "STOUGHTON HOUSING AUTHORITY 5 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William P Larkin",
-          "votes": 1416
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 706,
-          "tally_row": true
-        },
-        {
-          "name_original": "William Pitt",
-          "votes": 1
-        },
-        {
-          "name_original": "Ann Webber",
-          "votes": 1
-        },
-        {
-          "name_original": "Jared Rose",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Michelle Frost",
-          "votes": 1
-        },
-        {
-          "name_original": "Barry Crimmins",
-          "votes": 1
-        },
-        {
-          "name_original": "Billy McNamara",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Scott D. Carrara",
+     "votes": 1257
     },
     {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "STOUGHTON HOUSING AUTHORITY 2 Year Term",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 2009,
-          "tally_row": true
-        },
-        {
-          "name_original": "William Selby",
-          "votes": 2
-        },
-        {
-          "name_original": "Steven Bonarrigo",
-          "votes": 1
-        },
-        {
-          "name_original": "William Pitt",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Buckley",
-          "votes": 3
-        },
-        {
-          "name_original": "Mark Zamanian",
-          "votes": 2
-        },
-        {
-          "name_original": "Linda Myers",
-          "votes": 2
-        },
-        {
-          "name_original": "Reginald Nunually",
-          "votes": 1
-        },
-        {
-          "name_original": "Shannon Schjolin",
-          "votes": 1
-        },
-        {
-          "name_original": "Gerry Goulston",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Wallace",
-          "votes": 2
-        },
-        {
-          "name_original": "Diane Russell",
-          "votes": 1
-        },
-        {
-          "name_original": "Marshall Reardon",
-          "votes": 1
-        },
-        {
-          "name_original": "Dawn Dino",
-          "votes": 1
-        },
-        {
-          "name_original": "John Anzivino",
-          "votes": 1
-        },
-        {
-          "name_original": "Forrest Lindwall",
-          "votes": 1
-        },
-        {
-          "name_original": "Carmella Coyne",
-          "votes": 1
-        },
-        {
-          "name_original": "Robert Cohen",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Gwen Bailey",
-          "votes": 1
-        },
-        {
-          "name_original": "Lester Davis",
-          "votes": 1
-        },
-        {
-          "name_original": "Anthony Thai",
-          "votes": 1
-        },
-        {
-          "name_original": "William Larkin",
-          "votes": 1
-        },
-        {
-          "name_original": "Damari Roman",
-          "votes": 1
-        },
-        {
-          "name_original": "Byron Knight",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Stephen Cavey",
+     "votes": 1092
     },
     {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "REDEVELOPMENT AUTHORITY (5 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 2067,
-          "tally_row": true
-        },
-        {
-          "name_original": "Peter Buckley (WR-I)",
-          "votes": 45
-        },
-        {
-          "name_original": "William Selby (WR-I)",
-          "votes": 1
-        },
-        {
-          "name_original": "William Pitt (WR-I)",
-          "votes": 1
-        },
-        {
-          "name_original": "Stanley Zoll",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Cummings",
-          "votes": 1
-        },
-        {
-          "name_original": "John Anzivino",
-          "votes": 1
-        },
-        {
-          "name_original": "Carmella Coyne",
-          "votes": 1
-        },
-        {
-          "name_original": "Joseph Mokrisky",
-          "votes": 2
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Roy Cohen",
-          "votes": 1
-        },
-        {
-          "name_original": "Donna Aywes",
-          "votes": 1
-        },
-        {
-          "name_original": "William Larkin",
-          "votes": 1
-        },
-        {
-          "name_original": "Damari Roman",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Brown",
-          "votes": 1
-        },
-        {
-          "name_original": "Byron Knight",
-          "votes": 1
-        },
-        {
-          "name_original": "Andrew Ward",
-          "votes": 1
-        },
-        {
-          "name_original": "Rose Felago",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 846,
+     "tally_row": true
     },
     {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "REDEVELOPMENT AUTHORITY (3 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 2009,
-          "tally_row": true
-        },
-        {
-          "name_original": "William Pitt",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Buckley",
-          "votes": 16
-        },
-        {
-          "name_original": "Peter Brown",
-          "votes": 1
-        },
-        {
-          "name_original": "Frances Bruttaniti",
-          "votes": 1
-        },
-        {
-          "name_original": "Peter Wallace",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Cummings",
-          "votes": 1
-        },
-        {
-          "name_original": "Carmella Coyne",
-          "votes": 1
-        },
-        {
-          "name_original": "Joseph Mokrisky",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Roy Cohen",
-          "votes": 1
-        },
-        {
-          "name_original": "Reggie Nunually",
-          "votes": 1
-        },
-        {
-          "name_original": "William Larkin",
-          "votes": 1
-        },
-        {
-          "name_original": "Damari Roman",
-          "votes": 1
-        },
-        {
-          "name_original": "Karen Powers",
-          "votes": 2
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "SCHOOL COMMITTEE (3 Years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1871,
-          "tally_row": true
-        },
-        {
-          "name_original": "Anthony Thai (WR-I)",
-          "votes": 4
-        },
-        {
-          "name_original": "Karen Powers (WR-I)",
-          "votes": 165
-        },
-        {
-          "name_original": "Jennifer Sears (WR-I)",
-          "votes": 2
-        },
-        {
-          "name_original": "Julia Swanwick",
-          "votes": 51
-        },
-        {
-          "name_original": "Lauren Mahan",
-          "votes": 1
-        },
-        {
-          "name_original": "William Selby",
-          "votes": 1
-        },
-        {
-          "name_original": "Cheryl Iverson",
-          "votes": 1
-        },
-        {
-          "name_original": "Thomas Silva",
-          "votes": 7
-        },
-        {
-          "name_original": "Beverly Pellegrino",
-          "votes": 1
-        },
-        {
-          "name_original": "David Wallace",
-          "votes": 1
-        },
-        {
-          "name_original": "Armando Barbosa",
-          "votes": 2
-        },
-        {
-          "name_original": "Rachel Lazarus",
-          "votes": 1
-        },
-        {
-          "name_original": "Charles Wasoka",
-          "votes": 1
-        },
-        {
-          "name_original": "Lindsay Webber",
-          "votes": 1
-        },
-        {
-          "name_original": "Carmella Coyne",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul Rosenblatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Laura Callis",
-          "votes": 2
-        },
-        {
-          "name_original": "Barbara Marshall",
-          "votes": 1
-        },
-        {
-          "name_original": "Lauren Morris",
-          "votes": 1
-        },
-        {
-          "name_original": "Roseann Felango",
-          "votes": 1
-        },
-        {
-          "name_original": "Susan Lyons",
-          "votes": 1
-        },
-        {
-          "name_original": "William Larkin",
-          "votes": 2
-        },
-        {
-          "name_original": "Johna Rosenblatt",
-          "votes": 2
-        },
-        {
-          "name_original": "Kelly Chaplan",
-          "votes": 2
-        },
-        {
-          "name_original": "Damari Roman",
-          "votes": 2
-        },
-        {
-          "name_original": "Byron Knight",
-          "votes": 1
-        },
-        {
-          "name_original": "Leah Abecassis",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 1",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1992,
-          "tally_row": true
-        },
-        {
-          "name_original": "Kendall Bennett",
-          "votes": 126
-        },
-        {
-          "name_original": "Richard A Parolin",
-          "votes": 117
-        },
-        {
-          "name_original": "Daniel J Pope",
-          "votes": 111
-        },
-        {
-          "name_original": "Cheryl Iverson (WR-I)",
-          "votes": 5
-        },
-        {
-          "name_original": "Erin Tibins",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul Alves",
-          "votes": 1
-        },
-        {
-          "name_original": "Jennifer Hilton",
-          "votes": 1
-        },
-        {
-          "name_original": "Chris Abate",
-          "votes": 1
-        },
-        {
-          "name_original": "Tamisha Civil",
-          "votes": 1
-        },
-        {
-          "name_original": "Reginald Nunually",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 2",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1233,
-          "tally_row": true
-        },
-        {
-          "name_original": "Philip Connors",
-          "votes": 163
-        },
-        {
-          "name_original": "Gregg Pokraka",
-          "votes": 168
-        },
-        {
-          "name_original": "John P Distefano",
-          "votes": 163
-        },
-        {
-          "name_original": "Peter E Murphy",
-          "votes": 172
-        },
-        {
-          "name_original": "Martha M Sampson",
-          "votes": 174
-        },
-        {
-          "name_original": "Denise Bronsdon",
-          "votes": 1
-        },
-        {
-          "name_original": "Kristen Pellerin",
-          "votes": 1
-        },
-        {
-          "name_original": "Charles Bonewitz",
-          "votes": 2
-        },
-        {
-          "name_original": "Robert Kramer",
-          "votes": 1
-        },
-        {
-          "name_original": "Brian C Butler",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 3",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 931,
-          "tally_row": true
-        },
-        {
-          "name_original": "Antonio M Sousa",
-          "votes": 141
-        },
-        {
-          "name_original": "Jennifer A Sears",
-          "votes": 170
-        },
-        {
-          "name_original": "Daniel Bushlow",
-          "votes": 171
-        },
-        {
-          "name_original": "Ann Elizabeth Fiske",
-          "votes": 153
-        },
-        {
-          "name_original": "David J Walsh",
-          "votes": 141
-        },
-        {
-          "name_original": "Peter Brown",
-          "votes": 139
-        },
-        {
-          "name_original": "Melisssa Ann Sousa Lynch",
-          "votes": 162
-        },
-        {
-          "name_original": "Donna Lynch Brown",
-          "votes": 132
-        },
-        {
-          "name_original": "David Nankin",
-          "votes": 1
-        },
-        {
-          "name_original": "Joseph Hannon",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 4",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1616,
-          "tally_row": true
-        },
-        {
-          "name_original": "Mark W Struck",
-          "votes": 212
-        },
-        {
-          "name_original": "James Rush",
-          "votes": 251
-        },
-        {
-          "name_original": "Carolyn J Campbell",
-          "votes": 223
-        },
-        {
-          "name_original": "Katherine A Weiss",
-          "votes": 214
-        },
-        {
-          "name_original": "Steven E Wilkerson",
-          "votes": 205
-        },
-        {
-          "name_original": "David Billo",
-          "votes": 210
-        },
-        {
-          "name_original": "Armando Barbosa (WR-I)",
-          "votes": 30
-        },
-        {
-          "name_original": "Karen Powers (WR-I)",
-          "votes": 14
-        },
-        {
-          "name_original": "Rachel Lazerus (WR-I)",
-          "votes": 7
-        },
-        {
-          "name_original": "John Stagnone",
-          "votes": 1
-        },
-        {
-          "name_original": "Dennis Medeiros",
-          "votes": 1
-        },
-        {
-          "name_original": "Denise Wallace",
-          "votes": 1
-        },
-        {
-          "name_original": "Krish Patel",
-          "votes": 1
-        },
-        {
-          "name_original": "Wesley Morgan",
-          "votes": 1
-        },
-        {
-          "name_original": "Jonathan Lazarus",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 5",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1016,
-          "tally_row": true
-        },
-        {
-          "name_original": "Lindsay Patrice Weber",
-          "votes": 153
-        },
-        {
-          "name_original": "Valerie A Cohen",
-          "votes": 164
-        },
-        {
-          "name_original": "Peter Machula",
-          "votes": 148
-        },
-        {
-          "name_original": "Antonio Fernando Pimentel",
-          "votes": 159
-        },
-        {
-          "name_original": "Danielle Lanson",
-          "votes": 141
-        },
-        {
-          "name_original": "Carmel T Drewes",
-          "votes": 136
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 14,
-          "tally_row": true
-        },
-        {
-          "name_original": "Michael Horan (WR-I)",
-          "votes": 7
-        },
-        {
-          "name_original": "Joseph Mokrisky",
-          "votes": 1
-        },
-        {
-          "name_original": "Bruce Hyatt",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 6",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1814,
-          "tally_row": true
-        },
-        {
-          "name_original": "Arnold Steven Feinberg",
-          "votes": 135
-        },
-        {
-          "name_original": "James W Gearin",
-          "votes": 122
-        },
-        {
-          "name_original": "Joseph Michael Piana",
-          "votes": 110
-        },
-        {
-          "name_original": "Slyvia E Whiting",
-          "votes": 137
-        },
-        {
-          "name_original": "Burt Durand (WR-I)",
-          "votes": 6
-        },
-        {
-          "name_original": "William Selby (WR-I)",
-          "votes": 1
-        },
-        {
-          "name_original": "Lauren Mahan (WR-I)",
-          "votes": 9
-        },
-        {
-          "name_original": "David Lurie",
-          "votes": 13
-        },
-        {
-          "name_original": "William McFadden",
-          "votes": 1
-        },
-        {
-          "name_original": "Paul Sheedy",
-          "votes": 1
-        },
-        {
-          "name_original": "Fred Minsker",
-          "votes": 1
-        },
-        {
-          "name_original": "Lynn McSweeney",
-          "votes": 1
-        },
-        {
-          "name_original": "Robert Cancelleri",
-          "votes": 1
-        },
-        {
-          "name_original": "William Pitt",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 7",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1770,
-          "tally_row": true
-        },
-        {
-          "name_original": "Piper Elanor Slowinski",
-          "votes": 132
-        },
-        {
-          "name_original": "Anthony Thai",
-          "votes": 124
-        },
-        {
-          "name_original": "Jeanette Tucker",
-          "votes": 145
-        },
-        {
-          "name_original": "Lura Akers Slowinski",
-          "votes": 122
-        },
-        {
-          "name_original": "Robin Zoll (WR-I)",
-          "votes": 13
-        },
-        {
-          "name_original": "Peter Buckley",
-          "votes": 2
-        },
-        {
-          "name_original": "James Dolan",
-          "votes": 1
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2024-04-02",
-      "office_original": "Town Meeting Representative",
-      "district_original": "Precinct 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1085,
-          "tally_row": true
-        },
-        {
-          "name_original": "Patricia Yanikoski",
-          "votes": 96
-        },
-        {
-          "name_original": "Roseanne Felago",
-          "votes": 85
-        },
-        {
-          "name_original": "Catherine A Ford",
-          "votes": 93
-        },
-        {
-          "name_original": "Richard Terry",
-          "votes": 97
-        },
-        {
-          "name_original": "Michael Hardman",
-          "votes": 79
-        },
-        {
-          "name_original": "Debra M Menz",
-          "votes": 97
-        },
-        {
-          "name_original": "Teresa Denise Tapper",
-          "votes": 85
-        },
-        {
-          "name_original": "Brook Ouro-Djobo",
-          "votes": 11
-        },
-        {
-          "name_original": "Elizabeth Worsley",
-          "votes": 11
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 14,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Stoughton2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2024.pdf",
-  "ballots_cast": 2129,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "STOUGHTON HOUSING AUTHORITY 5 Year Term",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William P Larkin",
+     "votes": 1416
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 706,
+     "tally_row": true
+    },
+    {
+     "name_original": "William Pitt",
+     "votes": 1
+    },
+    {
+     "name_original": "Ann Webber",
+     "votes": 1
+    },
+    {
+     "name_original": "Jared Rose",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Michelle Frost",
+     "votes": 1
+    },
+    {
+     "name_original": "Barry Crimmins",
+     "votes": 1
+    },
+    {
+     "name_original": "Billy McNamara",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "STOUGHTON HOUSING AUTHORITY 2 Year Term",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 2009,
+     "tally_row": true
+    },
+    {
+     "name_original": "William Selby",
+     "votes": 2
+    },
+    {
+     "name_original": "Steven Bonarrigo",
+     "votes": 1
+    },
+    {
+     "name_original": "William Pitt",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Buckley",
+     "votes": 3
+    },
+    {
+     "name_original": "Mark Zamanian",
+     "votes": 2
+    },
+    {
+     "name_original": "Linda Myers",
+     "votes": 2
+    },
+    {
+     "name_original": "Reginald Nunually",
+     "votes": 1
+    },
+    {
+     "name_original": "Shannon Schjolin",
+     "votes": 1
+    },
+    {
+     "name_original": "Gerry Goulston",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Wallace",
+     "votes": 2
+    },
+    {
+     "name_original": "Diane Russell",
+     "votes": 1
+    },
+    {
+     "name_original": "Marshall Reardon",
+     "votes": 1
+    },
+    {
+     "name_original": "Dawn Dino",
+     "votes": 1
+    },
+    {
+     "name_original": "John Anzivino",
+     "votes": 1
+    },
+    {
+     "name_original": "Forrest Lindwall",
+     "votes": 1
+    },
+    {
+     "name_original": "Carmella Coyne",
+     "votes": 1
+    },
+    {
+     "name_original": "Robert Cohen",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Gwen Bailey",
+     "votes": 1
+    },
+    {
+     "name_original": "Lester Davis",
+     "votes": 1
+    },
+    {
+     "name_original": "Anthony Thai",
+     "votes": 1
+    },
+    {
+     "name_original": "William Larkin",
+     "votes": 1
+    },
+    {
+     "name_original": "Damari Roman",
+     "votes": 1
+    },
+    {
+     "name_original": "Byron Knight",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "REDEVELOPMENT AUTHORITY (5 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 2067,
+     "tally_row": true
+    },
+    {
+     "name_original": "Peter Buckley (WR-I)",
+     "votes": 45
+    },
+    {
+     "name_original": "William Selby (WR-I)",
+     "votes": 1
+    },
+    {
+     "name_original": "William Pitt (WR-I)",
+     "votes": 1
+    },
+    {
+     "name_original": "Stanley Zoll",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Cummings",
+     "votes": 1
+    },
+    {
+     "name_original": "John Anzivino",
+     "votes": 1
+    },
+    {
+     "name_original": "Carmella Coyne",
+     "votes": 1
+    },
+    {
+     "name_original": "Joseph Mokrisky",
+     "votes": 2
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Roy Cohen",
+     "votes": 1
+    },
+    {
+     "name_original": "Donna Aywes",
+     "votes": 1
+    },
+    {
+     "name_original": "William Larkin",
+     "votes": 1
+    },
+    {
+     "name_original": "Damari Roman",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Brown",
+     "votes": 1
+    },
+    {
+     "name_original": "Byron Knight",
+     "votes": 1
+    },
+    {
+     "name_original": "Andrew Ward",
+     "votes": 1
+    },
+    {
+     "name_original": "Rose Felago",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "REDEVELOPMENT AUTHORITY (3 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 2009,
+     "tally_row": true
+    },
+    {
+     "name_original": "William Pitt",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Buckley",
+     "votes": 16
+    },
+    {
+     "name_original": "Peter Brown",
+     "votes": 1
+    },
+    {
+     "name_original": "Frances Bruttaniti",
+     "votes": 1
+    },
+    {
+     "name_original": "Peter Wallace",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Cummings",
+     "votes": 1
+    },
+    {
+     "name_original": "Carmella Coyne",
+     "votes": 1
+    },
+    {
+     "name_original": "Joseph Mokrisky",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Roy Cohen",
+     "votes": 1
+    },
+    {
+     "name_original": "Reggie Nunually",
+     "votes": 1
+    },
+    {
+     "name_original": "William Larkin",
+     "votes": 1
+    },
+    {
+     "name_original": "Damari Roman",
+     "votes": 1
+    },
+    {
+     "name_original": "Karen Powers",
+     "votes": 2
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "SCHOOL COMMITTEE (3 Years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1871,
+     "tally_row": true
+    },
+    {
+     "name_original": "Anthony Thai (WR-I)",
+     "votes": 4
+    },
+    {
+     "name_original": "Karen Powers (WR-I)",
+     "votes": 165
+    },
+    {
+     "name_original": "Jennifer Sears (WR-I)",
+     "votes": 2
+    },
+    {
+     "name_original": "Julia Swanwick",
+     "votes": 51
+    },
+    {
+     "name_original": "Lauren Mahan",
+     "votes": 1
+    },
+    {
+     "name_original": "William Selby",
+     "votes": 1
+    },
+    {
+     "name_original": "Cheryl Iverson",
+     "votes": 1
+    },
+    {
+     "name_original": "Thomas Silva",
+     "votes": 7
+    },
+    {
+     "name_original": "Beverly Pellegrino",
+     "votes": 1
+    },
+    {
+     "name_original": "David Wallace",
+     "votes": 1
+    },
+    {
+     "name_original": "Armando Barbosa",
+     "votes": 2
+    },
+    {
+     "name_original": "Rachel Lazarus",
+     "votes": 1
+    },
+    {
+     "name_original": "Charles Wasoka",
+     "votes": 1
+    },
+    {
+     "name_original": "Lindsay Webber",
+     "votes": 1
+    },
+    {
+     "name_original": "Carmella Coyne",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul Rosenblatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Laura Callis",
+     "votes": 2
+    },
+    {
+     "name_original": "Barbara Marshall",
+     "votes": 1
+    },
+    {
+     "name_original": "Lauren Morris",
+     "votes": 1
+    },
+    {
+     "name_original": "Roseann Felango",
+     "votes": 1
+    },
+    {
+     "name_original": "Susan Lyons",
+     "votes": 1
+    },
+    {
+     "name_original": "William Larkin",
+     "votes": 2
+    },
+    {
+     "name_original": "Johna Rosenblatt",
+     "votes": 2
+    },
+    {
+     "name_original": "Kelly Chaplan",
+     "votes": 2
+    },
+    {
+     "name_original": "Damari Roman",
+     "votes": 2
+    },
+    {
+     "name_original": "Byron Knight",
+     "votes": 1
+    },
+    {
+     "name_original": "Leah Abecassis",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 1",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1992,
+     "tally_row": true
+    },
+    {
+     "name_original": "Kendall Bennett",
+     "votes": 126
+    },
+    {
+     "name_original": "Richard A Parolin",
+     "votes": 117
+    },
+    {
+     "name_original": "Daniel J Pope",
+     "votes": 111
+    },
+    {
+     "name_original": "Cheryl Iverson (WR-I)",
+     "votes": 5
+    },
+    {
+     "name_original": "Erin Tibins",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul Alves",
+     "votes": 1
+    },
+    {
+     "name_original": "Jennifer Hilton",
+     "votes": 1
+    },
+    {
+     "name_original": "Chris Abate",
+     "votes": 1
+    },
+    {
+     "name_original": "Tamisha Civil",
+     "votes": 1
+    },
+    {
+     "name_original": "Reginald Nunually",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1233,
+     "tally_row": true
+    },
+    {
+     "name_original": "Philip Connors",
+     "votes": 163
+    },
+    {
+     "name_original": "Gregg Pokraka",
+     "votes": 168
+    },
+    {
+     "name_original": "John P Distefano",
+     "votes": 163
+    },
+    {
+     "name_original": "Peter E Murphy",
+     "votes": 172
+    },
+    {
+     "name_original": "Martha M Sampson",
+     "votes": 174
+    },
+    {
+     "name_original": "Denise Bronsdon",
+     "votes": 1
+    },
+    {
+     "name_original": "Kristen Pellerin",
+     "votes": 1
+    },
+    {
+     "name_original": "Charles Bonewitz",
+     "votes": 2
+    },
+    {
+     "name_original": "Robert Kramer",
+     "votes": 1
+    },
+    {
+     "name_original": "Brian C Butler",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 3",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 931,
+     "tally_row": true
+    },
+    {
+     "name_original": "Antonio M Sousa",
+     "votes": 141
+    },
+    {
+     "name_original": "Jennifer A Sears",
+     "votes": 170
+    },
+    {
+     "name_original": "Daniel Bushlow",
+     "votes": 171
+    },
+    {
+     "name_original": "Ann Elizabeth Fiske",
+     "votes": 153
+    },
+    {
+     "name_original": "David J Walsh",
+     "votes": 141
+    },
+    {
+     "name_original": "Peter Brown",
+     "votes": 139
+    },
+    {
+     "name_original": "Melisssa Ann Sousa Lynch",
+     "votes": 162
+    },
+    {
+     "name_original": "Donna Lynch Brown",
+     "votes": 132
+    },
+    {
+     "name_original": "David Nankin",
+     "votes": 1
+    },
+    {
+     "name_original": "Joseph Hannon",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1616,
+     "tally_row": true
+    },
+    {
+     "name_original": "Mark W Struck",
+     "votes": 212
+    },
+    {
+     "name_original": "James Rush",
+     "votes": 251
+    },
+    {
+     "name_original": "Carolyn J Campbell",
+     "votes": 223
+    },
+    {
+     "name_original": "Katherine A Weiss",
+     "votes": 214
+    },
+    {
+     "name_original": "Steven E Wilkerson",
+     "votes": 205
+    },
+    {
+     "name_original": "David Billo",
+     "votes": 210
+    },
+    {
+     "name_original": "Armando Barbosa (WR-I)",
+     "votes": 30
+    },
+    {
+     "name_original": "Karen Powers (WR-I)",
+     "votes": 14
+    },
+    {
+     "name_original": "Rachel Lazerus (WR-I)",
+     "votes": 7
+    },
+    {
+     "name_original": "John Stagnone",
+     "votes": 1
+    },
+    {
+     "name_original": "Dennis Medeiros",
+     "votes": 1
+    },
+    {
+     "name_original": "Denise Wallace",
+     "votes": 1
+    },
+    {
+     "name_original": "Krish Patel",
+     "votes": 1
+    },
+    {
+     "name_original": "Wesley Morgan",
+     "votes": 1
+    },
+    {
+     "name_original": "Jonathan Lazarus",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 5",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1016,
+     "tally_row": true
+    },
+    {
+     "name_original": "Lindsay Patrice Weber",
+     "votes": 153
+    },
+    {
+     "name_original": "Valerie A Cohen",
+     "votes": 164
+    },
+    {
+     "name_original": "Peter Machula",
+     "votes": 148
+    },
+    {
+     "name_original": "Antonio Fernando Pimentel",
+     "votes": 159
+    },
+    {
+     "name_original": "Danielle Lanson",
+     "votes": 141
+    },
+    {
+     "name_original": "Carmel T Drewes",
+     "votes": 136
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 14,
+     "tally_row": true
+    },
+    {
+     "name_original": "Michael Horan (WR-I)",
+     "votes": 7
+    },
+    {
+     "name_original": "Joseph Mokrisky",
+     "votes": 1
+    },
+    {
+     "name_original": "Bruce Hyatt",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 6",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1814,
+     "tally_row": true
+    },
+    {
+     "name_original": "Arnold Steven Feinberg",
+     "votes": 135
+    },
+    {
+     "name_original": "James W Gearin",
+     "votes": 122
+    },
+    {
+     "name_original": "Joseph Michael Piana",
+     "votes": 110
+    },
+    {
+     "name_original": "Slyvia E Whiting",
+     "votes": 137
+    },
+    {
+     "name_original": "Burt Durand (WR-I)",
+     "votes": 6
+    },
+    {
+     "name_original": "William Selby (WR-I)",
+     "votes": 1
+    },
+    {
+     "name_original": "Lauren Mahan (WR-I)",
+     "votes": 9
+    },
+    {
+     "name_original": "David Lurie",
+     "votes": 13
+    },
+    {
+     "name_original": "William McFadden",
+     "votes": 1
+    },
+    {
+     "name_original": "Paul Sheedy",
+     "votes": 1
+    },
+    {
+     "name_original": "Fred Minsker",
+     "votes": 1
+    },
+    {
+     "name_original": "Lynn McSweeney",
+     "votes": 1
+    },
+    {
+     "name_original": "Robert Cancelleri",
+     "votes": 1
+    },
+    {
+     "name_original": "William Pitt",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 7",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1770,
+     "tally_row": true
+    },
+    {
+     "name_original": "Piper Elanor Slowinski",
+     "votes": 132
+    },
+    {
+     "name_original": "Anthony Thai",
+     "votes": 124
+    },
+    {
+     "name_original": "Jeanette Tucker",
+     "votes": 145
+    },
+    {
+     "name_original": "Lura Akers Slowinski",
+     "votes": 122
+    },
+    {
+     "name_original": "Robin Zoll (WR-I)",
+     "votes": 13
+    },
+    {
+     "name_original": "Peter Buckley",
+     "votes": 2
+    },
+    {
+     "name_original": "James Dolan",
+     "votes": 1
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2024-04-02",
+   "office_original": "Town Meeting Representative",
+   "district_original": "Precinct 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1085,
+     "tally_row": true
+    },
+    {
+     "name_original": "Patricia Yanikoski",
+     "votes": 96
+    },
+    {
+     "name_original": "Roseanne Felago",
+     "votes": 85
+    },
+    {
+     "name_original": "Catherine A Ford",
+     "votes": 93
+    },
+    {
+     "name_original": "Richard Terry",
+     "votes": 97
+    },
+    {
+     "name_original": "Michael Hardman",
+     "votes": 79
+    },
+    {
+     "name_original": "Debra M Menz",
+     "votes": 97
+    },
+    {
+     "name_original": "Teresa Denise Tapper",
+     "votes": 85
+    },
+    {
+     "name_original": "Brook Ouro-Djobo",
+     "votes": 11
+    },
+    {
+     "name_original": "Elizabeth Worsley",
+     "votes": 11
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Stoughton2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2024.pdf",
+ "ballots_cast": 2129,
+ "ballots_cast_source": "derived_from_contests"
 }

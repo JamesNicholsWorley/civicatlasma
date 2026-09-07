@@ -1,599 +1,599 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "SELECT BOARD",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "SELECT BOARD",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Lauren J Morris",
-          "votes": 592
-        },
-        {
-          "name_original": "Debra C Roberts",
-          "votes": 764
-        },
-        {
-          "name_original": "Louis F Gitto",
-          "votes": 726
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 524,
-          "tally_row": true
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Lauren J Morris",
+     "votes": 592
     },
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "Housing Authority",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1246,
-          "tally_row": true
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 39,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 20,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Debra C Roberts",
+     "votes": 764
     },
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "REDEVELOPMENT AUTHORITY",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Robert H Desmond Jr.",
-          "votes": 888
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 415,
-          "tally_row": true
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Louis F Gitto",
+     "votes": 726
     },
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "School Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Armando Rodrigues Barbosa",
-          "votes": 786
-        },
-        {
-          "name_original": "Christine A Shannon",
-          "votes": 827
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 985,
-          "tally_row": true
-        },
-        {
-          "name_original": "Tabitha Brooks",
-          "votes": 3
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 524,
+     "tally_row": true
     },
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Robert E Mullen Jr",
-          "votes": 949
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 354,
-          "tally_row": true
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
     },
     {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT",
-      "district_original": "Precinct 1",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1076,
-          "tally_row": true
-        },
-        {
-          "name_original": "Elliot W Hansen",
-          "votes": 79
-        },
-        {
-          "name_original": "Mark E Zamanian",
-          "votes": 78
-        },
-        {
-          "name_original": "Rosemarie Eckler",
-          "votes": 77
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 2",
-      "district_original": "Precinct 2",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 709,
-          "tally_row": true
-        },
-        {
-          "name_original": "Lisa M Lyons",
-          "votes": 96
-        },
-        {
-          "name_original": "Joaquin J Soares",
-          "votes": 90
-        },
-        {
-          "name_original": "Lawrence E Sauer",
-          "votes": 94
-        },
-        {
-          "name_original": "Ian Turlin",
-          "votes": 90
-        },
-        {
-          "name_original": "Jeffrey C Blacker",
-          "votes": 103
-        },
-        {
-          "name_original": "Edward P Quigley",
-          "votes": 103
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Elizabeth Giordano",
-          "votes": 13
-        },
-        {
-          "name_original": "Meryl Eisenstein",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 3",
-      "district_original": "Precinct 3",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 521,
-          "tally_row": true
-        },
-        {
-          "name_original": "Lester A Davis",
-          "votes": 89
-        },
-        {
-          "name_original": "Denise Walsh",
-          "votes": 90
-        },
-        {
-          "name_original": "Brian J Holmes",
-          "votes": 109
-        },
-        {
-          "name_original": "John M Roch",
-          "votes": 82
-        },
-        {
-          "name_original": "Elizabeth R Leiber",
-          "votes": 76
-        },
-        {
-          "name_original": "John R Walsh",
-          "votes": 87
-        },
-        {
-          "name_original": "Paul A Beliveau",
-          "votes": 82
-        },
-        {
-          "name_original": "Matthew Emile Callis",
-          "votes": 75
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 4",
-      "district_original": "Precinct 4",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 979,
-          "tally_row": true
-        },
-        {
-          "name_original": "Ellen Hahn",
-          "votes": 134
-        },
-        {
-          "name_original": "Gerald J Mcdonald",
-          "votes": 163
-        },
-        {
-          "name_original": "Steven E Hahn",
-          "votes": 131
-        },
-        {
-          "name_original": "Alicia Rinaldi",
-          "votes": 132
-        },
-        {
-          "name_original": "Amy F Puliafco",
-          "votes": 137
-        },
-        {
-          "name_original": "Davina R Owens",
-          "votes": 142
-        },
-        {
-          "name_original": "Scott F Heller",
-          "votes": 140
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Armando Barbosa",
-          "votes": 13
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 5",
-      "district_original": "Precinct 5",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 898,
-          "tally_row": true
-        },
-        {
-          "name_original": "Linda J Rinaldi",
-          "votes": 101
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Valerie Cohn",
-          "votes": 10
-        },
-        {
-          "name_original": "Margaret Di Natatle",
-          "votes": 16
-        },
-        {
-          "name_original": "Eileen Maguire",
-          "votes": 16
-        },
-        {
-          "name_original": "Thomas Fitzgerald",
-          "votes": 15
-        },
-        {
-          "name_original": "Neil Vale",
-          "votes": 17
-        },
-        {
-          "name_original": "Marino Billini",
-          "votes": 12
-        },
-        {
-          "name_original": "Scott Debus",
-          "votes": 11
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 6",
-      "district_original": "Precinct 6",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1083,
-          "tally_row": true
-        },
-        {
-          "name_original": "Robert Kirby",
-          "votes": 92
-        },
-        {
-          "name_original": "Edward Starr",
-          "votes": 87
-        },
-        {
-          "name_original": "Janet L Weinstein",
-          "votes": 97
-        },
-        {
-          "name_original": "Heather S Kirby",
-          "votes": 92
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Wolfe Vu",
-          "votes": 5
-        },
-        {
-          "name_original": "Katherine Flynn-McFadden",
-          "votes": 4
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 7",
-      "district_original": "Precinct 7",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 1390,
-          "tally_row": true
-        },
-        {
-          "name_original": "John Rosenblatt",
-          "votes": 99
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Winshell Laguerre",
-          "votes": 14
-        },
-        {
-          "name_original": "Lisa Perkins",
-          "votes": 14
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2023-04-04",
-      "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 8",
-      "district_original": "Precinct 8",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Blanks",
-          "votes": 543,
-          "tally_row": true
-        },
-        {
-          "name_original": "Frank Lyons",
-          "votes": 73
-        },
-        {
-          "name_original": "Carin Joyce Klipp",
-          "votes": 70
-        },
-        {
-          "name_original": "Write-Ins",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Catherine A Ford",
-          "votes": 0
-        },
-        {
-          "name_original": "Christine Wilbur",
-          "votes": 14
-        },
-        {
-          "name_original": "Brooks Orjobo",
-          "votes": 10
-        },
-        {
-          "name_original": "Stephen Page",
-          "votes": 11
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Stoughton2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2023.pdf",
-  "ballots_cast": 1305,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "Housing Authority",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1246,
+     "tally_row": true
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 39,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 20,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "REDEVELOPMENT AUTHORITY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Robert H Desmond Jr.",
+     "votes": 888
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 415,
+     "tally_row": true
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "School Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Armando Rodrigues Barbosa",
+     "votes": 786
+    },
+    {
+     "name_original": "Christine A Shannon",
+     "votes": 827
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 985,
+     "tally_row": true
+    },
+    {
+     "name_original": "Tabitha Brooks",
+     "votes": 3
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Robert E Mullen Jr",
+     "votes": 949
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 354,
+     "tally_row": true
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT",
+   "district_original": "Precinct 1",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1076,
+     "tally_row": true
+    },
+    {
+     "name_original": "Elliot W Hansen",
+     "votes": 79
+    },
+    {
+     "name_original": "Mark E Zamanian",
+     "votes": 78
+    },
+    {
+     "name_original": "Rosemarie Eckler",
+     "votes": 77
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 2",
+   "district_original": "Precinct 2",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 709,
+     "tally_row": true
+    },
+    {
+     "name_original": "Lisa M Lyons",
+     "votes": 96
+    },
+    {
+     "name_original": "Joaquin J Soares",
+     "votes": 90
+    },
+    {
+     "name_original": "Lawrence E Sauer",
+     "votes": 94
+    },
+    {
+     "name_original": "Ian Turlin",
+     "votes": 90
+    },
+    {
+     "name_original": "Jeffrey C Blacker",
+     "votes": 103
+    },
+    {
+     "name_original": "Edward P Quigley",
+     "votes": 103
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Elizabeth Giordano",
+     "votes": 13
+    },
+    {
+     "name_original": "Meryl Eisenstein",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 3",
+   "district_original": "Precinct 3",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 521,
+     "tally_row": true
+    },
+    {
+     "name_original": "Lester A Davis",
+     "votes": 89
+    },
+    {
+     "name_original": "Denise Walsh",
+     "votes": 90
+    },
+    {
+     "name_original": "Brian J Holmes",
+     "votes": 109
+    },
+    {
+     "name_original": "John M Roch",
+     "votes": 82
+    },
+    {
+     "name_original": "Elizabeth R Leiber",
+     "votes": 76
+    },
+    {
+     "name_original": "John R Walsh",
+     "votes": 87
+    },
+    {
+     "name_original": "Paul A Beliveau",
+     "votes": 82
+    },
+    {
+     "name_original": "Matthew Emile Callis",
+     "votes": 75
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 4",
+   "district_original": "Precinct 4",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 979,
+     "tally_row": true
+    },
+    {
+     "name_original": "Ellen Hahn",
+     "votes": 134
+    },
+    {
+     "name_original": "Gerald J Mcdonald",
+     "votes": 163
+    },
+    {
+     "name_original": "Steven E Hahn",
+     "votes": 131
+    },
+    {
+     "name_original": "Alicia Rinaldi",
+     "votes": 132
+    },
+    {
+     "name_original": "Amy F Puliafico",
+     "votes": 137
+    },
+    {
+     "name_original": "Davina R Owens",
+     "votes": 142
+    },
+    {
+     "name_original": "Scott F Heller",
+     "votes": 140
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Armando Barbosa",
+     "votes": 13
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 5",
+   "district_original": "Precinct 5",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 898,
+     "tally_row": true
+    },
+    {
+     "name_original": "Linda J Rinaldi",
+     "votes": 101
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Valerie Cohn",
+     "votes": 10
+    },
+    {
+     "name_original": "Margaret Di Natatle",
+     "votes": 16
+    },
+    {
+     "name_original": "Eileen Maguire",
+     "votes": 16
+    },
+    {
+     "name_original": "Thomas Fitzgerald",
+     "votes": 15
+    },
+    {
+     "name_original": "Neil Vale",
+     "votes": 17
+    },
+    {
+     "name_original": "Marino Billini",
+     "votes": 12
+    },
+    {
+     "name_original": "Scott Debus",
+     "votes": 11
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 6",
+   "district_original": "Precinct 6",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1083,
+     "tally_row": true
+    },
+    {
+     "name_original": "Robert Kirby",
+     "votes": 92
+    },
+    {
+     "name_original": "Edward Starr",
+     "votes": 87
+    },
+    {
+     "name_original": "Janet L Weinstein",
+     "votes": 97
+    },
+    {
+     "name_original": "Heather S Kirby",
+     "votes": 92
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Wolfe Vu",
+     "votes": 5
+    },
+    {
+     "name_original": "Katherine Flynn-McFadden",
+     "votes": 4
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 7",
+   "district_original": "Precinct 7",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1390,
+     "tally_row": true
+    },
+    {
+     "name_original": "Johna Rosenblatt",
+     "votes": 99
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Winshell Laguerre",
+     "votes": 14
+    },
+    {
+     "name_original": "Llona Perkins",
+     "votes": 14
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2023-04-04",
+   "office_original": "TOWN MEETING REPRESENTATIVE PRECINCT 8",
+   "district_original": "Precinct 8",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 543,
+     "tally_row": true
+    },
+    {
+     "name_original": "Frank Lyons",
+     "votes": 73
+    },
+    {
+     "name_original": "Carin Joyce Klipp",
+     "votes": 70
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Catherine A Ford",
+     "votes": 0
+    },
+    {
+     "name_original": "Christine Wilbur",
+     "votes": 14
+    },
+    {
+     "name_original": "Brooks Orjobo",
+     "votes": 10
+    },
+    {
+     "name_original": "Stephen Page",
+     "votes": 11
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Stoughton2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Stoughton2023.pdf",
+ "ballots_cast": 1305,
+ "ballots_cast_source": "derived_from_contests"
 }

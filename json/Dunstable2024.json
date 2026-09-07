@@ -1,466 +1,461 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "ADVISORY BOARD - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "ADVISORY BOARD - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy J. Stewart",
-          "votes": 462
-        },
-        {
-          "name_original": "Matthew G. Naughton",
-          "votes": 478
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 223,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Timothy J. Stewart",
+     "votes": 462
     },
     {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "ADVISORY BOARD - 2 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Leo J. Tometich",
-          "votes": 470
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 113,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Matthew G. Naughton",
+     "votes": 478
     },
     {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "BOARD OF ASSESSORS - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert J. Ricardelli",
-          "votes": 494
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 88,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
     },
     {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "BOARD OF ASSESSORS - 2 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert A. Pontbriand",
-          "votes": 464
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 116,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "BOARD OF HEALTH - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert E. Parkin",
-          "votes": 473
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 106,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "CEMETERY COMMISSIONER - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan J. Tully",
-          "votes": 495
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 86,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "COMMISSIONERS OF TRUST FUNDS - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicole M. Tully",
-          "votes": 470
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 109,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "CONSTABLE - 3 Years",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen C. Tully",
-          "votes": 479
-        },
-        {
-          "name_original": "Jon N. Crandall Jr.",
-          "votes": 487
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 198,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "LIBRARY TRUSTEES - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robyn DeAngelis",
-          "votes": 470
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 113,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "PLANNING BOARD - 5 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeffrey F. Pallis",
-          "votes": 464
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 115,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "ROAD COMMISSIONERS - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael L. Martin",
-          "votes": 480
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 97,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "GROTON-DUNSTABLE REGIONAL SCHOOL DISTRICT SCHOOL COMMITTEE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rafael R. Glod",
-          "votes": 267
-        },
-        {
-          "name_original": "Christina L. Andriole",
-          "votes": 308
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "WATER COMMISSIONERS - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 57,
-          "tally_row": true
-        },
-        {
-          "name_original": "John O'Brien",
-          "votes": 27
-        },
-        {
-          "name_original": "Others",
-          "votes": 30,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 527,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "WATER COMMISSIONERS - 1 Year",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 33,
-          "tally_row": true
-        },
-        {
-          "name_original": "John O'Brien",
-          "votes": 11
-        },
-        {
-          "name_original": "Jon N. Crandall",
-          "votes": 5
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 551,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "BOARD OF SELECTMEN - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ronald J. Mikol Sr.",
-          "votes": 449
-        },
-        {
-          "name_original": "Others",
-          "votes": 11,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 124,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Dunstable",
-      "date": "2024-05-21",
-      "office_original": "TOWN MODERATOR - 3 Years",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Rafael R. Glod",
-          "votes": 462
-        },
-        {
-          "name_original": "Others",
-          "votes": 32,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 90,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 223,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Dunstable2024",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dunstable2024.pdf",
-  "ballots_cast": 584,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "ADVISORY BOARD - 2 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Leo J. Tometich",
+     "votes": 470
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 113,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "BOARD OF ASSESSORS - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert J. Ricardelli",
+     "votes": 494
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 88,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "BOARD OF ASSESSORS - 2 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert A. Pontbriand",
+     "votes": 464
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 116,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "BOARD OF HEALTH - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert E. Parkin",
+     "votes": 473
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 106,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "CEMETERY COMMISSIONER - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Susan J. Tully",
+     "votes": 495
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 86,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "COMMISSIONERS OF TRUST FUNDS - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicole M. Tully",
+     "votes": 470
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 109,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "CONSTABLE - 3 Years",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen C. Tully",
+     "votes": 479
+    },
+    {
+     "name_original": "Jon N. Crandall Jr.",
+     "votes": 487
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 198,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "LIBRARY TRUSTEES - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robyn DeAngelis",
+     "votes": 470
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 113,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "PLANNING BOARD - 5 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeffrey F. Pallis",
+     "votes": 464
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 115,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "ROAD COMMISSIONERS - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael L. Martin",
+     "votes": 480
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 97,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "GROTON-DUNSTABLE REGIONAL SCHOOL DISTRICT SCHOOL COMMITTEE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rafael R. Glod",
+     "votes": 267
+    },
+    {
+     "name_original": "Christina L. Andriole",
+     "votes": 308
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "WATER COMMISSIONERS - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John O'Brien",
+     "votes": 27
+    },
+    {
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 527,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "WATER COMMISSIONERS - 1 Year",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 33,
+     "tally_row": true
+    },
+    {
+     "name_original": "John O'Brien",
+     "votes": 11
+    },
+    {
+     "name_original": "Jon N. Crandall",
+     "votes": 5
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 551,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "BOARD OF SELECTMEN - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ronald J. Mikol Sr.",
+     "votes": 449
+    },
+    {
+     "name_original": "Others",
+     "votes": 11,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 124,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Dunstable",
+   "date": "2024-05-21",
+   "office_original": "TOWN MODERATOR - 3 Years",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Rafael R. Glod",
+     "votes": 462
+    },
+    {
+     "name_original": "Others",
+     "votes": 32,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 90,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Dunstable2024",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Dunstable2024.pdf",
+ "ballots_cast": 584,
+ "ballots_cast_source": "derived_from_contests"
 }

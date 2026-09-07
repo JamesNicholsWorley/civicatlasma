@@ -1,975 +1,965 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "MODERATOR - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
     {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "MODERATOR - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Mark G. Kaplan",
-          "votes": 2534
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1113,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Mark G. Kaplan",
+     "votes": 2534
     },
     {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "SELECT BOARD - Vote for TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Marc W. Charney",
-          "votes": 1576
-        },
-        {
-          "name_original": "Elizabeth A. Sullivan Woods",
-          "votes": 2624
-        },
-        {
-          "name_original": "Tom Ulfelder",
-          "votes": 1969
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1138,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
     },
     {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "BOARD OF ASSESSORS - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Stephen R. Burtt",
-          "votes": 2391
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1259,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "BOARD OF HEALTH - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Susan E. Eklund",
-          "votes": 2395
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1260,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "WELLESLEY HOUSING AUTHORITY 4 YEARS - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Odessa M.B. Sanchez",
-          "votes": 2431
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1200,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "WELLESLEY HOUSING AUTHORITY 2 YEARS - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Janice G. Coduri",
-          "votes": 2337
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1313,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "LIBRARY TRUSTEES - Vote for TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Maria Gallo Ashbrook",
-          "votes": 2294
-        },
-        {
-          "name_original": "Aunoy Banerjee",
-          "votes": 2195
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2819,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "NATURAL RESOURCES COMMISSION - Vote for TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Joseph Schott",
-          "votes": 2215
-        },
-        {
-          "name_original": "Melinda Arias-Voci",
-          "votes": 2124
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2972,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "PLANNING BOARD - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Edward Chazen",
-          "votes": 2284
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1370,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "BOARD OF PUBLIC WORKS 3 YEARS - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Jeffrey P. Wechsler",
-          "votes": 2324
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1331,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "BOARD OF PUBLIC WORKS 2 YEARS - Vote for ONE",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Michael J. McManus",
-          "votes": 2297
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1357,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "RECREATION COMMISSION",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Ansley Martin Jr.",
-          "votes": 2266
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1390,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "SCHOOL COMMITTEE - Vote for TWO",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Robert Edward Sullivan",
-          "votes": 1803
-        },
-        {
-          "name_original": "Costas Panagopoulos",
-          "votes": 1967
-        },
-        {
-          "name_original": "Ayla Lari",
-          "votes": 1489
-        },
-        {
-          "name_original": "Michael Robert Cave",
-          "votes": 703
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1350,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct A",
-      "num_winners": 11,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Lisa Marie Fico",
-          "votes": 260
-        },
-        {
-          "name_original": "Donald S. McCauley",
-          "votes": 260
-        },
-        {
-          "name_original": "Pamela Joan Stirrat",
-          "votes": 246
-        },
-        {
-          "name_original": "Martha M. Rockwood",
-          "votes": 244
-        },
-        {
-          "name_original": "Joe Kahn",
-          "votes": 241
-        },
-        {
-          "name_original": "Laura Jean Benson",
-          "votes": 240
-        },
-        {
-          "name_original": "Sean K. Thompson",
-          "votes": 236
-        },
-        {
-          "name_original": "Paul Martin Barnhill",
-          "votes": 234
-        },
-        {
-          "name_original": "John Francis Duffy",
-          "votes": 232
-        },
-        {
-          "name_original": "Brook G. Rosenbaum",
-          "votes": 224
-        },
-        {
-          "name_original": "Matt Veilleux",
-          "votes": 213
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1995,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct B",
-      "num_winners": 10,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Michael D'Ortenzio Jr.",
-          "votes": 270
-        },
-        {
-          "name_original": "Christina Itohan Horner",
-          "votes": 263
-        },
-        {
-          "name_original": "Joseph Schott",
-          "votes": 243
-        },
-        {
-          "name_original": "S. Peter W. Jones",
-          "votes": 243
-        },
-        {
-          "name_original": "Susan K. Maggioni",
-          "votes": 229
-        },
-        {
-          "name_original": "Paul Thomas Delaney",
-          "votes": 227
-        },
-        {
-          "name_original": "Jason D. Bock",
-          "votes": 224
-        },
-        {
-          "name_original": "Nathalie De Fontnouvelle",
-          "votes": 221
-        },
-        {
-          "name_original": "Albert Benedict Krug III",
-          "votes": 206
-        },
-        {
-          "name_original": "Doug Wilkins",
-          "votes": 205
-        },
-        {
-          "name_original": "Deed McCollum",
-          "votes": 201
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2672,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct C",
-      "num_winners": 12,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Costas Panagopoulos",
-          "votes": 293
-        },
-        {
-          "name_original": "Kelly McCoulf Norris",
-          "votes": 287
-        },
-        {
-          "name_original": "Marcia Testa Simonson",
-          "votes": 285
-        },
-        {
-          "name_original": "Louisa Rossano",
-          "votes": 268
-        },
-        {
-          "name_original": "Chuck Brown",
-          "votes": 266
-        },
-        {
-          "name_original": "Kenneth R. Rossano",
-          "votes": 261
-        },
-        {
-          "name_original": "Kathy Yourich Egan",
-          "votes": 232
-        },
-        {
-          "name_original": "Charles Ackerman",
-          "votes": 228
-        },
-        {
-          "name_original": "Lucienne Vera Ronco",
-          "votes": 223
-        },
-        {
-          "name_original": "Donald Sloane Shepard",
-          "votes": 212
-        },
-        {
-          "name_original": "Nicholas R. Rhind",
-          "votes": 211
-        },
-        {
-          "name_original": "Kathleen Vogel",
-          "votes": 99
-        },
-        {
-          "name_original": "John Pastore",
-          "votes": 47
-        },
-        {
-          "name_original": "Katie Rodman",
-          "votes": 38
-        },
-        {
-          "name_original": "Hank Newman",
-          "votes": 19
-        },
-        {
-          "name_original": "Others",
-          "votes": 17,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3230,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct D",
-      "num_winners": 10,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Kristin Whelton",
-          "votes": 290
-        },
-        {
-          "name_original": "Lori Ann Ferrante",
-          "votes": 282
-        },
-        {
-          "name_original": "Gail Frances Sullivan",
-          "votes": 275
-        },
-        {
-          "name_original": "Ethan I. Davis",
-          "votes": 258
-        },
-        {
-          "name_original": "Mark B. Benjamin",
-          "votes": 249
-        },
-        {
-          "name_original": "Sharon Clarke",
-          "votes": 239
-        },
-        {
-          "name_original": "Laura Marie Robert",
-          "votes": 235
-        },
-        {
-          "name_original": "Julianne Oakley Ivey",
-          "votes": 234
-        },
-        {
-          "name_original": "Elizabeth H. Shlala",
-          "votes": 233
-        },
-        {
-          "name_original": "Melinda Arias-Voci",
-          "votes": 233
-        },
-        {
-          "name_original": "Richard Devereux Hill Jr.",
-          "votes": 227
-        },
-        {
-          "name_original": "Derek B. Redgate",
-          "votes": 195
-        },
-        {
-          "name_original": "John Roslansky",
-          "votes": 8
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3010,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct E",
-      "num_winners": 11,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Megan Aepli LeBlanc",
-          "votes": 222
-        },
-        {
-          "name_original": "Kenneth Charles Largess",
-          "votes": 220
-        },
-        {
-          "name_original": "Neal R. Goins",
-          "votes": 215
-        },
-        {
-          "name_original": "Wendy Ann Haering-Engels",
-          "votes": 214
-        },
-        {
-          "name_original": "Kevin James MacDonald",
-          "votes": 212
-        },
-        {
-          "name_original": "Rani Elwy",
-          "votes": 207
-        },
-        {
-          "name_original": "Michael J. McManus",
-          "votes": 206
-        },
-        {
-          "name_original": "Mary Louise Scanlon",
-          "votes": 188
-        },
-        {
-          "name_original": "Kourosh Farboodmanesh",
-          "votes": 182
-        },
-        {
-          "name_original": "Jacqui Van Looy",
-          "votes": 180
-        },
-        {
-          "name_original": "Thomas J. MacDonald",
-          "votes": 176
-        },
-        {
-          "name_original": "Benjamin Elwy",
-          "votes": 175
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 2639,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct F",
-      "num_winners": 10,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Lillian Lau",
-          "votes": 163
-        },
-        {
-          "name_original": "Elaine M. Putnam",
-          "votes": 142
-        },
-        {
-          "name_original": "Michele Dragon Livingston",
-          "votes": 137
-        },
-        {
-          "name_original": "Mariana Vinacur",
-          "votes": 134
-        },
-        {
-          "name_original": "Mary Beth Prosnitz",
-          "votes": 133
-        },
-        {
-          "name_original": "Dara Brigham",
-          "votes": 132
-        },
-        {
-          "name_original": "Elizabeth Cooley May",
-          "votes": 130
-        },
-        {
-          "name_original": "Jay R. Prosnitz",
-          "votes": 122
-        },
-        {
-          "name_original": "C. Madison Riley III",
-          "votes": 114
-        },
-        {
-          "name_original": "Valerie Christine Constant",
-          "votes": 114
-        },
-        {
-          "name_original": "Steven J. Simons",
-          "votes": 110
-        },
-        {
-          "name_original": "Jonathan Henry Flynn",
-          "votes": 110
-        },
-        {
-          "name_original": "Kidder Q. Brady",
-          "votes": 106
-        },
-        {
-          "name_original": "Lisa Kristina Ikle Gieger",
-          "votes": 101
-        },
-        {
-          "name_original": "Jennifer Marie Vataru",
-          "votes": 91
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1471,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct G",
-      "num_winners": 10,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Tamara Vira Sielecki-Dzurdz",
-          "votes": 157
-        },
-        {
-          "name_original": "Philippa Jeanne Biggers",
-          "votes": 153
-        },
-        {
-          "name_original": "Harold Norman Kaplan",
-          "votes": 147
-        },
-        {
-          "name_original": "Edward Denton Folland",
-          "votes": 146
-        },
-        {
-          "name_original": "Parker John Morse",
-          "votes": 144
-        },
-        {
-          "name_original": "Kathleen Fisher Trumbull",
-          "votes": 143
-        },
-        {
-          "name_original": "Nathan Clarke",
-          "votes": 140
-        },
-        {
-          "name_original": "Elliott M. Conti",
-          "votes": 139
-        },
-        {
-          "name_original": "Catherine Liu",
-          "votes": 139
-        },
-        {
-          "name_original": "Frederick Waidner Schaller",
-          "votes": 138
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 1008,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Wellesley",
-      "date": "2026-03-03",
-      "office_original": "TOWN MEETING MEMBER",
-      "district_original": "Precinct H",
-      "num_winners": 11,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Becca Cahaly",
-          "votes": 304
-        },
-        {
-          "name_original": "Pamela L. Kubbins",
-          "votes": 299
-        },
-        {
-          "name_original": "Ayla Lari",
-          "votes": 286
-        },
-        {
-          "name_original": "Leda Murcia Eizenberg",
-          "votes": 267
-        },
-        {
-          "name_original": "Ezra Matthew Englebardt",
-          "votes": 263
-        },
-        {
-          "name_original": "Jeffrey P. Wechsler",
-          "votes": 251
-        },
-        {
-          "name_original": "Michael F. Fallon",
-          "votes": 249
-        },
-        {
-          "name_original": "Thomas M. Taylor",
-          "votes": 248
-        },
-        {
-          "name_original": "Sally Warner Watts",
-          "votes": 232
-        },
-        {
-          "name_original": "Joanne McIntosh",
-          "votes": 227
-        },
-        {
-          "name_original": "Vahideh Nilforoshan",
-          "votes": 218
-        },
-        {
-          "name_original": "Christopher A. Spagnuolo",
-          "votes": 196
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3197,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 1113,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Wellesley2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wellesley2026.pdf",
-  "ballots_cast": 3655,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "SELECT BOARD - Vote for TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Marc W. Charney",
+     "votes": 1576
+    },
+    {
+     "name_original": "Elizabeth A. Sullivan Woods",
+     "votes": 2624
+    },
+    {
+     "name_original": "Tom Ulfelder",
+     "votes": 1969
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1138,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "BOARD OF ASSESSORS - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Stephen R. Burtt",
+     "votes": 2391
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1259,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "BOARD OF HEALTH - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Susan E. Eklund",
+     "votes": 2395
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1260,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "WELLESLEY HOUSING AUTHORITY 4 YEARS - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Odessa M.B. Sanchez",
+     "votes": 2431
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1200,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "WELLESLEY HOUSING AUTHORITY 2 YEARS - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Janice G. Coduri",
+     "votes": 2337
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1313,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "LIBRARY TRUSTEES - Vote for TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Maria Gallo Ashbrook",
+     "votes": 2294
+    },
+    {
+     "name_original": "Aunoy Banerjee",
+     "votes": 2195
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2819,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "NATURAL RESOURCES COMMISSION - Vote for TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Joseph Schott",
+     "votes": 2215
+    },
+    {
+     "name_original": "Melinda Arias-Voci",
+     "votes": 2124
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2972,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "PLANNING BOARD - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Edward Chazen",
+     "votes": 2284
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1370,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "BOARD OF PUBLIC WORKS 3 YEARS - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Jeffrey P. Wechsler",
+     "votes": 2324
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1331,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "BOARD OF PUBLIC WORKS 2 YEARS - Vote for ONE",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Michael J. McManus",
+     "votes": 2297
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1357,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "RECREATION COMMISSION",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Ansley Martin Jr.",
+     "votes": 2266
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1390,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "SCHOOL COMMITTEE - Vote for TWO",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Robert Edward Sullivan",
+     "votes": 1803
+    },
+    {
+     "name_original": "Costas Panagopoulos",
+     "votes": 1967
+    },
+    {
+     "name_original": "Ayla Lari",
+     "votes": 1489
+    },
+    {
+     "name_original": "Michael Robert Cave",
+     "votes": 703
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1350,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct A",
+   "num_winners": 11,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Lisa Marie Fico",
+     "votes": 260
+    },
+    {
+     "name_original": "Donald S. McCauley",
+     "votes": 260
+    },
+    {
+     "name_original": "Pamela Joan Stirrat",
+     "votes": 246
+    },
+    {
+     "name_original": "Martha M. Rockwood",
+     "votes": 244
+    },
+    {
+     "name_original": "Joe Kahn",
+     "votes": 241
+    },
+    {
+     "name_original": "Laura Jean Benson",
+     "votes": 240
+    },
+    {
+     "name_original": "Sean K. Thompson",
+     "votes": 236
+    },
+    {
+     "name_original": "Paul Martin Barnhill",
+     "votes": 234
+    },
+    {
+     "name_original": "John Francis Duffy",
+     "votes": 232
+    },
+    {
+     "name_original": "Brook G. Rosenbaum",
+     "votes": 224
+    },
+    {
+     "name_original": "Matt Veilleux",
+     "votes": 213
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1995,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct B",
+   "num_winners": 10,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Michael D'Ortenzio Jr.",
+     "votes": 270
+    },
+    {
+     "name_original": "Christina Itohan Horner",
+     "votes": 263
+    },
+    {
+     "name_original": "Joseph Schott",
+     "votes": 243
+    },
+    {
+     "name_original": "S. Peter W. Jones",
+     "votes": 243
+    },
+    {
+     "name_original": "Susan K. Maggioni",
+     "votes": 229
+    },
+    {
+     "name_original": "Paul Thomas Delaney",
+     "votes": 227
+    },
+    {
+     "name_original": "Jason D. Bock",
+     "votes": 224
+    },
+    {
+     "name_original": "Nathalie De Fontnouvelle",
+     "votes": 221
+    },
+    {
+     "name_original": "Albert Benedict Krug III",
+     "votes": 206
+    },
+    {
+     "name_original": "Doug Wilkins",
+     "votes": 205
+    },
+    {
+     "name_original": "Deed McCollum",
+     "votes": 201
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2672,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct C",
+   "num_winners": 12,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Costas Panagopoulos",
+     "votes": 293
+    },
+    {
+     "name_original": "Kelly McCoulf Norris",
+     "votes": 287
+    },
+    {
+     "name_original": "Marcia Testa Simonson",
+     "votes": 285
+    },
+    {
+     "name_original": "Louisa Rossano",
+     "votes": 268
+    },
+    {
+     "name_original": "Chuck Brown",
+     "votes": 266
+    },
+    {
+     "name_original": "Kenneth R. Rossano",
+     "votes": 261
+    },
+    {
+     "name_original": "Kathy Yourich Egan",
+     "votes": 232
+    },
+    {
+     "name_original": "Charles Ackerman",
+     "votes": 228
+    },
+    {
+     "name_original": "Lucienne Vera Ronco",
+     "votes": 223
+    },
+    {
+     "name_original": "Donald Sloane Shepard",
+     "votes": 212
+    },
+    {
+     "name_original": "Nicholas R. Rhind",
+     "votes": 211
+    },
+    {
+     "name_original": "Kathleen Vogel",
+     "votes": 99
+    },
+    {
+     "name_original": "John Pastore",
+     "votes": 47
+    },
+    {
+     "name_original": "Katie Rodman",
+     "votes": 38
+    },
+    {
+     "name_original": "Hank Newman",
+     "votes": 19
+    },
+    {
+     "name_original": "Others",
+     "votes": 17,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3230,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct D",
+   "num_winners": 10,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Kristin Whelton",
+     "votes": 290
+    },
+    {
+     "name_original": "Lori Ann Ferrante",
+     "votes": 282
+    },
+    {
+     "name_original": "Gail Frances Sullivan",
+     "votes": 275
+    },
+    {
+     "name_original": "Ethan I. Davis",
+     "votes": 258
+    },
+    {
+     "name_original": "Mark B. Benjamin",
+     "votes": 249
+    },
+    {
+     "name_original": "Sharon Clarke",
+     "votes": 239
+    },
+    {
+     "name_original": "Laura Marie Robert",
+     "votes": 235
+    },
+    {
+     "name_original": "Julianne Oakley Ivey",
+     "votes": 234
+    },
+    {
+     "name_original": "Elizabeth H. Shlala",
+     "votes": 233
+    },
+    {
+     "name_original": "Melinda Arias-Voci",
+     "votes": 233
+    },
+    {
+     "name_original": "Richard Devereux Hill Jr.",
+     "votes": 227
+    },
+    {
+     "name_original": "Derek B. Redgate",
+     "votes": 195
+    },
+    {
+     "name_original": "John Roslansky",
+     "votes": 8
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3010,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct E",
+   "num_winners": 11,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Megan Aepli LeBlanc",
+     "votes": 222
+    },
+    {
+     "name_original": "Kenneth Charles Largess",
+     "votes": 220
+    },
+    {
+     "name_original": "Neal R. Goins",
+     "votes": 215
+    },
+    {
+     "name_original": "Wendy Ann Haering-Engels",
+     "votes": 214
+    },
+    {
+     "name_original": "Kevin James MacDonald",
+     "votes": 212
+    },
+    {
+     "name_original": "Rani Elwy",
+     "votes": 207
+    },
+    {
+     "name_original": "Michael J. McManus",
+     "votes": 206
+    },
+    {
+     "name_original": "Mary Louise Scanlon",
+     "votes": 188
+    },
+    {
+     "name_original": "Kourosh Farboodmanesh",
+     "votes": 182
+    },
+    {
+     "name_original": "Jacqui Van Looy",
+     "votes": 180
+    },
+    {
+     "name_original": "Thomas J. MacDonald",
+     "votes": 176
+    },
+    {
+     "name_original": "Benjamin Elwy",
+     "votes": 175
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2639,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct F",
+   "num_winners": 10,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Lillian Lau",
+     "votes": 163
+    },
+    {
+     "name_original": "Elaine M. Putnam",
+     "votes": 142
+    },
+    {
+     "name_original": "Michele Dragon Livingston",
+     "votes": 137
+    },
+    {
+     "name_original": "Mariana Vinacur",
+     "votes": 134
+    },
+    {
+     "name_original": "Mary Beth Prosnitz",
+     "votes": 133
+    },
+    {
+     "name_original": "Dara Brigham",
+     "votes": 132
+    },
+    {
+     "name_original": "Elizabeth Cooley May",
+     "votes": 130
+    },
+    {
+     "name_original": "Jay R. Prosnitz",
+     "votes": 122
+    },
+    {
+     "name_original": "C. Madison Riley III",
+     "votes": 114
+    },
+    {
+     "name_original": "Valerie Christine Constant",
+     "votes": 114
+    },
+    {
+     "name_original": "Steven J. Simons",
+     "votes": 110
+    },
+    {
+     "name_original": "Jonathan Henry Flynn",
+     "votes": 110
+    },
+    {
+     "name_original": "Kidder Q. Brady",
+     "votes": 106
+    },
+    {
+     "name_original": "Lisa Kristina Ikle Gieger",
+     "votes": 101
+    },
+    {
+     "name_original": "Jennifer Marie Vataru",
+     "votes": 91
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1471,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct G",
+   "num_winners": 10,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Tamara Vira Sielecki-Dzurdz",
+     "votes": 157
+    },
+    {
+     "name_original": "Philippa Jeanne Biggers",
+     "votes": 153
+    },
+    {
+     "name_original": "Harold Norman Kaplan",
+     "votes": 147
+    },
+    {
+     "name_original": "Edward Denton Folland",
+     "votes": 146
+    },
+    {
+     "name_original": "Parker John Morse",
+     "votes": 144
+    },
+    {
+     "name_original": "Kathleen Fisher Trumbull",
+     "votes": 143
+    },
+    {
+     "name_original": "Nathan Clarke",
+     "votes": 140
+    },
+    {
+     "name_original": "Elliott M. Conti",
+     "votes": 139
+    },
+    {
+     "name_original": "Catherine Liu",
+     "votes": 139
+    },
+    {
+     "name_original": "Frederick Waidner Schaller",
+     "votes": 138
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1008,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Wellesley",
+   "date": "2026-03-03",
+   "office_original": "TOWN MEETING MEMBER",
+   "district_original": "Precinct H",
+   "num_winners": 11,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Becca Cahaly",
+     "votes": 304
+    },
+    {
+     "name_original": "Pamela L. Kubbins",
+     "votes": 299
+    },
+    {
+     "name_original": "Ayla Lari",
+     "votes": 286
+    },
+    {
+     "name_original": "Leda Murcia Eizenberg",
+     "votes": 267
+    },
+    {
+     "name_original": "Ezra Matthew Englebardt",
+     "votes": 263
+    },
+    {
+     "name_original": "Jeffrey P. Wechsler",
+     "votes": 251
+    },
+    {
+     "name_original": "Michael F. Fallon",
+     "votes": 249
+    },
+    {
+     "name_original": "Thomas M. Taylor",
+     "votes": 248
+    },
+    {
+     "name_original": "Sally Warner Watts",
+     "votes": 232
+    },
+    {
+     "name_original": "Joanne McIntosh",
+     "votes": 227
+    },
+    {
+     "name_original": "Vahideh Nilforoshan",
+     "votes": 218
+    },
+    {
+     "name_original": "Christopher A. Spagnuolo",
+     "votes": 196
+    },
+    {
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3197,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Wellesley2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Wellesley2026.pdf",
+ "ballots_cast": 3655,
+ "ballots_cast_source": "derived_from_contests"
 }

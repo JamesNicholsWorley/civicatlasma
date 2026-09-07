@@ -1,304 +1,299 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
     {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Daniel A Waters",
-          "votes": 347
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Daniel A Waters",
+     "votes": 347
     },
     {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Select Board (3 years)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Jessica D Miller",
-          "votes": 337
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 31,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Erik B Lowe",
-          "votes": 330
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 38,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Board of Health (1 year)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Kenneth L Vincent",
-          "votes": 323
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 45,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Maria G McFarland",
-          "votes": 308
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 59,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Town Clerk",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Tara J Whiting-Wells",
-          "votes": 351
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 17,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Tree Warden",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Jeremiah Brown",
-          "votes": 337
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 31,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Library Trustee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Emily Fern Fischer",
-          "votes": 334
-        },
-        {
-          "name_original": "Wendy G Nierenberg",
-          "votes": 311
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 89,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Finance Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Kimberly A Angell",
-          "votes": 304
-        },
-        {
-          "name_original": "John R Christensen",
-          "votes": 307
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 125,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Constable",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "John J Powers",
-          "votes": 335
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 33,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Parks and Recreation Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Matthew D Gebo",
-          "votes": 314
-        },
-        {
-          "name_original": "David L Small",
-          "votes": 281
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 141,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "West Tisbury",
-      "date": "2023-04-13",
-      "office_original": "Land Bank Commissioner",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Peter S Wells",
-          "votes": 319
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 48,
-          "tally_row": true
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 21,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "WestTisbury2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestTisbury2023.pdf",
-  "ballots_cast": 368,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Select Board (3 years)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Jessica D Miller",
+     "votes": 337
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 31,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Erik B Lowe",
+     "votes": 330
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 38,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Board of Health (1 year)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Kenneth L Vincent",
+     "votes": 323
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 45,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Maria G McFarland",
+     "votes": 308
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 59,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Town Clerk",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Tara J Whiting-Wells",
+     "votes": 351
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 17,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Tree Warden",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Jeremiah Brown",
+     "votes": 337
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 31,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Library Trustee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Emily Fern Fischer",
+     "votes": 334
+    },
+    {
+     "name_original": "Wendy G Nierenberg",
+     "votes": 311
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 89,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Finance Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Kimberly A Angell",
+     "votes": 304
+    },
+    {
+     "name_original": "John R Christensen",
+     "votes": 307
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 125,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Constable",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "John J Powers",
+     "votes": 335
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 33,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Parks and Recreation Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Matthew D Gebo",
+     "votes": 314
+    },
+    {
+     "name_original": "David L Small",
+     "votes": 281
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 141,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "West Tisbury",
+   "date": "2023-04-13",
+   "office_original": "Land Bank Commissioner",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.98,
+   "candidates": [
+    {
+     "name_original": "Peter S Wells",
+     "votes": 319
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 48,
+     "tally_row": true
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "WestTisbury2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/WestTisbury2023.pdf",
+ "ballots_cast": 368,
+ "ballots_cast_source": "derived_from_contests"
 }
