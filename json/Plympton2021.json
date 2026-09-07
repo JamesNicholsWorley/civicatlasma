@@ -1,361 +1,361 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "SELECTMEN (Vote One)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "SELECTMEN (Vote One)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christine M. Joy",
-          "votes": 341
-        },
-        {
-          "name_original": "David Detterman",
-          "votes": 9
-        },
-        {
-          "name_original": "Blank",
-          "votes": 65,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Christine M. Joy",
+     "votes": 341
     },
     {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "ASSESSOR - 3 Years (Vote one)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blank",
-          "votes": 404,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 13,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David Detterman",
+     "votes": 9
     },
     {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "ASSESSORS - 1 Year (Vote one)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blank",
-          "votes": 416,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blank",
+     "votes": 65,
+     "tally_row": true
     },
     {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "BOH - 3 Years (Vote One)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Harry L. Weikei, Jr.",
-          "votes": 336
-        },
-        {
-          "name_original": "Blank",
-          "votes": 81,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "FINANCE - 3 Years (Vote One)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nathaniel Sides",
-          "votes": 35
-        },
-        {
-          "name_original": "Blank",
-          "votes": 378,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 4,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "LIBRARY TRUSTEE - 2 Years (Vote 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Miranda Anne Pink",
-          "votes": 333
-        },
-        {
-          "name_original": "Blank",
-          "votes": 499,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 2,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "LIBRARY TRUSTEE - 4 Year (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blank",
-          "votes": 414,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 3,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "PLANNING BOARD - 5 Year (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James Cohen",
-          "votes": 35
-        },
-        {
-          "name_original": "Sean Mahoney",
-          "votes": 20
-        },
-        {
-          "name_original": "Blank",
-          "votes": 354,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "PLANNING BOARD - 4 Year (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Paul D'Angelo",
-          "votes": 31
-        },
-        {
-          "name_original": "Jeff Johnson",
-          "votes": 22
-        },
-        {
-          "name_original": "Blank",
-          "votes": 358,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 6,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "SCHOOL COMM. - 3 Years (Vote 2)",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jason W. Frazer",
-          "votes": 288
-        },
-        {
-          "name_original": "Suzanne Jefferian",
-          "votes": 105
-        },
-        {
-          "name_original": "Nicole M. Mahoney",
-          "votes": 189
-        },
-        {
-          "name_original": "Robert Randolph Montgomery",
-          "votes": 131
-        },
-        {
-          "name_original": "Blank",
-          "votes": 139,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "SILVER LAKE SCHOOL - 3 Years (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lukasz Kowalski",
-          "votes": 321
-        },
-        {
-          "name_original": "Blank",
-          "votes": 95,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 1,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "TOWN CLERK - 3 Year (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patricia L. Detterman",
-          "votes": 343
-        },
-        {
-          "name_original": "Blank",
-          "votes": 69,
-          "tally_row": true
-        },
-        {
-          "name_original": "Other",
-          "votes": 5,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Plympton",
-      "date": "2021-05-15",
-      "office_original": "TREE WARDEN - 3 Year (Vote 1)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William N. Hayes, Jr.",
-          "votes": 345
-        },
-        {
-          "name_original": "Blank",
-          "votes": 72,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Other",
+     "votes": 2,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Plympton2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plympton2021.pdf",
-  "ballots_cast": 417,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "ASSESSOR - 3 Years (Vote one)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 404,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 13,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "ASSESSORS - 1 Year (Vote one)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 416,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "BOH - 3 Years (Vote One)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Harry L. Weikel, Jr.",
+     "votes": 336
+    },
+    {
+     "name_original": "Blank",
+     "votes": 81,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "FINANCE - 3 Years (Vote One)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nathaniel Sides",
+     "votes": 35
+    },
+    {
+     "name_original": "Blank",
+     "votes": 378,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 4,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "LIBRARY TRUSTEE - 2 Years (Vote 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Miranda Anne Pink",
+     "votes": 333
+    },
+    {
+     "name_original": "Blank",
+     "votes": 499,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 2,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "LIBRARY TRUSTEE - 4 Year (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 414,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 3,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "PLANNING BOARD - 5 Year (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James Cohen",
+     "votes": 35
+    },
+    {
+     "name_original": "Sean Mahoney",
+     "votes": 20
+    },
+    {
+     "name_original": "Blank",
+     "votes": 354,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 10,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "PLANNING BOARD - 4 Year (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Paul D'Angelo",
+     "votes": 31
+    },
+    {
+     "name_original": "Jeff Johnson",
+     "votes": 22
+    },
+    {
+     "name_original": "Blank",
+     "votes": 358,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 6,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "SCHOOL COMM. - 3 Years (Vote 2)",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jason W. Fraser",
+     "votes": 288
+    },
+    {
+     "name_original": "Suzanne Jafferian",
+     "votes": 106
+    },
+    {
+     "name_original": "Nicole M. Mahoney",
+     "votes": 169
+    },
+    {
+     "name_original": "Robert Randolph Montgomery",
+     "votes": 131
+    },
+    {
+     "name_original": "Blank",
+     "votes": 139,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "SILVER LAKE SCHOOL - 3 Years (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lukasz Kowalski",
+     "votes": 321
+    },
+    {
+     "name_original": "Blank",
+     "votes": 95,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 1,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "TOWN CLERK - 3 Year (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patricia L. Detterman",
+     "votes": 343
+    },
+    {
+     "name_original": "Blank",
+     "votes": 69,
+     "tally_row": true
+    },
+    {
+     "name_original": "Other",
+     "votes": 5,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Plympton",
+   "date": "2021-05-15",
+   "office_original": "TREE WARDEN - 3 Year (Vote 1)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William N. Hayes, Jr.",
+     "votes": 345
+    },
+    {
+     "name_original": "Blank",
+     "votes": 72,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Plympton2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Plympton2021.pdf",
+ "ballots_cast": 417,
+ "ballots_cast_source": "derived_from_contests"
 }
