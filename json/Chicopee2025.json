@@ -1,602 +1,602 @@
 {
- "elections": [
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Mayor",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
+  "elections": [
     {
-     "name_original": "John Lawrence Vieau",
-     "votes": 4820
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Mayor",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "John Lawrence Vieau",
+          "votes": 4820
+        },
+        {
+          "name_original": "Others",
+          "votes": 233,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
     },
     {
-     "name_original": "Others",
-     "votes": 233,
-     "tally_row": true
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Assessor",
+      "num_winners": 2,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Laura McCarthy",
+          "votes": 4853
+        },
+        {
+          "name_original": "Brian William Suchy",
+          "votes": 4083
+        },
+        {
+          "name_original": "Others",
+          "votes": 49,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Collector",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Sandra Ann Peret",
+          "votes": 3234
+        },
+        {
+          "name_original": "Rajesh S. Sanghvi",
+          "votes": 2965
+        },
+        {
+          "name_original": "Others",
+          "votes": 16,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Treasurer",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Marie T. Laflamme",
+          "votes": 4976
+        },
+        {
+          "name_original": "Others",
+          "votes": 82,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor At-Large",
+      "num_winners": 4,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Frank Noel Laflamme",
+          "votes": 3567
+        },
+        {
+          "name_original": "Gerard A. Jerry Roy",
+          "votes": 3312
+        },
+        {
+          "name_original": "Jessica L. Avery",
+          "votes": 2571
+        },
+        {
+          "name_original": "Joel David McAuliffe",
+          "votes": 2563
+        },
+        {
+          "name_original": "Brian L. Mendes",
+          "votes": 2476
+        },
+        {
+          "name_original": "John E. Paquette, Jr.",
+          "votes": 2360
+        },
+        {
+          "name_original": "Clark Edward Wojtowicz",
+          "votes": 2322
+        },
+        {
+          "name_original": "Others",
+          "votes": 24,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 1",
+      "district_original": "Ward 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Abigail Ina Arriaga",
+          "votes": 673
+        },
+        {
+          "name_original": "Others",
+          "votes": 10,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 2",
+      "district_original": "Ward 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Shane Brooks",
+          "votes": 449
+        },
+        {
+          "name_original": "Joseph A. Breton",
+          "votes": 202
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 3",
+      "district_original": "Ward 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan M. Goff",
+          "votes": 347
+        },
+        {
+          "name_original": "Darrin Breault",
+          "votes": 150
+        },
+        {
+          "name_original": "Others",
+          "votes": 2,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 4",
+      "district_original": "Ward 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "George Anthony Balakier",
+          "votes": 526
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 5",
+      "district_original": "Ward 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Julie Ann L'heureux",
+          "votes": 328
+        },
+        {
+          "name_original": "Joseph F. Pasternak, III",
+          "votes": 379
+        },
+        {
+          "name_original": "Others",
+          "votes": 1,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 6",
+      "district_original": "Ward 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Samuel R. Shumsky",
+          "votes": 719
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 7",
+      "district_original": "Ward 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "William Courchesne",
+          "votes": 282
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 8",
+      "district_original": "Ward 8",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Douglas P. Girouard",
+          "votes": 605
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "Councilor Ward 9",
+      "district_original": "Ward 9",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Mary-Elizabeth Pniak-Costello",
+          "votes": 681
+        },
+        {
+          "name_original": "Others",
+          "votes": 18,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee At-Large",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Robert George Cantin",
+          "votes": 2727
+        },
+        {
+          "name_original": "Mark Daniel McCarthy",
+          "votes": 2689
+        },
+        {
+          "name_original": "Others",
+          "votes": 20,
+          "tally_row": true
+        }
+      ],
+      "scope": "at_large",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 1",
+      "district_original": "Ward 1",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Deanna Lise Rousseau",
+          "votes": 672
+        },
+        {
+          "name_original": "Others",
+          "votes": 3,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 2",
+      "district_original": "Ward 2",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "David Barsalou",
+          "votes": 523
+        },
+        {
+          "name_original": "Others",
+          "votes": 8,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 3",
+      "district_original": "Ward 3",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Jason Alan Dout",
+          "votes": 441
+        },
+        {
+          "name_original": "Others",
+          "votes": 0,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 4",
+      "district_original": "Ward 4",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Diane Trela",
+          "votes": 509
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 5",
+      "district_original": "Ward 5",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Grace Schofield",
+          "votes": 572
+        },
+        {
+          "name_original": "Others",
+          "votes": 6,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 6",
+      "district_original": "Ward 6",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Carlton Rene Brooks, Jr.",
+          "votes": 703
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 7",
+      "district_original": "Ward 7",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Rafael Nazario, Jr.",
+          "votes": 279
+        },
+        {
+          "name_original": "Others",
+          "votes": 4,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 8",
+      "district_original": "Ward 8",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Susan Constance Theresa Lemieux",
+          "votes": 623
+        },
+        {
+          "name_original": "Others",
+          "votes": 7,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
+    },
+    {
+      "municipality": "City of Chicopee",
+      "date": "2025-11-04",
+      "office_original": "School Committee Ward 9",
+      "district_original": "Ward 9",
+      "num_winners": 1,
+      "stage": "General",
+      "type": "Regular",
+      "extraction_confidence": 0.95,
+      "candidates": [
+        {
+          "name_original": "Ronald J. Benard",
+          "votes": 638
+        },
+        {
+          "name_original": "Others",
+          "votes": 5,
+          "tally_row": true
+        }
+      ],
+      "scope": "sub_town",
+      "blanks_printed": false
     }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Assessor",
-   "num_winners": 2,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Laura McCarthy",
-     "votes": 4853
-    },
-    {
-     "name_original": "Brian William Suchy",
-     "votes": 4083
-    },
-    {
-     "name_original": "Others",
-     "votes": 49,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Collector",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Sandra Ann Peret",
-     "votes": 3234
-    },
-    {
-     "name_original": "Rajesh S. Sanghvi",
-     "votes": 2965
-    },
-    {
-     "name_original": "Others",
-     "votes": 16,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Treasurer",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Marie T. Laflamme",
-     "votes": 4976
-    },
-    {
-     "name_original": "Others",
-     "votes": 82,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor At-Large",
-   "num_winners": 4,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Frank Noel Laflamme",
-     "votes": 3567
-    },
-    {
-     "name_original": "Gerard A. Jerry Roy",
-     "votes": 3312
-    },
-    {
-     "name_original": "Jessica L. Avery",
-     "votes": 2571
-    },
-    {
-     "name_original": "Joel David McAuliffe",
-     "votes": 2563
-    },
-    {
-     "name_original": "Brian L. Mendes",
-     "votes": 2476
-    },
-    {
-     "name_original": "John E. Paquette, Jr.",
-     "votes": 2360
-    },
-    {
-     "name_original": "Clark Edward Wojtowicz",
-     "votes": 2322
-    },
-    {
-     "name_original": "Others",
-     "votes": 24,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 1",
-   "district_original": "Ward 1",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Abigail Ina Arriaga",
-     "votes": 673
-    },
-    {
-     "name_original": "Others",
-     "votes": 10,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 2",
-   "district_original": "Ward 2",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Shane Brooks",
-     "votes": 449
-    },
-    {
-     "name_original": "Joseph A. Breton",
-     "votes": 202
-    },
-    {
-     "name_original": "Others",
-     "votes": 4,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 3",
-   "district_original": "Ward 3",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Susan M. Goff",
-     "votes": 347
-    },
-    {
-     "name_original": "Darrin Breault",
-     "votes": 150
-    },
-    {
-     "name_original": "Others",
-     "votes": 2,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 4",
-   "district_original": "Ward 4",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "George Anthony Balakier",
-     "votes": 526
-    },
-    {
-     "name_original": "Others",
-     "votes": 7,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 5",
-   "district_original": "Ward 5",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Julie Ann L'heureux",
-     "votes": 328
-    },
-    {
-     "name_original": "Joseph F. Pasternak, III",
-     "votes": 379
-    },
-    {
-     "name_original": "Others",
-     "votes": 1,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 6",
-   "district_original": "Ward 6",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Samuel R. Shumsky",
-     "votes": 719
-    },
-    {
-     "name_original": "Others",
-     "votes": 7,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 7",
-   "district_original": "Ward 7",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "William Courchesne",
-     "votes": 282
-    },
-    {
-     "name_original": "Others",
-     "votes": 3,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 8",
-   "district_original": "Ward 8",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Douglas P. Girouard",
-     "votes": 605
-    },
-    {
-     "name_original": "Others",
-     "votes": 7,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "Councilor Ward 9",
-   "district_original": "Ward 9",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Mary-Elizabeth Pniak-Costello",
-     "votes": 681
-    },
-    {
-     "name_original": "Others",
-     "votes": 18,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee At-Large",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Robert George Cantin",
-     "votes": 2727
-    },
-    {
-     "name_original": "Mark Daniel McCarthy",
-     "votes": 2689
-    },
-    {
-     "name_original": "Others",
-     "votes": 20,
-     "tally_row": true
-    }
-   ],
-   "scope": "at_large",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 1",
-   "district_original": "Ward 1",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Deanna Lise Rousseau",
-     "votes": 672
-    },
-    {
-     "name_original": "Others",
-     "votes": 3,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 2",
-   "district_original": "Ward 2",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "David Barsalou",
-     "votes": 523
-    },
-    {
-     "name_original": "Others",
-     "votes": 8,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 3",
-   "district_original": "Ward 3",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Jason Alan Dout",
-     "votes": 441
-    },
-    {
-     "name_original": "Others",
-     "votes": 0,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 4",
-   "district_original": "Ward 4",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Diane Trela",
-     "votes": 509
-    },
-    {
-     "name_original": "Others",
-     "votes": 6,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 5",
-   "district_original": "Ward 5",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Grace Schofield",
-     "votes": 572
-    },
-    {
-     "name_original": "Others",
-     "votes": 6,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 6",
-   "district_original": "Ward 6",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Carlton Rene Brooks, Jr.",
-     "votes": 703
-    },
-    {
-     "name_original": "Others",
-     "votes": 4,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 7",
-   "district_original": "Ward 7",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Rafael Nazario, Jr.",
-     "votes": 279
-    },
-    {
-     "name_original": "Others",
-     "votes": 4,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 8",
-   "district_original": "Ward 8",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Susan Constance Theresa Lemieux",
-     "votes": 623
-    },
-    {
-     "name_original": "Others",
-     "votes": 7,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  },
-  {
-   "municipality": "City of Chicopee",
-   "date": "2025-11-04",
-   "office_original": "School Committee Ward 9",
-   "district_original": "Ward 9",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "extraction_confidence": 0.95,
-   "candidates": [
-    {
-     "name_original": "Ronald J. Benard",
-     "votes": 638
-    },
-    {
-     "name_original": "Others",
-     "votes": 5,
-     "tally_row": true
-    }
-   ],
-   "scope": "sub_town",
-   "blanks_printed": false
-  }
- ],
- "_source_stem": "Chicopee2025",
- "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2025.pdf",
- "ballots_cast": null,
- "ballots_cast_source": "cannot_derive"
+  ],
+  "_source_stem": "Chicopee2025",
+  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Chicopee2025.pdf",
+  "ballots_cast": 6366,
+  "ballots_cast_source": "cannot_derive"
 }
