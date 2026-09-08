@@ -1,29 +1,29 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hampden",
+   "date": "2023-05-15",
+   "office_original": "Hampden-Wilbraham Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Hampden",
-      "date": "2023-05-15",
-      "office_original": "Hampden-Wilbraham Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard Rediker",
-          "votes": 173
-        },
-        {
-          "name_original": "Meredith Anne Sample",
-          "votes": 59
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
+     "name_original": "Richard Rediker",
+     "votes": 173
+    },
+    {
+     "name_original": "Meredith Anne Sample",
+     "votes": 59
     }
-  ],
-  "_source_stem": "Hampden2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Hampden2023",
+ "_source_pdf": "",
+ "ballots_cast": 239,
+ "ballots_cast_source": "stated_in_record"
 }

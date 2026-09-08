@@ -1,54 +1,54 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Worthington",
+   "date": "2022-05-01",
+   "office_original": "Finance Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
     {
-      "municipality": "Worthington",
-      "date": "2022-05-01",
-      "office_original": "Finance Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Paul Dunlevy",
-          "votes": 130
-        },
-        {
-          "name_original": "Amanda Spiess",
-          "votes": 115
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Paul Dunlevy",
+     "votes": 130
     },
     {
-      "municipality": "Worthington",
-      "date": "2022-05-01",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Anthony Tiger Thomas",
-          "votes": 106
-        },
-        {
-          "name_original": "Alison Todd",
-          "votes": 190
-        },
-        {
-          "name_original": "Cai Walkowiak",
-          "votes": 185
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Amanda Spiess",
+     "votes": 115
     }
-  ],
-  "_source_stem": "Worthington2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Worthington",
+   "date": "2022-05-01",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Anthony Tiger Thomas",
+     "votes": 106
+    },
+    {
+     "name_original": "Alison Todd",
+     "votes": 190
+    },
+    {
+     "name_original": "Cai Walkowiak",
+     "votes": 185
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Worthington2022",
+ "_source_pdf": "",
+ "ballots_cast": 266,
+ "ballots_cast_source": "stated_in_record"
 }
