@@ -1,268 +1,268 @@
 {
-  "document": {
-    "heading_verbatim": "{\n  \"heading_verbatim\": \"Rochester election results in tie for a School Committee seat\",\n  \"election_type\": \"Regular\",\n  \"election_type_evidence\": \"Rochester residents headed to the polls on Wednesday, May 27 to elect multiple candidates for municipal positions\",\n  \"date_verbatim\": \"May 27\",\n  \"offices_on_ballot\": -1,\n  \"is_sample_ballot\": false,\n  \"uncontested_remainder\": true,\n  \"uncontested_remainder_evidence\": \"unopposed\" (used for Select Board Chair Adam Murphy, Town Clerk Marjorie Barrows, Cemetery Commission Timothy Lynch)\n}",
-    "date_corroboration": {
-      "source": "document",
-      "value": "2026-05-27",
-      "quote": "Wednesday, May 27 to elect multiple candidates for municipal position",
-      "note": "read 2026-08-24 by src/close_ingest_holds.py"
-    },
-    "date_verbatim": "Wednesday, May 27",
-    "special_note": "The phrase \"special election\" in this article is CONDITIONAL and refers to a possible future contest: \"If there is still a tie or no clear winner, the vote will go to a special election or appointment by the Select Board.\" This document reports the ANNUAL town election of Wednesday 27 May 2026. Adjudicated 2026-08-24."
+ "document": {
+  "heading_verbatim": "{\n  \"heading_verbatim\": \"Rochester election results in tie for a School Committee seat\",\n  \"election_type\": \"Regular\",\n  \"election_type_evidence\": \"Rochester residents headed to the polls on Wednesday, May 27 to elect multiple candidates for municipal positions\",\n  \"date_verbatim\": \"May 27\",\n  \"offices_on_ballot\": -1,\n  \"is_sample_ballot\": false,\n  \"uncontested_remainder\": true,\n  \"uncontested_remainder_evidence\": \"unopposed\" (used for Select Board Chair Adam Murphy, Town Clerk Marjorie Barrows, Cemetery Commission Timothy Lynch)\n}",
+  "date_corroboration": {
+   "source": "document",
+   "value": "2026-05-27",
+   "quote": "Wednesday, May 27 to elect multiple candidates for municipal position",
+   "note": "read 2026-08-24 by src/close_ingest_holds.py"
   },
-  "elections": [
+  "date_verbatim": "Wednesday, May 27",
+  "special_note": "The phrase \"special election\" in this article is CONDITIONAL and refers to a possible future contest: \"If there is still a tie or no clear winner, the vote will go to a special election or appointment by the Select Board.\" This document reports the ANNUAL town election of Wednesday 27 May 2026. Adjudicated 2026-08-24."
+ },
+ "elections": [
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kate Duggan",
-          "votes": 624
-        },
-        {
-          "name_original": "Barbara Lee",
-          "votes": 544
-        },
-        {
-          "name_original": "Isabel Gomes-McCann",
-          "votes": 544
-        },
-        {
-          "name_original": "Stacie Noble Shriver",
-          "votes": 479
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Kate Duggan",
+     "votes": 624
     },
     {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Tax Collector",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Beatrice Renalud",
-          "votes": 590
-        },
-        {
-          "name_original": "Judith Shepley",
-          "votes": 181
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Barbara Lee",
+     "votes": 544
     },
     {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Park Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Berube",
-          "votes": 438
-        },
-        {
-          "name_original": "Kelvin Douglas Sims Sr.",
-          "votes": 430
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Isabel Gomes-McCann",
+     "votes": 544
     },
     {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Adam Murphy",
-          "votes": 845
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marjorie Barrows",
-          "votes": 852
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marcia Kessler",
-          "votes": 834
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Cemetery Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy Lynch",
-          "votes": 868
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Amato",
-          "votes": 882
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Plumb Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carla Correia",
-          "votes": 799
-        },
-        {
-          "name_original": "Ann Soares",
-          "votes": 800
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Lee Carr",
-          "votes": 757
-        },
-        {
-          "name_original": "Marc R. Rousseau Jr.",
-          "votes": 797
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Water Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Christopher Gerrior",
-          "votes": 859
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Old Rochester Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Damien McCann",
-          "votes": 790
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Rochester",
-      "date": "2026-05-27",
-      "office_original": "Herring Inspector",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William D. Watling",
-          "votes": 930
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Stacie Noble Shriver",
+     "votes": 479
     }
-  ],
-  "_source_stem": "Rochester2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Tax Collector",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Beatrice Renalud",
+     "votes": 590
+    },
+    {
+     "name_original": "Judith Shepley",
+     "votes": 181
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Park Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian Berube",
+     "votes": 438
+    },
+    {
+     "name_original": "Kelvin Douglas Sims Sr.",
+     "votes": 430
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Adam Murphy",
+     "votes": 845
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marjorie Barrows",
+     "votes": 852
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marcia Kessler",
+     "votes": 834
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Cemetery Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Timothy Lynch",
+     "votes": 868
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Amato",
+     "votes": 882
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Plumb Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carla Correia",
+     "votes": 799
+    },
+    {
+     "name_original": "Ann Soares",
+     "votes": 800
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Lee Carr",
+     "votes": 757
+    },
+    {
+     "name_original": "Marc R. Rousseau Jr.",
+     "votes": 797
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Water Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Christopher Gerrior",
+     "votes": 859
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Old Rochester Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Damien McCann",
+     "votes": 790
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Rochester",
+   "date": "2026-05-27",
+   "office_original": "Herring Inspector",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William D. Watling",
+     "votes": 930
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Rochester2026",
+ "_source_pdf": "",
+ "ballots_cast": 1133,
+ "ballots_cast_source": "stated_in_record"
 }

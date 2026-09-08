@@ -1,285 +1,285 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Selectman",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Selectman",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ron Boucher",
-          "votes": 68
-        },
-        {
-          "name_original": "Karin Robert",
-          "votes": 11
-        },
-        {
-          "name_original": "Bob Patenaude",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Ron Boucher",
+     "votes": 68
     },
     {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ron Boucher",
-          "votes": 62
-        },
-        {
-          "name_original": "Bryan Tanner",
-          "votes": 2
-        },
-        {
-          "name_original": "Bob Patenaude",
-          "votes": 1
-        },
-        {
-          "name_original": "Debora Lefave",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Karin Robert",
+     "votes": 11
     },
     {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Tree Warden",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jeffrey Williams",
-          "votes": 80
-        },
-        {
-          "name_original": "Ernest Dix",
-          "votes": 10
-        },
-        {
-          "name_original": "Eric Booth",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Norman Rolnick",
-          "votes": 90
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "School Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Cynthia Brule",
-          "votes": 87
-        },
-        {
-          "name_original": "Eric Booth",
-          "votes": 2
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Library Trustee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Debra Bua",
-          "votes": 92
-        },
-        {
-          "name_original": "Mary Giron",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "War Memorial Trustee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Carlyle Chesbro",
-          "votes": 6
-        },
-        {
-          "name_original": "Ed Denault",
-          "votes": 2
-        },
-        {
-          "name_original": "Joe Bushika",
-          "votes": 2
-        },
-        {
-          "name_original": "Scott Botto",
-          "votes": 1
-        },
-        {
-          "name_original": "Ernest Dix",
-          "votes": 1
-        },
-        {
-          "name_original": "John Fosser",
-          "votes": 1
-        },
-        {
-          "name_original": "Al Denault",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Erin Scott",
-          "votes": 93
-        },
-        {
-          "name_original": "Debora Lefave",
-          "votes": 5
-        },
-        {
-          "name_original": "Ernest Dix",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Clarksburg",
-      "date": "2021-05-25",
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Debora Lefave",
-          "votes": 26
-        },
-        {
-          "name_original": "David Thayer",
-          "votes": 9
-        },
-        {
-          "name_original": "Eric Booth",
-          "votes": 2
-        },
-        {
-          "name_original": "Erin Williams",
-          "votes": 1
-        },
-        {
-          "name_original": "Laura Williams",
-          "votes": 1
-        },
-        {
-          "name_original": "Rick Bua",
-          "votes": 1
-        },
-        {
-          "name_original": "James Howe",
-          "votes": 1
-        },
-        {
-          "name_original": "Erin Scott",
-          "votes": 1
-        },
-        {
-          "name_original": "Ernest Dix",
-          "votes": 1
-        },
-        {
-          "name_original": "Charles Lewitt",
-          "votes": 1
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Bob Patenaude",
+     "votes": 1
     }
-  ],
-  "_source_stem": "Clarksburg2021",
-  "_source_pdf": "",
-  "document": {
-    "date_correction": {
-      "corrected_on": "2026-08-23",
-      "was": [
-        "2021"
-      ],
-      "now": "2021-05-25",
-      "url": "https://www.iberkshires.com/story/64214/Nomination-Papers-Available-for-Cheshire-Town-Election.html",
-      "quote": "the election is scheduled for Tuesday, May 25, from 10 to 8",
-      "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
-      "note": "the iBerkshires slug says Cheshire; the article BODY is Clarksburg's, naming townclerk@clarksburgma.gov"
-    },
-    "date_corroboration": {
-      "source": "citation",
-      "value": "2021-05-25",
-      "detail": "https://www.iberkshires.com/story/64214/Nomination-Papers-Available-for-Cheshire-Town-Election.html",
-      "quote": "the election is scheduled for Tuesday, May 25, from 10 to 8",
-      "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
-    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ron Boucher",
+     "votes": 62
+    },
+    {
+     "name_original": "Bryan Tanner",
+     "votes": 2
+    },
+    {
+     "name_original": "Bob Patenaude",
+     "votes": 1
+    },
+    {
+     "name_original": "Debora Lefave",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Tree Warden",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Jeffrey Williams",
+     "votes": 80
+    },
+    {
+     "name_original": "Ernest Dix",
+     "votes": 10
+    },
+    {
+     "name_original": "Eric Booth",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Norman Rolnick",
+     "votes": 90
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "School Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Cynthia Brule",
+     "votes": 87
+    },
+    {
+     "name_original": "Eric Booth",
+     "votes": 2
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Library Trustee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Debra Bua",
+     "votes": 92
+    },
+    {
+     "name_original": "Mary Giron",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "War Memorial Trustee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Carlyle Chesbro",
+     "votes": 6
+    },
+    {
+     "name_original": "Ed Denault",
+     "votes": 2
+    },
+    {
+     "name_original": "Joe Bushika",
+     "votes": 2
+    },
+    {
+     "name_original": "Scott Botto",
+     "votes": 1
+    },
+    {
+     "name_original": "Ernest Dix",
+     "votes": 1
+    },
+    {
+     "name_original": "John Fosser",
+     "votes": 1
+    },
+    {
+     "name_original": "Al Denault",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Erin Scott",
+     "votes": 93
+    },
+    {
+     "name_original": "Debora Lefave",
+     "votes": 5
+    },
+    {
+     "name_original": "Ernest Dix",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Clarksburg",
+   "date": "2021-05-25",
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Debora Lefave",
+     "votes": 26
+    },
+    {
+     "name_original": "David Thayer",
+     "votes": 9
+    },
+    {
+     "name_original": "Eric Booth",
+     "votes": 2
+    },
+    {
+     "name_original": "Erin Williams",
+     "votes": 1
+    },
+    {
+     "name_original": "Laura Williams",
+     "votes": 1
+    },
+    {
+     "name_original": "Rick Bua",
+     "votes": 1
+    },
+    {
+     "name_original": "James Howe",
+     "votes": 1
+    },
+    {
+     "name_original": "Erin Scott",
+     "votes": 1
+    },
+    {
+     "name_original": "Ernest Dix",
+     "votes": 1
+    },
+    {
+     "name_original": "Charles Lewitt",
+     "votes": 1
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Clarksburg2021",
+ "_source_pdf": "",
+ "document": {
+  "date_correction": {
+   "corrected_on": "2026-08-23",
+   "was": [
+    "2021"
+   ],
+   "now": "2021-05-25",
+   "url": "https://www.iberkshires.com/story/64214/Nomination-Papers-Available-for-Cheshire-Town-Election.html",
+   "quote": "the election is scheduled for Tuesday, May 25, from 10 to 8",
+   "checked": "re-fetched by src.verify_date_evidence: the quote is on the page, the date is printed there, and the occurrence is not a posted/updated stamp",
+   "note": "the iBerkshires slug says Cheshire; the article BODY is Clarksburg's, naming townclerk@clarksburgma.gov"
+  },
+  "date_corroboration": {
+   "source": "citation",
+   "value": "2021-05-25",
+   "detail": "https://www.iberkshires.com/story/64214/Nomination-Papers-Available-for-Cheshire-Town-Election.html",
+   "quote": "the election is scheduled for Tuesday, May 25, from 10 to 8",
+   "note": "verified 2026-08-23 by src.verify_date_evidence: quote on the page, date printed there, not a posted/updated stamp"
+  }
+ },
+ "ballots_cast": 106,
+ "ballots_cast_source": "stated_in_record"
 }

@@ -1,83 +1,83 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Williamstown",
+   "date": "2021-05-11",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Williamstown",
-      "date": "2021-05-11",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Wade Hasty",
-          "votes": 990
-        },
-        {
-          "name_original": "Albert Cummings",
-          "votes": 772
-        },
-        {
-          "name_original": "Jeffrey Johnson",
-          "votes": 1141
-        },
-        {
-          "name_original": "Tony Boskovich",
-          "votes": 642
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Wade Hasty",
+     "votes": 990
     },
     {
-      "municipality": "Williamstown",
-      "date": "2021-05-11",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Roger Lawrence",
-          "votes": 640
-        },
-        {
-          "name_original": "Susan Puddester",
-          "votes": 622
-        },
-        {
-          "name_original": "Kenneth Kuttner",
-          "votes": 450
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Albert Cummings",
+     "votes": 772
     },
     {
-      "municipality": "Williamstown",
-      "date": "2021-05-11",
-      "office_original": "Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Charles Stephen Dew",
-          "votes": 958
-        },
-        {
-          "name_original": "Joan Diver",
-          "votes": 542
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jeffrey Johnson",
+     "votes": 1141
+    },
+    {
+     "name_original": "Tony Boskovich",
+     "votes": 642
     }
-  ],
-  "_source_stem": "Williamstown2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamstown",
+   "date": "2021-05-11",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Roger Lawrence",
+     "votes": 640
+    },
+    {
+     "name_original": "Susan Puddester",
+     "votes": 622
+    },
+    {
+     "name_original": "Kenneth Kuttner",
+     "votes": 450
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamstown",
+   "date": "2021-05-11",
+   "office_original": "Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Charles Stephen Dew",
+     "votes": 958
+    },
+    {
+     "name_original": "Joan Diver",
+     "votes": 542
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Williamstown2021",
+ "_source_pdf": "",
+ "ballots_cast": 1823,
+ "ballots_cast_source": "stated_in_record"
 }

@@ -1,206 +1,206 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jennifer Roberts",
-          "votes": 1421
-        },
-        {
-          "name_original": "Lisa Kouchakdjian",
-          "votes": 1238
-        },
-        {
-          "name_original": "Eric Poch",
-          "votes": 1041
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jennifer Roberts",
+     "votes": 1421
     },
     {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Trevor Haydon",
-          "votes": 1493
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Lisa Kouchakdjian",
+     "votes": 1238
     },
     {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Goodnow Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy Anderson",
-          "votes": 734
-        },
-        {
-          "name_original": "Katina Fontes",
-          "votes": 1092
-        },
-        {
-          "name_original": "Alice Levine",
-          "votes": 841
-        },
-        {
-          "name_original": "Jean Nam",
-          "votes": 1358
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Sudbury Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Steven Swanger",
-          "votes": 1469
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Sudbury Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carol Bradford",
-          "votes": 1572
-        },
-        {
-          "name_original": "Ashley Horgan",
-          "votes": 453
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Sudbury Parks and Recreation Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mara L. Huston",
-          "votes": 1351
-        },
-        {
-          "name_original": "Others",
-          "votes": 1123,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Sudbury Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Justin Leas Finnicum",
-          "votes": 1328
-        },
-        {
-          "name_original": "Anuraj Shah",
-          "votes": 1205
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Sudbury School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Meredith Gerson",
-          "votes": 1460
-        },
-        {
-          "name_original": "Mandy Sim",
-          "votes": 1516
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2022-03-28",
-      "office_original": "Lincoln-Sudbury Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Maura Carty",
-          "votes": 1562
-        },
-        {
-          "name_original": "Cara Endyke-Doran",
-          "votes": 1853
-        },
-        {
-          "name_original": "Kevin Matthews",
-          "votes": 1650
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
+     "name_original": "Eric Poch",
+     "votes": 1041
     }
-  ],
-  "_source_stem": "Sudbury2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Trevor Haydon",
+     "votes": 1493
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Goodnow Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Timothy Anderson",
+     "votes": 734
+    },
+    {
+     "name_original": "Katina Fontes",
+     "votes": 1092
+    },
+    {
+     "name_original": "Alice Levine",
+     "votes": 841
+    },
+    {
+     "name_original": "Jean Nam",
+     "votes": 1358
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Sudbury Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Steven Swanger",
+     "votes": 1469
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Sudbury Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carol Bradford",
+     "votes": 1572
+    },
+    {
+     "name_original": "Ashley Horgan",
+     "votes": 453
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Sudbury Parks and Recreation Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mara L. Huston",
+     "votes": 1351
+    },
+    {
+     "name_original": "Others",
+     "votes": 1123,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Sudbury Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Justin Leas Finnicum",
+     "votes": 1328
+    },
+    {
+     "name_original": "Anuraj Shah",
+     "votes": 1205
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Sudbury School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Meredith Gerson",
+     "votes": 1460
+    },
+    {
+     "name_original": "Mandy Sim",
+     "votes": 1516
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2022-03-28",
+   "office_original": "Lincoln-Sudbury Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Maura Carty",
+     "votes": 1562
+    },
+    {
+     "name_original": "Cara Endyke-Doran",
+     "votes": 1853
+    },
+    {
+     "name_original": "Kevin Matthews",
+     "votes": 1650
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Sudbury2022",
+ "_source_pdf": "",
+ "ballots_cast": 2273,
+ "ballots_cast_source": "stated_in_record"
 }

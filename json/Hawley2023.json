@@ -1,131 +1,131 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Wayne Lemoine",
-          "votes": 24
-        },
-        {
-          "name_original": "Ashley Harrison",
-          "votes": 15
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Wayne Lemoine",
+     "votes": 24
     },
     {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Selectboard/Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Will Cosby",
-          "votes": 41
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Donna Lemoine",
-          "votes": 50
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Auditor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Ashley Harrison",
-          "votes": 27
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Hawlemont Regional School District School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Ken Bertsch",
-          "votes": 33
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Mohawk Trail Regional School District School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Scott Purinton",
-          "votes": 31
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2023-05-01",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Scott Purinton",
-          "votes": 36
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Ashley Harrison",
+     "votes": 15
     }
-  ],
-  "_source_stem": "Hawley2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Selectboard/Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Will Cosby",
+     "votes": 41
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Donna Lemoine",
+     "votes": 50
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Auditor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Ashley Harrison",
+     "votes": 27
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Hawlemont Regional School District School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Ken Bertsch",
+     "votes": 33
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Mohawk Trail Regional School District School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Scott Purinton",
+     "votes": 31
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2023-05-01",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Scott Purinton",
+     "votes": 36
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Hawley2023",
+ "_source_pdf": "",
+ "ballots_cast": 53,
+ "ballots_cast_source": "stated_in_record"
 }

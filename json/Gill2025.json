@@ -1,115 +1,115 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Selectboard",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Selectboard",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John Ward",
-          "votes": 83
-        },
-        {
-          "name_original": "Others",
-          "votes": 0,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "John Ward",
+     "votes": 83
     },
     {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Tomb",
-          "votes": 82
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Cemetery Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gary Bourbeau",
-          "votes": 73
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Slate Memorial Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jacob Morrow",
-          "votes": 87
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Leslie Ann Wheeler",
-          "votes": 81
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Gill",
-      "date": "2025-05-19",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ethan Chase",
-          "votes": 78
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 0,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Gill2025",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Tomb",
+     "votes": 82
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Cemetery Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gary Bourbeau",
+     "votes": 73
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Slate Memorial Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jacob Morrow",
+     "votes": 87
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Leslie Ann Wheeler",
+     "votes": 81
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Gill",
+   "date": "2025-05-19",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ethan Chase",
+     "votes": 78
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Gill2025",
+ "_source_pdf": "",
+ "ballots_cast": 93,
+ "ballots_cast_source": "stated_in_record"
 }

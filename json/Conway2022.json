@@ -1,219 +1,219 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Selectboard",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Selectboard",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Christopher Waldo",
-          "votes": 190
-        },
-        {
-          "name_original": "Robert Baker",
-          "votes": 168
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Christopher Waldo",
+     "votes": 190
     },
     {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Roxanne Parent",
-          "votes": 214
-        },
-        {
-          "name_original": "Troy Lucier",
-          "votes": 134
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Natalie Whitcomb",
-          "votes": 303
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Emily Sweet",
-          "votes": 308
-        },
-        {
-          "name_original": "Kathy Llamas",
-          "votes": 298
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Frontier Regional School District School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Jared Campbell",
-          "votes": 292
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Conway Grammar School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Elaine Campbell",
-          "votes": 287
-        },
-        {
-          "name_original": "Jared Campbell",
-          "votes": 280
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "George Forcier",
-          "votes": 280
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "William Moebius",
-          "votes": 280
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Ronald Hawkes",
-          "votes": 315
-        },
-        {
-          "name_original": "Brian Blakeslee",
-          "votes": 297
-        },
-        {
-          "name_original": "James Recore",
-          "votes": 305
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Laurie Lucier",
-          "votes": 312
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Conway",
-      "date": "2022-06-09",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "James Recore",
-          "votes": 305
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Robert Baker",
+     "votes": 168
     }
-  ],
-  "_source_stem": "Conway2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Roxanne Parent",
+     "votes": 214
+    },
+    {
+     "name_original": "Troy Lucier",
+     "votes": 134
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Natalie Whitcomb",
+     "votes": 303
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Emily Sweet",
+     "votes": 308
+    },
+    {
+     "name_original": "Kathy Llamas",
+     "votes": 298
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Frontier Regional School District School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Jared Campbell",
+     "votes": 292
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Conway Grammar School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Elaine Campbell",
+     "votes": 287
+    },
+    {
+     "name_original": "Jared Campbell",
+     "votes": 280
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "George Forcier",
+     "votes": 280
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "William Moebius",
+     "votes": 280
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Ronald Hawkes",
+     "votes": 315
+    },
+    {
+     "name_original": "Brian Blakeslee",
+     "votes": 297
+    },
+    {
+     "name_original": "James Recore",
+     "votes": 305
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Laurie Lucier",
+     "votes": 312
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Conway",
+   "date": "2022-06-09",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "James Recore",
+     "votes": 305
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Conway2022",
+ "_source_pdf": "",
+ "ballots_cast": 360,
+ "ballots_cast_source": "stated_in_record"
 }

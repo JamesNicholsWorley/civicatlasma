@@ -1,186 +1,186 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.72,
+   "candidates": [
     {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.72,
-      "candidates": [
-        {
-          "name_original": "Eric Mendelsohn",
-          "votes": 52
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.72,
-      "candidates": [
-        {
-          "name_original": "Linda Beckwith",
-          "votes": 62
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Lesliann Furcht",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Treasurer",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Lesliann Furcht",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Jeb Rong",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Margaret Whitbeck",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "David O. Whitbeck",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "William Short",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Morgan Bulkeley",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Mount Washington",
-      "date": "2021-05-11",
-      "office_original": "Tax Collector",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.5,
-      "candidates": [
-        {
-          "name_original": "Dorothy Bonbrake",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Eric Mendelsohn",
+     "votes": 52
     }
-  ],
-  "_source_stem": "MountWashington2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.72,
+   "candidates": [
+    {
+     "name_original": "Linda Beckwith",
+     "votes": 62
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Lesliann Furcht",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Treasurer",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Lesliann Furcht",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Jeb Rong",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Margaret Whitbeck",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "David O. Whitbeck",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "William Short",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Morgan Bulkeley",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Mount Washington",
+   "date": "2021-05-11",
+   "office_original": "Tax Collector",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.5,
+   "candidates": [
+    {
+     "name_original": "Dorothy Bonbrake",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "MountWashington2021",
+ "_source_pdf": "",
+ "ballots_cast": 78,
+ "ballots_cast_source": "stated_in_record"
 }

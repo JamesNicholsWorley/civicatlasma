@@ -1,552 +1,552 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Robyn Bratica",
-          "votes": 973
-        },
-        {
-          "name_original": "John Erickson",
-          "votes": 739
-        },
-        {
-          "name_original": "Derrick Sobers",
-          "votes": 640
-        },
-        {
-          "name_original": "R.J. Sheedy",
-          "votes": 541
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Robyn Bratica",
+     "votes": 973
     },
     {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jose Morais",
-          "votes": 833
-        },
-        {
-          "name_original": "John DePaolo Jr.",
-          "votes": 776
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "John Erickson",
+     "votes": 739
     },
     {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Park Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Scott Crisafulli",
-          "votes": 936
-        },
-        {
-          "name_original": "Charles Reneau",
-          "votes": 633
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Derrick Sobers",
+     "votes": 640
     },
     {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Michael Walsh",
-          "votes": 1282
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Paul Mazzuchelli",
-          "votes": 1420
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Paul Simas",
-          "votes": 1117
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.65,
-      "candidates": [
-        {
-          "name_original": "Steven Borges",
-          "votes": 1174
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Board of Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Stephanie Abisla",
-          "votes": 1031
-        },
-        {
-          "name_original": "Sarah Moazeni",
-          "votes": 899
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Sewer Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Richard Cenedella",
-          "votes": 1196
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Sewer Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.65,
-      "candidates": [
-        {
-          "name_original": "Leonardo Morcone Jr.",
-          "votes": 1288
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Trustees of Vernon Grove Cemetery",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kristen Gardner",
-          "votes": 1001
-        },
-        {
-          "name_original": "Frederick Elliott",
-          "votes": 806
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Constable",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 4,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Mark Calzolaio",
-          "votes": 999
-        },
-        {
-          "name_original": "Raymond Pagucci Jr.",
-          "votes": 977
-        },
-        {
-          "name_original": "Nadine Ladeau",
-          "votes": 901
-        },
-        {
-          "name_original": "Robert Sheedy",
-          "votes": 833
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Suzan Clark",
-          "votes": 81
-        },
-        {
-          "name_original": "Nicole C. M. Fulginiti",
-          "votes": 81
-        },
-        {
-          "name_original": "Rosanna Blanchard Erickson",
-          "votes": 74
-        },
-        {
-          "name_original": "Maria Ozella",
-          "votes": 66
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Gianna Krovocheck",
-          "votes": 147
-        },
-        {
-          "name_original": "William Sanborn III",
-          "votes": 124
-        },
-        {
-          "name_original": "Michael Aghajanian",
-          "votes": 116
-        },
-        {
-          "name_original": "Thomas Russ",
-          "votes": 116
-        },
-        {
-          "name_original": "William Wing",
-          "votes": 116
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "John Taddei",
-          "votes": 113
-        },
-        {
-          "name_original": "Julie Gonzalez",
-          "votes": 110
-        },
-        {
-          "name_original": "Rosemary Trettel",
-          "votes": 98
-        },
-        {
-          "name_original": "Alfred Teixeira",
-          "votes": 95
-        },
-        {
-          "name_original": "Bruce Meacham Jr.",
-          "votes": 94
-        },
-        {
-          "name_original": "Russell Abisla",
-          "votes": 93
-        },
-        {
-          "name_original": "Stephanie Abisla",
-          "votes": 92
-        },
-        {
-          "name_original": "B. Gregory Johnson",
-          "votes": 92
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Evelyn D. Bon Tempo",
-          "votes": 84
-        },
-        {
-          "name_original": "Martha White",
-          "votes": 78
-        },
-        {
-          "name_original": "Terence Thomas",
-          "votes": 73
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Jose Morais",
-          "votes": 213
-        },
-        {
-          "name_original": "Michael Detore",
-          "votes": 187
-        },
-        {
-          "name_original": "Alexis A. C. Forgit",
-          "votes": 179
-        },
-        {
-          "name_original": "R.J. Sheedy",
-          "votes": 175
-        },
-        {
-          "name_original": "Joanne Dillon",
-          "votes": 172
-        },
-        {
-          "name_original": "David Hunter",
-          "votes": 162
-        },
-        {
-          "name_original": "Edwin Roth",
-          "votes": 156
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Angelo Calagione",
-          "votes": 170
-        },
-        {
-          "name_original": "Jennifer Parson",
-          "votes": 161
-        },
-        {
-          "name_original": "Peter Pacella",
-          "votes": 160
-        },
-        {
-          "name_original": "Christine Crean",
-          "votes": 149
-        },
-        {
-          "name_original": "Andrea Ellsworth",
-          "votes": 146
-        },
-        {
-          "name_original": "Daniel Cloutier",
-          "votes": 146
-        },
-        {
-          "name_original": "John Crean Jr.",
-          "votes": 145
-        },
-        {
-          "name_original": "Matthew Delaney",
-          "votes": 145
-        },
-        {
-          "name_original": "Brendan Rickert",
-          "votes": 141
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 7",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Paul Tamagni",
-          "votes": 138
-        },
-        {
-          "name_original": "Mark Nelson",
-          "votes": 136
-        },
-        {
-          "name_original": "Renaldo DeLuzio",
-          "votes": 135
-        },
-        {
-          "name_original": "Nancy Wojick",
-          "votes": 134
-        },
-        {
-          "name_original": "Meghan Hornberger",
-          "votes": 130
-        },
-        {
-          "name_original": "Beverly Swymer",
-          "votes": 123
-        },
-        {
-          "name_original": "George Swymer Jr.",
-          "votes": 120
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Milford",
-      "date": "2022-04-05",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 8",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "James Griffith",
-          "votes": 170
-        },
-        {
-          "name_original": "Stephen Costello",
-          "votes": 168
-        },
-        {
-          "name_original": "Robert Benson",
-          "votes": 158
-        },
-        {
-          "name_original": "Robert Delmore",
-          "votes": 157
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "R.J. Sheedy",
+     "votes": 541
     }
-  ],
-  "_source_stem": "Milford2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Jose Morais",
+     "votes": 833
+    },
+    {
+     "name_original": "John DePaolo Jr.",
+     "votes": 776
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Park Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Scott Crisafulli",
+     "votes": 936
+    },
+    {
+     "name_original": "Charles Reneau",
+     "votes": 633
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Michael Walsh",
+     "votes": 1282
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Paul Mazzuchelli",
+     "votes": 1420
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Paul Simas",
+     "votes": 1117
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.65,
+   "candidates": [
+    {
+     "name_original": "Steven Borges",
+     "votes": 1174
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Board of Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Stephanie Abisla",
+     "votes": 1031
+    },
+    {
+     "name_original": "Sarah Moazeni",
+     "votes": 899
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Sewer Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Richard Cenedella",
+     "votes": 1196
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Sewer Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.65,
+   "candidates": [
+    {
+     "name_original": "Leonardo Morcone Jr.",
+     "votes": 1288
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Trustees of Vernon Grove Cemetery",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Kristen Gardner",
+     "votes": 1001
+    },
+    {
+     "name_original": "Frederick Elliott",
+     "votes": 806
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Constable",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 4,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Mark Calzolaio",
+     "votes": 999
+    },
+    {
+     "name_original": "Raymond Pagucci Jr.",
+     "votes": 977
+    },
+    {
+     "name_original": "Nadine Ladeau",
+     "votes": 901
+    },
+    {
+     "name_original": "Robert Sheedy",
+     "votes": 833
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Suzan Clark",
+     "votes": 81
+    },
+    {
+     "name_original": "Nicole C. M. Fulginiti",
+     "votes": 81
+    },
+    {
+     "name_original": "Rosanna Blanchard Erickson",
+     "votes": 74
+    },
+    {
+     "name_original": "Maria Ozella",
+     "votes": 66
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Gianna Krovocheck",
+     "votes": 147
+    },
+    {
+     "name_original": "William Sanborn III",
+     "votes": 124
+    },
+    {
+     "name_original": "Michael Aghajanian",
+     "votes": 116
+    },
+    {
+     "name_original": "Thomas Russ",
+     "votes": 116
+    },
+    {
+     "name_original": "William Wing",
+     "votes": 116
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "John Taddei",
+     "votes": 113
+    },
+    {
+     "name_original": "Julie Gonzalez",
+     "votes": 110
+    },
+    {
+     "name_original": "Rosemary Trettel",
+     "votes": 98
+    },
+    {
+     "name_original": "Alfred Teixeira",
+     "votes": 95
+    },
+    {
+     "name_original": "Bruce Meacham Jr.",
+     "votes": 94
+    },
+    {
+     "name_original": "Russell Abisla",
+     "votes": 93
+    },
+    {
+     "name_original": "Stephanie Abisla",
+     "votes": 92
+    },
+    {
+     "name_original": "B. Gregory Johnson",
+     "votes": 92
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Evelyn D. Bon Tempo",
+     "votes": 84
+    },
+    {
+     "name_original": "Martha White",
+     "votes": 78
+    },
+    {
+     "name_original": "Terence Thomas",
+     "votes": 73
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Jose Morais",
+     "votes": 213
+    },
+    {
+     "name_original": "Michael Detore",
+     "votes": 187
+    },
+    {
+     "name_original": "Alexis A. C. Forgit",
+     "votes": 179
+    },
+    {
+     "name_original": "R.J. Sheedy",
+     "votes": 175
+    },
+    {
+     "name_original": "Joanne Dillon",
+     "votes": 172
+    },
+    {
+     "name_original": "David Hunter",
+     "votes": 162
+    },
+    {
+     "name_original": "Edwin Roth",
+     "votes": 156
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Angelo Calagione",
+     "votes": 170
+    },
+    {
+     "name_original": "Jennifer Parson",
+     "votes": 161
+    },
+    {
+     "name_original": "Peter Pacella",
+     "votes": 160
+    },
+    {
+     "name_original": "Christine Crean",
+     "votes": 149
+    },
+    {
+     "name_original": "Andrea Ellsworth",
+     "votes": 146
+    },
+    {
+     "name_original": "Daniel Cloutier",
+     "votes": 146
+    },
+    {
+     "name_original": "John Crean Jr.",
+     "votes": 145
+    },
+    {
+     "name_original": "Matthew Delaney",
+     "votes": 145
+    },
+    {
+     "name_original": "Brendan Rickert",
+     "votes": 141
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 7",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Paul Tamagni",
+     "votes": 138
+    },
+    {
+     "name_original": "Mark Nelson",
+     "votes": 136
+    },
+    {
+     "name_original": "Renaldo DeLuzio",
+     "votes": 135
+    },
+    {
+     "name_original": "Nancy Wojick",
+     "votes": 134
+    },
+    {
+     "name_original": "Meghan Hornberger",
+     "votes": 130
+    },
+    {
+     "name_original": "Beverly Swymer",
+     "votes": 123
+    },
+    {
+     "name_original": "George Swymer Jr.",
+     "votes": 120
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Milford",
+   "date": "2022-04-05",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 8",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "James Griffith",
+     "votes": 170
+    },
+    {
+     "name_original": "Stephen Costello",
+     "votes": 168
+    },
+    {
+     "name_original": "Robert Benson",
+     "votes": 158
+    },
+    {
+     "name_original": "Robert Delmore",
+     "votes": 157
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Milford2022",
+ "_source_pdf": "",
+ "ballots_cast": 1742,
+ "ballots_cast_source": "stated_in_record"
 }

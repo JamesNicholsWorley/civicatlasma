@@ -1,193 +1,193 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tom Dixon",
-          "votes": 1030
-        },
-        {
-          "name_original": "Malcolm MacNab",
-          "votes": 947
-        },
-        {
-          "name_original": "Kathy Richen",
-          "votes": 838
-        },
-        {
-          "name_original": "Clifford Williams",
-          "votes": 831
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Tom Dixon",
+     "votes": 1030
     },
     {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Land Bank Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kelly Steffen",
-          "votes": 719
-        },
-        {
-          "name_original": "Allen Reinhard",
-          "votes": 1244
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Malcolm MacNab",
+     "votes": 947
     },
     {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sarah Alger",
-          "votes": 1847
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Kathy Richen",
+     "votes": 838
     },
     {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tim Lepore",
-          "votes": 1742
-        },
-        {
-          "name_original": "Shantaw Bloise",
-          "votes": 1488
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Historic District Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Vallorie Oliver",
-          "votes": 1716
-        },
-        {
-          "name_original": "Ray Pohl",
-          "votes": 1488
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Harbor & Shellfish Advisory Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Brace",
-          "votes": 1664
-        },
-        {
-          "name_original": "David Fronzuto",
-          "votes": 1676
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Nantucket Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Linda Williams",
-          "votes": 1378
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Topham",
-          "votes": 1727
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2023-05-23",
-      "office_original": "Water Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Curtis Barnes",
-          "votes": 1527
-        },
-        {
-          "name_original": "Nelson Eldridge",
-          "votes": 1680
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Clifford Williams",
+     "votes": 831
     }
-  ],
-  "_source_stem": "Nantucket2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Land Bank Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kelly Steffen",
+     "votes": 719
+    },
+    {
+     "name_original": "Allen Reinhard",
+     "votes": 1244
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sarah Alger",
+     "votes": 1847
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Tim Lepore",
+     "votes": 1742
+    },
+    {
+     "name_original": "Shantaw Bloise",
+     "votes": 1488
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Historic District Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Vallorie Oliver",
+     "votes": 1716
+    },
+    {
+     "name_original": "Ray Pohl",
+     "votes": 1488
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Harbor & Shellfish Advisory Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Brace",
+     "votes": 1664
+    },
+    {
+     "name_original": "David Fronzuto",
+     "votes": 1676
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Nantucket Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Linda Williams",
+     "votes": 1378
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Topham",
+     "votes": 1727
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2023-05-23",
+   "office_original": "Water Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Curtis Barnes",
+     "votes": 1527
+    },
+    {
+     "name_original": "Nelson Eldridge",
+     "votes": 1680
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Nantucket2023",
+ "_source_pdf": "",
+ "ballots_cast": 2138,
+ "ballots_cast_source": "stated_in_record"
 }

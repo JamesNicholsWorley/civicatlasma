@@ -1,133 +1,133 @@
 {
-  "document": {
-    "heading_verbatim": "Slew of write-ins elected in Hawley - Greenfield Recorder",
-    "election_type": "Regular",
-    "election_type_evidence": "Monday's annual town election",
-    "date_verbatim": "Monday",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": "",
-    "date_corroboration": {
-      "source": "town file naming / publication date / town pattern",
-      "value": "2024-05-06",
-      "strength": "corroborated",
-      "quote": "the Greenfield Recorder piece says \"Monday's annual town election\" and is published Tuesday 7 May 2024",
-      "note": "the document itself prints no date; established 2026-08-24 by src/date_undated_returns.py"
+ "document": {
+  "heading_verbatim": "Slew of write-ins elected in Hawley - Greenfield Recorder",
+  "election_type": "Regular",
+  "election_type_evidence": "Monday's annual town election",
+  "date_verbatim": "Monday",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": "",
+  "date_corroboration": {
+   "source": "town file naming / publication date / town pattern",
+   "value": "2024-05-06",
+   "strength": "corroborated",
+   "quote": "the Greenfield Recorder piece says \"Monday's annual town election\" and is published Tuesday 7 May 2024",
+   "note": "the document itself prints no date; established 2026-08-24 by src/date_undated_returns.py"
+  }
+ },
+ "elections": [
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Robert MacLean",
+     "votes": 59
     }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
   },
-  "elections": [
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Robert MacLean",
-          "votes": 59
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Board of Assessors",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jeffrey Carantit",
-          "votes": 58
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Scott Purinton",
-          "votes": 32
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Auditor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ashley Harrison",
-          "votes": 26
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Hawlemont School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Peggy Travers",
-          "votes": 61
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Hawley",
-      "date": "2024-05-06",
-      "office_original": "Hawlemont School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kylie Turner",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jeffrey Carantit",
+     "votes": 58
     }
-  ],
-  "_source_stem": "Hawley2024",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Scott Purinton",
+     "votes": 32
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Auditor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ashley Harrison",
+     "votes": 26
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Hawlemont School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Peggy Travers",
+     "votes": 61
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Hawley",
+   "date": "2024-05-06",
+   "office_original": "Hawlemont School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Kylie Turner",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Hawley2024",
+ "_source_pdf": "",
+ "ballots_cast": 61,
+ "ballots_cast_source": "stated_in_record"
 }

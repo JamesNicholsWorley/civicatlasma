@@ -1,160 +1,160 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Charles Russo",
-          "votes": 2250
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Liam J Vesely",
-          "votes": 2239
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Goodnow Library Trustees",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Mathews Iwasaki",
-          "votes": 2217
-        },
-        {
-          "name_original": "Elizabeth Mayyasi",
-          "votes": 2135
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Susan Ruth Sama",
-          "votes": 2264
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Park and Recreation Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ryan James Poteat",
-          "votes": 2200
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Julie Zelermyer Perlman",
-          "votes": 2188
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Sudbury School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Julie Durgin-Sicree",
-          "votes": 1566
-        },
-        {
-          "name_original": "Ellen Lederer-DeFrancesco",
-          "votes": 1452
-        },
-        {
-          "name_original": "Jonathan Sullivan",
-          "votes": 1437
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Sudbury",
-      "date": "2026-03-30",
-      "office_original": "Lincoln-Sudbury Regional District School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Ravi Simon",
-          "votes": 2134
-        },
-        {
-          "name_original": "Jason McLure",
-          "votes": 1982
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
+     "name_original": "Charles Russo",
+     "votes": 2250
     }
-  ],
-  "_source_stem": "Sudbury2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Liam J Vesely",
+     "votes": 2239
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Goodnow Library Trustees",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Mathews Iwasaki",
+     "votes": 2217
+    },
+    {
+     "name_original": "Elizabeth Mayyasi",
+     "votes": 2135
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Susan Ruth Sama",
+     "votes": 2264
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Park and Recreation Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ryan James Poteat",
+     "votes": 2200
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Julie Zelermyer Perlman",
+     "votes": 2188
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Sudbury School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Julie Durgin-Sicree",
+     "votes": 1566
+    },
+    {
+     "name_original": "Ellen Lederer-DeFrancesco",
+     "votes": 1452
+    },
+    {
+     "name_original": "Jonathan Sullivan",
+     "votes": 1437
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Sudbury",
+   "date": "2026-03-30",
+   "office_original": "Lincoln-Sudbury Regional District School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Ravi Simon",
+     "votes": 2134
+    },
+    {
+     "name_original": "Jason McLure",
+     "votes": 1982
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Sudbury2026",
+ "_source_pdf": "",
+ "ballots_cast": 3045,
+ "ballots_cast_source": "stated_in_record"
 }

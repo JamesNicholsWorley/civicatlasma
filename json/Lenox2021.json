@@ -1,159 +1,159 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Meghan Kirby",
-          "votes": 385
-        },
-        {
-          "name_original": "Veronica Fenton",
-          "votes": 345
-        },
-        {
-          "name_original": "Oren Cass",
-          "votes": 244
-        },
-        {
-          "name_original": "Kim Winger",
-          "votes": 238
-        },
-        {
-          "name_original": "Gabriela Sheehan",
-          "votes": 236
-        },
-        {
-          "name_original": "Michelle Messana",
-          "votes": 208
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Meghan Kirby",
+     "votes": 385
     },
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Selectmen",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Edward Lane",
-          "votes": 498
-        },
-        {
-          "name_original": "Neal Maxymillian",
-          "votes": 456
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Veronica Fenton",
+     "votes": 345
     },
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Town Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John McNinch",
-          "votes": 544
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Oren Cass",
+     "votes": 244
     },
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Noel Blagg",
-          "votes": 486
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Kim Winger",
+     "votes": 238
     },
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Jaimy Messana",
-          "votes": 446
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Gabriela Sheehan",
+     "votes": 236
     },
     {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Pam Kueber",
-          "votes": 470
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2021-05-10",
-      "office_original": "Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kim Graham",
-          "votes": 460
-        },
-        {
-          "name_original": "Diana Kirby",
-          "votes": 512
-        },
-        {
-          "name_original": "Deborah Prew",
-          "votes": 502
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Michelle Messana",
+     "votes": 208
     }
-  ],
-  "_source_stem": "Lenox2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Selectmen",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Edward Lane",
+     "votes": 498
+    },
+    {
+     "name_original": "Neal Maxymillian",
+     "votes": 456
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Town Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John McNinch",
+     "votes": 544
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Noel Blagg",
+     "votes": 486
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Jaimy Messana",
+     "votes": 446
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Pam Kueber",
+     "votes": 470
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2021-05-10",
+   "office_original": "Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kim Graham",
+     "votes": 460
+    },
+    {
+     "name_original": "Diana Kirby",
+     "votes": 512
+    },
+    {
+     "name_original": "Deborah Prew",
+     "votes": 502
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Lenox2021",
+ "_source_pdf": "",
+ "ballots_cast": 625,
+ "ballots_cast_source": "stated_in_record"
 }

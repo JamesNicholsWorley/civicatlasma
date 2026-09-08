@@ -1,133 +1,133 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Nantucket",
+   "date": "2022-05-10",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Nantucket",
-      "date": "2022-05-10",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Matt Fee",
-          "votes": 1587
-        },
-        {
-          "name_original": "Brooke Mohr",
-          "votes": 1298
-        },
-        {
-          "name_original": "Cliff Williams",
-          "votes": 638
-        },
-        {
-          "name_original": "Henry Sanford",
-          "votes": 626
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Matt Fee",
+     "votes": 1587
     },
     {
-      "municipality": "Nantucket",
-      "date": "2022-05-10",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Barry Rector",
-          "votes": 1067
-        },
-        {
-          "name_original": "Emmy Kilvert",
-          "votes": 913
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Brooke Mohr",
+     "votes": 1298
     },
     {
-      "municipality": "Nantucket",
-      "date": "2022-05-10",
-      "office_original": "Historic District Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Abby Camp",
-          "votes": 1438
-        },
-        {
-          "name_original": "Stephen Welch",
-          "votes": 1358
-        },
-        {
-          "name_original": "John McLaughlin",
-          "votes": 910
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Cliff Williams",
+     "votes": 638
     },
     {
-      "municipality": "Nantucket",
-      "date": "2022-05-10",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nancy Holmes",
-          "votes": 2042
-        },
-        {
-          "name_original": "Robert Waickowski",
-          "votes": 220
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Nantucket",
-      "date": "2022-05-10",
-      "office_original": "Harbor and Shellfish Advisory Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scott Anderson",
-          "votes": 1600
-        },
-        {
-          "name_original": "Stephen Payer",
-          "votes": 1252
-        },
-        {
-          "name_original": "Dave Bossi",
-          "votes": 173
-        },
-        {
-          "name_original": "Dan Pronk",
-          "votes": 115
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Henry Sanford",
+     "votes": 626
     }
-  ],
-  "_source_stem": "Nantucket2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2022-05-10",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Barry Rector",
+     "votes": 1067
+    },
+    {
+     "name_original": "Emmy Kilvert",
+     "votes": 913
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2022-05-10",
+   "office_original": "Historic District Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Abby Camp",
+     "votes": 1438
+    },
+    {
+     "name_original": "Stephen Welch",
+     "votes": 1358
+    },
+    {
+     "name_original": "John McLaughlin",
+     "votes": 910
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2022-05-10",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nancy Holmes",
+     "votes": 2042
+    },
+    {
+     "name_original": "Robert Waickowski",
+     "votes": 220
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Nantucket",
+   "date": "2022-05-10",
+   "office_original": "Harbor and Shellfish Advisory Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Scott Anderson",
+     "votes": 1600
+    },
+    {
+     "name_original": "Stephen Payer",
+     "votes": 1252
+    },
+    {
+     "name_original": "Dave Bossi",
+     "votes": 173
+    },
+    {
+     "name_original": "Dan Pronk",
+     "votes": 115
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Nantucket2022",
+ "_source_pdf": "",
+ "ballots_cast": 2374,
+ "ballots_cast_source": "stated_in_record"
 }

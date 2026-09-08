@@ -1,252 +1,252 @@
 {
-  "document": {
-    "heading_verbatim": "Williamsburg, MA — Annual Town Election, Monday 4 May 2026",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "Monday 4 May 2026",
-    "offices_on_ballot": -1,
-    "is_sample_ballot": false,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "Elected without counts section lists offices elected unopposed"
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Williamsburg, MA — Annual Town Election, Monday 4 May 2026",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "Monday 4 May 2026",
+  "offices_on_ballot": -1,
+  "is_sample_ballot": false,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "Elected without counts section lists offices elected unopposed"
+ },
+ "elections": [
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Recreation Commission",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Recreation Commission",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicole Turner",
-          "votes": 105
-        },
-        {
-          "name_original": "Amy Weber",
-          "votes": 95
-        },
-        {
-          "name_original": "Patricia James",
-          "votes": 84
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Nicole Turner",
+     "votes": 105
     },
     {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Assessor",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathleen McKeown",
-          "votes": 10
-        },
-        {
-          "name_original": "Denise Banister",
-          "votes": 1
-        },
-        {
-          "name_original": "Marjorie Dunphy",
-          "votes": 1
-        },
-        {
-          "name_original": "Amy Weber",
-          "votes": 1
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 147,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Amy Weber",
+     "votes": 95
     },
     {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Select Board (chair)",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Denise Banister",
-          "votes": 135
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Helen Symons",
-          "votes": 142
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Board of Library Trustees",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kevin McAllister",
-          "votes": 135
-        },
-        {
-          "name_original": "Thomas Bodo",
-          "votes": 37
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Trust Fund / Cemetery Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Colin Black",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Local School Committee",
-      "num_winners": 4,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Colin Black",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Sarah Steinitz",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Amanda Bradford",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Catherine Skiba",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Finance Committee",
-      "num_winners": 3,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Amy Bisbee",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Jody Nishman",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Patrick Sumner",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Water/Sewer Commission",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Don Lawton",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Martin Sullivan",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Williamsburg",
-      "date": "2026-05-04",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Kayla Solomon",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Patricia James",
+     "votes": 84
     }
-  ],
-  "_source_stem": "Williamsburg2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Assessor",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathleen McKeown",
+     "votes": 10
+    },
+    {
+     "name_original": "Denise Banister",
+     "votes": 1
+    },
+    {
+     "name_original": "Marjorie Dunphy",
+     "votes": 1
+    },
+    {
+     "name_original": "Amy Weber",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 147,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Select Board (chair)",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Denise Banister",
+     "votes": 135
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Helen Symons",
+     "votes": 142
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Board of Library Trustees",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kevin McAllister",
+     "votes": 135
+    },
+    {
+     "name_original": "Thomas Bodo",
+     "votes": 37
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Trust Fund / Cemetery Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Colin Black",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Local School Committee",
+   "num_winners": 4,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Colin Black",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Sarah Steinitz",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Amanda Bradford",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Catherine Skiba",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Finance Committee",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Amy Bisbee",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Jody Nishman",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Patrick Sumner",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Water/Sewer Commission",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Don Lawton",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Martin Sullivan",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Williamsburg",
+   "date": "2026-05-04",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Kayla Solomon",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Williamsburg2026",
+ "_source_pdf": "",
+ "ballots_cast": 160,
+ "ballots_cast_source": "stated_in_record"
 }

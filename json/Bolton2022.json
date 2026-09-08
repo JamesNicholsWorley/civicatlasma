@@ -1,223 +1,223 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Board of Selectmen",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Board of Selectmen",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Emily Winner",
-          "votes": 601
-        },
-        {
-          "name_original": "Alan DiPietri",
-          "votes": 46
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Emily Winner",
+     "votes": 601
     },
     {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Douglas Storey",
-          "votes": 576
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Pamela Powell",
-          "votes": 596
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Wendy Rogers",
-          "votes": 576
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Cemetery Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Betsy Taylor-Kennedy",
-          "votes": 569
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Constables",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 5,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Barbara Brown",
-          "votes": 548
-        },
-        {
-          "name_original": "Harold Brown",
-          "votes": 530
-        },
-        {
-          "name_original": "David Goulding",
-          "votes": 542
-        },
-        {
-          "name_original": "Sean Collins",
-          "votes": 525
-        },
-        {
-          "name_original": "Christopher Rogers",
-          "votes": 530
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Wendy Karlon",
-          "votes": 555
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Caroline Robertson",
-          "votes": 557
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Nashoba Regional School District Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Amy Vessels",
-          "votes": 538
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Parks and Recreation",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Edward Sterling",
-          "votes": 490
-        },
-        {
-          "name_original": "Erika Mond",
-          "votes": 489
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Bolton",
-      "date": "2022-05-09",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Michael Gorr",
-          "votes": 549
-        },
-        {
-          "name_original": "James Barr",
-          "votes": 536
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Alan DiPietri",
+     "votes": 46
     }
-  ],
-  "_source_stem": "Bolton2022",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Douglas Storey",
+     "votes": 576
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Pamela Powell",
+     "votes": 596
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Wendy Rogers",
+     "votes": 576
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Cemetery Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Betsy Taylor-Kennedy",
+     "votes": 569
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Constables",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 5,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Barbara Brown",
+     "votes": 548
+    },
+    {
+     "name_original": "Harold Brown",
+     "votes": 530
+    },
+    {
+     "name_original": "David Goulding",
+     "votes": 542
+    },
+    {
+     "name_original": "Sean Collins",
+     "votes": 525
+    },
+    {
+     "name_original": "Christopher Rogers",
+     "votes": 530
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Wendy Karlon",
+     "votes": 555
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Caroline Robertson",
+     "votes": 557
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Nashoba Regional School District Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Amy Vessels",
+     "votes": 538
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Parks and Recreation",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Edward Sterling",
+     "votes": 490
+    },
+    {
+     "name_original": "Erika Mond",
+     "votes": 489
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2022-05-09",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Michael Gorr",
+     "votes": 549
+    },
+    {
+     "name_original": "James Barr",
+     "votes": 536
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Bolton2022",
+ "_source_pdf": "",
+ "ballots_cast": 655,
+ "ballots_cast_source": "stated_in_record"
 }

@@ -1,288 +1,288 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Selectboard",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
     {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Selectboard",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Paul Doud",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Dan Keller",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Board of Assessors",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Ray Stone",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Town Clerk",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Anna Wetherby",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Judith Bailey",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Board of Health",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "James Frank",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Kathleen Nolan",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Treasurer",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Carolyn Manley",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Tax Collector",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Penny Delorey",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Cemetery Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Judith Putnam",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Road Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Phil Delorey",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Mandy Blackbird",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Anna Wetherby",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Kate Woodward",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Sylvia Wetherby",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Ruth Mazurka",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Wendell",
-      "date": "2023-05-01",
-      "office_original": "Tree Warden",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Clifford Dornbusch",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Paul Doud",
+     "votes": null,
+     "status": "uncontested"
     }
-  ],
-  "_source_stem": "Wendell2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Dan Keller",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Board of Assessors",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Ray Stone",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Town Clerk",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Anna Wetherby",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Judith Bailey",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Board of Health",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "James Frank",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Kathleen Nolan",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Treasurer",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Carolyn Manley",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Tax Collector",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Penny Delorey",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Cemetery Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Judith Putnam",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Road Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Phil Delorey",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Mandy Blackbird",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Anna Wetherby",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Kate Woodward",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Sylvia Wetherby",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Ruth Mazurka",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Wendell",
+   "date": "2023-05-01",
+   "office_original": "Tree Warden",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Clifford Dornbusch",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Wendell2023",
+ "_source_pdf": "",
+ "ballots_cast": 124,
+ "ballots_cast_source": "stated_in_record"
 }

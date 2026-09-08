@@ -1,276 +1,276 @@
 {
-  "document": {
-    "heading_verbatim": "Unofficial Annual Town Election: April 24, 2021",
-    "election_type": "Regular",
-    "election_type_evidence": "Unofficial Annual Town Election",
-    "date_verbatim": "April 24, 2021",
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": "",
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Unofficial Annual Town Election: April 24, 2021",
+  "election_type": "Regular",
+  "election_type_evidence": "Unofficial Annual Town Election",
+  "date_verbatim": "April 24, 2021",
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": "",
+  "is_sample_ballot": false
+ },
+ "elections": [
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Select Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Select Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Hewins",
-          "votes": 763
-        },
-        {
-          "name_original": "Townsend",
-          "votes": 659
-        },
-        {
-          "name_original": "Dormer",
-          "votes": 287
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Hewins",
+     "votes": 763
     },
     {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Harrington",
-          "votes": 267
-        },
-        {
-          "name_original": "Zaniewski",
-          "votes": 729
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Townsend",
+     "votes": 659
     },
     {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Carver Water Commissioner",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tracey",
-          "votes": 510
-        },
-        {
-          "name_original": "Palimeri",
-          "votes": 385
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Library Trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Blackwell",
-          "votes": 642
-        },
-        {
-          "name_original": "Macleod",
-          "votes": 599
-        },
-        {
-          "name_original": "Thompson",
-          "votes": 343
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Moderator",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Clancey",
-          "votes": 763
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Housing Authority",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ardizoni",
-          "votes": 732
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Borden",
-          "votes": 820
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Planning Board 5 Yr",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shea",
-          "votes": 720
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Planning Board 2 Yr",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sordillo",
-          "votes": 718
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Rda 5 yr",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Leighton",
-          "votes": 759
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Rda 3 yr",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Meagher",
-          "votes": 723
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Rda 1 yr",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Kostas",
-          "votes": 711
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Carver",
-      "date": "2021-04-24",
-      "office_original": "Assessor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Sullivan",
-          "votes": 206
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Dormer",
+     "votes": 287
     }
-  ],
-  "_source_stem": "Carver2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Harrington",
+     "votes": 267
+    },
+    {
+     "name_original": "Zaniewski",
+     "votes": 729
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Carver Water Commissioner",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Tracey",
+     "votes": 510
+    },
+    {
+     "name_original": "Palimeri",
+     "votes": 385
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Blackwell",
+     "votes": 642
+    },
+    {
+     "name_original": "Macleod",
+     "votes": 599
+    },
+    {
+     "name_original": "Thompson",
+     "votes": 343
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Moderator",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Clancey",
+     "votes": 763
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ardizoni",
+     "votes": 732
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Borden",
+     "votes": 820
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Planning Board 5 Yr",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shea",
+     "votes": 720
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Planning Board 2 Yr",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sordillo",
+     "votes": 718
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Rda 5 yr",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Leighton",
+     "votes": 759
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Rda 3 yr",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Meagher",
+     "votes": 723
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Rda 1 yr",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Kostas",
+     "votes": 711
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Carver",
+   "date": "2021-04-24",
+   "office_original": "Assessor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Sullivan",
+     "votes": 206
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Carver2021",
+ "_source_pdf": "",
+ "ballots_cast": 1037,
+ "ballots_cast_source": "stated_in_record"
 }

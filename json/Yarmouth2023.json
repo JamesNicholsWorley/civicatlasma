@@ -1,93 +1,93 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Yarmouth",
+   "date": "2023-05-16",
+   "office_original": "Select Board",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Yarmouth",
-      "date": "2023-05-16",
-      "office_original": "Select Board",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Forest",
-          "votes": 1028
-        },
-        {
-          "name_original": "Joe Glynn",
-          "votes": 159
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Mark Forest",
+     "votes": 1028
     },
     {
-      "municipality": "Yarmouth",
-      "date": "2023-05-16",
-      "office_original": "Dennis-Yarmouth Regional School Committee",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Joe B. Glynn",
-          "votes": 575
-        },
-        {
-          "name_original": "Phillip Morris",
-          "votes": null,
-          "status": "write_in_winner"
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Yarmouth",
-      "date": "2023-05-16",
-      "office_original": "Moderator",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth Mudie",
-          "votes": 1009
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Yarmouth",
-      "date": "2023-05-16",
-      "office_original": "Yarmouth Housing Authority",
-      "district_original": null,
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Bambi Rosario-Wyatt",
-          "votes": 961
-        },
-        {
-          "name_original": "Andrew Hoagland Krauss",
-          "votes": 966
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Joe Glynn",
+     "votes": 159
     }
-  ],
-  "_source_stem": "Yarmouth2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Yarmouth",
+   "date": "2023-05-16",
+   "office_original": "Dennis-Yarmouth Regional School Committee",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Joe B. Glynn",
+     "votes": 575
+    },
+    {
+     "name_original": "Phillip Morris",
+     "votes": null,
+     "status": "write_in_winner"
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Yarmouth",
+   "date": "2023-05-16",
+   "office_original": "Moderator",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth Mudie",
+     "votes": 1009
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Yarmouth",
+   "date": "2023-05-16",
+   "office_original": "Yarmouth Housing Authority",
+   "district_original": null,
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Bambi Rosario-Wyatt",
+     "votes": 961
+    },
+    {
+     "name_original": "Andrew Hoagland Krauss",
+     "votes": 966
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Yarmouth2023",
+ "_source_pdf": "",
+ "ballots_cast": 1205,
+ "ballots_cast_source": "stated_in_record"
 }

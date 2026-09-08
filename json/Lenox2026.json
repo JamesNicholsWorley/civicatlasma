@@ -1,164 +1,164 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "MODERATOR, 1 Year",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "MODERATOR, 1 Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John J. McNinch",
-          "votes": 780
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "BOARD OF SELECTMAN, 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William David Roche Jr.",
-          "votes": 454
-        },
-        {
-          "name_original": "Max Scherff",
-          "votes": 492
-        },
-        {
-          "name_original": "Jared Weber",
-          "votes": 645
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "BOARD OF HEALTH, 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "John R. Kearns",
-          "votes": 753
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "BOARD OF ASSESSOR, 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Gordon Prescott",
-          "votes": 57
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "SCHOOL COMMITTEE, 3 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael Dupont",
-          "votes": 526
-        },
-        {
-          "name_original": "Kim E. Graham",
-          "votes": 648
-        },
-        {
-          "name_original": "R. Scott Sibley",
-          "votes": 353
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "SCHOOL COMMITTEE, 1 Year",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Richard J. Burke",
-          "votes": 475
-        },
-        {
-          "name_original": "Stephanie Kluka",
-          "votes": 329
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "PLANNING BOARD, 5 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Munch",
-          "votes": 67
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Lenox",
-      "date": "2026-05-11",
-      "office_original": "HOUSING AUTHORITY, 5 Years",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Barbara J. Keenan",
-          "votes": 743
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "John J. McNinch",
+     "votes": 780
     }
-  ],
-  "_source_stem": "Lenox2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "BOARD OF SELECTMAN, 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William David Roche Jr.",
+     "votes": 454
+    },
+    {
+     "name_original": "Max Scherff",
+     "votes": 492
+    },
+    {
+     "name_original": "Jared Weber",
+     "votes": 645
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "BOARD OF HEALTH, 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "John R. Kearns",
+     "votes": 753
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "BOARD OF ASSESSOR, 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Gordon Prescott",
+     "votes": 57
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "SCHOOL COMMITTEE, 3 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael Dupont",
+     "votes": 526
+    },
+    {
+     "name_original": "Kim E. Graham",
+     "votes": 648
+    },
+    {
+     "name_original": "R. Scott Sibley",
+     "votes": 353
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "SCHOOL COMMITTEE, 1 Year",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Richard J. Burke",
+     "votes": 475
+    },
+    {
+     "name_original": "Stephanie Kluka",
+     "votes": 329
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "PLANNING BOARD, 5 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Munch",
+     "votes": 67
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Lenox",
+   "date": "2026-05-11",
+   "office_original": "HOUSING AUTHORITY, 5 Years",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Barbara J. Keenan",
+     "votes": 743
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Lenox2026",
+ "_source_pdf": "",
+ "ballots_cast": 926,
+ "ballots_cast_source": "stated_in_record"
 }

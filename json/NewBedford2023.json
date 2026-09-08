@@ -1,240 +1,240 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "Mayor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "Mayor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jon Mitchell",
-          "votes": 5272
-        },
-        {
-          "name_original": "Richard Tyson Moultrie",
-          "votes": 2719
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jon Mitchell",
+     "votes": 5272
     },
     {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council At-Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 5,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ian Abreau",
-          "votes": 4994
-        },
-        {
-          "name_original": "Shane Burgo",
-          "votes": 4098
-        },
-        {
-          "name_original": "Brian Gomes",
-          "votes": 3877
-        },
-        {
-          "name_original": "Linda Morad",
-          "votes": 3481
-        },
-        {
-          "name_original": "Naomi Carney",
-          "votes": 3481
-        },
-        {
-          "name_original": "Scott Lima",
-          "votes": 3214
-        },
-        {
-          "name_original": "Devin B. Byrnes",
-          "votes": 2651
-        },
-        {
-          "name_original": "Bruce Wayne Duarte Jr.",
-          "votes": 2194
-        },
-        {
-          "name_original": "Guelmie Santiago",
-          "votes": 2166
-        },
-        {
-          "name_original": "Joyce Rowley",
-          "votes": 1468
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 1",
-      "district_original": "Ward 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Leo Choquette",
-          "votes": 1137
-        },
-        {
-          "name_original": "William Brad Markey",
-          "votes": 1023
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 2",
-      "district_original": "Ward 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Maria E. Giesta",
-          "votes": 659
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 3",
-      "district_original": "Ward 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Shawn Oliver",
-          "votes": 842
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 4",
-      "district_original": "Ward 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Derek Baptiste",
-          "votes": 908
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 5",
-      "district_original": "Ward 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph P. Lopes",
-          "votes": 1308
-        },
-        {
-          "name_original": "Zachary R. Boyer",
-          "votes": 847
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "City Council Ward 6",
-      "district_original": "Ward 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Ryan Joseph Pereira",
-          "votes": 861
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Bruce J. Oliveira",
-          "votes": 5660
-        },
-        {
-          "name_original": "Joaquim B. Livramento Jr.",
-          "votes": 5260
-        },
-        {
-          "name_original": "Christopher Allen Cotter",
-          "votes": 5187
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Bedford",
-      "date": "2023-11-07",
-      "office_original": "Assessor At-Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Martin Treadup",
-          "votes": 6367
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Richard Tyson Moultrie",
+     "votes": 2719
     }
-  ],
-  "_source_stem": "NewBedford2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council At-Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 5,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ian Abreau",
+     "votes": 4994
+    },
+    {
+     "name_original": "Shane Burgo",
+     "votes": 4098
+    },
+    {
+     "name_original": "Brian Gomes",
+     "votes": 3877
+    },
+    {
+     "name_original": "Linda Morad",
+     "votes": 3481
+    },
+    {
+     "name_original": "Naomi Carney",
+     "votes": 3481
+    },
+    {
+     "name_original": "Scott Lima",
+     "votes": 3214
+    },
+    {
+     "name_original": "Devin B. Byrnes",
+     "votes": 2651
+    },
+    {
+     "name_original": "Bruce Wayne Duarte Jr.",
+     "votes": 2194
+    },
+    {
+     "name_original": "Guelmie Santiago",
+     "votes": 2166
+    },
+    {
+     "name_original": "Joyce Rowley",
+     "votes": 1468
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 1",
+   "district_original": "Ward 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Leo Choquette",
+     "votes": 1137
+    },
+    {
+     "name_original": "William Brad Markey",
+     "votes": 1023
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 2",
+   "district_original": "Ward 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Maria E. Giesta",
+     "votes": 659
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 3",
+   "district_original": "Ward 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Shawn Oliver",
+     "votes": 842
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 4",
+   "district_original": "Ward 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Derek Baptiste",
+     "votes": 908
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 5",
+   "district_original": "Ward 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph P. Lopes",
+     "votes": 1308
+    },
+    {
+     "name_original": "Zachary R. Boyer",
+     "votes": 847
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "City Council Ward 6",
+   "district_original": "Ward 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Ryan Joseph Pereira",
+     "votes": 861
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Bruce J. Oliveira",
+     "votes": 5660
+    },
+    {
+     "name_original": "Joaquim B. Livramento Jr.",
+     "votes": 5260
+    },
+    {
+     "name_original": "Christopher Allen Cotter",
+     "votes": 5187
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Bedford",
+   "date": "2023-11-07",
+   "office_original": "Assessor At-Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Martin Treadup",
+     "votes": 6367
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewBedford2023",
+ "_source_pdf": "",
+ "ballots_cast": 8744,
+ "ballots_cast_source": "stated_in_record"
 }

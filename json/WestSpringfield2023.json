@@ -1,158 +1,158 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "Town Council",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 5,
+   "extraction_confidence": 0.9,
+   "candidates": [
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "Town Council",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 5,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Brian Clune",
-          "votes": 2165
-        },
-        {
-          "name_original": "Sean Powers",
-          "votes": 2142
-        },
-        {
-          "name_original": "Brian Griffin",
-          "votes": 2141
-        },
-        {
-          "name_original": "Daniel O'Brien",
-          "votes": 2089
-        },
-        {
-          "name_original": "Jaime Smith",
-          "votes": 2082
-        },
-        {
-          "name_original": "Elisa Olivo",
-          "votes": 1334
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Brian Clune",
+     "votes": 2165
     },
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "Town Council District 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "William Forfa",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Sean Powers",
+     "votes": 2142
     },
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "Town Council District 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Michael LaFlamme",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Brian Griffin",
+     "votes": 2141
     },
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "Town Council District 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Anthony DiStefano",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Daniel O'Brien",
+     "votes": 2089
     },
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "Town Council District 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Frederick Connor",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Jaime Smith",
+     "votes": 2082
     },
     {
-      "municipality": "West Springfield",
-      "date": "2023-11-07",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Diana Coyne",
-          "votes": 2179
-        },
-        {
-          "name_original": "Colleen Marcus",
-          "votes": 2174
-        },
-        {
-          "name_original": "Kathleen Alevras",
-          "votes": 2108
-        },
-        {
-          "name_original": "Kira Thompson",
-          "votes": 2066
-        },
-        {
-          "name_original": "Julie Wise",
-          "votes": 2040
-        },
-        {
-          "name_original": "Robert Mancini",
-          "votes": 1750
-        },
-        {
-          "name_original": "Mustafa Thompson",
-          "votes": 1529
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Elisa Olivo",
+     "votes": 1334
     }
-  ],
-  "_source_stem": "WestSpringfield2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "Town Council District 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "William Forfa",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "Town Council District 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Michael LaFlamme",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "Town Council District 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Anthony DiStefano",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "Town Council District 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Frederick Connor",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Springfield",
+   "date": "2023-11-07",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Diana Coyne",
+     "votes": 2179
+    },
+    {
+     "name_original": "Colleen Marcus",
+     "votes": 2174
+    },
+    {
+     "name_original": "Kathleen Alevras",
+     "votes": 2108
+    },
+    {
+     "name_original": "Kira Thompson",
+     "votes": 2066
+    },
+    {
+     "name_original": "Julie Wise",
+     "votes": 2040
+    },
+    {
+     "name_original": "Robert Mancini",
+     "votes": 1750
+    },
+    {
+     "name_original": "Mustafa Thompson",
+     "votes": 1529
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "WestSpringfield2023",
+ "_source_pdf": "",
+ "ballots_cast": 3388,
+ "ballots_cast_source": "stated_in_record"
 }

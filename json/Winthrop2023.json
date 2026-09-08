@@ -1,187 +1,187 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Town Council",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Town Council",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Max Tassinari",
-          "votes": 2652
-        },
-        {
-          "name_original": "Todd Sacco",
-          "votes": 1368
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Max Tassinari",
+     "votes": 2652
     },
     {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Town Council",
-      "district_original": "Precinct 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John Munson",
-          "votes": 391
-        },
-        {
-          "name_original": "Marc Chapdelaine",
-          "votes": 249
-        },
-        {
-          "name_original": "Kurt Millar",
-          "votes": 164
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Town Council",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Suzanne Swope",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Town Council",
-      "district_original": "Precinct 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "John Daros",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Town Council President",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Jim Letterie",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Layne Petrie",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Zachary Purinton",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Gus Martucci",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Winthrop Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Frank Ferrera",
-          "votes": 2235
-        },
-        {
-          "name_original": "Roseann Trionfi-Mazzuchelli",
-          "votes": 2174
-        },
-        {
-          "name_original": "John Tranfaglia",
-          "votes": 1264
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Winthrop",
-      "date": "2023-11-07",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Anne Ferreira",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Others",
-          "votes": 625,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Todd Sacco",
+     "votes": 1368
     }
-  ],
-  "_source_stem": "Winthrop2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Town Council",
+   "district_original": "Precinct 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John Munson",
+     "votes": 391
+    },
+    {
+     "name_original": "Marc Chapdelaine",
+     "votes": 249
+    },
+    {
+     "name_original": "Kurt Millar",
+     "votes": 164
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Town Council",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Suzanne Swope",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Town Council",
+   "district_original": "Precinct 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "John Daros",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Town Council President",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Jim Letterie",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Layne Petrie",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Zachary Purinton",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Gus Martucci",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Winthrop Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Frank Ferrera",
+     "votes": 2235
+    },
+    {
+     "name_original": "Roseann Trionfi-Mazzuchelli",
+     "votes": 2174
+    },
+    {
+     "name_original": "John Tranfaglia",
+     "votes": 1264
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Winthrop",
+   "date": "2023-11-07",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.75,
+   "candidates": [
+    {
+     "name_original": "Anne Ferreira",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Others",
+     "votes": 625,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Winthrop2023",
+ "_source_pdf": "",
+ "ballots_cast": 4135,
+ "ballots_cast_source": "stated_in_record"
 }
