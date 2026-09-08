@@ -1,98 +1,98 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "New Ashford",
+   "date": "2023-05-23",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.75,
+   "candidates": [
     {
-      "municipality": "New Ashford",
-      "date": "2023-05-23",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.75,
-      "candidates": [
-        {
-          "name_original": "Jennifer Welch",
-          "votes": 45
-        },
-        {
-          "name_original": "Mollie Scace",
-          "votes": 12
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jennifer Welch",
+     "votes": 45
     },
     {
-      "municipality": "New Ashford",
-      "date": "2023-05-23",
-      "office_original": "Select Board - 3 yr term",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Mark Phelps",
-          "votes": 47
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2023-05-23",
-      "office_original": "Board of Health - 3 yr term",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Kurt Singer",
-          "votes": 50
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2023-05-23",
-      "office_original": "Planning Board - 5 yr term",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Diane George",
-          "votes": 50
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Ashford",
-      "date": "2023-05-23",
-      "office_original": "Planning Board - 1 yr term (fill vacancy)",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Tammy Steinhoff",
-          "votes": 46
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Mollie Scace",
+     "votes": 12
     }
-  ],
-  "_source_stem": "NewAshford2023",
-  "_source_pdf": "",
-  "_notes": " 2026-08-28: four uncontested races added from the Town Clerk's \"Results of elections\" sheet (records-request reply). The Berkshire Eagle independently names the same four winners -- \"Mark Phelps was elected to the Select Board, Kurt Singer to the Board of Health, and Diane George and Tammy Steinhoff to the Planning Board\" -- so the names are corroborated and the sheet supplies the counts. BALLOT COUNT CONFLICT, RESOLVED AGAINST THE SHEET: the sheet says 51 ballots cast; the Eagle, quoting the same clerk the day after, says \"With 57 of the town's 194 registered voters casting ballots, turnout was 29 percent\". 45 + 12 in the contested School Committee race is 57, and 57/194 = 29.4% while 51/194 = 26.3%. Three facts cohere on 57 and only the sheet says 51, so 57 stands and the discrepancy is recorded rather than smoothed away.",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2023-05-23",
+   "office_original": "Select Board - 3 yr term",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Mark Phelps",
+     "votes": 47
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2023-05-23",
+   "office_original": "Board of Health - 3 yr term",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Kurt Singer",
+     "votes": 50
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2023-05-23",
+   "office_original": "Planning Board - 5 yr term",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Diane George",
+     "votes": 50
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Ashford",
+   "date": "2023-05-23",
+   "office_original": "Planning Board - 1 yr term (fill vacancy)",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Tammy Steinhoff",
+     "votes": 46
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewAshford2023",
+ "_source_pdf": "",
+ "_notes": " 2026-08-28: four uncontested races added from the Town Clerk's \"Results of elections\" sheet (records-request reply). The Berkshire Eagle independently names the same four winners -- \"Mark Phelps was elected to the Select Board, Kurt Singer to the Board of Health, and Diane George and Tammy Steinhoff to the Planning Board\" -- so the names are corroborated and the sheet supplies the counts. BALLOT COUNT CONFLICT, RESOLVED AGAINST THE SHEET: the sheet says 51 ballots cast; the Eagle, quoting the same clerk the day after, says \"With 57 of the town's 194 registered voters casting ballots, turnout was 29 percent\". 45 + 12 in the contested School Committee race is 57, and 57/194 = 29.4% while 51/194 = 26.3%. Three facts cohere on 57 and only the sheet says 51, so 57 stands and the discrepancy is recorded rather than smoothed away.",
+ "ballots_cast": 57,
+ "ballots_cast_source": "stated_in_record"
 }

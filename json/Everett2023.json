@@ -1,494 +1,494 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - At Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 10,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - At Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 10,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael K. Marchese",
-          "votes": 2271
-        },
-        {
-          "name_original": "Katy L. Rogers",
-          "votes": 1762
-        },
-        {
-          "name_original": "Irene Cardillo",
-          "votes": 1168
-        },
-        {
-          "name_original": "Stephanie V. Smith",
-          "votes": 2221
-        },
-        {
-          "name_original": "Maria R. Bussell",
-          "votes": 1454
-        },
-        {
-          "name_original": "John F. Hanlon",
-          "votes": 1626
-        },
-        {
-          "name_original": "AngelMarie Antionette DiNunzio",
-          "votes": 632
-        },
-        {
-          "name_original": "David LaRosa Senatillaka",
-          "votes": 1087
-        },
-        {
-          "name_original": "Guerline Alcy",
-          "votes": 1798
-        },
-        {
-          "name_original": "Joseph Pierotti Jr.",
-          "votes": 955
-        },
-        {
-          "name_original": "Others",
-          "votes": 62,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 6876,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Michael K. Marchese",
+     "votes": 2271
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 1",
-      "district_original": "Ward 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth P. Giannelli",
-          "votes": 186
-        },
-        {
-          "name_original": "Wayne A. Matewsky",
-          "votes": 323
-        },
-        {
-          "name_original": "Others",
-          "votes": 16,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 67,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Katy L. Rogers",
+     "votes": 1762
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 2",
-      "district_original": "Ward 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joetta Yutkins",
-          "votes": 188
-        },
-        {
-          "name_original": "Stephanie Martins",
-          "votes": 449
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 41,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Irene Cardillo",
+     "votes": 1168
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 3",
-      "district_original": "Ward 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Darren M. Costa",
-          "votes": 433
-        },
-        {
-          "name_original": "Anthony N. DiPierro",
-          "votes": 550
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 40,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Stephanie V. Smith",
+     "votes": 2221
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 4",
-      "district_original": "Ward 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Holly D. Garcia",
-          "votes": 497
-        },
-        {
-          "name_original": "Jimmy Tri Le",
-          "votes": 385
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 47,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Maria R. Bussell",
+     "votes": 1454
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 5",
-      "district_original": "Ward 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Vivian T. Nguyen",
-          "votes": 301
-        },
-        {
-          "name_original": "Robert J. Van Campen",
-          "votes": 438
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 19,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "John F. Hanlon",
+     "votes": 1626
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "City Council - Ward 6",
-      "district_original": "Ward 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alfred John Lattanzi",
-          "votes": 348
-        },
-        {
-          "name_original": "Peter Pietrantonio",
-          "votes": 421
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 21,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "AngelMarie Antionette DiNunzio",
+     "votes": 632
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - At Large",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 6,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kristin N. Bairos",
-          "votes": 1450
-        },
-        {
-          "name_original": "Farah Costa",
-          "votes": 1297
-        },
-        {
-          "name_original": "Joseph A. LaMonica",
-          "votes": 1543
-        },
-        {
-          "name_original": "Samantha M. Hurley",
-          "votes": 1706
-        },
-        {
-          "name_original": "Cynthia E. Sarnie",
-          "votes": 1527
-        },
-        {
-          "name_original": "Samantha Lambert",
-          "votes": 1822
-        },
-        {
-          "name_original": "Others",
-          "votes": 31,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 3802,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "David LaRosa Senatillaka",
+     "votes": 1087
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 1",
-      "district_original": "Ward 1",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Millie J. Cardello",
-          "votes": 232
-        },
-        {
-          "name_original": "Margaret A. Cornelio",
-          "votes": 288
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 70,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Guerline Alcy",
+     "votes": 1798
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 2",
-      "district_original": "Ward 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jason Marcus",
-          "votes": 282
-        },
-        {
-          "name_original": "Joanna Garren",
-          "votes": 361
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 37,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Joseph Pierotti Jr.",
+     "votes": 955
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 3",
-      "district_original": "Ward 3",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeanne M. Cristiano",
-          "votes": 646
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 268,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 62,
+     "tally_row": true
     },
     {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 4",
-      "district_original": "Ward 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James A. Mastrocola",
-          "votes": 391
-        },
-        {
-          "name_original": "Robin M. Babcock",
-          "votes": 450
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 61,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 5",
-      "district_original": "Ward 5",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Marcony Almeida Barros",
-          "votes": 477
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 173,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Everett",
-      "date": "2023-11-07",
-      "office_original": "School Committee - Ward 6",
-      "district_original": "Ward 6",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas E. Abruzzese",
-          "votes": 356
-        },
-        {
-          "name_original": "Joseph A. D'Onofrio",
-          "votes": 369
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 51,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 6876,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Everett2023",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Everett2023.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 1",
+   "district_original": "Ward 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth P. Giannelli",
+     "votes": 186
+    },
+    {
+     "name_original": "Wayne A. Matewsky",
+     "votes": 323
+    },
+    {
+     "name_original": "Others",
+     "votes": 16,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 67,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 2",
+   "district_original": "Ward 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joetta Yutkins",
+     "votes": 188
+    },
+    {
+     "name_original": "Stephanie Martins",
+     "votes": 449
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 41,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 3",
+   "district_original": "Ward 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Darren M. Costa",
+     "votes": 433
+    },
+    {
+     "name_original": "Anthony N. DiPierro",
+     "votes": 550
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 40,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 4",
+   "district_original": "Ward 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Holly D. Garcia",
+     "votes": 497
+    },
+    {
+     "name_original": "Jimmy Tri Le",
+     "votes": 385
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 47,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 5",
+   "district_original": "Ward 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Vivian T. Nguyen",
+     "votes": 301
+    },
+    {
+     "name_original": "Robert J. Van Campen",
+     "votes": 438
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 19,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "City Council - Ward 6",
+   "district_original": "Ward 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alfred John Lattanzi",
+     "votes": 348
+    },
+    {
+     "name_original": "Peter Pietrantonio",
+     "votes": 421
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 21,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - At Large",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 6,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kristin N. Bairos",
+     "votes": 1450
+    },
+    {
+     "name_original": "Farah Costa",
+     "votes": 1297
+    },
+    {
+     "name_original": "Joseph A. LaMonica",
+     "votes": 1543
+    },
+    {
+     "name_original": "Samantha M. Hurley",
+     "votes": 1706
+    },
+    {
+     "name_original": "Cynthia E. Sarnie",
+     "votes": 1527
+    },
+    {
+     "name_original": "Samantha Lambert",
+     "votes": 1822
+    },
+    {
+     "name_original": "Others",
+     "votes": 31,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3802,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 1",
+   "district_original": "Ward 1",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Millie J. Cardello",
+     "votes": 232
+    },
+    {
+     "name_original": "Margaret A. Cornelio",
+     "votes": 288
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 70,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 2",
+   "district_original": "Ward 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jason Marcus",
+     "votes": 282
+    },
+    {
+     "name_original": "Joanna Garren",
+     "votes": 361
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 37,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 3",
+   "district_original": "Ward 3",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeanne M. Cristiano",
+     "votes": 646
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 268,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 4",
+   "district_original": "Ward 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James A. Mastrocola",
+     "votes": 391
+    },
+    {
+     "name_original": "Robin M. Babcock",
+     "votes": 450
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 61,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 5",
+   "district_original": "Ward 5",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Marcony Almeida Barros",
+     "votes": 477
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 173,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Everett",
+   "date": "2023-11-07",
+   "office_original": "School Committee - Ward 6",
+   "district_original": "Ward 6",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas E. Abruzzese",
+     "votes": 356
+    },
+    {
+     "name_original": "Joseph A. D'Onofrio",
+     "votes": 369
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 51,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Everett2023",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Everett2023.pdf",
+ "ballots_cast": 4382,
+ "ballots_cast_source": "stated_in_record"
 }

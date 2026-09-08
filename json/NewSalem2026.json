@@ -1,166 +1,166 @@
 {
-  "document": {
-    "heading_verbatim": "New Salem rejects Proposition 2½ override at polls in 178-159 vote",
-    "election_type": "Regular",
-    "election_type_evidence": "The article reports on Annual Town Meeting elections held on Monday, May 5, 2026, with traditional municipal offices (Selectboard, Board of Health, Planning Board, Assessor, School Committee, Library trustee, Municipal Light Board) being voted on—all characteristic of a Regular annual town election.",
-    "date_verbatim": "May 5, 2026",
-    "is_sample_ballot": false,
-    "offices_on_ballot": 9,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "There were no surprises in the ballot races, as all were uncontested."
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "New Salem rejects Proposition 2½ override at polls in 178-159 vote",
+  "election_type": "Regular",
+  "election_type_evidence": "The article reports on Annual Town Meeting elections held on Monday, May 5, 2026, with traditional municipal offices (Selectboard, Board of Health, Planning Board, Assessor, School Committee, Library trustee, Municipal Light Board) being voted on—all characteristic of a Regular annual town election.",
+  "date_verbatim": "May 5, 2026",
+  "is_sample_ballot": false,
+  "offices_on_ballot": 9,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "There were no surprises in the ballot races, as all were uncontested."
+ },
+ "elections": [
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carl Seppala",
-          "votes": 257
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Board of Health",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patrick Temple",
-          "votes": 270
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Felicia Curtis",
-          "votes": 4
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Assessor",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William Lafley",
-          "votes": 272
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Swift River School Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Molly Rapp",
-          "votes": 255
-        },
-        {
-          "name_original": "Nancy Slator",
-          "votes": 253
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Library trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mailande DeWitt",
-          "votes": 43
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Library trustee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jean Derderian",
-          "votes": 9
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "New Salem",
-      "date": "2026-05-05",
-      "office_original": "Municipal Light Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cameron Dunbar",
-          "votes": 273
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Carl Seppala",
+     "votes": 257
     }
-  ],
-  "_source_stem": "NewSalem2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patrick Temple",
+     "votes": 270
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Felicia Curtis",
+     "votes": 4
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Assessor",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William Lafley",
+     "votes": 272
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Swift River School Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Molly Rapp",
+     "votes": 255
+    },
+    {
+     "name_original": "Nancy Slator",
+     "votes": 253
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Library trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mailande DeWitt",
+     "votes": 43
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Library trustee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jean Derderian",
+     "votes": 9
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "New Salem",
+   "date": "2026-05-05",
+   "office_original": "Municipal Light Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cameron Dunbar",
+     "votes": 273
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NewSalem2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/NewSalem2026.pdf",
+ "ballots_cast": 337,
+ "ballots_cast_source": "stated_in_record"
 }

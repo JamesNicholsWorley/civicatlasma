@@ -1,49 +1,49 @@
 {
-  "document": {
-    "heading_verbatim": "Sheffield, MA — Annual Town Election, Monday 10 May 2021",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "Monday 10 May 2021",
-    "offices_on_ballot": 4,
-    "is_sample_ballot": false,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "the only contest"
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Sheffield, MA — Annual Town Election, Monday 10 May 2021",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "Monday 10 May 2021",
+  "offices_on_ballot": 4,
+  "is_sample_ballot": false,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "the only contest"
+ },
+ "elections": [
+  {
+   "municipality": "Sheffield",
+   "date": "2021-05-10",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.98,
+   "candidates": [
     {
-      "municipality": "Sheffield",
-      "date": "2021-05-10",
-      "office_original": "Planning Board",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.98,
-      "candidates": [
-        {
-          "name_original": "Caitlin Marsden McNeill",
-          "votes": 209
-        },
-        {
-          "name_original": "Robert Cooper",
-          "votes": 143
-        },
-        {
-          "name_original": "Sam Stolzar",
-          "votes": 137
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 69,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Caitlin Marsden McNeill",
+     "votes": 209
+    },
+    {
+     "name_original": "Robert Cooper",
+     "votes": 143
+    },
+    {
+     "name_original": "Sam Stolzar",
+     "votes": 137
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 69,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Sheffield2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Sheffield2021",
+ "_source_pdf": "",
+ "ballots_cast": 279,
+ "ballots_cast_source": "stated_in_record"
 }

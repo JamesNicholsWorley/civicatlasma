@@ -1,100 +1,100 @@
 {
-  "document": {
-    "heading_verbatim": "Heath, MA — Annual Town Election, Friday 7 May 2021",
-    "election_type": "Regular",
-    "election_type_evidence": "Annual Town Election",
-    "date_verbatim": "Friday 7 May 2021",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": false,
-    "uncontested_remainder_evidence": ""
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Heath, MA — Annual Town Election, Friday 7 May 2021",
+  "election_type": "Regular",
+  "election_type_evidence": "Annual Town Election",
+  "date_verbatim": "Friday 7 May 2021",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": false,
+  "uncontested_remainder_evidence": ""
+ },
+ "elections": [
+  {
+   "municipality": "Heath",
+   "date": "2021-05-07",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Heath",
-      "date": "2021-05-07",
-      "office_original": "Selectboard",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Susan Lively",
-          "votes": 140
-        },
-        {
-          "name_original": "Karen Brooks",
-          "votes": 99
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Susan Lively",
+     "votes": 140
     },
     {
-      "municipality": "Heath",
-      "date": "2021-05-07",
-      "office_original": "Finance Committee",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 3,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas Lively",
-          "votes": 146
-        },
-        {
-          "name_original": "Ned Wolf",
-          "votes": 115
-        },
-        {
-          "name_original": "Robert McGahan",
-          "votes": 112
-        },
-        {
-          "name_original": "Dena Briggs",
-          "votes": 109
-        },
-        {
-          "name_original": "Mike Cucchiara",
-          "votes": 107
-        },
-        {
-          "name_original": "Heather Hathwell",
-          "votes": 102
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Heath",
-      "date": "2021-05-07",
-      "office_original": "Town Clerk",
-      "district_original": "",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Mary Sumner",
-          "votes": 113
-        },
-        {
-          "name_original": "Kate Peppard",
-          "votes": 89
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Karen Brooks",
+     "votes": 99
     }
-  ],
-  "_source_stem": "Heath2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Heath",
+   "date": "2021-05-07",
+   "office_original": "Finance Committee",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 3,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas Lively",
+     "votes": 146
+    },
+    {
+     "name_original": "Ned Wolf",
+     "votes": 115
+    },
+    {
+     "name_original": "Robert McGahan",
+     "votes": 112
+    },
+    {
+     "name_original": "Dena Briggs",
+     "votes": 109
+    },
+    {
+     "name_original": "Mike Cucchiara",
+     "votes": 107
+    },
+    {
+     "name_original": "Heather Hathwell",
+     "votes": 102
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Heath",
+   "date": "2021-05-07",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Mary Sumner",
+     "votes": 113
+    },
+    {
+     "name_original": "Kate Peppard",
+     "votes": 89
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Heath2021",
+ "_source_pdf": "",
+ "ballots_cast": 240,
+ "ballots_cast_source": "stated_in_record"
 }

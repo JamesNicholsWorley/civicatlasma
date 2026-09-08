@@ -1,29 +1,29 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Cheshire",
+   "date": "2023-05-01",
+   "office_original": "Water Commission",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "Cheshire",
-      "date": "2023-05-01",
-      "office_original": "Water Commission",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Colin D. Haas",
-          "votes": 152
-        },
-        {
-          "name_original": "Michael Biagini Jr.",
-          "votes": 101
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Colin D. Haas",
+     "votes": 152
+    },
+    {
+     "name_original": "Michael Biagini Jr.",
+     "votes": 101
     }
-  ],
-  "_source_stem": "Cheshire2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Cheshire2023",
+ "_source_pdf": "",
+ "ballots_cast": 255,
+ "ballots_cast_source": "stated_in_record"
 }

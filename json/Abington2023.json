@@ -1,79 +1,79 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Abington",
+   "date": "2023-04-29",
+   "office_original": "Selectmen",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.72,
+   "candidates": [
     {
-      "municipality": "Abington",
-      "date": "2023-04-29",
-      "office_original": "Selectmen",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.72,
-      "candidates": [
-        {
-          "name_original": "Kevin Donovan",
-          "votes": 933
-        },
-        {
-          "name_original": "Suzanne Djusberg",
-          "votes": 887
-        },
-        {
-          "name_original": "Alex Bezanson",
-          "votes": 621
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Kevin Donovan",
+     "votes": 933
     },
     {
-      "municipality": "Abington",
-      "date": "2023-04-29",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.72,
-      "candidates": [
-        {
-          "name_original": "Melanie Whitney",
-          "votes": 903
-        },
-        {
-          "name_original": "Chris Coyle",
-          "votes": 868
-        },
-        {
-          "name_original": "Nicole Emery",
-          "votes": 683
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Suzanne Djusberg",
+     "votes": 887
     },
     {
-      "municipality": "Abington",
-      "date": "2023-04-29",
-      "office_original": "Planning Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.72,
-      "candidates": [
-        {
-          "name_original": "Bruce Hughes",
-          "votes": 704
-        },
-        {
-          "name_original": "Michelle Kearney",
-          "votes": 528
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Alex Bezanson",
+     "votes": 621
     }
-  ],
-  "_source_stem": "Abington2023",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2023-04-29",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.72,
+   "candidates": [
+    {
+     "name_original": "Melanie Whitney",
+     "votes": 903
+    },
+    {
+     "name_original": "Chris Coyle",
+     "votes": 868
+    },
+    {
+     "name_original": "Nicole Emery",
+     "votes": 683
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Abington",
+   "date": "2023-04-29",
+   "office_original": "Planning Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.72,
+   "candidates": [
+    {
+     "name_original": "Bruce Hughes",
+     "votes": 704
+    },
+    {
+     "name_original": "Michelle Kearney",
+     "votes": 528
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Abington2023",
+ "_source_pdf": "",
+ "ballots_cast": 1468,
+ "ballots_cast_source": "stated_in_record"
 }

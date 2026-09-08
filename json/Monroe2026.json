@@ -1,158 +1,158 @@
 {
-  "document": {
-    "heading_verbatim": "Library trustee seat remains vacant following Monroe election",
-    "election_type": "Regular",
-    "election_type_evidence": "town election on Monday",
-    "date_verbatim": "May 5, 2026",
-    "offices_on_ballot": 9,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "none of which were contested",
-    "is_sample_ballot": false
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Library trustee seat remains vacant following Monroe election",
+  "election_type": "Regular",
+  "election_type_evidence": "town election on Monday",
+  "date_verbatim": "May 5, 2026",
+  "offices_on_ballot": 9,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "none of which were contested",
+  "is_sample_ballot": false
+ },
+ "elections": [
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Tree warden",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Tree warden",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian Lynch",
-          "votes": 24
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Selectboard/Planning Board/Board of Health",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Alice Houghtaling",
-          "votes": 14
-        },
-        {
-          "name_original": "James Bua",
-          "votes": 22
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "School Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kim Oakes",
-          "votes": 26
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Finance Committee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joann Bingham",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Constable",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Cashman",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Cashman",
-          "votes": 6
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Town clerk",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sharon Oakes",
-          "votes": 19
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Monroe",
-      "date": "2026-05-05",
-      "office_original": "Auditor",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Sharon Oakes",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Brian Lynch",
+     "votes": 24
     }
-  ],
-  "_source_stem": "Monroe2026",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monroe2026.pdf",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Selectboard/Planning Board/Board of Health",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Alice Houghtaling",
+     "votes": 14
+    },
+    {
+     "name_original": "James Bua",
+     "votes": 22
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "School Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kim Oakes",
+     "votes": 26
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Finance Committee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joann Bingham",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Constable",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Cashman",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Cashman",
+     "votes": 6
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Town clerk",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sharon Oakes",
+     "votes": 19
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Monroe",
+   "date": "2026-05-05",
+   "office_original": "Auditor",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Sharon Oakes",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Monroe2026",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Monroe2026.pdf",
+ "ballots_cast": 29,
+ "ballots_cast_source": "stated_in_record"
 }

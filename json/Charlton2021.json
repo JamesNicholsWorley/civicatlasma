@@ -1,333 +1,333 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Board of Selectman (Seat 1)",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Board of Selectman (Seat 1)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Scot Alan Neri",
-          "votes": 334
-        },
-        {
-          "name_original": "Barbara W. Zurawski",
-          "votes": 371
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Scot Alan Neri",
+     "votes": 334
     },
     {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Board of Selectman (Seat 2)",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Singer",
-          "votes": 475
-        },
-        {
-          "name_original": "Others",
-          "votes": 240,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Barbara W. Zurawski",
+     "votes": 371
     },
     {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Assessor",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brett W. Moore",
-          "votes": 507
-        },
-        {
-          "name_original": "Others",
-          "votes": 208,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Cemetery Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Willis S. Bond Jr.",
-          "votes": 522
-        },
-        {
-          "name_original": "Others",
-          "votes": 193,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Water & Sewer Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Russell G. Jennings",
-          "votes": 482
-        },
-        {
-          "name_original": "Others",
-          "votes": 233,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Water & Sewer Commissioner",
-      "district_original": "To fill a vacancy",
-      "stage": "General",
-      "type": "Special",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cameron Coleman",
-          "votes": 70
-        },
-        {
-          "name_original": "Others",
-          "votes": 645,
-          "tally_row": true
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Planning Board Member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William T. Fontaine",
-          "votes": 489
-        },
-        {
-          "name_original": "Others",
-          "votes": 226,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Recreation Commissioner",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Diane Doherty",
-          "votes": 488
-        },
-        {
-          "name_original": "Others",
-          "votes": 227,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Board of Health Member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kathleen Walker",
-          "votes": 229
-        },
-        {
-          "name_original": "Peter J. Lancette II",
-          "votes": 462
-        },
-        {
-          "name_original": "Others",
-          "votes": 24,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Library Trustee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Francis M. Mower",
-          "votes": 497
-        },
-        {
-          "name_original": "Stefan D. Sage",
-          "votes": 468
-        },
-        {
-          "name_original": "Others",
-          "votes": 465,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Dudley-Charlton Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeanne Renaud Costello",
-          "votes": 486
-        },
-        {
-          "name_original": "Others",
-          "votes": 229,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Dudley-Charlton Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jordan Willow Evans",
-          "votes": 489
-        },
-        {
-          "name_original": "Others",
-          "votes": 226,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Southern Worcester County Regional School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donald J. Montville",
-          "votes": 510
-        },
-        {
-          "name_original": "Others",
-          "votes": 205,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Charlton",
-      "date": "2021-05-01",
-      "office_original": "Housing Authority Member",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Cedric S. Flower",
-          "votes": 341
-        },
-        {
-          "name_original": "Susan F. Mix",
-          "votes": 312
-        },
-        {
-          "name_original": "Others",
-          "votes": 62,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Charlton2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Board of Selectman (Seat 2)",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "David Singer",
+     "votes": 475
+    },
+    {
+     "name_original": "Others",
+     "votes": 240,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Assessor",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brett W. Moore",
+     "votes": 507
+    },
+    {
+     "name_original": "Others",
+     "votes": 208,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Cemetery Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Willis S. Bond Jr.",
+     "votes": 522
+    },
+    {
+     "name_original": "Others",
+     "votes": 193,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Water & Sewer Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Russell G. Jennings",
+     "votes": 482
+    },
+    {
+     "name_original": "Others",
+     "votes": 233,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Water & Sewer Commissioner",
+   "district_original": "To fill a vacancy",
+   "stage": "General",
+   "type": "Special",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cameron Coleman",
+     "votes": 70
+    },
+    {
+     "name_original": "Others",
+     "votes": 645,
+     "tally_row": true
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Planning Board Member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William T. Fontaine",
+     "votes": 489
+    },
+    {
+     "name_original": "Others",
+     "votes": 226,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Recreation Commissioner",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Diane Doherty",
+     "votes": 488
+    },
+    {
+     "name_original": "Others",
+     "votes": 227,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Board of Health Member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kathleen Walker",
+     "votes": 229
+    },
+    {
+     "name_original": "Peter J. Lancette II",
+     "votes": 462
+    },
+    {
+     "name_original": "Others",
+     "votes": 24,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Library Trustee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Francis M. Mower",
+     "votes": 497
+    },
+    {
+     "name_original": "Stefan D. Sage",
+     "votes": 468
+    },
+    {
+     "name_original": "Others",
+     "votes": 465,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Dudley-Charlton Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeanne Renaud Costello",
+     "votes": 486
+    },
+    {
+     "name_original": "Others",
+     "votes": 229,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Dudley-Charlton Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jordan Willow Evans",
+     "votes": 489
+    },
+    {
+     "name_original": "Others",
+     "votes": 226,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Southern Worcester County Regional School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donald J. Montville",
+     "votes": 510
+    },
+    {
+     "name_original": "Others",
+     "votes": 205,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Charlton",
+   "date": "2021-05-01",
+   "office_original": "Housing Authority Member",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Cedric S. Flower",
+     "votes": 341
+    },
+    {
+     "name_original": "Susan F. Mix",
+     "votes": 312
+    },
+    {
+     "name_original": "Others",
+     "votes": 62,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Charlton2021",
+ "_source_pdf": "",
+ "ballots_cast": 715,
+ "ballots_cast_source": "stated_in_record"
 }
