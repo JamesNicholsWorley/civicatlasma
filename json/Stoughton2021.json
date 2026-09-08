@@ -1,159 +1,159 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "Select Board",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "Select Board",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "David Lurie",
-          "votes": 626
-        },
-        {
-          "name_original": "Steve Cavey",
-          "votes": 729
-        },
-        {
-          "name_original": "Jarred Rose",
-          "votes": 552
-        },
-        {
-          "name_original": "Scott Carrara",
-          "votes": 814
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "David Lurie",
+     "votes": 626
     },
     {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "School Committee",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.8,
-      "candidates": [
-        {
-          "name_original": "Fabienne Francois Morissete",
-          "votes": 970
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Steve Cavey",
+     "votes": 729
     },
     {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "Housing Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Eric Anderson",
-          "votes": 36
-        },
-        {
-          "name_original": "William McNamara",
-          "votes": 29
-        },
-        {
-          "name_original": "Shannon Schjolin",
-          "votes": 28
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Jarred Rose",
+     "votes": 552
     },
     {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "Redevelopment Authority",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Reggie Nunnally",
-          "votes": 976
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "Moderator",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert Mullen Jr.",
-          "votes": 1145
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "Stoughton",
-      "date": "2021-04-06",
-      "office_original": "Town Meeting Member",
-      "district_original": "Precinct 4",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 7,
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Juliann Gitto",
-          "votes": 191
-        },
-        {
-          "name_original": "Davina Owens",
-          "votes": 138
-        },
-        {
-          "name_original": "Vaughn Enokian",
-          "votes": 138
-        },
-        {
-          "name_original": "David Billo",
-          "votes": 146
-        },
-        {
-          "name_original": "Arlene Cachopa",
-          "votes": 156
-        },
-        {
-          "name_original": "Alicia Rinaldi",
-          "votes": 116
-        },
-        {
-          "name_original": "Louis Gitto",
-          "votes": 180
-        },
-        {
-          "name_original": "John Anzivino",
-          "votes": 175
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Scott Carrara",
+     "votes": 814
     }
-  ],
-  "_source_stem": "Stoughton2021",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "School Committee",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.8,
+   "candidates": [
+    {
+     "name_original": "Fabienne Francois Morissete",
+     "votes": 970
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "Housing Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Eric Anderson",
+     "votes": 36
+    },
+    {
+     "name_original": "William McNamara",
+     "votes": 29
+    },
+    {
+     "name_original": "Shannon Schjolin",
+     "votes": 28
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "Redevelopment Authority",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Reggie Nunnally",
+     "votes": 976
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "Moderator",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert Mullen Jr.",
+     "votes": 1145
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "Stoughton",
+   "date": "2021-04-06",
+   "office_original": "Town Meeting Member",
+   "district_original": "Precinct 4",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 7,
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Juliann Gitto",
+     "votes": 191
+    },
+    {
+     "name_original": "Davina Owens",
+     "votes": 138
+    },
+    {
+     "name_original": "Vaughn Enokian",
+     "votes": 138
+    },
+    {
+     "name_original": "David Billo",
+     "votes": 146
+    },
+    {
+     "name_original": "Arlene Cachopa",
+     "votes": 156
+    },
+    {
+     "name_original": "Alicia Rinaldi",
+     "votes": 116
+    },
+    {
+     "name_original": "Louis Gitto",
+     "votes": 180
+    },
+    {
+     "name_original": "John Anzivino",
+     "votes": 175
+    }
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Stoughton2021",
+ "_source_pdf": "",
+ "ballots_cast": 1548,
+ "ballots_cast_source": "stated_in_record"
 }

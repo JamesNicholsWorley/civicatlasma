@@ -1,164 +1,164 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Select Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
     {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Select Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Andrew Krouss",
-          "votes": 275
-        },
-        {
-          "name_original": "Wayne Cooper",
-          "votes": 213
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Andrew Krouss",
+     "votes": 275
     },
     {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Town Moderator",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.9,
-      "candidates": [
-        {
-          "name_original": "Joseph Roy Jr.",
-          "votes": 439
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Finance Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Frank Landsberger",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Mark Greenlaw",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Susan Lupo",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Planning Board",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Jared Gelormino",
-          "votes": null,
-          "status": "uncontested"
-        },
-        {
-          "name_original": "Andrew Fudge",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Kathryn Korte",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Library Trustee",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Beth Sack",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
-    },
-    {
-      "municipality": "West Stockbridge",
-      "date": "2024-05-13",
-      "office_original": "Cemetery Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.85,
-      "candidates": [
-        {
-          "name_original": "Earl Moffatt",
-          "votes": null,
-          "status": "uncontested"
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Wayne Cooper",
+     "votes": 213
     }
-  ],
-  "_source_stem": "WestStockbridge2024",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Town Moderator",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.9,
+   "candidates": [
+    {
+     "name_original": "Joseph Roy Jr.",
+     "votes": 439
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Finance Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Frank Landsberger",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Mark Greenlaw",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Susan Lupo",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Planning Board",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Jared Gelormino",
+     "votes": null,
+     "status": "uncontested"
+    },
+    {
+     "name_original": "Andrew Fudge",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Kathryn Korte",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Library Trustee",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Beth Sack",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "West Stockbridge",
+   "date": "2024-05-13",
+   "office_original": "Cemetery Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.85,
+   "candidates": [
+    {
+     "name_original": "Earl Moffatt",
+     "votes": null,
+     "status": "uncontested"
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "WestStockbridge2024",
+ "_source_pdf": "",
+ "ballots_cast": 491,
+ "ballots_cast_source": "stated_in_record"
 }

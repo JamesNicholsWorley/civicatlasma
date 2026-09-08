@@ -1,75 +1,75 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "North Attleborough",
+   "office_original": "School Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
     {
-      "municipality": "North Attleborough",
-      "office_original": "School Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Sarah Stone",
-          "votes": 517
-        },
-        {
-          "name_original": "Katherine M. Cloutier",
-          "votes": 472
-        },
-        {
-          "name_original": "Francisco Eric Palmarin",
-          "votes": 192
-        },
-        {
-          "name_original": "John Thomas McAdam",
-          "votes": 109
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "date": "2026-04-07",
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Sarah Stone",
+     "votes": 517
     },
     {
-      "municipality": "North Attleborough",
-      "office_original": "Park Commission",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "John Thomas Ruppert",
-          "votes": 534
-        },
-        {
-          "name_original": "Thomas Marc DiFiore",
-          "votes": 568
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "date": "2026-04-07",
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Katherine M. Cloutier",
+     "votes": 472
     },
     {
-      "municipality": "North Attleborough",
-      "office_original": "Board of Public Works",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "candidates": [
-        {
-          "name_original": "Donald Cerrone",
-          "votes": 588
-        }
-      ],
-      "extraction_confidence": 0.95,
-      "date": "2026-04-07",
-      "scope": "at_large",
-      "blanks_printed": false
+     "name_original": "Francisco Eric Palmarin",
+     "votes": 192
+    },
+    {
+     "name_original": "John Thomas McAdam",
+     "votes": 109
     }
-  ],
-  "_source_stem": "NorthAttleborough2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "extraction_confidence": 0.95,
+   "date": "2026-04-07",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Attleborough",
+   "office_original": "Park Commission",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "John Thomas Ruppert",
+     "votes": 534
+    },
+    {
+     "name_original": "Thomas Marc DiFiore",
+     "votes": 568
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "date": "2026-04-07",
+   "scope": "at_large",
+   "blanks_printed": false
+  },
+  {
+   "municipality": "North Attleborough",
+   "office_original": "Board of Public Works",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "candidates": [
+    {
+     "name_original": "Donald Cerrone",
+     "votes": 588
+    }
+   ],
+   "extraction_confidence": 0.95,
+   "date": "2026-04-07",
+   "scope": "at_large",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "NorthAttleborough2026",
+ "_source_pdf": "",
+ "ballots_cast": 725,
+ "ballots_cast_source": "stated_in_record"
 }
