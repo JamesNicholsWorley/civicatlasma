@@ -1,47 +1,47 @@
 {
-  "document": {
-    "heading_verbatim": "Scituate Election Results",
-    "election_type": "Regular",
-    "election_type_evidence": "annual town election",
-    "date_verbatim": "Saturday's annual town election",
-    "is_sample_ballot": false,
-    "offices_on_ballot": -1,
-    "uncontested_remainder": true,
-    "uncontested_remainder_evidence": "It was the only contested race.",
-    "date_corroboration": {
-      "source": "publication date + the article's own weekday",
-      "value": "2026-06-06",
-      "strength": "corroborated",
-      "quote": "WATD: \"defeated challenger Coleman Garvey Smith 353 to 163 ... in Saturday's annual town election\", filed Jun 7, 2026 (a Sunday); the Saturday before is 6 June 2026",
-      "note": "established 2026-08-24"
-    }
-  },
-  "elections": [
+ "document": {
+  "heading_verbatim": "Scituate Election Results",
+  "election_type": "Regular",
+  "election_type_evidence": "annual town election",
+  "date_verbatim": "Saturday's annual town election",
+  "is_sample_ballot": false,
+  "offices_on_ballot": -1,
+  "uncontested_remainder": true,
+  "uncontested_remainder_evidence": "It was the only contested race.",
+  "date_corroboration": {
+   "source": "publication date + the article's own weekday",
+   "value": "2026-06-06",
+   "strength": "corroborated",
+   "quote": "WATD: \"defeated challenger Coleman Garvey Smith 353 to 163 ... in Saturday's annual town election\", filed Jun 7, 2026 (a Sunday); the Saturday before is 6 June 2026",
+   "note": "established 2026-08-24"
+  }
+ },
+ "elections": [
+  {
+   "municipality": "Scituate",
+   "date": "2026-06-06",
+   "office_original": "School Committee",
+   "district_original": "Position 2",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Scituate",
-      "date": "2026-06-06",
-      "office_original": "School Committee",
-      "district_original": "Position 2",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Erika Johnson McMahon",
-          "votes": 353
-        },
-        {
-          "name_original": "Coleman Garvey Smith",
-          "votes": 163
-        }
-      ],
-      "scope": "sub_town",
-      "blanks_printed": false
+     "name_original": "Erika Johnson McMahon",
+     "votes": 353
+    },
+    {
+     "name_original": "Coleman Garvey Smith",
+     "votes": 163
     }
-  ],
-  "_source_stem": "Scituate2026",
-  "_source_pdf": "",
-  "ballots_cast": null,
-  "ballots_cast_source": "cannot_derive"
+   ],
+   "scope": "sub_town",
+   "blanks_printed": false
+  }
+ ],
+ "_source_stem": "Scituate2026",
+ "_source_pdf": "",
+ "ballots_cast": 542,
+ "ballots_cast_source": "stated_in_record"
 }
