@@ -1,472 +1,472 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "SELECTMAN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "SELECTMAN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Tyler R. Bouchard",
-          "votes": 560
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 159,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Tyler R. Bouchard",
+     "votes": 560
     },
     {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "ASSESSOR",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Michael P. Martin",
-          "votes": 492
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 226,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
     },
     {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "COLLECTOR OF TAXES",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth B. Moalli",
-          "votes": 548
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 178,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Thomas S. Bouchard Sr",
-          "votes": 527
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 198,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "PLANNING BOARD",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeanne M. Coleman",
-          "votes": 334
-        },
-        {
-          "name_original": "Amy M. Cortright",
-          "votes": 413
-        },
-        {
-          "name_original": "Michael E. Shekane",
-          "votes": 382
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 328,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "KINGSTON ELEMENTARY SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Timothy E. Lewis",
-          "votes": 490
-        },
-        {
-          "name_original": "Sheila Vaughn",
-          "votes": 257
-        },
-        {
-          "name_original": "Michael E. Shekane",
-          "votes": 334
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 374,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "WATER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert J. Erlandsen",
-          "votes": 485
-        },
-        {
-          "name_original": "Others",
-          "votes": 4,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 242,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "S.L. REGIONAL SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Jeanne M. Coleman",
-          "votes": 334
-        },
-        {
-          "name_original": "Amy M. Cortright",
-          "votes": 413
-        },
-        {
-          "name_original": "Michael E. Shekane",
-          "votes": 382
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 328,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "BOARD OF HEALTH",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph F. Casna Jr",
-          "votes": 443
-        },
-        {
-          "name_original": "William J. Kavol",
-          "votes": 407
-        },
-        {
-          "name_original": "Others",
-          "votes": 19,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 593,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "LIBRARY TRUSTEES",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carolyn Bromage",
-          "votes": 60
-        },
-        {
-          "name_original": "Ralph T. Calderaro",
-          "votes": 488
-        },
-        {
-          "name_original": "Others",
-          "votes": 88,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 886,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "RECREATION COMMISSION",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph P. Cuningham Jr",
-          "votes": 488
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 231,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "RECREATION COMMISSION",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Patrick Rooney",
-          "votes": 59
-        },
-        {
-          "name_original": "Others",
-          "votes": 114,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 617,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "SEWER COMMISSIONER",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Elaine A. Fiore",
-          "votes": 469
-        },
-        {
-          "name_original": "Others",
-          "votes": 12,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 250,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "CONSTABLE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Brian J. Graziano",
-          "votes": 439
-        },
-        {
-          "name_original": "Robert A. Short",
-          "votes": 411
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 607,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mary L. Hayes",
-          "votes": 490
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 238,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Kingston",
-      "date": "2022-04-23",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 21,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 710,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 159,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Kingston2022",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Kingston2022.pdf",
-  "ballots_cast": 731,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "ASSESSOR",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Michael P. Martin",
+     "votes": 492
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 226,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "COLLECTOR OF TAXES",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth B. Moalli",
+     "votes": 548
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 178,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Thomas S. Bouchard Sr",
+     "votes": 527
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 198,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "PLANNING BOARD",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeanne M. Coleman",
+     "votes": 334
+    },
+    {
+     "name_original": "Amy M. Cortright",
+     "votes": 413
+    },
+    {
+     "name_original": "Michael E. Shekane",
+     "votes": 382
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 328,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "KINGSTON ELEMENTARY SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Timothy E. Lewis",
+     "votes": 490
+    },
+    {
+     "name_original": "Sheila Vaughn",
+     "votes": 257
+    },
+    {
+     "name_original": "Michael E. Shekane",
+     "votes": 334
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 374,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "WATER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert J. Erlandsen",
+     "votes": 485
+    },
+    {
+     "name_original": "Others",
+     "votes": 4,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 242,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "S.L. REGIONAL SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Jeanne M. Coleman",
+     "votes": 334
+    },
+    {
+     "name_original": "Amy M. Cortright",
+     "votes": 413
+    },
+    {
+     "name_original": "Michael E. Shekane",
+     "votes": 382
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 328,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "BOARD OF HEALTH",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph F. Casna Jr",
+     "votes": 443
+    },
+    {
+     "name_original": "William J. Kavol",
+     "votes": 407
+    },
+    {
+     "name_original": "Others",
+     "votes": 19,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 593,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "LIBRARY TRUSTEES",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carolyn Bromage",
+     "votes": 60
+    },
+    {
+     "name_original": "Ralph T. Calderaro",
+     "votes": 488
+    },
+    {
+     "name_original": "Others",
+     "votes": 88,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 886,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "RECREATION COMMISSION",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph P. Cuningham Jr",
+     "votes": 488
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 231,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "RECREATION COMMISSION",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Patrick Rooney",
+     "votes": 59
+    },
+    {
+     "name_original": "Others",
+     "votes": 55,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 617,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "SEWER COMMISSIONER",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Elaine A. Fiore",
+     "votes": 469
+    },
+    {
+     "name_original": "Others",
+     "votes": 12,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 250,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "CONSTABLE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Brian J. Graziano",
+     "votes": 439
+    },
+    {
+     "name_original": "Robert A. Short",
+     "votes": 411
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 607,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Mary L. Hayes",
+     "votes": 490
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 238,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Kingston",
+   "date": "2022-04-23",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 21,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 710,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Kingston2022",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Kingston2022.pdf",
+ "ballots_cast": 731,
+ "ballots_cast_source": "derived_from_contests"
 }

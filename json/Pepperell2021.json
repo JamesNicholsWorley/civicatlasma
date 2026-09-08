@@ -1,347 +1,347 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Select Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Select Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Mark Mathews",
-          "votes": 375
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 49,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Mark Mathews",
+     "votes": 375
     },
     {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Board of Assessors",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Maureen S. Bolger",
-          "votes": 374
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 62,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
     },
     {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Renee M. D'Argento",
-          "votes": 344
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 85,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Board of Health",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Stephen C. Themelis",
-          "votes": 364
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 63,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Housing Authority",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Irene Santackas-Leddy",
-          "votes": 36
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 369,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Charles P. Walkovich",
-          "votes": 355
-        },
-        {
-          "name_original": "Others",
-          "votes": 2,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 80,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Planning Board",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joyce Morrow",
-          "votes": 338
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 91,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "North Middlesex Regional School District School Committee",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Craig R. Hansen",
-          "votes": 344
-        },
-        {
-          "name_original": "David M. Carney",
-          "votes": 332
-        },
-        {
-          "name_original": "Others",
-          "votes": 68,
-          "tally_row": true
-        },
-        {
-          "name_original": "Patrick McPhillips",
-          "votes": 32
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 162,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Lawrence Library Board of Trustees",
-      "num_winners": 2,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Carol M. Case",
-          "votes": 350
-        },
-        {
-          "name_original": "Diane M. Murphy",
-          "votes": 342
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 181,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Board of Public Works",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 59,
-          "tally_row": true
-        },
-        {
-          "name_original": "George Clark",
-          "votes": 29
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 378,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Recreation Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 95,
-          "tally_row": true
-        },
-        {
-          "name_original": "Alan Leao",
-          "votes": 59
-        },
-        {
-          "name_original": "Dana Hanson",
-          "votes": 14
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 342,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Pepperell",
-      "date": "2021-04-26",
-      "office_original": "Recreation Commission",
-      "num_winners": 1,
-      "stage": "General",
-      "type": "Regular",
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Others",
-          "votes": 82,
-          "tally_row": true
-        },
-        {
-          "name_original": "Lynne Archambault",
-          "votes": 52
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 355,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 49,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Pepperell2021",
-  "ballots_cast": 437,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Board of Assessors",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Maureen S. Bolger",
+     "votes": 374
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 62,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Renee M. D'Argento",
+     "votes": 344
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 85,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Board of Health",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Stephen C. Themelis",
+     "votes": 364
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 63,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Housing Authority",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 32,
+     "tally_row": true
+    },
+    {
+     "name_original": "Irene Santackas-Leddy",
+     "votes": 36
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 369,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Charles P. Walkovich",
+     "votes": 355
+    },
+    {
+     "name_original": "Others",
+     "votes": 2,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 80,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Planning Board",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joyce Morrow",
+     "votes": 338
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 91,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "North Middlesex Regional School District School Committee",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Craig R. Hansen",
+     "votes": 344
+    },
+    {
+     "name_original": "David M. Carney",
+     "votes": 332
+    },
+    {
+     "name_original": "Others",
+     "votes": 68,
+     "tally_row": true
+    },
+    {
+     "name_original": "Patrick McPhillips",
+     "votes": 32
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 162,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Lawrence Library Board of Trustees",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Carol M. Case",
+     "votes": 350
+    },
+    {
+     "name_original": "Diane M. Murphy",
+     "votes": 342
+    },
+    {
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 181,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Board of Public Works",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
+    },
+    {
+     "name_original": "George Clark",
+     "votes": 29
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 378,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Recreation Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 22,
+     "tally_row": true
+    },
+    {
+     "name_original": "Alan Leao",
+     "votes": 59
+    },
+    {
+     "name_original": "Dana Hanson",
+     "votes": 14
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 342,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Pepperell",
+   "date": "2021-04-26",
+   "office_original": "Recreation Commission",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Others",
+     "votes": 30,
+     "tally_row": true
+    },
+    {
+     "name_original": "Lynne Archambault",
+     "votes": 52
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 355,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Pepperell2021",
+ "ballots_cast": 437,
+ "ballots_cast_source": "derived_from_contests"
 }

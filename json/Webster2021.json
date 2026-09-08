@@ -1,352 +1,352 @@
 {
-  "elections": [
+ "elections": [
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "BOARD OF SELECTMEN",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
     {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "BOARD OF SELECTMEN",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Randall V. Becker",
-          "votes": 753
-        },
-        {
-          "name_original": "Carol M. Anderson",
-          "votes": 69
-        },
-        {
-          "name_original": "Robert J. Miller",
-          "votes": 259
-        },
-        {
-          "name_original": "Others",
-          "votes": 1,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 7,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Randall V. Becker",
+     "votes": 753
     },
     {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Nicholas C. Adamopoulos",
-          "votes": 738
-        },
-        {
-          "name_original": "Katherine T. Napierata",
-          "votes": 709
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 728,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Carol M. Anderson",
+     "votes": 69
     },
     {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "REGIONAL VOCATIONAL SCHOOL COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert M. Tremblay",
-          "votes": 820
-        },
-        {
-          "name_original": "Others",
-          "votes": 3,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 266,
-          "tally_row": true
-        }
-      ],
-      "scope": "regional_district",
-      "blanks_printed": true
+     "name_original": "Robert J. Miller",
+     "votes": 259
     },
     {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "BOARD OF HEALTH",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Anne T. Violette",
-          "votes": 790
-        },
-        {
-          "name_original": "Others",
-          "votes": 6,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 293,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Others",
+     "votes": 1,
+     "tally_row": true
     },
     {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "FINANCE COMMITTEE",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Joseph Ralph",
-          "votes": 27
-        },
-        {
-          "name_original": "Others",
-          "votes": 109,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 980,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 2,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Evelyn C. Pappas",
-          "votes": 822
-        },
-        {
-          "name_original": "Jeanne M. Mikels",
-          "votes": 583
-        },
-        {
-          "name_original": "Others",
-          "votes": 5,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 768,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Donna F. Becker",
-          "votes": 866
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 215,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "REDEVELOPMENT AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Kenneth L. Pizzetti",
-          "votes": 777
-        },
-        {
-          "name_original": "Others",
-          "votes": 8,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 304,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "William F. Herra",
-          "votes": 752
-        },
-        {
-          "name_original": "Others",
-          "votes": 13,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 324,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "James E. Avery Jr.",
-          "votes": 563
-        },
-        {
-          "name_original": "Peter A. Luchina",
-          "votes": 353
-        },
-        {
-          "name_original": "Others",
-          "votes": 7,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 166,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "HOUSING AUTHORITY",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Peter Luchina",
-          "votes": 25
-        },
-        {
-          "name_original": "Others",
-          "votes": 91,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 988,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
-    },
-    {
-      "municipality": "Webster",
-      "date": "2021-05-03",
-      "office_original": "TOWN CLERK",
-      "stage": "General",
-      "type": "Regular",
-      "num_winners": 1,
-      "extraction_confidence": 0.95,
-      "candidates": [
-        {
-          "name_original": "Robert T. Craver",
-          "votes": 909
-        },
-        {
-          "name_original": "Others",
-          "votes": 10,
-          "tally_row": true
-        },
-        {
-          "name_original": "Blanks",
-          "votes": 170,
-          "tally_row": true
-        }
-      ],
-      "scope": "at_large",
-      "blanks_printed": true
+     "name_original": "Blanks",
+     "votes": 7,
+     "tally_row": true
     }
-  ],
-  "_source_stem": "Webster2021",
-  "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Webster2021.pdf",
-  "ballots_cast": 1089,
-  "ballots_cast_source": "derived_from_contests"
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Nicholas C. Adamopoulos",
+     "votes": 738
+    },
+    {
+     "name_original": "Katherine T. Napierata",
+     "votes": 709
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 728,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "REGIONAL VOCATIONAL SCHOOL COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert M. Tremblay",
+     "votes": 820
+    },
+    {
+     "name_original": "Others",
+     "votes": 3,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 266,
+     "tally_row": true
+    }
+   ],
+   "scope": "regional_district",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "BOARD OF HEALTH",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Anne T. Violette",
+     "votes": 790
+    },
+    {
+     "name_original": "Others",
+     "votes": 6,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 293,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "FINANCE COMMITTEE",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Joseph Ralph",
+     "votes": 27
+    },
+    {
+     "name_original": "Others",
+     "votes": 82,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 980,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 2,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Evelyn C. Pappas",
+     "votes": 822
+    },
+    {
+     "name_original": "Jeanne M. Mikels",
+     "votes": 583
+    },
+    {
+     "name_original": "Others",
+     "votes": 5,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 768,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "TRUSTEES OF THE PUBLIC LIBRARY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Donna F. Becker",
+     "votes": 866
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 215,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "REDEVELOPMENT AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Kenneth L. Pizzetti",
+     "votes": 777
+    },
+    {
+     "name_original": "Others",
+     "votes": 8,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 304,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "William F. Herra",
+     "votes": 752
+    },
+    {
+     "name_original": "Others",
+     "votes": 13,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 324,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "James E. Avery Jr.",
+     "votes": 563
+    },
+    {
+     "name_original": "Peter A. Luchina",
+     "votes": 353
+    },
+    {
+     "name_original": "Others",
+     "votes": 7,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 166,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "HOUSING AUTHORITY",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Peter Luchina",
+     "votes": 25
+    },
+    {
+     "name_original": "Others",
+     "votes": 91,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 988,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  },
+  {
+   "municipality": "Webster",
+   "date": "2021-05-03",
+   "office_original": "TOWN CLERK",
+   "stage": "General",
+   "type": "Regular",
+   "num_winners": 1,
+   "extraction_confidence": 0.95,
+   "candidates": [
+    {
+     "name_original": "Robert T. Craver",
+     "votes": 909
+    },
+    {
+     "name_original": "Others",
+     "votes": 10,
+     "tally_row": true
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 170,
+     "tally_row": true
+    }
+   ],
+   "scope": "at_large",
+   "blanks_printed": true
+  }
+ ],
+ "_source_stem": "Webster2021",
+ "_source_pdf": "https://jamesnicholsworley.github.io/civicatlasma/pdfs/Webster2021.pdf",
+ "ballots_cast": 1089,
+ "ballots_cast_source": "derived_from_contests"
 }
