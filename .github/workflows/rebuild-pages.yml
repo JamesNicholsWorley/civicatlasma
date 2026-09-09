@@ -1,4 +1,4 @@
-name: Rebuild the defect register
+name: Rebuild the generated pages
 
 # `audit.html` is a static shell; `defects.js` is the data behind it. Only the
 # data ages, which is why the page could look current while listing records that
@@ -51,21 +51,36 @@ jobs:
         run: |
           mkdir -p work/data/inventory work/publish work/research/interface/enrollment
           cp .tools/pages/audit_defects.py        work/research/interface/
+          cp .tools/pages/coverage_report.py      work/
           cp .tools/pages/inventory/*.csv         work/data/inventory/
           cp .tools/config/denominators.csv       work/research/interface/enrollment/
           ln -s "$GITHUB_WORKSPACE/json"          work/publish/json
 
-      - name: Rebuild
+      - name: Rebuild the defect register
         run: python work/research/interface/audit_defects.py
 
-      - name: Commit it, if it changed
+      # Coverage was generated locally and copied here by hand, so it aged
+      # against a register that rebuilds itself -- the two pages were four
+      # hours apart and disagreeing. The generator reads one CSV, writes one
+      # page and touches no network, so there was never a reason for it to be
+      # manual. It runs in THIS job rather than a new workflow on purpose:
+      # the concurrency group cancels in progress, and a second workflow in
+      # the same group would cancel this one at random.
+      - name: Rebuild the coverage page
+        env:
+          COVERAGE_MASTER: .tools/pages/inventory/master_urls.csv
+          COVERAGE_POPULATION: .tools/config/population.csv
+          COVERAGE_OUT: coverage.html
+        run: python work/coverage_report.py
+
+      - name: Commit what changed
         run: |
           cp work/research/interface/defects.js defects.js
-          if git diff --quiet defects.js; then
-            echo "the register is unchanged"; exit 0
+          if git diff --quiet defects.js coverage.html; then
+            echo "the generated pages are unchanged"; exit 0
           fi
           git config user.name "civicatlas-qa"
           git config user.email "jamesnicholsworleyassistant@gmail.com"
-          git add defects.js
-          git commit             -m "Rebuild the defect register against the corpus as it now stands"             -m "The register is derived from json/, and json/ moved. Rebuilt by .github/workflows/rebuild-pages.yml so the page cannot quietly age again."
+          git add defects.js coverage.html
+          git commit             -m "Rebuild the generated pages against the corpus as it now stands"             -m "The register is derived from json/, and json/ moved. Rebuilt by .github/workflows/rebuild-pages.yml so the page cannot quietly age again."
           git push origin main
