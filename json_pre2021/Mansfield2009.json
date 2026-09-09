@@ -1,0 +1,125 @@
+{
+ "document": {
+  "heading_verbatim": "May 12, 2009",
+  "date_verbatim": "May 12, 2009",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Mansfield",
+   "date": "2009-05-12",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 34
+    },
+    {
+     "name_original": "George R. Dentino",
+     "votes": 1401
+    },
+    {
+     "name_original": "Christopher McGowan",
+     "votes": 1385
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2820
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2009-05-12",
+   "office_original": "School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 109
+    },
+    {
+     "name_original": "Steven R. Greenberg",
+     "votes": 849
+    },
+    {
+     "name_original": "James E. Perry",
+     "votes": 1862
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2820
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2009-05-12",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 748
+    },
+    {
+     "name_original": "Douglas J. Murphy",
+     "votes": 2072
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2820
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2009-05-12",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 126
+    },
+    {
+     "name_original": "Robert H.H. Saquet",
+     "votes": 1197
+    },
+    {
+     "name_original": "Sharon Friedman",
+     "votes": 1156
+    },
+    {
+     "name_original": "Steven W. MacCaffrie",
+     "votes": 341
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2820
+  }
+ ],
+ "_source_stem": "Mansfield2009",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

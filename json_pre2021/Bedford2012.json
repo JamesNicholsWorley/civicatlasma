@@ -1,0 +1,219 @@
+{
+ "document": {
+  "heading_verbatim": "March 10, 2012",
+  "date_verbatim": "March 10, 2012",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": false,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "SELECTMEN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "MARGOT R FLEISCHMAN",
+     "votes": 931
+    },
+    {
+     "name_original": "ROBERT F MARSHALL",
+     "votes": 568
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1502
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "ASSESSORS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "RONALD M CORDES",
+     "votes": 723
+    },
+    {
+     "name_original": "ROBERT KALANTARI",
+     "votes": 718
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1442
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "SARAH B THOMPSON",
+     "votes": 1023
+    },
+    {
+     "name_original": "ANITA RAJ",
+     "votes": 1004
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 12
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2039
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JANE PUFFER",
+     "votes": 1118
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1127
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JEFFREY M COHEN",
+     "votes": 1123
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1131
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "MICHAEL A PULIZZI",
+     "votes": 1064
+    },
+    {
+     "name_original": "ROBERT L BATT",
+     "votes": 1035
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 13
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2112
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "REG. SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "GLENN MCINTYRE",
+     "votes": 1082
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1088
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2012-03-10",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "ABIGAIL A SEIBERT",
+     "votes": 1168
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1183
+  }
+ ],
+ "_source_stem": "Bedford2012",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

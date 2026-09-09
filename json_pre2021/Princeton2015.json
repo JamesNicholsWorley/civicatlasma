@@ -1,0 +1,210 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 11, 2015",
+  "date_verbatim": "MAY 11, 2015",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Selectman",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jon H. Fudeman",
+     "votes": 335
+    },
+    {
+     "name_original": "Christine L. Trudeau",
+     "votes": 109
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    },
+    {
+     "name_original": "Blank",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Assessor",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Timothy R. Hammond",
+     "votes": 363
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    },
+    {
+     "name_original": "Blank",
+     "votes": 82
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Electric Light Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Christopher Conway",
+     "votes": 348
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 8
+    },
+    {
+     "name_original": "Blank",
+     "votes": 89
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Trustee of Trust Funds",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stephen G. Mirick",
+     "votes": 377
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    },
+    {
+     "name_original": "Blank",
+     "votes": 68
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Planning Board – Vote for 2",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Russell H. Mason",
+     "votes": 346
+    },
+    {
+     "name_original": "Thomas E. Sullivan- Write-in winner",
+     "votes": 113
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 6
+    },
+    {
+     "name_original": "Blank",
+     "votes": 425
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Planning Board – Vote for 2"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Harry A. Pape",
+     "votes": 373
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 71
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2015-05-11",
+   "office_original": "Wachusett Regional School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Robert Imber",
+     "votes": 358
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 0
+    },
+    {
+     "name_original": "Blank",
+     "votes": 87
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  }
+ ],
+ "_source_stem": "Princeton2015",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'PRINCETON, MASSACHUSETTS 01541' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

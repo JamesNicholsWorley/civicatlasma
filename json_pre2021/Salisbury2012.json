@@ -1,0 +1,144 @@
+{
+ "document": {
+  "heading_verbatim": "May 08, 2012",
+  "date_verbatim": "May 08, 2012",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2012-05-08",
+   "office_original": "SELECTMAN FOR THREE YEARS VOTE FOR TWO",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 86
+    },
+    {
+     "name_original": "Donald W. Beaulieu",
+     "votes": 239
+    },
+    {
+     "name_original": "Henry Richenburg",
+     "votes": 240
+    },
+    {
+     "name_original": "Gerry Downs",
+     "votes": 13
+    },
+    {
+     "name_original": "Harold Congdon",
+     "votes": 3
+    },
+    {
+     "name_original": "Paul Greaney",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "FOR THREE YEARS VOTE FOR TWO",
+   "printed_total": 584
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2012-05-08",
+   "office_original": "TRITON REGIONAL SCHOOL COMMITTEE THREE MEMBERS TO BE ELECTED FOR THREE YEARS ONE FROM EACH TOWN NEWBURY",
+   "district_original": "NEWBURY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 35
+    },
+    {
+     "name_original": "SUZANNE W. DENSMORE",
+     "votes": 208
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 292
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2012-05-08",
+   "office_original": "TRITON REGIONAL SCHOOL COMMITTEE THREE MEMBERS TO BE ELECTED FOR THREE YEARS ONE FROM EACH TOWN ROWLEY",
+   "district_original": "ROWLEY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 39
+    },
+    {
+     "name_original": "Mary T. Murphy",
+     "votes": 190
+    },
+    {
+     "name_original": "Richard Cummings",
+     "votes": 61
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 292
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2012-05-08",
+   "office_original": "TRITON REGIONAL SCHOOL COMMITTEE THREE MEMBERS TO BE ELECTED FOR THREE YEARS ONE FROM EACH TOWN SALISBURY",
+   "district_original": "SALISBURY",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 36
+    },
+    {
+     "name_original": "Linda Marie Litcofsky",
+     "votes": 248
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 292
+  }
+ ],
+ "_source_stem": "Salisbury2012",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

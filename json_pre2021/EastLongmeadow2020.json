@@ -1,0 +1,85 @@
+{
+ "document": {
+  "heading_verbatim": "June 2, 2020",
+  "date_verbatim": "June 2, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "East Longmeadow",
+   "date": "2020-06-02",
+   "office_original": "For Town Council (vote for 2)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Marilyn M. Richardson",
+     "votes": 795
+    },
+    {
+     "name_original": "Michael J. Kane",
+     "votes": 744
+    },
+    {
+     "name_original": "Connor James O'Shea",
+     "votes": 510
+    },
+    {
+     "name_original": "(write-ins)",
+     "votes": 17
+    },
+    {
+     "name_original": "(Blanks)",
+     "votes": 258
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "For Town Council (vote for 2)",
+   "printed_total": 2324
+  },
+  {
+   "municipality": "East Longmeadow",
+   "date": "2020-06-02",
+   "office_original": "For School Committee (vote for 2)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Gregory Michael Thompson",
+     "votes": 869
+    },
+    {
+     "name_original": "Elizabeth M. Marsian-Boucher",
+     "votes": 883
+    },
+    {
+     "name_original": "(write-ins)",
+     "votes": 44
+    },
+    {
+     "name_original": "(Blanks)",
+     "votes": 528
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "For School Committee (vote for 2)",
+   "printed_total": 2324
+  }
+ ],
+ "_source_stem": "EastLongmeadow2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

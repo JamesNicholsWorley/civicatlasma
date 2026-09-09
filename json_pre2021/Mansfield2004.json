@@ -1,0 +1,121 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 11, 2004",
+  "date_verbatim": "MAY 11, 2004",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Mansfield",
+   "date": "2004-05-11",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 563
+    },
+    {
+     "name_original": "Michael W. McCue",
+     "votes": 1595
+    },
+    {
+     "name_original": "George R. Dentino",
+     "votes": 1158
+    },
+    {
+     "name_original": "Bernard J. Dolan",
+     "votes": 1558
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 4874
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2004-05-11",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1282
+    },
+    {
+     "name_original": "Emil R. Giordano",
+     "votes": 1754
+    },
+    {
+     "name_original": "Jean M. Miller",
+     "votes": 1838
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 4874
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2004-05-11",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 600
+    },
+    {
+     "name_original": "Douglas J. Murphy",
+     "votes": 1837
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2437
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2004-05-11",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 565
+    },
+    {
+     "name_original": "Robert H. H. Saquet",
+     "votes": 1872
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2437
+  }
+ ],
+ "_source_stem": "Mansfield2004",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

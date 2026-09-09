@@ -1,0 +1,210 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 12, 2014",
+  "date_verbatim": "MAY 12, 2014",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Selectman",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stanley E. Moss",
+     "votes": 325
+    },
+    {
+     "name_original": "Bruce B. Rollins",
+     "votes": 206
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Assessors",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Helen H. Townsend",
+     "votes": 440
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 91
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Electric Light Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Timothy R. Cochrell",
+     "votes": 409
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 122
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Trustees of Trust Funds",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kevin J. Heman, Sr.",
+     "votes": 420
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 111
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Planning Board – Vote for 2",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Thomas R. Daly",
+     "votes": 369
+    },
+    {
+     "name_original": "John O. Miriek",
+     "votes": 408
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    },
+    {
+     "name_original": "Blank",
+     "votes": 287
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Planning Board – Vote for 2"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Harry A. Pape",
+     "votes": 440
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 2
+    },
+    {
+     "name_original": "Blank",
+     "votes": 90
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2014-05-12",
+   "office_original": "Wachusett Regional School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Brian Ruttle – Write-in winner",
+     "votes": 3
+    },
+    {
+     "name_original": "All other Write-in",
+     "votes": 29
+    },
+    {
+     "name_original": "Blank",
+     "votes": 500
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  }
+ ],
+ "_source_stem": "Princeton2014",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'PRINCETON, MASSACHUSETTS 01541' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

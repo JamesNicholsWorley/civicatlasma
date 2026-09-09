@@ -1,0 +1,79 @@
+{
+ "document": {
+  "heading_verbatim": "August 13, 2019",
+  "date_verbatim": "August 13, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Cheshire",
+   "date": "2019-08-13",
+   "office_original": "Selectmen - 2 Year Term",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Michael \"Mickey\" Biagini Jr.",
+     "votes": 145
+    },
+    {
+     "name_original": "Ronald DeAngelis",
+     "votes": 267
+    },
+    {
+     "name_original": "E. Richard Scholz",
+     "votes": 103
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "One Selectmen for a term of two years",
+   "printed_total": 529
+  },
+  {
+   "municipality": "Cheshire",
+   "date": "2019-08-13",
+   "office_original": "Selectmen - 3 Year Term",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Donna DeF ino",
+     "votes": 107
+    },
+    {
+     "name_original": "Michelle Francesconi",
+     "votes": 407
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "One Selectmen for a term of three years",
+   "printed_total": 529
+  }
+ ],
+ "_source_stem": "Cheshire2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 2019, the filename says 2020 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

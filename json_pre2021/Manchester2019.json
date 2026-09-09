@@ -1,0 +1,199 @@
+{
+ "document": {
+  "heading_verbatim": "May 21, 2019",
+  "date_verbatim": "May 21, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "Moderator, for 1 year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Alan Wilson",
+     "votes": 193
+    },
+    {
+     "name_original": "Scattered",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 23
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "Library Trustee, for 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Dorothy J. Sieradzki",
+     "votes": 181
+    },
+    {
+     "name_original": "Scattered",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 35
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "Planning Board, for 3 years - 3 positions",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Peter P. Canny, Jr.",
+     "votes": 152
+    },
+    {
+     "name_original": "Ronald S. Mastrogiacomo",
+     "votes": 152
+    },
+    {
+     "name_original": "Gary L. Russell",
+     "votes": 153
+    },
+    {
+     "name_original": "Scattered",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 189
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Planning Board, for 3 years - 3 positions"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "Constable, for 3 years - 3 positions",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Joseph P. Aiello",
+     "votes": 164
+    },
+    {
+     "name_original": "Stephen T. Driscoll",
+     "votes": 152
+    },
+    {
+     "name_original": "G. David MacDougall",
+     "votes": 143
+    },
+    {
+     "name_original": "Scattered",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 188
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Constable, for 3 years - 3 positions"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "School Committee, for 3 years- 2 positions",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kenneth D. Warnock, Jr.",
+     "votes": 172
+    },
+    {
+     "name_original": "Eric A. Bourke",
+     "votes": 158
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 102
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "School Committee, for 3 years- 2 positions"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2019-05-21",
+   "office_original": "Selectman, for 3 years-2 positions",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Eli G. Boling",
+     "votes": 171
+    },
+    {
+     "name_original": "Jeffrey H. Bodmer-Turner",
+     "votes": 160
+    },
+    {
+     "name_original": "Scattered",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 95
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Selectman, for 3 years-2 positions"
+  }
+ ],
+ "_source_stem": "Manchester2019",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'Town of Manchester-By-The-Sea' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

@@ -1,0 +1,139 @@
+{
+ "document": {
+  "heading_verbatim": "May 10, 2011",
+  "date_verbatim": "May 10, 2011",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2011-05-10",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 12
+    },
+    {
+     "name_original": "Fred Knowles",
+     "votes": 498
+    },
+    {
+     "name_original": "Ron Christ",
+     "votes": 248
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 760
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2011-05-10",
+   "office_original": "Triton-Salisbury",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 30
+    },
+    {
+     "name_original": "David Charles Coburn",
+     "votes": 312
+    },
+    {
+     "name_original": "Jane K. Purinton",
+     "votes": 415
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 760
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2011-05-10",
+   "office_original": "Triton-Newbury",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 308
+    },
+    {
+     "name_original": "Diana \"Dina\" L. Sullivan",
+     "votes": 445
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 760
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2011-05-10",
+   "office_original": "Triton-Rowley-3 year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 267
+    },
+    {
+     "name_original": "Lane Bourn",
+     "votes": 270
+    },
+    {
+     "name_original": "Karen H. Summit",
+     "votes": 223
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 760
+  }
+ ],
+ "_source_stem": "Salisbury2011",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

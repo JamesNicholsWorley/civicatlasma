@@ -1,0 +1,177 @@
+{
+ "document": {
+  "heading_verbatim": "Monday, May 13, 2019",
+  "date_verbatim": "Monday, May 13, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Douglas E. Storey",
+     "votes": 304
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 54
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Pamela H. Powell",
+     "votes": 320
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 38
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jonathan Keep",
+     "votes": 182
+    },
+    {
+     "name_original": "Mark Sprague",
+     "votes": 175
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 1
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "D. Scott Powell",
+     "votes": 302
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 56
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Gwendolyn M. Rogers",
+     "votes": 300
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 58
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Bolton",
+   "date": "2019-05-13",
+   "office_original": "Cemetery Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Betsy Taylor-Kennedy",
+     "votes": 302
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 55
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Bolton2019",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

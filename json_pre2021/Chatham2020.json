@@ -1,0 +1,110 @@
+{
+ "document": {
+  "heading_verbatim": "Thursday, June 25, 2020",
+  "date_verbatim": "Thursday, June 25, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Chatham",
+   "date": "2020-06-25",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 91
+    },
+    {
+     "name_original": "SHAREEN DAVIS",
+     "votes": 459
+    },
+    {
+     "name_original": "WRITE INS",
+     "votes": 31
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 581
+  },
+  {
+   "municipality": "Chatham",
+   "date": "2020-06-25",
+   "office_original": "MONOMOY REGIONAL SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 55
+    },
+    {
+     "name_original": "NANCY I. SCOTT",
+     "votes": 366
+    },
+    {
+     "name_original": "JACQUELINE MACY ZIBRAT-LONG",
+     "votes": 365
+    },
+    {
+     "name_original": "ROBERT BLAKE HESSLER",
+     "votes": 201
+    },
+    {
+     "name_original": "ELIZABETH H. TAYLOR",
+     "votes": 174
+    },
+    {
+     "name_original": "WRITE INS",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1162
+  },
+  {
+   "municipality": "Chatham",
+   "date": "2020-06-25",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 116
+    },
+    {
+     "name_original": "JANICE M. O'CONNELL",
+     "votes": 462
+    },
+    {
+     "name_original": "WRITE INS",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 581
+  }
+ ],
+ "_source_stem": "Chatham2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

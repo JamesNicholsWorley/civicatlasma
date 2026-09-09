@@ -1,0 +1,178 @@
+{
+ "document": {
+  "heading_verbatim": "Tuesday, June 23rd, 2020",
+  "date_verbatim": "Tuesday, June 23rd, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Selectboard",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Richard Bisk",
+     "votes": 105
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Assessor",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Helen Townsend",
+     "votes": 110
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Electric Light Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Richard Rys",
+     "votes": 99
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Trustee of Trust Funds",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kevin Heman",
+     "votes": 106
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Planning Board  (2 Positions)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "John Mlrick",
+     "votes": 102
+    },
+    {
+     "name_original": "Ian Catlow",
+     "votes": 98
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 27
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(2 Positions)"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2020-06-23",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Harry Pape",
+     "votes": 109
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Princeton2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

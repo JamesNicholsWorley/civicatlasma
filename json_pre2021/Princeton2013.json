@@ -1,0 +1,203 @@
+{
+ "document": {
+  "heading_verbatim": "APRIL 30, 2013",
+  "date_verbatim": "APRIL 30, 2013",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "SELECTMAN – 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Edith M. Morgan",
+     "votes": 438
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 87
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "ASSESSOR – 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert C. Cumming",
+     "votes": 454
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 71
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "ELECTRIC LIGHT COMMISSIONER – 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "James H. Whitman",
+     "votes": 446
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 75
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "TRUSTEES OF TRUST FUNDS – 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Phillip Mighdoll",
+     "votes": 417
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 105
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "PLANNING BOARD – 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Write-in – Richard Bisk",
+     "votes": 75
+    },
+    {
+     "name_original": "All other Write-ins",
+     "votes": 21
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 429
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "MODERATOR – 1 YEAR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Harry A. Pape",
+     "votes": 446
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 79
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "MODERATOR – 1 YEAR"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2013-04-30",
+   "office_original": "WACHUSETT REGIONAL SCHOOL COMMITTEE – 1 YEAR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Matthew G. Lindberg",
+     "votes": 437
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 88
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "WACHUSETT REGIONAL SCHOOL COMMITTEE – 1 YEAR"
+  }
+ ],
+ "_source_stem": "Princeton2013",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'PRINCETON, MASSACHUSETTS 01541' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

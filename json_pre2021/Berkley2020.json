@@ -1,0 +1,205 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 9, 2020",
+  "date_verbatim": "MAY 9, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "TOWN CLERK - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Deborah Pereira",
+     "votes": 117
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "SELECTMAN - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Wendy Cochrane",
+     "votes": 94
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "SELECTMAN - 1 year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Dean Larabee",
+     "votes": 106
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "BOARD OF ASSESSORS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jeanne Russo",
+     "votes": 101
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "BOARD OF HEALTH - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Daniel Fournier",
+     "votes": 107
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "PLANNING BOARD - 3years",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Donna Leary",
+     "votes": 103
+    },
+    {
+     "name_original": "Stephen Castellina",
+     "votes": 104
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "BERKLEY SCHOOL COMMITTEE - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jilleen Solomon",
+     "votes": 47
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "SOMERSET BERKLEY REGIONAL SCHOOL COMMITTEE - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Jenifer Andrews",
+     "votes": 101
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "LIBRARY TRUSTEE - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Megan Silva",
+     "votes": 108
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Berkley",
+   "date": "2020-05-09",
+   "office_original": "CEMETERY COMMISSION - 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Carolyn Souza",
+     "votes": 112
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Berkley2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'TOWN OF BERKELEY' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "document": {
+  "heading_verbatim": "May 13, 2014",
+  "date_verbatim": "May 13, 2014",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2014-05-13",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 1
+    },
+    {
+     "name_original": "Wilma M. McDonald",
+     "votes": 759
+    },
+    {
+     "name_original": "Gilbert Medeiros",
+     "votes": 225
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 985
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2014-05-13",
+   "office_original": "Triton-Newbury",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 371
+    },
+    {
+     "name_original": "Diana \"Dina\" L. Sullivan",
+     "votes": 608
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 985
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2014-05-13",
+   "office_original": "Triton-Rowley",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 407
+    },
+    {
+     "name_original": "Richard Cummings",
+     "votes": 573
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 985
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2014-05-13",
+   "office_original": "Triton-Salisbury",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 199
+    },
+    {
+     "name_original": "Monique B. Greilich",
+     "votes": 771
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 985
+  }
+ ],
+ "_source_stem": "Salisbury2014",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

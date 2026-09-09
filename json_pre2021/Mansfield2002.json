@@ -1,0 +1,100 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 14, 2002",
+  "date_verbatim": "MAY 14, 2002",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": false,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Mansfield",
+   "date": "2002-05-14",
+   "office_original": "Selectman",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 289
+    },
+    {
+     "name_original": "Louis P. Amoruso",
+     "votes": 642
+    },
+    {
+     "name_original": "Bruce L. Fallows",
+     "votes": 391
+    },
+    {
+     "name_original": "Steven MacCaffrie",
+     "votes": 572
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1884
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2002-05-14",
+   "office_original": "School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 501
+    },
+    {
+     "name_original": "Jeffrey M. Sankey",
+     "votes": 681
+    },
+    {
+     "name_original": "Michael A. Trowbridge",
+     "votes": 702
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1884
+  },
+  {
+   "municipality": "Mansfield",
+   "date": "2002-05-14",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 240
+    },
+    {
+     "name_original": "Robert H.H. Saquet",
+     "votes": 702
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 942
+  }
+ ],
+ "_source_stem": "Mansfield2002",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

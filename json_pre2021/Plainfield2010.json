@@ -1,0 +1,90 @@
+{
+ "document": {
+  "heading_verbatim": "May 1, 2010",
+  "date_verbatim": "May 1, 2010",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Plainfield",
+   "date": "2010-05-01",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 57
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 57
+  },
+  {
+   "municipality": "Plainfield",
+   "date": "2010-05-01",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ruby Goodnoff",
+     "votes": 55
+    },
+    {
+     "name_original": "Blank",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 57
+  },
+  {
+   "municipality": "Plainfield",
+   "date": "2010-05-01",
+   "office_original": "Board of Selectmen",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Phillip S. Lococo",
+     "votes": 51
+    },
+    {
+     "name_original": "Robert Aeschbach",
+     "votes": 1
+    },
+    {
+     "name_original": "Non-Resident",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 4
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 57
+  }
+ ],
+ "_source_stem": "Plainfield2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

@@ -1,0 +1,201 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 9, 2016",
+  "date_verbatim": "MAY 9, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Selectman",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Edith M. Morgan",
+     "votes": 110
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 25
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Assessor",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert C. Cumming",
+     "votes": 128
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 13
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Electric Light Commissioner",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "James H. Whitman",
+     "votes": 106
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 18
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Trustee of Trust Funds",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Phillip Mighdoll",
+     "votes": 115
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 26
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Richard Bisk",
+     "votes": 126
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Harry A. Pape",
+     "votes": 131
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Princeton",
+   "date": "2016-05-09",
+   "office_original": "Wachusett Regional School Committee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Megan K. Weeks",
+     "votes": 125
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Princeton2016",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'PRINCETON, MASSACHUSETTS 01541' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

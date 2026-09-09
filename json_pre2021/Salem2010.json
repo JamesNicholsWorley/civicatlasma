@@ -1,0 +1,153 @@
+{
+ "document": {
+  "heading_verbatim": "NOVEMBER 6, 2018",
+  "date_verbatim": "NOVEMBER 6, 2018",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salem",
+   "date": "2018-11-06",
+   "office_original": "SENATOR IN CONGRESS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 3
+    },
+    {
+     "name_original": "ELIZABETH WARREN",
+     "votes": 1155
+    },
+    {
+     "name_original": "GEOFF DIEHL",
+     "votes": 492
+    },
+    {
+     "name_original": "SHIVA AYYADURAI",
+     "votes": 131
+    },
+    {
+     "name_original": "WRITE-INS (others)",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1789
+  },
+  {
+   "municipality": "Salem",
+   "date": "2018-11-06",
+   "office_original": "GOVERNOR & LT. GOVERNOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 48
+    },
+    {
+     "name_original": "BAKER & POLITO",
+     "votes": 939
+    },
+    {
+     "name_original": "GONZALEZ & PALFREY",
+     "votes": 568
+    },
+    {
+     "name_original": "WRITE-INS (others)",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1562
+  },
+  {
+   "municipality": "Salem",
+   "date": "2018-11-06",
+   "office_original": "ATTORNEY GENERAL",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 33
+    },
+    {
+     "name_original": "MAURA HEALEY",
+     "votes": 1283
+    },
+    {
+     "name_original": "JAMES MCMAHON III",
+     "votes": 238
+    },
+    {
+     "name_original": "WRITE-INS (others)",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1556
+  },
+  {
+   "municipality": "Salem",
+   "date": "2018-11-06",
+   "office_original": "SECRETARY OF STATE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "BLANKS",
+     "votes": 64
+    },
+    {
+     "name_original": "WILLIAM FRANCIS GALVIN",
+     "votes": 1190
+    },
+    {
+     "name_original": "ANTHONY AMORE",
+     "votes": 306
+    },
+    {
+     "name_original": "JUAN SANCHEZ, JR",
+     "votes": 92
+    },
+    {
+     "name_original": "WRITE-INS (others)",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1654
+  }
+ ],
+ "_source_stem": "Salem2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 2018, the filename says 2010 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

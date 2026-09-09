@@ -1,0 +1,192 @@
+{
+ "document": {
+  "heading_verbatim": "March 14, 2015",
+  "date_verbatim": "March 14, 2015",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "ASSESSORS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "RONALD M CORDES",
+     "votes": 598
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 11
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 609
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "SELECTMEN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "MARGOT FLEISCHMAN",
+     "votes": 638
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 644
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "SARAH B THOMPSON",
+     "votes": 592
+    },
+    {
+     "name_original": "ANITA RAJ",
+     "votes": 574
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1167
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "ROBERT L BATT",
+     "votes": 508
+    },
+    {
+     "name_original": "MICHAEL A PULIZZI",
+     "votes": 591
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1174
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JEFFREY M COHEN",
+     "votes": 598
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 599
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JENNIFER L KELLEY",
+     "votes": 334
+    },
+    {
+     "name_original": "D. HARLEY BROSGOL",
+     "votes": 338
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 723
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2015-03-14",
+   "office_original": "BEDFORD HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "ROBERT N SCHMALZ",
+     "votes": 594
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 595
+  }
+ ],
+ "_source_stem": "Bedford2015",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

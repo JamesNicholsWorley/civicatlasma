@@ -1,0 +1,155 @@
+{
+ "document": {
+  "heading_verbatim": "TUESDAY APRIL 30, 2013",
+  "date_verbatim": "TUESDAY APRIL 30, 2013",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": false,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Maynard",
+   "date": "2013-04-30",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 187
+    },
+    {
+     "name_original": "Dawn M. Capello",
+     "votes": 981
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 66
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1234
+  },
+  {
+   "municipality": "Maynard",
+   "date": "2013-04-30",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 118
+    },
+    {
+     "name_original": "James F. Coleman",
+     "votes": 1083
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 33
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1234
+  },
+  {
+   "municipality": "Maynard",
+   "date": "2013-04-30",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 229
+    },
+    {
+     "name_original": "Justin J. Hemm",
+     "votes": 975
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 30
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1234
+  },
+  {
+   "municipality": "Maynard",
+   "date": "2013-04-30",
+   "office_original": "TRUSTEE OF PUBLIC LIBRARY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 130
+    },
+    {
+     "name_original": "Elizabeth T. Binstock",
+     "votes": 1082
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 22
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1234
+  },
+  {
+   "municipality": "Maynard",
+   "date": "2013-04-30",
+   "office_original": "MAYNARD HOUSING AUTH.",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 170
+    },
+    {
+     "name_original": "George F. Hardy",
+     "votes": 1041
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 23
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1234
+  }
+ ],
+ "_source_stem": "Maynard2014",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page did not name the town",
+  "the page dates this 2013, the filename says 2014 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}
