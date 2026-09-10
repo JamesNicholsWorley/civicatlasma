@@ -97,14 +97,26 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
 .plate{position:relative;border:1px solid var(--rule);border-radius:5px;
   background:var(--bg-2);padding:10px}
 svg.map{width:100%;height:auto;display:block}
-svg.map path{stroke:#fff;stroke-width:220;stroke-linejoin:round;cursor:pointer}
-svg.map path:hover{stroke:var(--ink);stroke-width:900}
-svg.map path[data-sel]{stroke:var(--ink);stroke-width:1300}
-svg.map path.off{stroke:var(--rule)}
-svg.map path.outline{fill:none;stroke:var(--ink-4);stroke-width:420;
-  pointer-events:none}
-svg.map path.flash{stroke:var(--accent);stroke-width:1800}
-.readout{position:absolute;left:12px;bottom:12px;background:rgba(255,255,255,.95);
+/* STROKES ARE SCREEN-WIDTH, NOT MAP-WIDTH.
+   The viewBox is in metres, so a stroke-width of 220 is 220 METRES of ink on
+   every side of a polygon. On the mainland that reads as a tidy hairline; on
+   Gosnold's islands and the outer Cape it is wider than the land, and the island
+   disappears under its own border. `vector-effect:non-scaling-stroke` takes the
+   stroke out of the coordinate system so 0.6px is 0.6px at any size. */
+svg.map path{stroke:#2a2622;stroke-linejoin:round;cursor:pointer;
+  vector-effect:non-scaling-stroke;stroke-width:.6px}
+svg.map path:hover{stroke:var(--ink);stroke-width:2px}
+svg.map path[data-sel]{stroke:var(--ink);stroke-width:2.6px}
+svg.map path.off{stroke:none;cursor:default}
+svg.map path.off:hover{stroke:none}
+svg.map path.outline{fill:none;stroke:#2a2622;stroke-width:1.1px;
+  vector-effect:non-scaling-stroke;pointer-events:none}
+svg.map path.flash{stroke:var(--accent);stroke-width:3px}
+/* Top left, not bottom left. The Commonwealth is rotated onto its own minimum
+   rectangle, so it runs corner to corner and the empty ground is the top-left
+   and bottom-right triangles. At the bottom left the box sits on Berkshire
+   County. */
+.readout{position:absolute;left:12px;top:12px;background:rgba(255,255,255,.95);
   border:1px solid var(--rule);border-radius:4px;padding:7px 10px;font-size:12.5px;
   pointer-events:none;min-width:172px}
 .readout b{display:block;font-size:14px;margin-bottom:2px}
@@ -145,13 +157,16 @@ svg.map path.flash{stroke:var(--accent);stroke-width:1800}
 
 .cnote{font-size:12.5px;color:var(--ink-3);line-height:1.45;margin:6px 0 0}
 
-/* contests: one column, clearly separated.
-   A two-column grid put two unrelated elections side by side and made the eye
-   choose between them; at narrow widths it also broke the reading order. These
-   are separate events and are stacked as separate blocks. */
-.contests{margin-top:20px}
-.contest{border-top:1px solid var(--rule);padding:14px 0 4px}
-.contest:first-child{border-top:2px solid var(--ink)}
+/* contests: two columns that FLOW, which is not the same as a two-column grid.
+   A grid pairs contests into rows and stretches each pair to the taller of the
+   two, so a three-name race sits in a block as tall as an eleven-name one beside
+   it. `column-count` fills the left column and then the right, `break-inside`
+   keeps a contest whole, and a town with fifteen offices stops running the
+   length of the screen. */
+.contests{column-count:2;column-gap:38px;margin-top:20px}
+.contest{break-inside:avoid-column;border-top:1px solid var(--rule);
+  padding:12px 0 4px;margin-bottom:2px}
+@media (max-width:820px){.contests{column-count:1}}
 .contest h4{margin:0 0 8px;font-size:15.5px;font-weight:600;display:flex;
   justify-content:space-between;align-items:baseline;gap:14px;flex-wrap:wrap}
 .contest h4 .meta{font-size:12.5px;font-weight:400;color:var(--ink-3);
