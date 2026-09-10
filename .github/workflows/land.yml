@@ -33,6 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Merge the branch that was just pushed
+        id: merge
         run: |
           git config user.name "civicatlas-qa"
           git config user.email "jamesnicholsworleyassistant@gmail.com"
@@ -43,7 +44,24 @@ jobs:
           if git merge --no-edit -m "Land $BRANCH" "origin/$BRANCH"; then
             git push origin main
             echo "landed $BRANCH"
+            echo "landed=yes" >> "$GITHUB_OUTPUT"
           else
             git merge --abort || true
             echo "::warning::$BRANCH conflicts with main and was left alone. Two runs corrected the same record differently; choosing between two readings of one document is a judgement, not a merge strategy."
           fi
+
+      # A push made with the default GITHUB_TOKEN does not trigger other
+      # workflows -- GitHub blocks that to stop workflows setting each other
+      # off forever. So an automated landing moved json_pre2021/ and the
+      # coverage page went on describing the corpus as it stood at the last
+      # push made by a human. The page was 153 town-years behind before anyone
+      # noticed, and it looked healthy the whole time.
+      #
+      # Asking for the rebuild explicitly is the fix. It is idempotent, and a
+      # rebuild that finds nothing changed says so and exits.
+      - name: Ask for a page rebuild, since our own push will not
+        if: steps.merge.outputs.landed == 'yes'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run rebuild-pages.yml --repo "$GITHUB_REPOSITORY" || echo "::warning::could not dispatch the page rebuild"
