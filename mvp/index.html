@@ -79,10 +79,14 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
    Split by decade the rows are fixed. A year is always in the row its decade
    names, a year is always in the same column as the years that end in the same
    digit, and nothing moves when the window resizes. */
-.grp.years{align-items:flex-start}
+/* min-width:auto is a flex item's default and it refuses to shrink below its
+   content, so the rail stayed 429px wide inside a 390px phone: its overflow-x
+   never engaged, the page grew sideways instead, and 2007-2009 and 2017-2019
+   could not be reached at all. Both links in the chain have to yield. */
+.grp.years{align-items:flex-start;min-width:0;max-width:100%}
 .grp.years>.lbl,.grp.years>.linkish{padding-top:6px}
 #segYear.rail{display:flex;flex-direction:column;align-items:flex-start;
-  gap:5px;border:0;border-radius:0;background:none;max-width:100%;
+  gap:5px;border:0;border-radius:0;background:none;max-width:100%;min-width:0;
   /* One scroller for the whole rail, not one per row: three separate scrollers
      would let the decades slide out of step and lose the column alignment that
      is the point of the layout. */
@@ -90,6 +94,9 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
 .rail .dec{display:flex;align-items:center;gap:9px}
 .rail .dl{font-size:11.5px;color:var(--ink-3);width:34px;flex:none;
   text-align:right;font-variant-numeric:tabular-nums}
+/* The decade label does NOT stick when the rail scrolls. Pinned, the years slid
+   half under it and printed "2000s004" -- a label and a year reading as one
+   broken token. The years name their own decade well enough. */
 .rail .seg{border:1px solid var(--rule);border-radius:5px;overflow:hidden;
   /* A decade never breaks across lines. Letting it wrap would orphan 2009 on a
      row of its own and bring back, in miniature, the ragged break this layout
@@ -190,10 +197,17 @@ svg.map path.flash{stroke:var(--accent);stroke-width:3px}
 .paper .lede{font-size:14.5px;color:var(--ink-2);max-width:88ch;margin:7px 0 0}
 .paper .lede b{color:var(--ink);font-weight:600}
 
+/* The rules between the facts are drawn ON the cells, not by showing a coloured
+   background through 1px gaps. Five facts in a row of four left the last row
+   mostly empty, and with the gap trick that emptiness was a grey slab that read
+   as a broken layout. Each cell carries its own left and top rule; the ones that
+   would fall on the outside edge are clipped by the container, so the grid keeps
+   its internal lines and an unfilled cell is simply background. */
 .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));
-  gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:5px;
+  gap:0;background:var(--bg);border:1px solid var(--rule);border-radius:5px;
   overflow:hidden;margin:16px 0 0}
-.facts>div{background:var(--bg);padding:10px 12px;min-width:0}
+.facts>div{background:var(--bg);padding:10px 12px;min-width:0;
+  box-shadow:-1px -1px 0 0 var(--rule)}
 .facts .k{font-size:12px;color:var(--ink-3);margin-bottom:2px}
 .facts .v{font-size:17px;font-weight:600;font-variant-numeric:tabular-nums;
   letter-spacing:-.01em;line-height:1.28;overflow-wrap:anywhere}
@@ -269,6 +283,12 @@ th{text-align:left;font-size:12.5px;color:var(--ink-3);font-weight:600;
 td{padding:7px 12px 7px 0;border-bottom:1px solid var(--rule-2);
   vertical-align:top}
 th.n,td.n{text-align:right;font-variant-numeric:tabular-nums;padding-right:0}
+/* EVERY COLUMN IS SEPARATED FROM THE ONE BEFORE IT, not just the numeric ones.
+   Cells had no left padding and right-aligned cells had no right padding, so
+   neighbours sat flush: a margin of 1 beside a share of 0.01% printed as
+   `10.01%`, and that share beside its winner printed as `0.01%Thomas S Crane`.
+   Two figures reading as one wrong number is worse than a crowded table. */
+th+th,td+td{padding-left:16px}
 td .who{color:var(--ink-3);font-size:13px}
 button.town{font:inherit;font-size:14px;background:none;border:0;padding:0;
   color:var(--accent);cursor:pointer;text-decoration:underline;text-align:left}
@@ -445,6 +465,11 @@ const M = window.MVP, G = window.GEO, S = M.stats;
 const $ = s => document.querySelector(s);
 const fmt = n => (n == null ? '—' : n.toLocaleString('en-US'));
 const pct = (x, d) => x == null ? '—' : (x * 100).toFixed(d === undefined ? 1 : d) + '%';
+/* A share that has not reached a number does not get to print it. `pct` rounds,
+   which is right for a turnout band and wrong for a claim of completeness: 99.61
+   became "100%" and asserted 207 rows that do not exist. This one floors. */
+const pctDown = (x, d) => x == null ? '—'
+  : (Math.floor(x * 100 * Math.pow(10, d)) / Math.pow(10, d)).toFixed(d) + '%';
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const KEY = (t, y) => t + '|' + y;
 
@@ -1086,7 +1111,9 @@ function contestBlock(race, ri, r) {
     const share = race.cast && c[1] > 0 ? c[1] / race.cast : null;
     return '<div class="crow' + (isw ? ' won' : '') + '">' +
       '<button class="nm" data-r="' + ri + '" data-c="' + esc(c[0]) + '">' + esc(c[0]) +
-      (isw ? '<span class="win">elected</span>' : '') + '</button>' +
+      // The space is in the text, not only in the CSS: without it the button reads
+      // as "John T. Goldenelected" to a screen reader and to anyone copying it.
+      (isw ? ' <span class="win">elected</span>' : '') + '</button>' +
       '<span class="v' + (c[1] < 0 ? ' sent' : c[3] === 1 ? ' grounded'
                           : c[3] === 2 ? ' ocr'
                           : c[3] === 3 ? ' namedonly'
@@ -1543,8 +1570,17 @@ $('#foot').innerHTML =
   'municipal survey, rotated ' + G.rotation.toFixed(1) + '° onto the smallest ' +
   'rectangle that encloses the Commonwealth. There is no state archive of these ' +
   'offices; PD43+ covers state and federal races only.' +
-  '<br><br>' + fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows (' +
-  pct(S.lines_matched / S.cands, 0) + ') trace to a literal line of source text. ' +
+  /* THIS SENTENCE MUST NOT ROUND ITSELF UP.
+     It read "53,322 of 53,529 candidate rows (100%)" -- a claim that printed its
+     own numerator and denominator and then contradicted them, because 99.61
+     rounds to 100 at zero decimals. 207 rows do not trace. Of every figure on
+     this page it is the one whose entire job is to be trustworthy, so it floors
+     rather than rounds and can never claim a row it has not got. It also says
+     which years it is speaking for: the earlier era is a separate set and is
+     not counted here. */
+  '<br><br>' + fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows in ' +
+  '2021–2026 (' + pctDown(S.lines_matched / S.cands, 1) + ') trace to a literal ' +
+  'line of source text; ' + fmt(S.cands - S.lines_matched) + ' do not. ' +
   'Data generated ' + esc(M.generated) + '. Method: <a href="README.md">README</a>. ' +
   '<a href="../coverage.html">Coverage</a> · <a href="../">All data</a>.';
 
