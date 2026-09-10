@@ -5,7 +5,7 @@
   "election_type": "Regular",
   "election_type_evidence": "pre-2021 ATR section; type not stated",
   "municipality_printed": true,
-  "municipality_source": "filename"
+  "municipality_source": "printed"
  },
  "elections": [
   {
@@ -202,9 +202,7 @@
  ],
  "_source_stem": "Princeton2014",
  "_provenance": "atr_section",
- "_bridge_problems": [
-  "the printed name 'PRINCETON, MASSACHUSETTS 01541' matched nothing"
- ],
+ "_bridge_problems": [],
  "_gate": "publish",
  "_gate_reasons": []
 }
