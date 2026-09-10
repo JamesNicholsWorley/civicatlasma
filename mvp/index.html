@@ -56,7 +56,7 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
   padding-top:4px}
 
 /* controls ---------------------------------------------------------------- */
-.controls{display:flex;gap:22px;flex-wrap:wrap;align-items:center;
+.controls{display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start;
   margin:0 0 14px}
 .grp{display:flex;align-items:center;gap:8px}
 .lbl{font-size:12.5px;color:var(--ink-3);white-space:nowrap}
@@ -70,6 +70,47 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
 .seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
 .linkish{font:inherit;font-size:13px;background:none;border:0;padding:0;
   color:var(--accent);cursor:pointer;text-decoration:underline}
+
+/* THE YEAR RAIL.
+   Twenty-seven years poured into one wrapping row broke wherever the window
+   happened to run out: 2000-2017 on the first line and 2018-2026 on the second,
+   so 2020 sat directly under 2002 and the two eras interleaved down the column.
+   Worse, the break moved with the window, so the year you were on moved too.
+   Split by decade the rows are fixed. A year is always in the row its decade
+   names, a year is always in the same column as the years that end in the same
+   digit, and nothing moves when the window resizes. */
+.grp.years{align-items:flex-start}
+.grp.years>.lbl,.grp.years>.linkish{padding-top:6px}
+#segYear.rail{display:flex;flex-direction:column;align-items:flex-start;
+  gap:5px;border:0;border-radius:0;background:none;max-width:100%;
+  /* One scroller for the whole rail, not one per row: three separate scrollers
+     would let the decades slide out of step and lose the column alignment that
+     is the point of the layout. */
+  overflow-x:auto}
+.rail .dec{display:flex;align-items:center;gap:9px}
+.rail .dl{font-size:11.5px;color:var(--ink-3);width:34px;flex:none;
+  text-align:right;font-variant-numeric:tabular-nums}
+.rail .seg{border:1px solid var(--rule);border-radius:5px;overflow:hidden;
+  /* A decade never breaks across lines. Letting it wrap would orphan 2009 on a
+     row of its own and bring back, in miniature, the ragged break this layout
+     exists to remove. */
+  flex-wrap:nowrap}
+/* Every year gets the same cell, so 2005, 2015 and 2025 line up. */
+.rail .seg button{min-width:54px;text-align:center}
+/* Narrow enough that ten full-width cells will not fit, the cells tighten
+   before the rail resorts to scrolling. */
+@media (max-width:980px){
+  .rail .seg button{min-width:0;padding:5px 7px}
+  .rail .dl{width:30px}
+}
+/* The decade that straddles the eras is one row with a seam in it. Turnout
+   begins in 2021 and the corpus either side of that line is a different animal;
+   the rule says where they meet, and the notice above the map says what
+   changes, once, when you cross it. */
+.rail .seg button.era{border-left:2px solid var(--ink-4)}
+.cv{display:inline-block;margin-right:5px;font-size:12px;line-height:1;
+  transition:transform .12s ease}
+#preToggle[aria-expanded="true"] .cv{transform:rotate(90deg)}
 .findbox{position:relative;flex:1;min-width:230px;max-width:340px}
 #q{width:100%;font:inherit;font-size:13.5px;padding:6px 10px;
   border:1px solid var(--rule);border-radius:5px;background:var(--bg)}
@@ -332,9 +373,10 @@ footer code{font-family:var(--mono);font-size:.92em}
   <div class="notice" id="eraNotice" hidden></div>
 
   <div class="controls">
-    <div class="grp"><span class="lbl">Year</span>
+    <div class="grp years"><span class="lbl">Year</span>
       <div class="seg" id="segYear"></div>
-      <button class="linkish" id="preToggle">Earlier years</button></div>
+      <button class="linkish" id="preToggle" aria-expanded="false"
+              aria-controls="segYear"><span class="cv">&#9656;</span>Earlier years</button></div>
     <div class="grp"><span class="lbl">Shading</span>
       <div class="seg" id="segMetric"></div></div>
     <div class="grp findbox">
@@ -415,6 +457,8 @@ let YEAR = '2025', METRIC = 'turnout', TOWN = 'Provincetown',
 const PRE_YEARS = [];
 for (let y = 2000; y <= 2020; y++) PRE_YEARS.push(String(y));
 let PRE = null, PRE_SHOWN = false;
+// The modern year the rail was opened from, so closing it returns there.
+let RETURN_YEAR = null;
 
 const isPre = y => y < '2021';
 const REC = k => isPre(k.split('|')[1]) ? (PRE && PRE.ty[k]) || null : M.ty[k] || null;
@@ -659,9 +703,15 @@ $('#svg').addEventListener('click', e => {
 function seg(el, items, cur, cb) {
   el.innerHTML = items.map(([v, l]) =>
     '<button data-v="' + v + '" aria-pressed="' + (v === cur) + '">' + l + '</button>').join('');
+  bindSeg(el, cb);
+}
+/* Buttons are found by query rather than by walking `children`, because the
+   year rail nests them a row deep and the metric control does not. */
+function bindSeg(el, cb) {
   el.onclick = e => {
-    const b = e.target.closest('button'); if (!b) return;
-    [...el.children].forEach(x => x.setAttribute('aria-pressed', x === b));
+    const b = e.target.closest('button[data-v]'); if (!b) return;
+    el.querySelectorAll('button[data-v]')
+      .forEach(x => x.setAttribute('aria-pressed', x === b));
     cb(b.dataset.v);
   };
 }
@@ -688,24 +738,60 @@ function metricItems() {
     .map(k => [k, METRICS[k].legend]);
 }
 function setMetric(v) { METRIC = v; repaint(); }
-function drawYearSeg() { seg($('#segYear'), yearItems(), YEAR, setYear); }
+/* Collapsed, the control is what it always was: one row of the years the corpus
+   covers properly. Expanded, it becomes a rail of decades -- so the six years
+   you were choosing between stay where they are, on the bottom row, and the
+   earlier ones appear above them rather than shuffling them along. */
+function drawYearSeg() {
+  const el = $('#segYear');
+  if (!PRE_SHOWN) {
+    el.classList.remove('rail');
+    seg(el, yearItems(), YEAR, setYear);
+    return;
+  }
+  const all = yearItems().map(([v]) => v);
+  const firstModern = M.years[0];
+  const decades = [...new Set(all.map(y => y.slice(0, 3)))];
+  el.classList.add('rail');
+  el.innerHTML = decades.map(d =>
+    '<div class="dec"><span class="dl">' + d + '0s</span><div class="seg">' +
+    all.filter(y => y.slice(0, 3) === d).map(y =>
+      '<button data-v="' + y + '"' + (y === firstModern ? ' class="era"' : '') +
+      ' aria-pressed="' + (y === YEAR) + '">' + y + '</button>').join('') +
+    '</div></div>').join('');
+  bindSeg(el, setYear);
+}
 
 drawYearSeg();
 seg($('#segMetric'), metricItems(), METRIC, setMetric);
 
+/* The label does not change length as it changes state. It used to read
+   "Earlier years", then "Hide earlier years", and the extra word was enough to
+   push the button onto a second line and shift the control under it. The caret
+   turns instead, and `aria-expanded` carries the state for anyone not looking
+   at the caret. */
+function preLabel(btn, text) {
+  btn.innerHTML = '<span class="cv">&#9656;</span>' + text;
+}
 $('#preToggle').onclick = function () {
   const btn = this;
   if (PRE_SHOWN) {
-    PRE_SHOWN = false; btn.textContent = 'Earlier years';
-    if (isPre(YEAR)) { YEAR = M.years[M.years.length - 1]; }
+    PRE_SHOWN = false; preLabel(btn, 'Earlier years');
+    btn.setAttribute('aria-expanded', 'false');
+    // Put the reader back on the year they opened the rail from, rather than on
+    // whichever year happens to be last. Opening the earlier years to glance at
+    // 2014 and closing them again should return you to 2025, not to 2026.
+    if (isPre(YEAR)) { YEAR = RETURN_YEAR || M.years[M.years.length - 1]; }
     setYear(YEAR);
     return;
   }
-  btn.disabled = true; btn.textContent = 'Loading…';
+  RETURN_YEAR = isPre(YEAR) ? RETURN_YEAR : YEAR;
+  btn.disabled = true; preLabel(btn, 'Loading…');
   loadPre(ok => {
     btn.disabled = false;
-    if (!ok) { btn.textContent = 'Earlier years unavailable'; return; }
-    PRE_SHOWN = true; btn.textContent = 'Hide earlier years';
+    if (!ok) { preLabel(btn, 'Earlier years unavailable'); return; }
+    PRE_SHOWN = true; preLabel(btn, 'Earlier years');
+    btn.setAttribute('aria-expanded', 'true');
     setYear(PRE.years[PRE.years.length - 1] || '2020');
   });
 };
