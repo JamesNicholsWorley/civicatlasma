@@ -22,12 +22,31 @@ Documents carry a `_d<N>` suffix. A new number is minted only for genuinely
 different bytes, so `_d3` means the third distinct document tried for that
 town-year.
 
-## This directory is generated
+## Most of this directory is generated
 
-Everything here is built from the working corpus and published by a script.
-**Never edit a file in this repository by hand.** A hand edit is silently
+The data is built from the working corpus and published by a script.
+**Never edit a data file in this repository by hand.** A hand edit is silently
 overwritten by the next publish, and worse, it makes the public copy disagree
 with the corpus it claims to represent — with nothing to say so.
+
+The **page shells are the exception, and they are the source of truth for
+themselves**: `index.html`, `mvp/index.html`, `QA/index.html` and `audit.html`
+are hand-authored here and no generator writes them. `build_mvp.py` emits
+`mvp/mvp-data.js` and `leads.csv` only; it has never written HTML. Edit the
+shells here, in this repository, and nowhere else — the copies that used to
+sit in the owner's local tree are archived and replaced by redirects, because
+two editable copies of one page meant every edit risked reverting the other.
+
+What is generated, and by what:
+
+    defects.js            .tools/pages/audit_defects.py     (CI)
+    coverage.html         .tools/pages/coverage_report.py   (CI)
+    mvp/mvp-pre2021.js    .tools/pages/build_pre2021.py     (CI)
+    mvp/mvp-data.js       build_mvp.py                      (owner's machine only)
+    mvp/geo.js            build_geo.py                      (owner's machine only)
+
+The last two need the raw OCR, the extracted text and the source PDFs, which
+exist only in the working corpus. That is a known gap, not a hidden one.
 
 Corrections belong upstream, as rows in the adjudication ledger.
 
@@ -71,7 +90,10 @@ without being told what it is:
 - **`mvp/`** — every town-year, with each figure traceable to the line of the
   document it came from. Start here for QA: the towns carrying anomalies are
   visible, and the largest ones are worth more than the smallest.
-- **`audit.html`** — records that failed a check, and why.
+- **`audit.html`** — records that failed a check, and why. **`QA/`** is the
+  register of every check that runs, with how many town-years each touches.
+  Neither is linked from the front page: they are working pages, and a reader
+  meets a defect where it belongs, beside the number it touches.
 
 Prefer the most populous town-years with anomalies. A wrong figure in Quincy is
 read by more people than a wrong figure in Gosnold, and the work is the same.

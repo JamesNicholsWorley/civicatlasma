@@ -4,327 +4,331 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Massachusetts Civic Atlas</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300;1,8..60,400&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<meta name="description" content="Annual municipal election results for the 351 municipalities of Massachusetts, with the source document behind every figure.">
 <style>
+/* ---------------------------------------------------------------------------
+   A reference tool, not a magazine.
+
+   The page this replaces was set as a broadsheet: display serif, double rules,
+   letterspaced small caps on every label, a standfirst and a dek under each
+   heading. It read as decoration around the data rather than a way into it, and
+   the prose did most of the talking.
+
+   So: one typeface, four weights, near-black on white, one accent, and rules
+   only where a rule separates two things that would otherwise run together.
+   Colour is reserved for the map ramps, which encode a value. Nothing else on
+   the page is coloured for effect.
+   --------------------------------------------------------------------------- */
 :root{
-  --ink:#14110e; --ink-2:#4a443c; --ink-3:#7d766b; --ink-4:#a49c8e;
-  --rule:#d5cec2; --rule-2:#ebe5d9; --paper:#faf7f0; --card:#fffdf8;
-  --accent:#8c2f1e;
-  --hi:#8c2f1e; --hi-bg:#f7e9e5;
-  --md:#8a6112; --md-bg:#f8f0df;
-  --lo:#46647f; --lo-bg:#eaf0f5;
-  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
-  --sans:"Source Sans 3",-apple-system,Segoe UI,sans-serif;
+  --ink:#16181d; --ink-2:#4c5259; --ink-3:#767d86; --ink-4:#9aa1a9;
+  --rule:#d9dde2; --rule-2:#ecEEF1; --bg:#fff; --bg-2:#f6f7f9;
+  --accent:#0b4f9c; --accent-bg:#eaf1fa;
+  --win:#0f6b3f;
+  --hi:#a12a1c; --hi-bg:#fbeae7;
+  --md:#8a6112; --md-bg:#fbf1dd;
+  --lo:#40607d; --lo-bg:#eaf0f6;
+  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{overflow-x:hidden}
-body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
-  font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
-.wrap{max-width:1240px;margin:0 auto;padding:0 32px 110px}
-a{color:inherit}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--ui);
+  font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px 72px}
+b,strong{font-weight:600}
+.n,.num,td.n,th.n{font-variant-numeric:tabular-nums}
 
-/* ---------- masthead ---------- */
-.mast{border-bottom:3px double var(--ink);padding:34px 0 14px}
-.mast h1{font-size:clamp(34px,5.4vw,60px);line-height:.95;margin:0;font-weight:700;
-  letter-spacing:-.022em}
-.mast h1 em{font-style:italic;font-weight:300}
-.mast .sub{display:flex;justify-content:space-between;align-items:baseline;
-  margin-top:14px;font-family:var(--sans);font-size:11.5px;letter-spacing:.13em;
-  text-transform:uppercase;color:var(--ink-3);gap:24px;flex-wrap:wrap}
-.mast .sub b{color:var(--ink-2);font-weight:600}
-.standfirst{font-size:19px;color:var(--ink-2);max-width:70ch;margin:18px 0 0;
-  font-weight:300}
-.standfirst b{font-weight:600;color:var(--ink)}
+/* masthead: an identifying bar, not a cover ------------------------------- */
+.top{border-bottom:1px solid var(--rule);margin-bottom:26px}
+.topin{max-width:1120px;margin:0 auto;padding:13px 24px;display:flex;
+  align-items:baseline;gap:16px;flex-wrap:wrap}
+.topin .name{font-size:15px;font-weight:600;letter-spacing:-.01em;
+  text-decoration:none;color:var(--ink)}
+.topin .what{font-size:13.5px;color:var(--ink-3)}
+.topin nav{margin-left:auto;display:flex;gap:16px}
+.topin nav a{font-size:13.5px;color:var(--accent);text-decoration:none}
+.topin nav a:hover{text-decoration:underline}
 
-/* ---------- stat rail ---------- */
-.rail{display:grid;grid-template-columns:repeat(5,1fr);border-bottom:1px solid var(--rule);
-  border-top:1px solid var(--rule);font-family:var(--sans);margin-top:22px}
-.rail div{padding:13px 18px 15px;border-right:1px solid var(--rule-2)}
-.rail div:last-child{border-right:0}
-.rail .k{font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
-.rail .v{font-family:var(--serif);font-size:29px;font-weight:600;line-height:1.1;
-  font-variant-numeric:tabular-nums;margin-top:2px}
-.rail .n{font-size:12.5px;color:var(--ink-3);line-height:1.35;margin-top:3px}
+section{margin:0 0 44px}
+h2{font-size:19px;font-weight:600;letter-spacing:-.012em;margin:0 0 14px;
+  padding-bottom:9px;border-bottom:1px solid var(--rule)}
+h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
+  padding-top:4px}
 
-/* ---------- section furniture ---------- */
-section{padding-top:38px}
-.head{display:flex;justify-content:space-between;align-items:flex-end;gap:22px;
-  flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:9px}
-.head h2{margin:0;font-size:27px;font-weight:600;letter-spacing:-.015em}
-.head .dek{font-family:var(--sans);font-size:13px;color:var(--ink-3);max-width:60ch}
-.lbl{font-family:var(--sans);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--ink-3)}
-
-.seg{display:inline-flex;border:1px solid var(--rule);background:var(--card);border-radius:2px}
-.seg button{font-family:var(--sans);font-size:12.5px;padding:5px 13px;border:0;
-  background:none;cursor:pointer;color:var(--ink-2);border-right:1px solid var(--rule-2)}
+/* controls ---------------------------------------------------------------- */
+.controls{display:flex;gap:22px;flex-wrap:wrap;align-items:center;
+  margin:0 0 14px}
+.grp{display:flex;align-items:center;gap:8px}
+.lbl{font-size:12.5px;color:var(--ink-3);white-space:nowrap}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--rule);
+  border-radius:5px;overflow:hidden;background:var(--bg)}
+.seg button{font:inherit;font-size:13px;padding:5px 11px;border:0;
+  border-right:1px solid var(--rule);background:var(--bg);color:var(--ink-2);
+  cursor:pointer;font-variant-numeric:tabular-nums}
 .seg button:last-child{border-right:0}
-.seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
-.controls{display:flex;gap:22px;align-items:center;flex-wrap:wrap;padding:16px 0 12px}
-.controls .grp{display:flex;gap:8px;align-items:center}
+.seg button:hover{background:var(--bg-2)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.linkish{font:inherit;font-size:13px;background:none;border:0;padding:0;
+  color:var(--accent);cursor:pointer;text-decoration:underline}
+.findbox{position:relative;flex:1;min-width:230px;max-width:340px}
+#q{width:100%;font:inherit;font-size:13.5px;padding:6px 10px;
+  border:1px solid var(--rule);border-radius:5px;background:var(--bg)}
+#q:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:var(--accent)}
+.hits{position:absolute;z-index:40;left:0;right:0;top:100%;margin-top:3px;
+  background:var(--bg);border:1px solid var(--rule);border-radius:5px;
+  box-shadow:0 6px 20px rgba(0,0,0,.1);max-height:290px;overflow:auto}
+.hits:empty{display:none}
+.hits button{display:flex;justify-content:space-between;gap:12px;width:100%;
+  font:inherit;font-size:13.5px;text-align:left;padding:7px 10px;border:0;
+  background:none;cursor:pointer;border-bottom:1px solid var(--rule-2)}
+.hits button:hover{background:var(--accent-bg)}
+.hits button span:last-child{color:var(--ink-3);font-size:12.5px;white-space:nowrap}
 
-/* ---------- map ---------- */
-.mapbox{display:grid;grid-template-columns:1fr 220px;gap:26px;align-items:start}
-.plate{background:var(--card);border:1px solid var(--rule);position:relative}
-svg.map{display:block;width:100%;height:auto}
-svg.map path{stroke:#231d18;stroke-width:220;stroke-linejoin:round;cursor:pointer;
-  vector-effect:non-scaling-stroke;stroke-width:.6px}
-svg.map path:hover{stroke:var(--ink);stroke-width:2px}
-svg.map path[data-sel=true]{stroke:var(--ink);stroke-width:2.6px}
-svg.map path.off{stroke:none;cursor:default}
-svg.map path.off:hover{stroke:none}
-/* The Commonwealth's own edge, drawn under the towns. Without it, an unlined
-   town on the coast or the state border leaves a hole and the map reads as
-   damaged rather than as sparse. */
-svg.map path.outline{fill:none;stroke:#231d18;stroke-width:1.1px;
-  vector-effect:non-scaling-stroke;pointer-events:none}
-.readout{position:absolute;left:14px;top:12px;font-family:var(--sans);font-size:13px;
-  background:rgba(255,253,248,.92);border:1px solid var(--rule);padding:7px 11px;
-  pointer-events:none;min-width:190px;line-height:1.4}
-.readout b{font-size:15px;font-family:var(--serif);display:block;font-weight:600}
-.readout .m{display:block;font-variant-numeric:tabular-nums;color:var(--ink-2)}
-.legend{font-family:var(--sans);font-size:12.5px}
-.legend h4{margin:0 0 8px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--ink-3);font-weight:600}
-.legend .row{display:flex;align-items:center;gap:9px;padding:2.5px 0;color:var(--ink-2)}
-.legend .sw{width:22px;height:13px;border:1px solid #231d18;flex:none}
-.legend p{color:var(--ink-3);font-size:12px;line-height:1.45;margin:12px 0 0}
-.findbox{position:relative;flex:1 1 260px;max-width:340px}
-.findbox input[type=search]{width:100%;font-family:var(--sans);font-size:14px;
-  padding:5px 4px;border:0;border-bottom:1px solid var(--ink);background:transparent;
-  color:var(--ink);outline:none}
-.findbox .hits{position:absolute;left:0;right:0;top:100%;z-index:5;background:var(--card);
-  border:1px solid var(--rule);border-top:0;max-height:260px;overflow:auto;
-  box-shadow:0 10px 22px -14px rgba(20,17,14,.5)}
-.findbox .hits:empty{display:none}
-.findbox .hits button{padding:5px 10px}
-.statewide{margin-top:18px;font-family:var(--sans);font-size:12.5px;color:var(--ink-2);
-  border-top:1px solid var(--rule);padding-top:12px}
-.statewide .big{font-family:var(--serif);font-size:27px;font-weight:600;color:var(--ink);
-  font-variant-numeric:tabular-nums;line-height:1.1}
-.statewide .k{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--ink-3);font-weight:600}
-.statewide p{margin:6px 0 0;color:var(--ink-3);font-size:12px;line-height:1.45}
-.searchwrap{margin-top:16px}
-input[type=search]{width:100%;font:inherit;font-family:var(--sans);font-size:14px;
-  padding:6px 2px;border:0;border-bottom:1px solid var(--ink);background:transparent;
-  color:var(--ink);outline:none}
-input[type=search]::placeholder{color:var(--ink-4);font-style:italic}
-.hits{max-height:210px;overflow:auto;margin-top:6px;font-family:var(--sans);font-size:13.5px}
-.hits button{display:flex;justify-content:space-between;gap:10px;width:100%;text-align:left;
-  font:inherit;background:none;border:0;padding:3px 0;cursor:pointer;color:var(--ink-2)}
-.hits button:hover{color:var(--accent)}
-@keyframes flash{0%,100%{stroke-width:2.6px}50%{stroke-width:6px}}
-svg.map path.flash{stroke:var(--accent);animation:flash .4s ease-in-out 3}
+/* the era notice: said once, not on every element ------------------------- */
+.notice{border:1px solid var(--rule);border-left:3px solid var(--md);
+  background:var(--bg-2);border-radius:4px;padding:11px 14px;margin:0 0 14px;
+  font-size:13.5px;color:var(--ink-2);max-width:96ch}
+.notice b{color:var(--ink)}
+.notice[hidden]{display:none}
 
-/* ---------- broadsheet ---------- */
-.paper{background:var(--card);border:1px solid var(--rule);padding:30px 34px 34px;
-  margin-top:20px}
-.paper .kicker{font-family:var(--sans);font-size:11px;letter-spacing:.16em;
-  text-transform:uppercase;color:var(--accent);font-weight:600}
-.paper h3{font-size:clamp(28px,3.6vw,40px);margin:6px 0 0;font-weight:700;
-  letter-spacing:-.022em;line-height:1.02}
-.paper h3 .yr{font-weight:300;font-style:italic;color:var(--ink-3)}
-.lede{font-size:19px;color:var(--ink-2);max-width:68ch;margin:14px 0 0;font-weight:300}
-.lede b{font-weight:600;color:var(--ink)}
-.facts{display:flex;gap:0;flex-wrap:wrap;margin:20px 0 6px;border-top:1px solid var(--rule-2);
-  border-bottom:1px solid var(--rule-2)}
-.facts div{padding:10px 20px 11px 0;margin-right:20px;border-right:1px solid var(--rule-2);
-  font-family:var(--sans)}
-.facts div:last-child{border-right:0}
-.facts .k{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
-.facts .v{font-family:var(--serif);font-size:22px;font-weight:600;
-  font-variant-numeric:tabular-nums}
-.facts .n{font-size:11.5px;color:var(--ink-3)}
+/* map --------------------------------------------------------------------- */
+.mapbox{display:grid;grid-template-columns:minmax(0,1fr) 232px;gap:26px;
+  align-items:start}
+.plate{position:relative;border:1px solid var(--rule);border-radius:5px;
+  background:var(--bg-2);padding:10px}
+svg.map{width:100%;height:auto;display:block}
+svg.map path{stroke:#fff;stroke-width:220;stroke-linejoin:round;cursor:pointer}
+svg.map path:hover{stroke:var(--ink);stroke-width:900}
+svg.map path[data-sel]{stroke:var(--ink);stroke-width:1300}
+svg.map path.off{stroke:var(--rule)}
+svg.map path.outline{fill:none;stroke:var(--ink-4);stroke-width:420;
+  pointer-events:none}
+svg.map path.flash{stroke:var(--accent);stroke-width:1800}
+.readout{position:absolute;left:12px;bottom:12px;background:rgba(255,255,255,.95);
+  border:1px solid var(--rule);border-radius:4px;padding:7px 10px;font-size:12.5px;
+  pointer-events:none;min-width:172px}
+.readout b{display:block;font-size:14px;margin-bottom:2px}
+.readout .m{display:block;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.legend h4{margin:0 0 7px;font-size:13px;font-weight:600}
+.legend .row{display:flex;align-items:center;gap:7px;font-size:12.5px;
+  color:var(--ink-2);margin-bottom:3px}
+.legend .sw{width:15px;height:11px;border:1px solid rgba(0,0,0,.16);
+  border-radius:2px;flex:none}
+.legend p{font-size:12.5px;color:var(--ink-3);margin:9px 0 0;line-height:1.42}
+.statewide{margin-top:20px;padding-top:14px;border-top:1px solid var(--rule)}
+.statewide .k{font-size:12.5px;color:var(--ink-3)}
+.statewide .big{font-size:26px;font-weight:600;letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums;line-height:1.15}
+.statewide p{font-size:12.5px;color:var(--ink-2);margin:4px 0 0;line-height:1.44}
 
-.contests{column-count:2;column-gap:40px;margin-top:22px}
-@media(max-width:900px){.contests{column-count:1}}
-.contest{break-inside:avoid;margin-bottom:24px}
-.contest h4{margin:0;font-size:17.5px;font-weight:600;display:flex;
-  justify-content:space-between;gap:12px;align-items:baseline;
-  border-bottom:1px solid var(--ink);padding-bottom:3px}
-.contest h4 span{font-family:var(--sans);font-size:11px;letter-spacing:.08em;
-  text-transform:uppercase;color:var(--ink-3);font-weight:600;white-space:nowrap}
-.contest h4 .scope{font-family:var(--sans);font-size:10.5px;letter-spacing:.08em;
-  text-transform:uppercase;color:var(--accent);font-weight:700;margin-left:6px;
+/* the election ------------------------------------------------------------ */
+.paper .th{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;
+  margin-bottom:3px}
+.paper h3{font-size:25px;font-weight:600;letter-spacing:-.02em;margin:0}
+.paper .yr{color:var(--ink-3);font-weight:400}
+.paper .where{font-size:13px;color:var(--ink-3)}
+.paper .lede{font-size:14.5px;color:var(--ink-2);max-width:88ch;margin:7px 0 0}
+.paper .lede b{color:var(--ink);font-weight:600}
+
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));
+  gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:5px;
+  overflow:hidden;margin:16px 0 0}
+.facts>div{background:var(--bg);padding:10px 12px;min-width:0}
+.facts .k{font-size:12px;color:var(--ink-3);margin-bottom:2px}
+.facts .v{font-size:17px;font-weight:600;font-variant-numeric:tabular-nums;
+  letter-spacing:-.01em;line-height:1.28;overflow-wrap:anywhere}
+.facts .nn{font-size:12px;color:var(--ink-3);margin-top:2px;line-height:1.36}
+.facts a{color:var(--accent)}
+.facts .src .v{font-size:14.5px;font-weight:600;line-height:1.34}
+.facts .doclink{display:inline-block;margin-top:4px;font-size:12.5px}
+.facts .withheld{font-size:12px;color:var(--md);margin-top:3px;line-height:1.36}
+
+.cnote{font-size:12.5px;color:var(--ink-3);line-height:1.45;margin:6px 0 0}
+
+/* contests: one column, clearly separated.
+   A two-column grid put two unrelated elections side by side and made the eye
+   choose between them; at narrow widths it also broke the reading order. These
+   are separate events and are stacked as separate blocks. */
+.contests{margin-top:20px}
+.contest{border-top:1px solid var(--rule);padding:14px 0 4px}
+.contest:first-child{border-top:2px solid var(--ink)}
+.contest h4{margin:0 0 8px;font-size:15.5px;font-weight:600;display:flex;
+  justify-content:space-between;align-items:baseline;gap:14px;flex-wrap:wrap}
+.contest h4 .meta{font-size:12.5px;font-weight:400;color:var(--ink-3);
   white-space:nowrap}
-.crow{display:grid;grid-template-columns:1fr auto auto;gap:10px;align-items:baseline;
-  padding:4px 0;border-bottom:1px solid var(--rule-2);font-variant-numeric:tabular-nums}
-.crow .nm{font:inherit;background:none;border:0;padding:0;text-align:left;cursor:pointer;
-  color:var(--ink);border-bottom:1px dotted var(--ink-4);justify-self:start}
-.crow .nm:hover{color:var(--accent);border-bottom-color:var(--accent)}
+.contest h4 .scope{font-weight:400;color:var(--ink-2);font-size:13.5px}
+.crow{display:grid;grid-template-columns:1fr 82px 62px;gap:10px;
+  align-items:baseline;padding:3px 0;border-bottom:1px solid var(--rule-2)}
+.crow:last-of-type{border-bottom:0}
+.crow .nm{font:inherit;font-size:14.5px;text-align:left;background:none;
+  border:0;padding:0;color:var(--ink);cursor:pointer;text-decoration:underline;
+  text-decoration-color:var(--rule);text-underline-offset:2.5px}
+.crow .nm:hover{text-decoration-color:var(--accent);color:var(--accent)}
 .crow.won .nm{font-weight:600}
-.crow.won::after{content:""}
-.crow .v{font-weight:600;position:relative}
-/* A dotted underline on the figure means the figure itself was found printed on
-   the line the name was found on -- a stricter claim than grounding the name. */
-.crow .v.grounded{border-bottom:1px solid var(--ok,#2f7a52)}
-/* Grounded only after correcting one character the scanner got wrong: shown, not
-   hidden, because it is a weaker claim than an exact match. */
-.crow .v.ocr{border-bottom:1px dashed var(--ok,#2f7a52)}
-.crow .v.ungrounded{border-bottom:1px dotted var(--ink-4)}
-/* Named in the document with no figure printed beside them: not a total we
-   failed to find, so it is not marked like one. */
-.crow .v.namedonly{border-bottom:1px dotted var(--ink-4);opacity:.72}
-table.conf{width:100%;border-collapse:collapse;margin:.4rem 0;font-size:.86rem}
-table.conf th{text-align:left;font-weight:600;padding:.2rem .4rem;border-bottom:1px solid #d8d2c4}
-table.conf td{padding:.2rem .4rem;vertical-align:top}
-table.conf td.alt{color:#8a6d3b}
-.resolved{font-size:.84rem;line-height:1.45;margin:.35rem 0 0;padding:.4rem .55rem;
-  border-left:3px solid #6b8f5e;background:#f3f6f1}
-.near{margin-top:6px;font-size:12.5px;line-height:1.5;color:var(--ink-2,#555)}
-.crow .v.sent{font-weight:600;font-size:12px;font-family:var(--sans);letter-spacing:.04em;
-  text-transform:uppercase;color:var(--accent)}
-.crow .p{color:var(--ink-3);font-size:14px;min-width:52px;text-align:right}
-.crow.tally{color:var(--ink-3);font-style:italic}
-.crow.tally .nm{color:var(--ink-3);border:0;cursor:default}
-.win{font-family:var(--sans);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
-  color:var(--accent);font-weight:700;margin-left:7px;vertical-align:1.5px}
-.cnote{font-family:var(--sans);font-size:12px;color:var(--ink-3);margin-top:5px}
+.crow .win{font-size:11px;color:var(--win);margin-left:7px;font-weight:600;
+  white-space:nowrap}
+.crow .v{text-align:right;font-variant-numeric:tabular-nums;font-size:14.5px}
+.crow .p{text-align:right;font-variant-numeric:tabular-nums;font-size:13px;
+  color:var(--ink-3)}
+.crow.tally{color:var(--ink-3)}
+.crow.tally .nm{text-decoration:none;cursor:default;color:var(--ink-3);
+  font-size:13.5px}
+/* How well a figure is evidenced, shown as an underline on the figure rather
+   than as a coloured chip: it qualifies the number without competing with it. */
+.crow .v.grounded{border-bottom:1.5px solid var(--win)}
+.crow .v.ocr{border-bottom:1.5px dashed var(--md)}
+.crow .v.ungrounded,.crow .v.namedonly{border-bottom:1.5px dotted var(--hi)}
+.crow .v.sent{color:var(--ink-3);font-style:italic}
 
-/* ---------- flags ---------- */
-.flags{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px}
-.flag{font-family:var(--sans);font-size:11px;padding:2px 9px;border-radius:2px;
-  border:1px solid transparent;cursor:help}
-.flag.high{background:var(--hi-bg);color:var(--hi);border-color:#e5cdc7}
-.flag.medium{background:var(--md-bg);color:var(--md);border-color:#e8dcc0}
-.flag.low{background:var(--lo-bg);color:var(--lo);border-color:#cfdbe5}
+.tmm{margin-top:34px;padding-top:16px;border-top:2px solid var(--ink)}
+.tmm h3{font-size:16px;font-weight:600;margin:0 0 4px}
+.tmm .dek{font-size:13px;color:var(--ink-3);margin:0 0 6px;max-width:88ch}
+.tmm details{border-top:1px solid var(--rule-2)}
+.tmm summary{cursor:pointer;padding:8px 0;font-size:14px;display:flex;
+  justify-content:space-between;gap:14px;align-items:baseline}
+.tmm summary::-webkit-details-marker{display:none}
+.tmm summary .meta{font-size:12.5px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.tmm summary:hover{color:var(--accent)}
+.tmm details[open] summary{font-weight:600}
+.tmm .inner{padding:0 0 12px}
 
-/* ---------- tables ---------- */
-table{width:100%;border-collapse:collapse;font-size:15px;font-variant-numeric:tabular-nums}
-th{font-family:var(--sans);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
-  color:var(--ink-3);text-align:left;padding:8px 10px 7px;border-bottom:1px solid var(--ink);
-  font-weight:600}
-td{padding:7px 10px;border-bottom:1px solid var(--rule-2);vertical-align:baseline}
-th.n,td.n{text-align:right}
-tbody tr:hover{background:#f4efe4}
-td .who{color:var(--ink-2);font-size:14px}
-td button.town{font:inherit;background:none;border:0;padding:0;cursor:pointer;
-  color:var(--ink);font-weight:600;border-bottom:1px dotted var(--ink-4)}
-td button.town:hover{color:var(--accent)}
+/* flags ------------------------------------------------------------------- */
+.flags{display:flex;gap:5px;flex-wrap:wrap;margin-top:8px}
+.flag{font-size:11.5px;padding:1.5px 7px;border-radius:3px;white-space:nowrap}
+.flag.high{background:var(--hi-bg);color:var(--hi)}
+.flag.medium{background:var(--md-bg);color:var(--md)}
+.flag.low,.flag.note{background:var(--bg-2);color:var(--ink-3)}
 
-/* ---------- provenance drawer ---------- */
-.scrim{position:fixed;inset:0;background:rgba(20,17,14,.32);opacity:0;pointer-events:none;
-  transition:opacity .18s}
-.scrim[data-open=true]{opacity:1;pointer-events:auto}
-.drawer{position:fixed;top:0;right:0;height:100%;width:min(560px,94vw);background:var(--card);
-  border-left:1px solid var(--rule);transform:translateX(102%);transition:transform .22s ease;
-  overflow:auto;z-index:20;box-shadow:-14px 0 40px rgba(20,17,14,.10)}
-.drawer[data-open=true]{transform:none}
-.drawer .dh{padding:26px 30px 16px;border-bottom:1px solid var(--rule);position:sticky;top:0;
-  z-index:3;background:var(--card);box-shadow:0 6px 12px -10px rgba(20,17,14,.5)}
-.drawer .body{position:relative;z-index:1}
-.drawer .dh .kicker{font-family:var(--sans);font-size:10.5px;letter-spacing:.15em;
-  text-transform:uppercase;color:var(--ink-3)}
-.drawer .dh h3{margin:5px 0 0;font-size:26px;font-weight:600;letter-spacing:-.018em}
-.drawer .dh .sub{font-family:var(--sans);font-size:13px;color:var(--ink-2);margin-top:5px}
-.drawer .x{position:absolute;top:22px;right:26px;font:inherit;font-size:22px;background:none;
-  border:0;cursor:pointer;color:var(--ink-3);line-height:1}
-.drawer .body{padding:22px 30px 60px}
-.dsec{margin-bottom:26px}
-.dsec h5{font-family:var(--sans);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--ink-3);margin:0 0 10px;font-weight:600}
-.claim{font-size:20px;font-weight:300;color:var(--ink-2);border-left:3px solid var(--accent);
-  padding:2px 0 2px 15px;margin:0}
-.claim b{font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums}
+/* tables ------------------------------------------------------------------ */
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{text-align:left;font-size:12.5px;color:var(--ink-3);font-weight:600;
+  padding:6px 12px 6px 0;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{padding:7px 12px 7px 0;border-bottom:1px solid var(--rule-2);
+  vertical-align:top}
+th.n,td.n{text-align:right;font-variant-numeric:tabular-nums;padding-right:0}
+td .who{color:var(--ink-3);font-size:13px}
+button.town{font:inherit;font-size:14px;background:none;border:0;padding:0;
+  color:var(--accent);cursor:pointer;text-decoration:underline;text-align:left}
+.tablewrap{overflow-x:auto}
 
-/* the source facsimile */
-.fac{border:1px solid var(--rule);background:#fbf8f1}
+/* drawer: the part that was already right ---------------------------------- */
+.scrim{position:fixed;inset:0;background:rgba(18,20,24,.42);opacity:0;
+  pointer-events:none;transition:opacity .16s;z-index:60}
+.scrim[data-open="true"]{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(560px,100%);
+  background:var(--bg);border-left:1px solid var(--rule);z-index:61;
+  transform:translateX(101%);transition:transform .2s ease;
+  display:flex;flex-direction:column;box-shadow:-8px 0 34px rgba(0,0,0,.13)}
+.drawer[data-open="true"]{transform:none}
+.drawer .dh{padding:18px 22px 13px;border-bottom:1px solid var(--rule);
+  position:relative;flex:none}
+.drawer .x{position:absolute;top:12px;right:14px;font-size:23px;line-height:1;
+  background:none;border:0;color:var(--ink-3);cursor:pointer;padding:3px 7px}
+.drawer .x:hover{color:var(--ink)}
+.drawer .kicker{font-size:12.5px;color:var(--ink-3);padding-right:30px}
+.drawer h3{margin:3px 0 3px;font-size:21px;font-weight:600;letter-spacing:-.017em;
+  padding-right:30px}
+.drawer .sub{font-size:13.5px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.drawer .body{padding:4px 22px 40px;overflow:auto;flex:1}
+.dsec{padding:15px 0;border-bottom:1px solid var(--rule-2)}
+.dsec:last-child{border-bottom:0}
+.dsec h5{margin:0 0 7px;font-size:12.5px;font-weight:600;color:var(--ink-3)}
+.claim{font-size:15px;margin:0;line-height:1.5}
+.fac{border:1px solid var(--rule);border-radius:4px;overflow:hidden;
+  background:var(--bg-2)}
 .fac .fh{display:flex;justify-content:space-between;align-items:center;gap:10px;
-  font-family:var(--sans);font-size:11px;color:var(--ink-3);padding:7px 12px;
-  border-bottom:1px solid var(--rule-2);letter-spacing:.04em}
-.fac .fh button{font:inherit;font-size:11px;background:none;border:1px solid var(--rule);
-  padding:2px 8px;cursor:pointer;color:var(--ink-2);border-radius:2px}
-.fac .cells{display:flex;flex-wrap:wrap;padding:4px}
-.fac .cell{padding:7px 12px;font-size:15px;line-height:1.45;border-right:1px solid var(--rule-2);
-  flex:1 1 auto;min-width:0;word-break:break-word}
-.fac .cell:last-child{border-right:0}
-.fac .cell.num{flex:0 0 auto;font-variant-numeric:tabular-nums;color:var(--ink-2)}
-.fac mark{background:#f6e3b8;padding:0 2px;border-radius:2px}
-.fac .raw{font-family:ui-monospace,Consolas,monospace;font-size:12px;color:var(--ink-2);
-  padding:9px 12px;white-space:pre-wrap;word-break:break-word;border-top:1px dashed var(--rule)}
-.miss{font-size:15px;color:var(--ink-2);background:var(--md-bg);border-left:3px solid var(--md);
-  padding:10px 14px}
+  padding:5px 9px;background:var(--bg);border-bottom:1px solid var(--rule);
+  font-size:11.5px;color:var(--ink-3)}
+.fac .fh button{font:inherit;font-size:11.5px;background:none;border:0;
+  color:var(--accent);cursor:pointer;text-decoration:underline;padding:0}
+.fac .cells{display:flex;flex-wrap:wrap;gap:1px;background:var(--rule);padding:1px}
+.fac .cell{background:var(--bg);padding:5px 8px;font-family:var(--mono);
+  font-size:12.5px;flex:1 1 auto;min-width:0;overflow-wrap:anywhere}
+.fac .cell.num{flex:0 0 auto;text-align:right;font-variant-numeric:tabular-nums}
+.fac .raw{padding:8px 9px;font-family:var(--mono);font-size:12.5px;
+  overflow-wrap:anywhere;background:var(--bg)}
+.fac mark{background:#fdeaa8;padding:0 1px}
+.miss{font-size:13.5px;color:var(--ink-2);background:var(--bg-2);
+  border:1px solid var(--rule);border-radius:4px;padding:10px 12px;margin:0}
+.near,.resolved{font-size:13px;color:var(--ink-2);margin:7px 0 0;line-height:1.46}
+.resolved{color:var(--win)}
+.steps{list-style:none;margin:0;padding:0}
+.steps li{padding:7px 0 7px 14px;border-left:2px solid var(--rule);
+  margin-bottom:2px}
+.steps .l{font-size:11.5px;color:var(--ink-3)}
+.steps .t{font-size:13.5px}
+.steps a{font-size:12px;color:var(--accent);overflow-wrap:anywhere;
+  display:inline-block;margin-top:2px}
+.gaps{margin:0;padding-left:17px;font-size:13.5px;color:var(--ink-2)}
+.gaps li{margin-bottom:3px}
+.qadef{border-left:3px solid var(--rule);padding:5px 0 5px 10px;margin-bottom:8px}
+.qadef.high{border-color:var(--hi)} .qadef.medium{border-color:var(--md)}
+.qadef b{font-size:13.5px} .qadef p{margin:1px 0 0;font-size:13px;color:var(--ink-2)}
+table.conf td.alt{color:var(--md)}
+.grounding{display:flex;gap:22px;flex-wrap:wrap}
+.grounding div{min-width:96px}
+.grounding .k{font-size:12px;color:var(--ink-3)}
+.grounding .v{font-size:17px;font-weight:600;font-variant-numeric:tabular-nums}
 
-.steps{list-style:none;margin:0;padding:0;counter-reset:s}
-.steps li{position:relative;padding:0 0 16px 34px;border-left:1px solid var(--rule);
-  margin-left:9px}
-.steps li:last-child{border-left-color:transparent;padding-bottom:0}
-.steps li::before{counter-increment:s;content:counter(s);position:absolute;left:-10px;top:0;
-  width:20px;height:20px;border-radius:50%;background:var(--ink);color:var(--paper);
-  font-family:var(--sans);font-size:11px;font-weight:600;display:flex;align-items:center;
-  justify-content:center}
-.steps .l{font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
-  color:var(--ink-3);font-weight:600}
-.steps .t{font-size:15.5px;color:var(--ink-2);margin-top:2px}
-.steps a{font-family:var(--sans);font-size:12.5px;color:var(--accent);word-break:break-all;
-  display:inline-block;margin-top:3px}
-.gaps{list-style:none;margin:0;padding:0}
-.gaps li{font-size:14.5px;color:var(--ink-2);padding:7px 0 7px 22px;position:relative;
-  border-bottom:1px solid var(--rule-2)}
-.gaps li::before{content:"—";position:absolute;left:0;color:var(--md);font-weight:700}
-.qadef{border-left:3px solid var(--rule);padding:2px 0 6px 14px;margin-bottom:12px}
-.qadef.high{border-left-color:var(--hi)}
-.qadef.medium{border-left-color:var(--md)}
-/* A finding about a correct record, not a defect. Muted, and still shown. */
-.qadef.note{border-left-color:#b9b2a2}
-.qadef.low{border-left-color:var(--lo)}
-.qadef b{font-size:15px}
-.qadef p{margin:2px 0 0;font-size:14px;color:var(--ink-2)}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--rule);
+  font-size:12.5px;color:var(--ink-3);max-width:96ch;line-height:1.55}
+footer a{color:var(--accent)}
+footer code{font-family:var(--mono);font-size:.92em}
 
-footer{margin-top:56px;border-top:3px double var(--ink);padding-top:22px;
-  color:var(--ink-2);font-size:15.5px;max-width:76ch;font-weight:300}
-footer b{font-weight:600;color:var(--ink)}
-footer code{font-family:ui-monospace,Consolas,monospace;font-size:13px;background:#f1ece1;
-  padding:1px 5px}
-@media(max-width:1000px){.mapbox{grid-template-columns:1fr}.rail{grid-template-columns:repeat(2,1fr)}}
-</style>
-<style>/* phone breakpoints v2 */
-@media (max-width: 680px) {
-  .wrap { padding-left: 15px; padding-right: 15px; }
-  table { font-size: 13.5px; }
-  th, td { padding-left: 0; padding-right: 8px; }
-  code { word-break: break-all; }
+@media (max-width:900px){
+  .mapbox{grid-template-columns:1fr;gap:18px}
+  .legend{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:0 18px;align-items:start}
+  .legend h4{grid-column:1/-1}
+  .legend p{grid-column:1/-1}
+}
+@media (max-width:620px){
+  .wrap{padding:0 14px 48px}
+  .topin{padding:11px 14px;gap:9px}
+  .topin .what{display:none}
+  body{font-size:14.5px}
+  .paper h3{font-size:21px}
+  .crow{grid-template-columns:1fr 68px 50px;gap:7px}
+  .drawer{width:100%}
+  .drawer .body{padding:4px 15px 34px}
+  h2 .c{float:none;display:block;padding:3px 0 0}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important}
 }
 </style>
 </head>
 <body>
+
+<div class="top"><div class="topin">
+  <a class="name" href="../">Massachusetts Civic Atlas</a>
+  <span class="what">Annual municipal election results</span>
+  <nav>
+    <a href="../coverage.html">Coverage</a>
+    <a href="../">Data</a>
+  </nav>
+</div></div>
+
 <div class="wrap">
 
-<header class="mast">
-  <h1>The elections nobody <em>archives</em>.</h1>
-  <div class="sub">
-    <span>Massachusetts Civic Atlas &middot; working sample</span>
-    <span id="mastcount"></span>
-    <span>Annual town elections, <b>2021–2026</b></span>
-  </div>
-  <p class="standfirst">Select boards, school committees, library trustees, town meeting
-    seats: <b>the offices closest to where people live are the ones with no central record
-    at all</b>. Rebuilt from what each of the 351 municipalities published — and for every number, the line it came from.</p>
-  <div class="rail" id="rail"></div>
-</header>
-
 <section id="map">
-  <div class="head">
-    <div>
-      <h2>Where the votes were</h2>
-      <p class="dek">Click any municipality to open its election.</p>
-    </div>
-  </div>
+  <h2>Where the votes were <span class="c" id="mastcount"></span></h2>
+
+  <div class="notice" id="eraNotice" hidden></div>
+
   <div class="controls">
     <div class="grp"><span class="lbl">Year</span>
-      <div class="seg" id="segYear"></div></div>
+      <div class="seg" id="segYear"></div>
+      <button class="linkish" id="preToggle">Earlier years</button></div>
     <div class="grp"><span class="lbl">Shading</span>
       <div class="seg" id="segMetric"></div></div>
     <div class="grp findbox">
-      <input type="search" id="q" placeholder="Find a town — type any part of the name"
-             autocomplete="off" spellcheck="false">
+      <input type="search" id="q" placeholder="Find a town"
+             autocomplete="off" spellcheck="false" aria-label="Find a municipality">
       <div class="hits" id="hits"></div>
     </div>
   </div>
+
   <div class="mapbox">
     <div class="plate">
       <svg class="map" id="svg" role="img" aria-label="Map of Massachusetts municipalities"></svg>
@@ -338,41 +342,26 @@ footer code{font-family:ui-monospace,Consolas,monospace;font-size:13px;backgroun
 </section>
 
 <section id="town">
-  <div class="head">
-    <div><h2>The election</h2>
-      <p class="dek">Every name opens its provenance.</p></div>
-    <div class="seg" id="segTownYear"></div>
-  </div>
+  <h2>The election <span class="c">Every name opens the document behind it</span></h2>
   <div class="paper" id="paper"></div>
 </section>
 
 <section id="handful">
-  <div class="head">
-    <div><h2>Decided by a handful</h2>
-      <p class="dek">Both years. A tie is listed separately — it is a different event.</p></div>
-    <div class="controls" style="padding:0">
-      <div class="grp"><span class="lbl">Count a candidate if they cleared</span>
-        <div class="seg" id="segThr"></div></div>
-      <div class="seg" id="segDir"></div>
-      <div class="seg" id="segBy"></div>
-    </div>
+  <h2>Decided by a handful</h2>
+  <div class="controls">
+    <div class="grp"><span class="lbl">Counting candidates over</span>
+      <div class="seg" id="segThr"></div></div>
+    <div class="grp"><div class="seg" id="segDir"></div></div>
+    <div class="grp"><div class="seg" id="segBy"></div></div>
   </div>
-  <div id="marginTable"></div>
-</section>
-
-<section id="quality">
-  <div class="head">
-    <div><h2>What is wrong with this data</h2>
-      <p class="dek">Computed at build time; travels with the town it belongs to.</p></div>
-  </div>
-  <div id="qa"></div>
+  <div class="tablewrap" id="marginTable"></div>
 </section>
 
 <footer id="foot"></footer>
 </div>
 
 <div class="scrim" id="scrim"></div>
-<aside class="drawer" id="drawer" aria-hidden="true">
+<aside class="drawer" id="drawer" aria-hidden="true" role="dialog" aria-label="Provenance">
   <div class="dh">
     <button class="x" id="dx" aria-label="Close">&times;</button>
     <div class="kicker" id="dkick"></div>
@@ -393,19 +382,50 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':
 const KEY = (t, y) => t + '|' + y;
 
 let YEAR = '2025', METRIC = 'turnout', TOWN = 'Provincetown',
-    DIR = 'close', BY = 'gap', THR = '0.05';
+    DIR = 'close', BY = 'pct', THR = '0.05';
 
-/* qa/STANDARD.md A3: the votes field carries two reserved negatives. They are not
-   counts and are never printed as numbers. */
-const SENTINEL = {
-  '-1': 'Elected',
-  '-3': 'Write-in winner',
-};
+/* =====================================================================
+   TWO CORPORA, ONE PAGE.
+
+   `MVP` is 2021-2026, built from documents whose text was pooled line by line,
+   so every figure can be shown on the line it was printed on. `MVP_PRE` is
+   2000-2020, cut out of annual town reports and read as page images; the
+   figures were checked against the page but the lines were never kept.
+
+   They are held apart rather than merged. Everything below reads through REC /
+   COV / TMARGIN, which know which era a key belongs to, so no part of the page
+   has to remember. The pre-2021 file is 4.5MB and is fetched only if asked for:
+   the default view never pays for it.
+   ===================================================================== */
+const PRE_YEARS = [];
+for (let y = 2000; y <= 2020; y++) PRE_YEARS.push(String(y));
+let PRE = null, PRE_SHOWN = false;
+
+const isPre = y => y < '2021';
+const REC = k => isPre(k.split('|')[1]) ? (PRE && PRE.ty[k]) || null : M.ty[k] || null;
+const TMARGIN = k => isPre(k.split('|')[1])
+  ? (PRE && PRE.tmargin[k] != null ? PRE.tmargin[k] : null)
+  : (M.tmargin[k] != null ? M.tmargin[k] : null);
+/* A town with no pre-2021 record was not searched and found wanting: it has not
+   been collected yet. Saying `nothing found` there would assert a search that
+   never happened, which is the one thing the coverage shading exists to avoid. */
+const COV = k => isPre(k.split('|')[1])
+  ? (PRE && PRE.ty[k] ? 'official' : 'not_collected')
+  : (M.cov[k] || 'no_source');
+
+function loadPre(then) {
+  if (PRE) return then(true);
+  const s = document.createElement('script');
+  s.src = 'mvp-pre2021.js';
+  s.onload = () => { PRE = window.MVP_PRE; then(!!PRE); };
+  s.onerror = () => then(false);
+  document.head.appendChild(s);
+}
+
+/* qa/STANDARD.md A3: the votes field carries two reserved negatives. They are
+   not counts and are never printed as numbers. */
 const isWin = v => v < 0;
 const seatsOf = r => r.eseats || r.seats;
-// `nc` is a contest whose candidates all hold 0 because the source published no
-// count for any of them -- not because they drew none. Showing `0` there tells
-// the reader something the document never said. See `nocounts` in build_mvp.
 const voteCell = (v, nc) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
   : (nc && v === 0) ? 'not published' : fmt(v);
 
@@ -416,11 +436,11 @@ const voteCell = (v, nc) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
 const RAMP_RED  = ['#43181a','#8f2b25','#d9503c','#ef9d84','#f7d6cb'];
 const RAMP_TEAL = ['#0f3b3a','#1f6360','#4b938d','#8fc0b8','#cfe3dd'];
 const RAMP_GOLD = ['#4a3410','#8a6112','#c08f2a','#e0bd72','#f2e2bd'];
-const NODATA = '#ded9d1', NOELECT = '#ffffff', ZERO = '#b9c2c9';
+const NODATA = '#dedad3', NOELECT = '#ffffff', ZERO = '#b9c2c9',
+      UNCOLLECTED = '#eeebe6';
 
 const METRICS = {
   turnout: {
-    lab: 'Turnout, % of registered voters',
     legend: 'Turnout',
     breaks: [.10, .20, .30, .40],
     labels: ['under 10%', '10–20%', '20–30%', '30–40%', 'over 40%'],
@@ -428,9 +448,11 @@ const METRICS = {
     val: r => r && r.turnout,
     show: v => v === 0 ? 'no counts published' : pct(v),
     note: 'Ballots cast, over registered voters at the election date.',
+    // No registered-voter series was published for the pre-2021 years in this
+    // corpus, so there is no denominator and no rate is computed.
+    pre: false,
   },
   contested: {
-    lab: 'Share of contests with a real choice',
     legend: 'Contested',
     breaks: [.001, .20, .40, .60],
     labels: ['none at all', 'under 20%', '20–40%', '40–60%', 'over 60%'],
@@ -438,19 +460,19 @@ const METRICS = {
     val: r => r && r.n ? r.contested / r.n : null,
     show: v => pct(v, 0),
     note: 'More candidates clearing 5% of the ballots than there were seats.',
+    pre: true,
   },
   margin: {
-    lab: 'Closest margin in the town',
     legend: 'Closest margin',
     breaks: [.01, .025, .05, .10],
     labels: ['under 1 pt', '1–2.5 pts', '2.5–5 pts', '5–10 pts', 'over 10 pts'],
     ramp: RAMP_GOLD,
-    val: (r, k) => M.tmargin[k],
+    val: (r, k) => TMARGIN(k),
     show: v => v == null ? '—' : (v * 100).toFixed(2) + ' pts',
     note: 'Narrowest gap between the last winner and the runner-up.',
+    pre: true,
   },
   coverage: {
-    lab: 'Where a result exists at all',
     cat: true,
     legend: 'Source',
     cats: [['official', '#3d5c46', 'Town’s own publication'],
@@ -458,24 +480,31 @@ const METRICS = {
            ['thirdparty', '#5c6f8b', 'Republished by a third party'],
            ['other', '#8b8577', 'Source kind unrecorded'],
            ['no_source', NODATA, 'Searched, nothing found'],
+           ['not_collected', UNCOLLECTED, 'Not collected yet'],
            ['no_election', NOELECT, 'No election held']],
-    val: (r, k) => r ? (r.kind || 'other') : (M.cov[k] || 'no_source'),
+    val: (r, k) => r ? (r.kind || 'other') : COV(k),
     show: v => ({official: 'Town’s own publication', news: 'News report only',
                  thirdparty: 'Republished by a third party',
                  other: 'Source kind unrecorded', no_source: 'Nothing found',
+                 not_collected: 'Not collected yet',
                  no_election: 'No election held'}[v] || v),
     note: 'A town shaded pale was searched and nothing found.',
+    pre: true,
   },
 };
 
 function colorFor(name) {
-  const k = KEY(name, YEAR), r = M.ty[k], m = METRICS[METRIC];
+  const k = KEY(name, YEAR), r = REC(k), m = METRICS[METRIC];
   const v = m.val(r, k);
   if (m.cat) {
     const c = m.cats.find(c => c[0] === v);
     return [c ? c[1] : NODATA, v];
   }
-  if (v == null) return [M.cov[k] === 'no_election' ? NOELECT : NODATA, null];
+  if (v == null) {
+    const c = COV(k);
+    return [c === 'no_election' ? NOELECT
+          : c === 'not_collected' ? UNCOLLECTED : NODATA, null];
+  }
   // A turnout of exactly zero is never a turnout. It is a town-year whose source
   // named the winners and printed no counts, and shading it as the darkest band
   // would put a measurement where there is only a silence.
@@ -505,8 +534,6 @@ function drawMap() {
     'M' + ring.map(p => p[0] + ',' + (FLIP - p[1])).join('L') + 'Z').join('');
   $('#svg').setAttribute('viewBox',
     (X0 - PAD) + ' ' + (Y0 - PAD) + ' ' + (X1 - X0 + 2 * PAD) + ' ' + (Y1 - Y0 + 2 * PAD));
-  // Outline first so the towns paint over it, then again on top so the edge
-  // survives beside a town that has no stroke of its own.
   $('#svg').innerHTML = '<path class="outline" d="' + outline + '"/>' + paths +
     '<path class="outline" d="' + outline + '"/>';
 }
@@ -516,21 +543,47 @@ function repaint() {
     const p = $('#svg path[data-t="' + CSS.escape(name) + '"]');
     if (!p) return;
     p.setAttribute('fill', colorFor(name)[0]);
-    // A town that held no election is not a category of result; it is absent from
-    // the question. Dropping its outline as well as its fill lets the map be read
-    // as "these are the towns that voted".
-    p.classList.toggle('off', M.cov[KEY(name, YEAR)] === 'no_election');
+    p.classList.toggle('off', COV(KEY(name, YEAR)) === 'no_election');
   });
   document.querySelectorAll('#svg path[data-t]').forEach(p =>
     p.toggleAttribute('data-sel', p.dataset.t === TOWN));
   drawLegend();
   drawStatewide();
   showReadout(TOWN);
+  drawEraNotice();
+}
+
+/* THE NOTICE IS SAID ONCE.
+   Rather than marking every pre-2021 figure as provisional, the page says what
+   the era is and what it lacks, once, at the top -- and then shows the data
+   without hedging every line of it. */
+function drawEraNotice() {
+  const el = $('#eraNotice');
+  if (!isPre(YEAR)) { el.hidden = true; return; }
+  const p = PRE && PRE.stats;
+  el.hidden = false;
+  el.innerHTML = '<b>2000–2020 is much less complete.</b> These years are cut ' +
+    'out of annual town reports: ' + (p ? '<b>' + fmt(p.town_years) + '</b> ' +
+    'town-years across <b>' + fmt(p.towns_with) + '</b> of the 351 ' +
+    'municipalities' : 'a partial set') + ', against near-complete coverage ' +
+    'from 2021 on. A town shaded pale has not been collected yet — it was not ' +
+    'searched and found wanting. No registered-voter counts were published for ' +
+    'these years, so turnout cannot be computed and is not offered.';
 }
 
 function drawStatewide() {
-  const w = (M.statewide || {})[YEAR];
-  if (!w) { $('#statewide').innerHTML = ''; return; }
+  const w = !isPre(YEAR) && (M.statewide || {})[YEAR];
+  if (!w) {
+    // The pre-2021 corpus covers too few towns for a statewide rate to mean
+    // anything: an average over 208 of 351 is not a statewide average.
+    $('#statewide').innerHTML = isPre(YEAR) && PRE
+      ? '<div class="k">Collected for ' + YEAR + '</div><div class="big">' +
+        fmt(Object.keys(PRE.ty).filter(k => k.endsWith('|' + YEAR)).length) +
+        '</div><p>municipalities with a published result this year. Too few ' +
+        'for a statewide figure, so none is given.</p>'
+      : '';
+    return;
+  }
   $('#statewide').innerHTML =
     '<div class="k">Turnout, all of ' + YEAR + '</div>' +
     '<div class="big">' + pct(w.ballots / w.registered) + '</div>' +
@@ -540,9 +593,6 @@ function drawStatewide() {
       ? fmt(w.held - w.towns) + ' more held an election and published nothing; they are ' +
         'in neither figure.'
       : 'Every municipality that held one published a result.') + '</p>' +
-    // Every voter counted once, versus every town counted once. Boston moves the
-    // first and not the second, and the gap between them is the finding: the
-    // typical Massachusetts town runs below the statewide rate.
     '<div class="k" style="margin-top:12px">The average town</div>' +
     '<div class="big">' + pct(w.mean) + '</div>' +
     '<p>Mean turnout with each municipality counted once, not each voter. Median ' +
@@ -555,7 +605,9 @@ function drawLegend() {
     ? m.cats.map(c => [c[1], c[2]])
     : m.ramp.map((c, i) => [c, m.labels[i]])
         .concat(METRIC === 'turnout' ? [[ZERO, 'No counts published']] : [])
-        .concat([[NODATA, 'No result found'], [NOELECT, 'No election held']]);
+        .concat(isPre(YEAR) ? [[UNCOLLECTED, 'Not collected yet']]
+                            : [[NODATA, 'No result found']])
+        .concat([[NOELECT, 'No election held']]);
   $('#legend').innerHTML = '<h4>' + esc(m.legend) + '</h4>' +
     rows.map(([c, l]) => '<div class="row"><span class="sw" style="background:' + c +
       '"></span>' + esc(l) + '</div>').join('') +
@@ -563,15 +615,18 @@ function drawLegend() {
 }
 
 function showReadout(name) {
-  const k = KEY(name, YEAR), r = M.ty[k], m = METRICS[METRIC];
+  const k = KEY(name, YEAR), r = REC(k), m = METRICS[METRIC];
   const v = m.val(r, k);
   const co = (M.towns[name] || {}).co;
+  const cov = COV(k);
   $('#readout').innerHTML = '<b>' + esc(name) + '</b>' +
     '<span class="m">' + esc(m.legend) + ': ' +
-    (v == null ? (M.cov[k] === 'no_election' ? 'no election held' : 'no result found')
+    (v == null ? (cov === 'no_election' ? 'no election held'
+                : cov === 'not_collected' ? 'not collected yet'
+                : 'no result found')
                : esc(m.show(v))) + '</span>' +
-    (r ? '<span class="m">' + r.n + ' contest' + (r.n === 1 ? '' : 's') + ' · ' +
-         fmt(r.peak) + ' ballots</span>' : '') +
+    (r ? '<span class="m">' + r.n + ' contest' + (r.n === 1 ? '' : 's') +
+         (r.peak ? ' · ' + fmt(r.peak) + ' ballots' : '') + '</span>' : '') +
     '<span class="m" style="color:var(--ink-3)">' + esc(co || '') + ' County</span>';
 }
 
@@ -595,15 +650,50 @@ function seg(el, items, cur, cb) {
     cb(b.dataset.v);
   };
 }
-seg($('#segYear'), M.years.map(y => [y, y]), YEAR, v => { YEAR = v; repaint(); drawTown(); drawTownYearSeg(); });
-seg($('#segMetric'), Object.keys(METRICS).map(k => [k, METRICS[k].legend]), METRIC,
-    v => { METRIC = v; repaint(); });
-function drawTownYearSeg() {
-  seg($('#segTownYear'), M.years.map(y => [y, y]), YEAR,
-      v => { YEAR = v; [...$('#segYear').children].forEach(x =>
-               x.setAttribute('aria-pressed', x.dataset.v === v));
-             repaint(); drawTown(); });
+
+function yearItems() {
+  const modern = M.years.map(y => [y, y]);
+  return PRE_SHOWN ? PRE_YEARS.map(y => [y, y]).concat(modern) : modern;
 }
+function setYear(v) {
+  YEAR = v;
+  // Turnout does not exist before 2021. Rather than shade the whole map grey and
+  // let the reader work out why, fall to the metric that does exist and say so
+  // in the legend.
+  if (isPre(YEAR) && !METRICS[METRIC].pre) METRIC = 'contested';
+  // Re-rendered on every year change, not only when falling back: crossing back
+  // into 2021 has to put turnout back on the control it was taken off.
+  seg($('#segMetric'), metricItems(), METRIC, setMetric);
+  drawYearSeg();
+  repaint(); drawTown();
+}
+function metricItems() {
+  return Object.keys(METRICS)
+    .filter(k => !isPre(YEAR) || METRICS[k].pre)
+    .map(k => [k, METRICS[k].legend]);
+}
+function setMetric(v) { METRIC = v; repaint(); }
+function drawYearSeg() { seg($('#segYear'), yearItems(), YEAR, setYear); }
+
+drawYearSeg();
+seg($('#segMetric'), metricItems(), METRIC, setMetric);
+
+$('#preToggle').onclick = function () {
+  const btn = this;
+  if (PRE_SHOWN) {
+    PRE_SHOWN = false; btn.textContent = 'Earlier years';
+    if (isPre(YEAR)) { YEAR = M.years[M.years.length - 1]; }
+    setYear(YEAR);
+    return;
+  }
+  btn.disabled = true; btn.textContent = 'Loading…';
+  loadPre(ok => {
+    btn.disabled = false;
+    if (!ok) { btn.textContent = 'Earlier years unavailable'; return; }
+    PRE_SHOWN = true; btn.textContent = 'Hide earlier years';
+    setYear(PRE.years[PRE.years.length - 1] || '2020');
+  });
+};
 
 /* ---------------- search ---------------- */
 const NAMES = Object.keys(M.towns).sort();
@@ -617,10 +707,10 @@ function searchHits(q) {
 }
 function drawHits(q) {
   $('#hits').innerHTML = searchHits(q).map(n => {
-    const r = M.ty[KEY(n, YEAR)];
+    const k = KEY(n, YEAR), r = REC(k), c = COV(k);
     return '<button data-t="' + esc(n) + '"><span>' + esc(n) + '</span><span>' +
-      (r ? r.n + ' contests' : M.cov[KEY(n, YEAR)] === 'no_election'
-           ? 'no election' : 'no result') + '</span></button>';
+      (r ? r.n + ' contests' : c === 'no_election' ? 'no election'
+         : c === 'not_collected' ? 'not collected' : 'no result') + '</span></button>';
   }).join('');
 }
 $('#q').addEventListener('input', e => drawHits(e.target.value));
@@ -631,7 +721,7 @@ $('#q').addEventListener('keydown', e => {
 });
 $('#hits').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
-  goTown(b.dataset.t);
+  goTown(b.dataset.t); $('#q').value = ''; $('#hits').innerHTML = '';
 });
 function goTown(name) {
   TOWN = name; repaint(); drawTown(); showReadout(name);
@@ -641,57 +731,12 @@ function goTown(name) {
 }
 
 /* =====================================================================
-   The broadsheet
+   The election
    ===================================================================== */
 function winners(r) {
   const s = seatsOf(r);
   return new Set(r.cands.filter((c, i) => isWin(c[1]) || (i < s && c[1] > 0)).map(c => c[0]));
 }
-
-function ledeFor(name, r) {
-  if (!r) {
-    const st = M.cov[KEY(name, YEAR)];
-    return st === 'no_election'
-      ? 'No municipal election was held in ' + name + ' in ' + YEAR + '.'
-      : 'No published result has been found for ' + name + ' in ' + YEAR + '. ' +
-        'The absence is recorded rather than asserted — the town was searched, and ' +
-        'nothing was located.';
-  }
-  const bits = [];
-  if (r.peak)
-    bits.push('<b>' + fmt(r.peak) + '</b> ballots across <b>' + r.n + '</b> contest' +
-              (r.n === 1 ? '' : 's') + ' on ' + longDate(r.date) + '.');
-  else
-    bits.push('<b>' + r.n + '</b> contest' + (r.n === 1 ? '' : 's') + ' on ' +
-              longDate(r.date) + '. ' + ({
-      floor: '<b>The officers were elected on the floor of Town Meeting</b>, so no ' +
-             'ballots were cast and there is no turnout to report. The minutes ' +
-             'record only that a quorum was deemed present.',
-      preballot: '<b>No counts were published</b>: the record here comes from the ' +
-                 'town’s sample ballot, which names who stood and cannot say ' +
-                 'who won or how many voted.',
-      nocounts: '<b>No counts were published</b> — the source named who was ' +
-                'elected and printed no numbers.',
-    }[r.nocount_why] || '<b>No counts were published.</b>'));
-  if (r.turnout && !r.nocount)
-    bits.push('<b>' + pct(r.turnout) + '</b> of ' + fmt(r.reg) + ' registered.');
-  const unc = r.n - r.contested;
-  if (unc === r.n) bits.push('<b>Not one offered a choice.</b>');
-  else if (unc) bits.push('<b>' + unc + '</b> offered no choice.');
-  const closest = M.tmargin[KEY(name, YEAR)];
-  if (closest != null)
-    bits.push('Closest margin: ' + (closest * 100).toFixed(2) + ' points.');
-  return bits.join(' ');
-}
-
-const BASIS = {
-  snapshot: 'a count the Secretary of the Commonwealth published within six weeks ' +
-            'of polling day',
-  interpolated: 'interpolated between the published counts either side of polling day',
-  carried: 'the most recent count published before polling day, carried forward ' +
-           'unchanged rather than projected',
-  undefined: 'denominator basis not recorded',
-};
 
 function longDate(d) {
   if (!d) return 'an unrecorded date';
@@ -703,7 +748,7 @@ function longDate(d) {
 function flagChips(codes, minSev) {
   // Low-severity flags are near-universal (a term length is missing from most
   // office strings in the corpus) and drown the page. They are not hidden: they
-  // are listed in full in the provenance drawer and in the table below.
+  // are listed in full in the provenance drawer.
   const rank = {high: 0, medium: 1, low: 2, note: 3};
   const keep = (codes || []).filter(c => M.qadefs[c] &&
     rank[M.qadefs[c].sev] <= (minSev === undefined ? 1 : minSev));
@@ -714,90 +759,192 @@ function flagChips(codes, minSev) {
   }).join('') + '</div>';
 }
 
+function ledeFor(name, r) {
+  if (!r) {
+    const st = COV(KEY(name, YEAR));
+    return st === 'no_election'
+      ? 'No municipal election was held in ' + name + ' in ' + YEAR + '.'
+      : st === 'not_collected'
+      ? 'The ' + YEAR + ' election in ' + name + ' has not been collected yet. ' +
+        'That is a gap in this collection, not a statement about the town.'
+      : 'No published result has been found for ' + name + ' in ' + YEAR + '. ' +
+        'The absence is recorded rather than asserted — the town was searched, ' +
+        'and nothing was located.';
+  }
+  const bits = [];
+  if (r.peak)
+    bits.push('<b>' + fmt(r.peak) + '</b> ballots across <b>' + r.n + '</b> contest' +
+              (r.n === 1 ? '' : 's') + ' on ' + longDate(r.date) + '.');
+  else
+    bits.push('<b>' + r.n + '</b> contest' + (r.n === 1 ? '' : 's') + ' on ' +
+              longDate(r.date) + '. ' + ({
+      floor: '<b>The officers were elected on the floor of Town Meeting</b>, so no ' +
+             'ballots were cast and there is no turnout to report.',
+      preballot: '<b>No counts were published</b>: the record here comes from the ' +
+                 'town’s sample ballot, which names who stood and cannot say ' +
+                 'who won or how many voted.',
+      nocounts: '<b>No counts were published</b> — the source named who was ' +
+                'elected and printed no numbers.',
+    }[r.nocount_why] || '<b>No counts were published.</b>'));
+  if (r.turnout && !r.nocount)
+    bits.push('<b>' + pct(r.turnout) + '</b> of ' + fmt(r.reg) + ' registered.');
+  const unc = r.n - r.contested;
+  if (unc === r.n) bits.push('<b>Not one offered a choice.</b>');
+  else if (unc) bits.push('<b>' + unc + '</b> offered no choice.');
+  const closest = TMARGIN(KEY(name, YEAR));
+  if (closest != null)
+    bits.push('Closest margin: ' + (closest * 100).toFixed(2) + ' points.');
+  return bits.join(' ');
+}
+
+/* TOWN MEETING MEMBER IS NOT AN OFFICE LIKE THE OTHERS.
+   A representative-town-meeting town elects them by precinct, dozens at a time:
+   Framingham 2021 runs to 18 precinct contests and several hundred names, which
+   in one flat list buries the select board under them. They are moved below and
+   collapsed by precinct -- present and complete, but no longer the bulk of the
+   page. */
+const TMM_RX = /town\s*meeting\s*member/i;
+const isTMM = race => TMM_RX.test(race.office) || TMM_RX.test(race.raw || '');
+
+function contestBlock(race, ri, r) {
+  const won = winners(race);
+  const rows = race.cands.map(c => {
+    const isw = won.has(c[0]);
+    const share = race.cast && c[1] > 0 ? c[1] / race.cast : null;
+    return '<div class="crow' + (isw ? ' won' : '') + '">' +
+      '<button class="nm" data-r="' + ri + '" data-c="' + esc(c[0]) + '">' + esc(c[0]) +
+      (isw ? '<span class="win">elected</span>' : '') + '</button>' +
+      '<span class="v' + (c[1] < 0 ? ' sent' : c[3] === 1 ? ' grounded'
+                          : c[3] === 2 ? ' ocr'
+                          : c[3] === 3 ? ' namedonly'
+                          : c[3] === 0 ? ' ungrounded' : '') + '" title="' +
+        (c[3] === 1 ? 'This figure is printed on the source line'
+         : c[3] === 2 ? 'The source prints ' + (c[6] || '') + ' — the same figure '
+           + 'with one character the scanner misread'
+         : c[3] === 3 ? 'The document names this candidate and prints no '
+           + 'figure beside them'
+         : c[3] === 0 ? 'The name is on the source line; this figure is not' : '') +
+        '">' + (c[5] != null ? esc(String(c[5])) : voteCell(c[1], race.nocounts)) + '</span>' +
+      '<span class="p">' + (share == null ? '' : pct(share, 1)) + '</span></div>';
+  }).join('');
+  const tally = race.extras.map(e =>
+    '<div class="crow tally"><span class="nm">' + esc(e[0]) + '</span>' +
+    '<span class="v">' + fmt(e[1]) + '</span><span class="p">' +
+    (race.cast ? pct(e[1] / race.cast, 1) : '') + '</span></div>').join('');
+  const sN = seatsOf(race);
+  const seatnote = sN + ' seat' + (sN === 1 ? '' : 's') +
+    (race.term ? ' · ' + race.term + '-year term' : '');
+  const notes = [];
+  if (race.cast) notes.push(fmt(race.cast) + ' votes counted');
+  if (race.eseats)
+    notes.push('seats from the arithmetic: ' + fmt(race.cast) + ' = ' + race.eseats +
+               ' × ' + fmt(r.peak) + ' ballots, against ' + race.seats + ' on the record');
+  if (race.short != null)
+    notes.push('only ' + Math.round(race.short * 100) + '% of the ' + sN + ' × ' +
+               fmt(r.peak) + ' marks this contest should hold');
+  if (!race.cands.length) notes.push('no candidate stood');
+  else if (race.cands.length <= sN) notes.push('no more candidates than seats');
+  // The precinct or ward, where the office string carried one. Two contests
+  // called `Town Meeting Member` in the same town are only distinguishable by it.
+  const scope = race.scope ? ' <span class="scope">' + esc(race.scope) + '</span>' : '';
+  return '<div class="contest"><h4><span>' + esc(race.office) + scope +
+    '</span><span class="meta">' + seatnote + '</span></h4>' + rows + tally +
+    (notes.length ? '<div class="cnote">' + notes.join(' · ') + '</div>' : '') +
+    flagChips(race.qa) + '</div>';
+}
+
+function sourceBox(r) {
+  /* THE SOURCE BOX CARRIES THE LINK.
+     Naming the publisher and then making the reader search for the document is
+     most of the way to citing nothing. Where a URL is held it is offered here,
+     next to the name, as well as inside the provenance drawer -- the drawer is
+     for one figure, this is for the document as a whole. */
+  const who = r.pub || (r.kind === 'official' ? 'The municipality'
+                      : r.kind === 'news' ? 'A news outlet' : 'Not recorded');
+  const kind = ({official: 'official', news: 'news report',
+                 thirdparty: 'republished'}[r.kind] || 'unclassified') +
+               (r.era === 'pre2021' ? '' : ' · ' + (r.has_src ? 'text kept' : 'no text'));
+  let link = '';
+  if (r.url) {
+    let host = r.url;
+    try { host = new URL(r.url).hostname.replace(/^www\./, ''); } catch (e) {}
+    link = '<a class="doclink" href="' + esc(r.url) + '" target="_blank" ' +
+      'rel="noopener">Open the source document ↗</a>' +
+      '<div class="nn" style="overflow-wrap:anywhere">' + esc(host) + '</div>';
+  } else if (r.url_withheld) {
+    link = '<div class="withheld">' + esc(r.url_withheld) + '</div>';
+  } else {
+    link = '<div class="nn">No link to the document was recorded.</div>';
+  }
+  return '<div class="src"><div class="k">Source</div><div class="v">' + esc(who) +
+    '</div><div class="nn">' + esc(kind) + '</div>' + link + '</div>';
+}
+
 function drawTown() {
-  const name = TOWN, k = KEY(name, YEAR), r = M.ty[k];
+  const name = TOWN, k = KEY(name, YEAR), r = REC(k);
   const meta = M.towns[name] || {};
-  let h = '<div class="kicker">' + esc(meta.co || '') + ' County &middot; ' +
-          esc(meta.form || '') + '</div>' +
-          '<h3>' + esc(name) + ' <span class="yr">' + YEAR + '</span></h3>' +
+  let h = '<div class="th"><h3>' + esc(name) + ' <span class="yr">' + YEAR +
+          '</span></h3><span class="where">' + esc(meta.co || '') + ' County' +
+          (meta.form ? ' · ' + esc(meta.form) : '') + '</span></div>' +
           '<p class="lede">' + ledeFor(name, r) + '</p>';
 
   if (!r) { $('#paper').innerHTML = h; return; }
 
   h += '<div class="facts">' + [
     ['Ballots cast', r.peak ? fmt(r.peak) : '—',
-     r.peak_from_doc ? 'stated by the document' : r.peak ? 'busiest contest' : 'none published'],
-    ['Turnout', r.nocount ? 'n/a' : r.turnout == null ? '—' : pct(r.turnout),
-     r.nocount ? ({floor: 'no ballot was cast', preballot: 'sample ballot only'}
-                  [r.nocount_why] || 'no counts published') :
-       r.reg ? 'of ' + fmt(r.reg) + ' registered' : 'no denominator'],
+     r.peak_from_doc ? 'stated by the document'
+       : r.era === 'pre2021' ? 'busiest contest; no total was printed'
+       : r.peak ? 'busiest contest' : 'none published'],
+    ['Turnout', r.era === 'pre2021' ? 'n/a'
+       : r.nocount ? 'n/a' : r.turnout == null ? '—' : pct(r.turnout),
+     r.era === 'pre2021' ? 'no registered-voter count for these years'
+       : r.nocount ? ({floor: 'no ballot was cast', preballot: 'sample ballot only'}
+                      [r.nocount_why] || 'no counts published')
+       : r.reg ? 'of ' + fmt(r.reg) + ' registered' : 'no denominator'],
     ['Contests', String(r.n), r.contested + ' contested'],
     ['Seats filled', String(r.seats), ''],
-    ['Source', r.pub || (r.kind === 'official' ? 'The municipality'
-                        : r.kind === 'news' ? 'A news outlet' : 'Not recorded'),
-     ({official: 'official', news: 'news report', thirdparty: 'republished'}[r.kind]
-       || 'unclassified') + ' · ' + (r.has_src ? 'text kept' : 'no text')],
   ].map(([a, b, c]) => '<div><div class="k">' + a + '</div><div class="v">' + b +
-       '</div><div class="n">' + c + '</div></div>').join('') + '</div>';
+       '</div><div class="nn">' + c + '</div></div>').join('') +
+    sourceBox(r) + '</div>';
 
   if (r.printed) {
     const p = r.printed, say = [];
     if (p.cast) say.push(fmt(p.cast) + ' ballots cast');
     if (p.reg) say.push(fmt(p.reg) + ' registered');
     if (p.turnout) say.push(p.turnout.toFixed(2) + '% turnout');
-    h += '<p class="cnote" style="margin-top:12px">The document states its own figures — ' +
-         say.join(', ') + ' — which is an independent check on the two numbers above.</p>';
+    h += '<p class="cnote">The document states its own figures — ' + say.join(', ') +
+         ' — which is an independent check on the two numbers above.</p>';
   }
+  if (r.bridge && r.bridge.length)
+    h += '<p class="cnote">Reading this document raised: ' +
+         r.bridge.map(esc).join('; ') + '.</p>';
 
   h += flagChips(r.qa);
 
-  h += '<div class="contests">' + r.races.map((race, ri) => {
-    const won = winners(race);
-    const rows = race.cands.map(c => {
-      const isw = won.has(c[0]);
-      const share = race.cast && c[1] > 0 ? c[1] / race.cast : null;
-      return '<div class="crow' + (isw ? ' won' : '') + '">' +
-        '<button class="nm" data-r="' + ri + '" data-c="' + esc(c[0]) + '">' + esc(c[0]) +
-        (isw ? '<span class="win">elected</span>' : '') + '</button>' +
-        '<span class="v' + (c[1] < 0 ? ' sent' : c[3] === 1 ? ' grounded'
-                            : c[3] === 2 ? ' ocr'
-                            : c[3] === 3 ? ' namedonly'
-                            : c[3] === 0 ? ' ungrounded' : '') + '" title="' +
-          (c[3] === 1 ? 'This figure is printed on the source line'
-           : c[3] === 2 ? 'The source prints ' + (c[6] || '') + ' — the same figure '
-             + 'with one character the scanner misread'
-           : c[3] === 3 ? 'The document names this candidate and prints no '
-             + 'figure beside them'
-           : c[3] === 0 ? 'The name is on the source line; this figure is not' : '') +
-          '">' + (c[5] != null ? esc(String(c[5])) : voteCell(c[1], race.nocounts)) + '</span>' +
-        '<span class="p">' + (share == null ? '' : pct(share, 1)) + '</span></div>';
-    }).join('');
-    const tally = race.extras.map(e =>
-      '<div class="crow tally"><span class="nm">' + esc(e[0]) + '</span>' +
-      '<span class="v">' + fmt(e[1]) + '</span><span class="p">' +
-      (race.cast ? pct(e[1] / race.cast, 1) : '') + '</span></div>').join('');
-    const sN = seatsOf(race);
-    const seatnote = sN + ' seat' + (sN === 1 ? '' : 's') +
-      (race.term ? ' · ' + race.term + '-year term' : '');
-    const notes = [];
-    if (race.cast) notes.push(fmt(race.cast) + ' votes counted');
-    if (race.eseats)
-      notes.push('seats from the arithmetic: ' + fmt(race.cast) + ' = ' + race.eseats +
-                 ' × ' + fmt(r.peak) + ' ballots, against ' + race.seats + ' on the record');
-    if (race.short != null)
-      notes.push('only ' + Math.round(race.short * 100) + '% of the ' + sN + ' × ' +
-                 fmt(r.peak) + ' marks this contest should hold');
-    if (!race.cands.length)
-      notes.push('no candidate stood');
-    else if (race.cands.length <= sN) notes.push('no more candidates than seats');
-    // The precinct or ward, where the office string carried one. Two contests
-    // called `Town Meeting Member` in the same town are only distinguishable by it.
-    const scope = race.scope ? ' <span class="scope">' + esc(race.scope) + '</span>' : '';
-    return '<div class="contest"><h4>' + esc(race.office) + scope + '<span>' + seatnote +
-      '</span></h4>' + rows + tally +
-      '<div class="cnote">' + notes.join(' · ') + '</div>' +
-      flagChips(race.qa) + '</div>';
-  }).join('') + '</div>';
+  const main = [], tmm = [];
+  r.races.forEach((race, ri) => (isTMM(race) ? tmm : main).push([race, ri]));
+
+  h += '<div class="contests">' +
+    main.map(([race, ri]) => contestBlock(race, ri, r)).join('') + '</div>';
+
+  if (tmm.length) {
+    const seats = tmm.reduce((a, [x]) => a + seatsOf(x), 0);
+    const names = tmm.reduce((a, [x]) => a + x.cands.length, 0);
+    h += '<div class="tmm"><h3>Town meeting members</h3>' +
+      '<p class="dek">Elected by precinct, ' + fmt(seats) + ' seat' +
+      (seats === 1 ? '' : 's') + ' across ' + tmm.length + ' contest' +
+      (tmm.length === 1 ? '' : 's') + ', ' + fmt(names) + ' name' +
+      (names === 1 ? '' : 's') + '. Separated from the offices above because ' +
+      'there are enough of them to bury everything else. Each opens in full.</p>' +
+      tmm.map(([race, ri]) => {
+        const w = winners(race);
+        return '<details><summary><span>' + esc(race.office) +
+          (race.scope ? ' — ' + esc(race.scope) : '') + '</span>' +
+          '<span class="meta">' + seatsOf(race) + ' seats · ' +
+          race.cands.length + ' stood</span></summary>' +
+          '<div class="inner">' + contestBlock(race, ri, r) + '</div></details>';
+      }).join('') + '</div>';
+  }
 
   $('#paper').innerHTML = h;
   $('#paper').querySelectorAll('.crow .nm[data-c]').forEach(b =>
@@ -846,12 +993,12 @@ function facsimile(cells, name) {
 }
 
 function openProv(name, year, ri, cname) {
-  const r = M.ty[KEY(name, year)], race = r.races[ri];
+  const r = REC(KEY(name, year)), race = r.races[ri];
   const c = race.cands.find(x => x[0] === cname);
   const won = winners(race).has(cname);
-  const share = race.cast ? c[1] / race.cast : null;
 
-  $('#dkick').textContent = name + ' ' + year + ' · ' + race.office;
+  $('#dkick').textContent = name + ' ' + year + ' · ' + race.office +
+    (race.scope ? ' — ' + race.scope : '');
   $('#dname').textContent = cname;
   const share2 = race.cast && c[1] > 0 ? c[1] / race.cast : null;
   $('#dsub').textContent = (won ? 'Elected. ' : '') +
@@ -873,12 +1020,9 @@ function openProv(name, year, ri, cname) {
       + 'names and stops — there is no tally on the page to show, for '
       + 'anyone in the list. That is what the clerk printed, not a figure this '
       + 'page failed to find.'
-    : c[3] === 0 ? 'The name is on that line. <b>The figure is not</b> \u2014 the '
+    : c[3] === 0 ? 'The name is on that line. <b>The figure is not</b> — the '
       + 'total came from the parse, and this page cannot show it to you in the source.'
     : '';
-  // The document spells the name differently by one letter. Say so, both ways
-  // round: sometimes the record carries the typo (`LaFlammme`), sometimes the
-  // scanner does (`kronholim`), and this page is not in a position to say which.
   const nearName = c[7]
     ? '<p class="near">Located by name with <b>one letter different</b>: the record '
       + 'says <b>' + esc(c[0]) + '</b>, the document reads <b>' + esc(String(c[7]))
@@ -886,16 +1030,12 @@ function openProv(name, year, ri, cname) {
       + 'the record or a character the scanner misread, and nothing here can tell '
       + 'which.</p>'
     : '';
-  // The total is the sum of two printed rows. Needham 2024 splits every candidate
-  // into a machine count and a hand count, so the figure the record holds appears
-  // nowhere on its own -- but both of its parts do, one line under the other.
   const splitNote = c[8]
     ? '<p class="near">This total is the <b>sum of two printed rows</b>: '
       + '<b>' + fmt(c[8][0]) + '</b> counted by machine and <b>' + fmt(c[8][1])
       + '</b> by hand, on the line beneath. The figure itself is printed nowhere; '
       + 'both of its parts are.</p>'
     : '';
-  // The same person on two lines of the document, combined into one row.
   const combinedNote = c[10]
     ? '<p class="near">The return lists this candidate <b>twice</b> — '
       + c[10].map(fmt).join(' and ') + ' — once among the candidates and '
@@ -913,42 +1053,21 @@ function openProv(name, year, ri, cname) {
       (c[5] != null ? esc(String(c[5])) : fmt(c[1])) + '</b> votes for <b>' +
       esc(race.office) + '</b> in ' + esc(name) + ' on ' + longDate(race.date) +
       (won ? ', and was elected' : '') + '.';
+
   // OPEN THE DOCUMENT AT THE PAGE, NOT AT THE FRONT.
-  //
-  // The parser did not read these returns as text; it read them as IMAGES,
-  // through a vision model. So the most faithful evidence for a figure is the
-  // page it was printed on, and everything else here is a re-reading of that
-  // page in text. A thirteen-page scan opened at page one asks the reader to
-  // find the row themselves.
-  //
-  // Nothing is cropped and no images are stored: a PDF opened at `#page=N` is
-  // rendered by the browser from the document the town already serves. All this
-  // needs is the page each pooled line came off, which the readings this project
-  // renders already write as a `page N` rule between pages, and which was being
-  // thrown away.
-  //
-  // Only offered where the citation really is a PDF -- a results web page has no
-  // pages to open -- and only where a page is known.
+  // A thirteen-page scan opened at page one asks the reader to find the row
+  // themselves. Nothing is cropped and no images are stored: a PDF opened at
+  // `#page=N` is rendered by the browser from the document the town serves.
   function pageLink(r, c) {
     const lp = r.linepages;
     if (!lp) return '';
     const i = (c[4] >= 0 ? c[4] : c[2]);
     let pg = (i >= 0 && i < lp.length) ? lp[i] : null;
-    // A row with no page of its own takes the CONTEST's, where every other row of
-    // the contest agrees on one page. An inference rather than an observation, so
-    // it is worded as one below.
     const byContest = (!pg && race && race.contestpage) ? race.contestpage : null;
     if (byContest) pg = byContest;
     if (!pg) return '';
     const u = (r.chain || []).map(s => s.url).filter(Boolean)
       .find(x => /\.pdf(\?|#|$)/i.test(x)) || (/\.pdf(\?|#|$)/i.test(r.url || '') ? r.url : '');
-    // WHAT THE PAGE IS EVIDENCE OF DEPENDS ON WHAT WAS FOUND. Where the figure
-    // itself was located, the page is the page it is printed on. Where only the
-    // NAME was located -- which is the case for 386 vote totals here -- saying
-    // `printed on page N` would assert of the figure exactly the thing this page
-    // has just finished saying it cannot show. The page is still worth offering,
-    // and is the most useful thing left to offer: it is where a reader can go and
-    // read the number off the document themselves.
     const shown = c[4] >= 0;
     const at = 'page ' + pg + ' of the document';
     const lead = byContest ? 'Every other row of this contest is on '
@@ -967,35 +1086,58 @@ function openProv(name, year, ri, cname) {
 
   let h = '<div class="dsec"><h5>The claim</h5><p class="claim">' + claim + '</p></div>';
 
-  h += '<div class="dsec"><h5>The line it was read from</h5>' +
-    (c[2] >= 0 && r.lines[c[2]]
-      ? facsimile(r.lines[c[2]], cname) +
-        (c[4] >= 0 && c[4] !== c[2] && r.lines[c[4]]
-          ? '<p class="cnote" style="margin:6px 0 4px">and the figure, printed below ' +
-            'it in the same column:</p>' + facsimile(r.lines[c[4]], String(c[1]))
-          : '') +
-        (grounded ? '<p class="cnote" style="margin-top:6px">' + grounded + '</p>' : '') +
-        nearName + splitNote + combinedNote
-      : '<p class="miss">' + (r.has_src
-          ? 'This name could not be located anywhere in the converted source text. ' +
-            'The vote total may still be right — but on this page, it is unevidenced.'
-          : 'No converted source text was kept for this town-year, so the number cannot ' +
-            'be traced back to a printed line here.') + '</p>') +
-    (r.srcfile ? '<p class="cnote">' + esc(r.srcfile) + '</p>' : '') +
-    pageLink(r, c) + '</div>';
+  if (r.era === 'pre2021') {
+    /* A DIFFERENT KIND OF EVIDENCE, DESCRIBED AS ONE.
+       These pages were read as images, and the lines were never pooled, so there
+       is no line to reproduce. What there is instead is the check the parse ran
+       against the page: how many of the names, and how many of the figures, were
+       found on it as printed. That is a real and reportable thing, and it is not
+       the same thing as showing the reader the line. */
+    const g = r.grounded || {};
+    h += '<div class="dsec"><h5>How this was checked</h5>' +
+      '<div class="grounding">' +
+      '<div><div class="k">Names found on the page</div><div class="v">' +
+        esc(g.names || '—') + '</div></div>' +
+      '<div><div class="k">Figures found on the page</div><div class="v">' +
+        esc(g.figures || '—') + '</div></div></div>' +
+      '<p class="cnote">This section was read from the page as an image, so there ' +
+      'is no line of converted text to show you here. Every name and figure was ' +
+      'checked back against the page it was printed on, and the counts above are ' +
+      'the result of that check for this town-year as a whole — not for this row ' +
+      'on its own. The document itself is the evidence.</p></div>';
+  } else {
+    h += '<div class="dsec"><h5>The line it was read from</h5>' +
+      (c[2] >= 0 && r.lines[c[2]]
+        ? facsimile(r.lines[c[2]], cname) +
+          (c[4] >= 0 && c[4] !== c[2] && r.lines[c[4]]
+            ? '<p class="cnote">and the figure, printed below it in the same ' +
+              'column:</p>' + facsimile(r.lines[c[4]], String(c[1]))
+            : '') +
+          (grounded ? '<p class="cnote">' + grounded + '</p>' : '') +
+          nearName + splitNote + combinedNote
+        : '<p class="miss">' + (r.has_src
+            ? 'This name could not be located anywhere in the converted source text. ' +
+              'The vote total may still be right — but on this page, it is unevidenced.'
+            : 'No converted source text was kept for this town-year, so the number cannot ' +
+              'be traced back to a printed line here.') + '</p>') +
+      (r.srcfile ? '<p class="cnote">' + esc(r.srcfile) + '</p>' : '') +
+      pageLink(r, c) + '</div>';
+  }
 
-  h += '<div class="dsec"><h5>How the document got here</h5>' +
-    (r.chain.length
+  h += '<div class="dsec"><h5>The document</h5>' +
+    ((r.chain && r.chain.length)
       ? '<ol class="steps">' + r.chain.map(s =>
           '<li><div class="l">' + esc(s.lab) + '</div><div class="t">' + esc(s.v) + '</div>' +
           (s.url ? '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
                    esc(s.url) + '</a>' : '') + '</li>').join('') + '</ol>'
-      : '<p class="miss">No chain of custody was recorded for this town-year.</p>') + '</div>';
+      : r.url
+      ? '<ol class="steps"><li><div class="l">' + esc(r.pub || 'Source') +
+        '</div><div class="t">' + esc(r.srcfile || '') + '</div>' +
+        '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+        esc(r.url) + '</a></li></ol>'
+      : '<p class="miss">' + esc(r.url_withheld ||
+          'No chain of custody was recorded for this town-year.') + '</p>') + '</div>';
 
-  // TWO SOURCES, DIFFERENT NAMES. The flag for this has always said `both are
-  // shown; neither is silently preferred`, and nothing on the page showed either
-  // of them -- the disagreement existed only as a QA code. Show the two readings
-  // side by side, and where it has been settled, say so and say on what.
   if (r.conflict && r.conflict.length)
     h += '<div class="dsec"><h5>Where the sources disagree</h5>' +
       '<table class="conf"><thead><tr><th>Office</th><th>This record</th>' +
@@ -1013,6 +1155,10 @@ function openProv(name, year, ri, cname) {
     h += '<div class="dsec"><h5>What we cannot show you</h5><ul class="gaps">' +
       r.gaps.map(g => '<li>' + esc(g) + '</li>').join('') + '</ul></div>';
 
+  if (r.bridge && r.bridge.length)
+    h += '<div class="dsec"><h5>What reading the document raised</h5><ul class="gaps">' +
+      r.bridge.map(g => '<li>' + esc(g) + '</li>').join('') + '</ul></div>';
+
   const codes = [...new Set([...(race.qa || []), ...(r.qa || [])])];
   if (codes.length)
     h += '<div class="dsec"><h5>Known defects touching this number</h5>' +
@@ -1020,13 +1166,16 @@ function openProv(name, year, ri, cname) {
         esc(M.qadefs[q].lab) + '</b><p>' + esc(M.qadefs[q].why) + '</p></div>' : '').join('') +
       '</div>';
 
-  h += '<div class="dsec"><h5>Extraction</h5><p class="cnote" style="font-size:14px">' +
+  h += '<div class="dsec"><h5>Extraction</h5><p class="cnote">' +
     'Office as printed: <i>' + esc(race.raw || race.office) + '</i>. Seats: ' +
     (race.eseats ? race.eseats + ' (the record says ' + race.seats + '; the arithmetic ' +
-      'closes on ' + race.eseats + ')' : race.seats) + '. Extraction confidence: ' +
+      'closes on ' + race.eseats + ')' : race.seats) +
+    (race.seats_src ? ' (' + esc(race.seats_src) + ')' : '') +
+    '. Extraction confidence: ' +
     (race.conf == null ? 'not recorded' : race.conf) + '.</p></div>';
 
   $('#dbody').innerHTML = h;
+  $('#dbody').scrollTop = 0;
   $('#dbody').querySelectorAll('[data-raw]').forEach(b => b.onclick = () => {
     const raw = b.closest('.fac').querySelector('.raw');
     const cells = b.closest('.fac').querySelector('.cells');
@@ -1037,6 +1186,7 @@ function openProv(name, year, ri, cname) {
   $('#drawer').setAttribute('data-open', 'true');
   $('#drawer').setAttribute('aria-hidden', 'false');
   $('#scrim').setAttribute('data-open', 'true');
+  $('#dx').focus();
 }
 function closeProv() {
   $('#drawer').setAttribute('data-open', 'false');
@@ -1053,7 +1203,10 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeProv();
 seg($('#segThr'), M.thresholds.map(t => [t, (+t * 100) + '%']), THR,
     v => { THR = v; drawMargins(); });
 seg($('#segDir'), [['close', 'Closest'], ['wide', 'Widest']], DIR, v => { DIR = v; drawMargins(); });
-seg($('#segBy'), [['gap', 'By votes'], ['pct', 'By share']], BY, v => { BY = v; drawMargins(); });
+/* Share is the default. A 4-vote margin in a town of 300 and a 4-vote margin in
+   a city of 40,000 are not the same event, and sorting by the raw gap puts the
+   large towns at the top of a list that is about how close a race was. */
+seg($('#segBy'), [['pct', 'By share'], ['gap', 'By votes']], BY, v => { BY = v; drawMargins(); });
 
 function drawMargins() {
   const list = (M[DIR + (BY === 'pct' ? '_pct' : '')][THR] || []).slice(0, 15);
@@ -1068,7 +1221,7 @@ function drawMargins() {
     '<td class="n">' + fmt(d.cast) + '</td></tr>').join('');
 
   const T = M.ties[THR] || [];
-  const ties = T.length ? '<p class="cnote" style="margin-top:10px"><b>' + T.length +
+  const ties = T.length ? '<p class="cnote"><b>' + T.length +
     ' ended in an exact tie</b>: ' +
     T.slice(0, 6).map(t => esc(t.muni) + ' ' + t.year + ' (' + esc(t.office) + ')').join('; ') +
     '.</p>' : '';
@@ -1077,74 +1230,35 @@ function drawMargins() {
     '<th class="n">Margin</th><th class="n">Share</th>' +
     '<th>Winner of the last seat &middot; runner-up</th><th class="n">Ballots</th>' +
     '</tr></thead><tbody>' + rows + '</tbody></table>' +
-    '<p class="cnote" style="margin-top:10px">' + fmt(M.contested_at[THR]) +
-    ' contested races at this threshold.</p>' + ties;
+    '<p class="cnote">' + fmt(M.contested_at[THR]) +
+    ' contested races at this threshold, 2021–2026. The earlier years are not ' +
+    'in this table: their coverage is too partial for a ranking to mean much.</p>' + ties;
   $('#marginTable').querySelectorAll('button.town').forEach(b => b.onclick = () => {
-    TOWN = b.dataset.t; YEAR = b.dataset.y;
-    [...$('#segYear').children].forEach(x => x.setAttribute('aria-pressed', x.dataset.v === YEAR));
-    drawTownYearSeg(); repaint(); drawTown();
+    TOWN = b.dataset.t; setYear(b.dataset.y);
     $('#town').scrollIntoView({block: 'start'});
   });
 }
 
 /* =====================================================================
-   Data quality
-   ===================================================================== */
-function drawQA() {
-  const count = {};
-  Object.values(M.ty).forEach(r => {
-    new Set([...(r.qa || []), ...r.races.flatMap(x => x.qa || [])]).forEach(q =>
-      count[q] = (count[q] || 0) + 1);
-  });
-  const order = Object.keys(M.qadefs).sort((a, b) =>
-    ({high: 0, medium: 1, low: 2, note: 3}[M.qadefs[a].sev] - {high: 0, medium: 1, low: 2, note: 3}[M.qadefs[b].sev])
-    || (count[b] || 0) - (count[a] || 0));
-  $('#qa').innerHTML =
-    '<table style="margin-top:14px"><thead><tr><th>Defect</th><th>Severity</th>' +
-    '<th class="n">Town-years</th><th>Why it matters</th></tr></thead><tbody>' +
-    order.map(q => '<tr><td><b>' + esc(M.qadefs[q].lab) + '</b></td>' +
-      '<td><span class="flag ' + M.qadefs[q].sev + '">' + M.qadefs[q].sev + '</span></td>' +
-      '<td class="n">' + fmt(count[q] || 0) + '</td>' +
-      '<td class="who">' + esc(M.qadefs[q].why) + '</td></tr>').join('') +
-    '</tbody></table>' +
-    '<p class="cnote" style="margin-top:12px;font-size:13.5px">' +
-    fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows (' +
-    pct(S.lines_matched / S.cands, 0) + ') trace to a literal line of source text. ' +
-    'Statewide register, 2021–2026: <a href="../audit.html">the defect register</a>.</p>';
-}
-
-/* =====================================================================
    boot
    ===================================================================== */
-$('#rail').innerHTML = [
-  ['Municipalities', fmt(S.towns_with), 'of the 351, with a result in at least one year'],
-  ['Contests', fmt(S.races), fmt(S.contested) + ' offered a real choice'],
-  ['Candidates', fmt(S.cands), fmt(S.lines_matched) + ' names traced to a line'],
-  ['Figures traced', fmt(S.figures_grounded),
-   'of ' + fmt(S.figures_checkable) + ' vote totals found on that same line'],
-  ['Votes counted', fmt(S.votes), 'across both years'],
-  ['Turnout coverage', fmt(S.with_reg), 'town-years with a registered-voter denominator'],
-  ['Fully confirmed', fmt(S.confirmed),
-   'town-years where every name and every number was found in the document'],
-].map(([k, v, n]) => '<div><div class="k">' + k + '</div><div class="v">' + v +
-    '</div><div class="n">' + n + '</div></div>').join('');
-$('#mastcount').innerHTML = '<b>' + fmt(S.town_years) + '</b> town-years &middot; <b>' +
-  fmt(S.races) + '</b> contests &middot; <b>' + fmt(S.cands) + '</b> candidates';
+$('#mastcount').innerHTML = fmt(S.town_years) + ' town-years · ' +
+  fmt(S.races) + ' contests · ' + fmt(S.cands) + ' candidates, 2021–2026';
 
 $('#foot').innerHTML =
-  '<b>Results</b> from 351 municipal clerks, town websites, annual reports and local news, ' +
-  'mirrored and converted to text. <b>Registered voters</b> from the Secretary of the ' +
-  'Commonwealth: seven published snapshots, interpolated to each election date and ' +
-  'reconciled against every county total. <b>Boundaries</b> from the MassGIS municipal ' +
-  'survey, rotated ' + G.rotation.toFixed(1) + '\u00b0 onto the smallest rectangle that ' +
-  'encloses the Commonwealth. There is no state archive of these offices; PD43+ covers ' +
-  'state and federal races only.' +
-  '<br><br>Generated by <code>build_geo.py</code> and <code>build_mvp.py</code>, both ' +
-  'read-only over the published corpus \u2014 ' + M.generated + '. ' +
-  'Method: <a href="README.md">mvp/README.md</a>. ' +
-  'Other directions: <a href="../">the Civic Atlas index</a>.';
+  '<b>Results</b> from 351 municipal clerks, town websites, annual reports and local ' +
+  'news, mirrored and converted to text. <b>Registered voters</b> from the Secretary ' +
+  'of the Commonwealth: seven published snapshots, interpolated to each election date ' +
+  'and reconciled against every county total. <b>Boundaries</b> from the MassGIS ' +
+  'municipal survey, rotated ' + G.rotation.toFixed(1) + '° onto the smallest ' +
+  'rectangle that encloses the Commonwealth. There is no state archive of these ' +
+  'offices; PD43+ covers state and federal races only.' +
+  '<br><br>' + fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows (' +
+  pct(S.lines_matched / S.cands, 0) + ') trace to a literal line of source text. ' +
+  'Data generated ' + esc(M.generated) + '. Method: <a href="README.md">README</a>. ' +
+  '<a href="../coverage.html">Coverage</a> · <a href="../">All data</a>.';
 
-drawMap(); repaint(); drawTown(); drawTownYearSeg(); drawMargins(); drawQA();
+drawMap(); repaint(); drawTown(); drawMargins();
 </script>
 </body>
 </html>

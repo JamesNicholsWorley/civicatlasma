@@ -75,14 +75,27 @@ jobs:
           COVERAGE_OUT: coverage.html
         run: python work/coverage_report.py
 
+      # The map's earlier half. Unlike build_mvp.py -- which needs the raw OCR,
+      # the extracted text and the source PDFs, none of which are in this
+      # repository -- this one reads only the published records plus the URL
+      # manifests, so it can run here. That is the whole reason the pre-2021
+      # bundle is a separate file: this half rebuilds itself, and the 2021-2026
+      # half still cannot.
+      - name: Rebuild the pre-2021 map bundle
+        run: |
+          python .tools/pages/build_pre2021.py \
+            --json-dir json_pre2021 \
+            --root .tools \
+            --out mvp/mvp-pre2021.js
+
       - name: Commit what changed
         run: |
           cp work/research/interface/defects.js defects.js
-          if git diff --quiet defects.js coverage.html; then
+          if git diff --quiet defects.js coverage.html mvp/mvp-pre2021.js; then
             echo "the generated pages are unchanged"; exit 0
           fi
           git config user.name "civicatlas-qa"
           git config user.email "jamesnicholsworleyassistant@gmail.com"
-          git add defects.js coverage.html
+          git add defects.js coverage.html mvp/mvp-pre2021.js
           git commit             -m "Rebuild the generated pages against the corpus as it now stands"             -m "The register is derived from json/, and json/ moved. Rebuilt by .github/workflows/rebuild-pages.yml so the page cannot quietly age again."
           git push origin main

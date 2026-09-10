@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Data quality — Massachusetts Civic Atlas</title>
+<meta name="robots" content="noindex">
+<style>
+:root{
+  --ink:#16181d; --ink-2:#4c5259; --ink-3:#767d86;
+  --rule:#d9dde2; --rule-2:#eceef1; --bg:#fff; --bg-2:#f6f7f9;
+  --accent:#0b4f9c;
+  --hi:#a12a1c; --hi-bg:#fbeae7;
+  --md:#8a6112; --md-bg:#fbf1dd;
+  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--ui);
+  font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:980px;margin:0 auto;padding:0 24px 72px}
+.top{border-bottom:1px solid var(--rule);margin-bottom:26px}
+.topin{max-width:980px;margin:0 auto;padding:13px 24px;display:flex;
+  align-items:baseline;gap:16px;flex-wrap:wrap}
+.topin .name{font-size:15px;font-weight:600;text-decoration:none;color:var(--ink)}
+.topin .what{font-size:13.5px;color:var(--ink-3)}
+.topin nav{margin-left:auto;display:flex;gap:16px}
+.topin nav a{font-size:13.5px;color:var(--accent);text-decoration:none}
+h1{font-size:23px;font-weight:600;letter-spacing:-.02em;margin:0 0 6px}
+h2{font-size:17px;font-weight:600;margin:38px 0 12px;padding-bottom:8px;
+  border-bottom:1px solid var(--rule)}
+p{max-width:88ch;color:var(--ink-2)}
+p.lede{font-size:15.5px;color:var(--ink-2);margin:0 0 4px}
+a{color:var(--accent)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{text-align:left;font-size:12.5px;color:var(--ink-3);font-weight:600;
+  padding:6px 12px 6px 0;border-bottom:1px solid var(--rule)}
+td{padding:7px 12px 7px 0;border-bottom:1px solid var(--rule-2);vertical-align:top}
+th.n,td.n{text-align:right;font-variant-numeric:tabular-nums;padding-right:0}
+td.why{color:var(--ink-3);font-size:13px}
+.flag{font-size:11.5px;padding:1.5px 7px;border-radius:3px;white-space:nowrap}
+.flag.high{background:var(--hi-bg);color:var(--hi)}
+.flag.medium{background:var(--md-bg);color:var(--md)}
+.flag.low,.flag.note{background:var(--bg-2);color:var(--ink-3)}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:1px;
+  background:var(--rule);border:1px solid var(--rule);border-radius:5px;
+  overflow:hidden;margin:18px 0 0}
+.facts>div{background:var(--bg);padding:11px 13px}
+.facts .k{font-size:12px;color:var(--ink-3)}
+.facts .v{font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+.facts .nn{font-size:12px;color:var(--ink-3);margin-top:2px}
+.note{border:1px solid var(--rule);border-left:3px solid var(--md);
+  background:var(--bg-2);border-radius:4px;padding:11px 14px;font-size:13.5px;
+  color:var(--ink-2);max-width:88ch}
+code{font-family:var(--mono);font-size:.9em;background:var(--bg-2);
+  padding:1px 4px;border-radius:3px}
+.tablewrap{overflow-x:auto}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--rule);
+  font-size:12.5px;color:var(--ink-3);max-width:88ch}
+@media (max-width:620px){.wrap{padding:0 14px 48px}.topin{padding:11px 14px}}
+</style>
+</head>
+<body>
+
+<div class="top"><div class="topin">
+  <a class="name" href="../">Massachusetts Civic Atlas</a>
+  <span class="what">Data quality</span>
+  <nav>
+    <a href="../mvp/">Map</a>
+    <a href="../coverage.html">Coverage</a>
+    <a href="../audit.html">Defect register</a>
+  </nav>
+</div></div>
+
+<div class="wrap">
+
+<h1>What is wrong with this data</h1>
+<p class="lede">Every check that runs against these records, how many town-years it
+touches, and why it matters. Computed at build time from the published corpus.</p>
+
+<div class="facts" id="facts"></div>
+
+<h2>Defects by check</h2>
+<div class="tablewrap" id="qa"></div>
+
+<h2>The two eras are checked differently</h2>
+<p>The table above counts <b>2021–2026</b>, where the source text was pooled line by
+line and every figure can be matched against the line it was printed on. The
+<b>2000–2020</b> records were read from page images and have no pooled lines, so
+those checks cannot run on them. What was checked there instead is the count of
+names and figures located on the page, which each record carries and the map
+reports for the town-year you are looking at.</p>
+<p>A record only reaches the site at all after passing a publication gate. Nothing
+in <code>json_pre2021/</code> is published unless that gate returned
+<code>publish</code>.</p>
+
+<h2>Why this page is not linked from the front</h2>
+<p class="note">This is a working register for the people maintaining the corpus,
+not a disclaimer aimed at readers. Defects that touch a specific number are shown
+in the provenance drawer beside that number, which is where somebody reading a
+result will actually meet them. Putting the whole register on the front page
+tells a visitor that everything is suspect, which is both discouraging and untrue.
+Nothing here is hidden — it is filed where it is useful.</p>
+
+<footer id="foot"></footer>
+</div>
+
+<script src="../mvp/mvp-data.js"></script>
+<script>
+const M = window.MVP, S = M.stats;
+const $ = s => document.querySelector(s);
+const fmt = n => (n == null ? '—' : n.toLocaleString('en-US'));
+const pct = (x, d) => x == null ? '—' : (x * 100).toFixed(d === undefined ? 1 : d) + '%';
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+const RANK = {high: 0, medium: 1, low: 2, note: 3};
+const count = {};
+Object.values(M.ty).forEach(r => {
+  new Set([...(r.qa || []), ...r.races.flatMap(x => x.qa || [])])
+    .forEach(q => count[q] = (count[q] || 0) + 1);
+});
+const order = Object.keys(M.qadefs).sort((a, b) =>
+  (RANK[M.qadefs[a].sev] - RANK[M.qadefs[b].sev]) || (count[b] || 0) - (count[a] || 0));
+
+const clean = Object.values(M.ty).filter(r =>
+  !(r.qa || []).some(q => M.qadefs[q] && RANK[M.qadefs[q].sev] <= 1) &&
+  !r.races.some(x => (x.qa || []).some(q => M.qadefs[q] && RANK[M.qadefs[q].sev] <= 1))
+).length;
+
+$('#facts').innerHTML = [
+  ['Town-years', fmt(S.town_years), '2021–2026'],
+  ['Free of high or medium flags', fmt(clean),
+   pct(clean / S.town_years, 0) + ' of the corpus'],
+  ['Candidate rows traced to a line', fmt(S.lines_matched),
+   'of ' + fmt(S.cands) + ' (' + pct(S.lines_matched / S.cands, 0) + ')'],
+  ['Fully confirmed', fmt(S.confirmed),
+   'every name and figure found in the document'],
+].map(([k, v, n]) => '<div><div class="k">' + k + '</div><div class="v">' + v +
+  '</div><div class="nn">' + n + '</div></div>').join('');
+
+$('#qa').innerHTML = '<table><thead><tr><th>Check</th><th>Severity</th>' +
+  '<th class="n">Town-years</th><th>Why it matters</th></tr></thead><tbody>' +
+  order.map(q => '<tr><td><b>' + esc(M.qadefs[q].lab) + '</b></td>' +
+    '<td><span class="flag ' + M.qadefs[q].sev + '">' + M.qadefs[q].sev + '</span></td>' +
+    '<td class="n">' + fmt(count[q] || 0) + '</td>' +
+    '<td class="why">' + esc(M.qadefs[q].why) + '</td></tr>').join('') +
+  '</tbody></table>';
+
+$('#foot').innerHTML = 'Computed from the published corpus, generated ' +
+  esc(M.generated) + '. The record of individual records that failed a check, ' +
+  'with their dispositions, is the <a href="../audit.html">defect register</a>.';
+</script>
+</body>
+</html>
