@@ -118,10 +118,16 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
 .cv{display:inline-block;margin-right:5px;font-size:12px;line-height:1;
   transition:transform .12s ease}
 #preToggle[aria-expanded="true"] .cv{transform:rotate(90deg)}
-.findbox{position:relative;flex:1;min-width:230px;max-width:340px}
+/* A hard 230px floor on a flex item is a floor the viewport cannot argue with:
+   at 1.75x zoom on a 390px screen it pushed 59px of the box off the right edge.
+   min() lets it give way when there is less room than that. */
+.findbox{position:relative;flex:1;min-width:min(230px,100%);max-width:340px}
 #q{width:100%;font:inherit;font-size:13.5px;padding:6px 31px 6px 10px;
   border:1px solid var(--rule);border-radius:5px;background:var(--bg)}
 #q:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:var(--accent)}
+/* The section is a focus TARGET, not a control: it takes focus so the reader
+   lands on the election they opened, and draws no ring for it. */
+#town:focus{outline:none}
 /* The browser's own clear button lands exactly where the caret goes. */
 #q::-webkit-search-cancel-button{display:none}
 .qall{position:absolute;right:1px;top:1px;bottom:1px;width:28px;border:0;
@@ -234,8 +240,29 @@ svg.map path.flash{stroke:var(--accent);stroke-width:3px}
 .contest h4 .meta{font-size:12.5px;font-weight:400;color:var(--ink-3);
   white-space:nowrap}
 .contest h4 .scope{font-weight:400;color:var(--ink-2);font-size:13.5px}
-.crow{display:grid;grid-template-columns:1fr 82px 62px;gap:10px;
-  align-items:baseline;padding:3px 0;border-bottom:1px solid var(--rule-2)}
+/* The vote and share columns may narrow. Fixed at 82 and 62 they could not,
+   so at 1.75x zoom the 164px they insisted on left 31px for a name and the row
+   pushed the whole page sideways. Ranges shrink when the room is not there and
+   sit at their proper width when it is -- no breakpoint to miss, and it holds
+   at any zoom, which a media query cannot see. */
+.crow{display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(52px,82px) minmax(38px,62px);
+  gap:10px;align-items:baseline;padding:3px 0;
+  border-bottom:1px solid var(--rule-2)}
+/* WCAG 2.5.8 asks 24x24 CSS px of any control. A candidate name was 22px tall,
+   which is the whole row, so the row grows rather than the text. On a touch
+   pointer the same controls go to 44, which is 2.5.5 and a real fingertip. */
+.crow .nm{min-height:24px;display:flex;align-items:center;
+  min-width:0;overflow-wrap:anywhere}
+@media (pointer:coarse){
+  .crow{padding:6px 0}
+  .crow .nm{min-height:44px}
+  .qall{width:44px}
+  #q{padding-right:47px}
+  .seg button{padding:11px 13px}
+  .hits button{padding:12px 10px}
+  .drawer .x{width:44px;height:44px}
+}
 .crow:last-of-type{border-bottom:0}
 .crow .nm{font:inherit;font-size:14.5px;text-align:left;background:none;
   border:0;padding:0;color:var(--ink);cursor:pointer;text-decoration:underline;
@@ -292,7 +319,12 @@ th+th,td+td{padding-left:16px}
 td .who{color:var(--ink-3);font-size:13px}
 button.town{font:inherit;font-size:14px;background:none;border:0;padding:0;
   color:var(--accent);cursor:pointer;text-decoration:underline;text-align:left}
+/* The table scrolls sideways when the screen is narrower than its columns. A
+   scrollbar is the usual sign of that and phones do not draw one, so the table
+   says so in words, and only at the widths where it is true. */
 .tablewrap{overflow-x:auto}
+.swipe{display:none;font-size:12.5px;color:var(--ink-3);margin:7px 0 0}
+@media (max-width:700px){.swipe{display:block}}
 
 /* drawer: the part that was already right ---------------------------------- */
 .scrim{position:fixed;inset:0;background:rgba(18,20,24,.42);opacity:0;
@@ -428,7 +460,7 @@ footer code{font-family:var(--mono);font-size:.92em}
   </div>
 </section>
 
-<section id="town">
+<section id="town" tabindex="-1">
   <h2>The election <span class="c">Every name opens the document behind it</span></h2>
   <div class="paper" id="paper"></div>
 </section>
@@ -1025,6 +1057,7 @@ function goTown(name) {
   TOWN = name; repaint(); drawTown(); showReadout(name);
   const p = $('#svg path[data-t="' + CSS.escape(name) + '"]');
   if (p) { p.classList.add('flash'); setTimeout(() => p.classList.remove('flash'), 1200); }
+  $('#town').focus({preventScroll: true});
   $('#town').scrollIntoView({block: 'start'});
 }
 
@@ -1547,11 +1580,18 @@ function drawMargins() {
     '<th class="n">Margin</th><th class="n">Share</th>' +
     '<th>Winner of the last seat &middot; runner-up</th><th class="n">Ballots</th>' +
     '</tr></thead><tbody>' + rows + '</tbody></table>' +
+    '<p class="swipe">Scroll the table sideways for the rest of each row.</p>' +
     '<p class="cnote">' + fmt(M.contested_at[THR]) +
     ' contested races at this threshold, 2021–2026. The earlier years are not ' +
     'in this table: their coverage is too partial for a ranking to mean much.</p>' + ties;
   $('#marginTable').querySelectorAll('button.town').forEach(b => b.onclick = () => {
     TOWN = b.dataset.t; setYear(b.dataset.y);
+    /* Focus goes with the reader. Activating a municipality here scrolls the
+       election into view, and leaving focus behind on the table row left that
+       row ringed and outlined while the reader was looking somewhere else --
+       and left a keyboard reader still down in the table. `tabindex="-1"` makes
+       the section a focus target without adding it to the tab sequence. */
+    $('#town').focus({preventScroll: true});
     $('#town').scrollIntoView({block: 'start'});
   });
 }
