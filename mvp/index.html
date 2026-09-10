@@ -555,37 +555,47 @@ const COV = k => isPre(k.split('|')[1])
 const SLUG = n => n.replace(/[^A-Za-z0-9]/g, '');
 const TOWN_STATE = {}, TOWN_WAIT = {};
 const thin = r => !!r && !r.races;
+/* BOTH ERAS ARE SPLIT THE SAME WAY, so one loader serves both. The key carries
+   the era because Adams before 2021 and Adams after it are different files, and
+   a town read in one era must not look loaded in the other. */
+const TKEY = (name, era) => era + '/' + SLUG(name);
+function arrived(key, table, recs) {
+  Object.assign(table, recs);
+  TOWN_STATE[key] = 'done';
+  (TOWN_WAIT[key] || []).forEach(f => f(true));
+  delete TOWN_WAIT[key];
+}
 window.MVP_TOWN = function (name, recs) {
-  Object.assign(M.ty, recs);
-  const s = SLUG(name);
-  TOWN_STATE[s] = 'done';
-  (TOWN_WAIT[s] || []).forEach(f => f(true));
-  delete TOWN_WAIT[s];
+  arrived(TKEY(name, 'town'), M.ty, recs);
 };
-function needTown(name, then) {
-  const s = SLUG(name);
-  if (TOWN_STATE[s] === 'done')   { if (then) then(true);  return; }
+window.MVP_PRE_TOWN = function (name, recs) {
+  arrived(TKEY(name, 'town_pre2021'), (PRE || {ty: {}}).ty, recs);
+};
+function needTown(name, then, era) {
+  era = era || (isPre(YEAR) ? 'town_pre2021' : 'town');
+  const key = TKEY(name, era);
+  if (TOWN_STATE[key] === 'done')   { if (then) then(true);  return; }
   // A town whose file will not load is not retried on every hover. It is
   // reported once, where the election would have been.
-  if (TOWN_STATE[s] === 'failed') { if (then) then(false); return; }
-  if (then) (TOWN_WAIT[s] = TOWN_WAIT[s] || []).push(then);
-  if (TOWN_STATE[s] === 'loading') return;
-  TOWN_STATE[s] = 'loading';
-  fetchTown(s, 1);
+  if (TOWN_STATE[key] === 'failed') { if (then) then(false); return; }
+  if (then) (TOWN_WAIT[key] = TOWN_WAIT[key] || []).push(then);
+  if (TOWN_STATE[key] === 'loading') return;
+  TOWN_STATE[key] = 'loading';
+  fetchTown(key, 1);
 }
 /* One retry, then give up and say so. A reader moving around the map asks for
    these files one at a time over a whole session, and a single dropped request
    would otherwise leave that town unreadable until the page was reloaded. A
    town that is genuinely not there fails twice and is not asked for again. */
-function fetchTown(s, tries) {
+function fetchTown(key, tries) {
   const el = document.createElement('script');
-  el.src = 'town/' + s + '.js';
+  el.src = key + '.js';
   el.onerror = () => {
     el.remove();
-    if (tries > 0) return fetchTown(s, tries - 1);
-    TOWN_STATE[s] = 'failed';
-    (TOWN_WAIT[s] || []).forEach(f => f(false));
-    delete TOWN_WAIT[s];
+    if (tries > 0) return fetchTown(key, tries - 1);
+    TOWN_STATE[key] = 'failed';
+    (TOWN_WAIT[key] || []).forEach(f => f(false));
+    delete TOWN_WAIT[key];
   };
   document.head.appendChild(el);
 }
@@ -850,7 +860,7 @@ function showReadout(name) {
 $('#svg').addEventListener('mousemove', e => {
   const p = e.target.closest('path'); if (!p) return;
   showReadout(p.dataset.t);
-  if (!isPre(YEAR) && thin(REC(KEY(p.dataset.t, YEAR)))) needTown(p.dataset.t);
+  if (thin(REC(KEY(p.dataset.t, YEAR)))) needTown(p.dataset.t);
 });
 $('#svg').addEventListener('mouseleave', () => showReadout(TOWN));
 $('#svg').addEventListener('click', e => {
@@ -1051,7 +1061,7 @@ document.addEventListener('click', e => {
    the map: start its file so the click has nothing left to wait for. */
 $('#hits').addEventListener('mouseover', e => {
   const b = e.target.closest('button'); if (!b) return;
-  if (!isPre(YEAR) && thin(REC(KEY(b.dataset.t, YEAR)))) needTown(b.dataset.t);
+  if (thin(REC(KEY(b.dataset.t, YEAR)))) needTown(b.dataset.t);
 });
 function goTown(name) {
   TOWN = name; repaint(); drawTown(); showReadout(name);

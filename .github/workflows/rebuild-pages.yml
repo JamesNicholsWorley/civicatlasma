@@ -86,16 +86,22 @@ jobs:
           python .tools/pages/build_pre2021.py \
             --json-dir json_pre2021 \
             --root .tools \
-            --out mvp/mvp-pre2021.js
+            --out mvp/mvp-pre2021.js \
+            --town-dir mvp/town_pre2021
 
       - name: Commit what changed
         run: |
           cp work/research/interface/defects.js defects.js
-          if git diff --quiet defects.js coverage.html mvp/mvp-pre2021.js; then
+          # The index and its detail files are ONE output. Checking only the
+          # index would let a rebuild that changed nothing but a town's ballots
+          # report "unchanged" and publish neither, leaving the two halves of
+          # the split disagreeing with each other on the live site.
+          if git diff --quiet defects.js coverage.html mvp/mvp-pre2021.js mvp/town_pre2021 \
+             && [ -z "$(git status --porcelain mvp/town_pre2021)" ]; then
             echo "the generated pages are unchanged"; exit 0
           fi
           git config user.name "civicatlas-qa"
           git config user.email "jamesnicholsworleyassistant@gmail.com"
-          git add defects.js coverage.html mvp/mvp-pre2021.js
+          git add -A defects.js coverage.html mvp/mvp-pre2021.js mvp/town_pre2021
           git commit             -m "Rebuild the generated pages against the corpus as it now stands"             -m "The register is derived from json/, and json/ moved. Rebuilt by .github/workflows/rebuild-pages.yml so the page cannot quietly age again."
           git push origin main
