@@ -1,0 +1,82 @@
+{
+ "document": {
+  "heading_verbatim": "Saturday, the Eighth Day of May, 2010",
+  "date_verbatim": "Saturday, the Eighth Day of May, 2010",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Plymouth",
+   "date": "2010-05-08",
+   "office_original": "Selectmen",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "SCOTT BROWN",
+     "votes": 3427
+    },
+    {
+     "name_original": "MARTIN CASEY",
+     "votes": 3130
+    },
+    {
+     "name_original": "RUSSELL",
+     "votes": 2289
+    },
+    {
+     "name_original": "Other",
+     "votes": 179
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1179
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 427
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Two Selectmen for three years",
+   "printed_total": 7200
+  },
+  {
+   "municipality": "Plymouth",
+   "date": "2010-05-08",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Total votes",
+     "votes": 2194
+    },
+    {
+     "name_original": "Total votes",
+     "votes": 2209
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "One Moderator for three years"
+  }
+ ],
+ "_source_stem": "Plymouth2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}
