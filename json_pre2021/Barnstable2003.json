@@ -554,9 +554,11 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [],
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ],
  "_grounded": {
-  "figures": "65/66",
-  "names": "48/49"
+  "names": "48/49",
+  "figures": "65/66"
  }
 }

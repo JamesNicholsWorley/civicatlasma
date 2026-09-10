@@ -1,7 +1,7 @@
 {
  "document": {
-  "heading_verbatim": "20-May-14",
-  "date_verbatim": "20-May-14",
+  "heading_verbatim": "19-May-15",
+  "date_verbatim": "19-May-15",
   "election_type": "Regular",
   "election_type_evidence": "pre-2021 ATR section; type not stated",
   "municipality_printed": true,
@@ -10,8 +10,39 @@
  "elections": [
   {
    "municipality": "Medway",
-   "date": "2014-05-20",
+   "date": "2015-05-19",
    "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Dennis Crowley",
+     "votes": 625
+    },
+    {
+     "name_original": "Richard D'Innocenzo",
+     "votes": 563
+    },
+    {
+     "name_original": "Scatterings",
+     "votes": 32
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 334
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1554
+  },
+  {
+   "municipality": "Medway",
+   "date": "2015-05-19",
+   "office_original": "TOWN CLERK",
    "district_original": "",
    "num_winners": 1,
    "stage": "General",
@@ -19,29 +50,25 @@
    "scope": "at_large",
    "candidates": [
     {
-     "name_original": "Glenn Trindade",
-     "votes": 473
-    },
-    {
-     "name_original": "Steven Lee",
-     "votes": 417
+     "name_original": "Maryjane White",
+     "votes": 689
     },
     {
      "name_original": "Scatterings",
-     "votes": 1
+     "votes": 0
     },
     {
-     "name_original": "Blanks",
-     "votes": 6
+     "name_original": "blanks",
+     "votes": 88
     }
    ],
    "provenance": "atr_section",
    "num_winners_source": "derived",
-   "printed_total": 897
+   "printed_total": 777
   },
   {
    "municipality": "Medway",
-   "date": "2014-05-20",
+   "date": "2015-05-19",
    "office_original": "BOARD OF HEALTH",
    "district_original": "",
    "num_winners": 1,
@@ -50,61 +77,57 @@
    "scope": "at_large",
    "candidates": [
     {
-     "name_original": "Michael J. Heavey",
-     "votes": 640
+     "name_original": "John A. Mill III",
+     "votes": 631
     },
     {
      "name_original": "Scatterings",
-     "votes": 10
+     "votes": 1
     },
     {
      "name_original": "Blanks",
-     "votes": 247
+     "votes": 145
     }
    ],
    "provenance": "atr_section",
    "num_winners_source": "derived",
-   "printed_total": 897
+   "printed_total": 777
   },
   {
    "municipality": "Medway",
-   "date": "2014-05-20",
+   "date": "2015-05-19",
    "office_original": "SCHOOL COMMITTEE",
    "district_original": "",
-   "num_winners": 2,
+   "num_winners": 1,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
    "candidates": [
     {
-     "name_original": "Carole Bernstein",
-     "votes": 592
+     "name_original": "Jeffrey Devolder",
+     "votes": 367
     },
     {
-     "name_original": "Cynthia Sullivan",
-     "votes": 622
-    },
-    {
-     "name_original": "Amanda Regan",
-     "votes": 9
+     "name_original": "Anh Lee",
+     "votes": 394
     },
     {
      "name_original": "Scatterings",
-     "votes": 11
+     "votes": 2
     },
     {
      "name_original": "Blanks",
-     "votes": 560
+     "votes": 14
     }
    ],
    "provenance": "atr_section",
    "num_winners_source": "derived",
-   "printed_total": 1794
+   "printed_total": 777
   },
   {
    "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "PARK Commission",
+   "date": "2015-05-19",
+   "office_original": "PARK COMMISSION",
    "district_original": "",
    "num_winners": 1,
    "stage": "General",
@@ -112,111 +135,30 @@
    "scope": "at_large",
    "candidates": [
     {
-     "name_original": "Ross Rackliff",
-     "votes": 634
+     "name_original": "Paul S Mahoney",
+     "votes": 422
     },
     {
-     "name_original": "Scatterings",
-     "votes": 4
-    },
-    {
-     "name_original": "blanks",
-     "votes": 259
-    }
-   ],
-   "provenance": "atr_section",
-   "num_winners_source": "derived",
-   "printed_total": 897
-  },
-  {
-   "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "LIBRARY TRUSTEES",
-   "district_original": "",
-   "num_winners": 2,
-   "stage": "General",
-   "type": "Regular",
-   "scope": "at_large",
-   "candidates": [
-    {
-     "name_original": "Christopher Monahan",
-     "votes": 629
-    },
-    {
-     "name_original": "John Scott Smith",
-     "votes": 593
-    },
-    {
-     "name_original": "Scatterings",
-     "votes": 4
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 568
-    }
-   ],
-   "provenance": "atr_section",
-   "num_winners_source": "derived",
-   "printed_total": 1794
-  },
-  {
-   "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "WATER/SEWER Commission",
-   "district_original": "",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "scope": "at_large",
-   "candidates": [
-    {
-     "name_original": "Robert Leonard Wilson",
-     "votes": 627
-    },
-    {
-     "name_original": "Scatterings",
-     "votes": 4
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 266
-    }
-   ],
-   "provenance": "atr_section",
-   "num_winners_source": "derived",
-   "printed_total": 897
-  },
-  {
-   "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "HOUSING Authority",
-   "district_original": "",
-   "num_winners": 1,
-   "stage": "General",
-   "type": "Regular",
-   "scope": "at_large",
-   "candidates": [
-    {
-     "name_original": "Carl Rice",
+     "name_original": "Paul Martin",
      "votes": 250
     },
     {
      "name_original": "Scatterings",
-     "votes": 41
+     "votes": 2
     },
     {
      "name_original": "Blanks",
-     "votes": 606
+     "votes": 103
     }
    ],
    "provenance": "atr_section",
    "num_winners_source": "derived",
-   "printed_total": 897
+   "printed_total": 777
   },
   {
    "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "PLANNING AND ECONOMIC BD",
+   "date": "2015-05-19",
+   "office_original": "Library Trustees",
    "district_original": "",
    "num_winners": 2,
    "stage": "General",
@@ -224,100 +166,115 @@
    "scope": "at_large",
    "candidates": [
     {
-     "name_original": "Andy Rodenheiser",
+     "name_original": "Diane Burkhardt",
+     "votes": 595
+    },
+    {
+     "name_original": "Cheryl Macneil",
+     "votes": 543
+    },
+    {
+     "name_original": "Scattering",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 413
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1554
+  },
+  {
+   "municipality": "Medway",
+   "date": "2015-05-19",
+   "office_original": "WATER/SEWER COMMISSION",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Cranston Rogers",
+     "votes": 598
+    },
+    {
+     "name_original": "Scattering",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 179
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 777
+  },
+  {
+   "municipality": "Medway",
+   "date": "2015-05-19",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Helen T. O'Donnell",
+     "votes": 627
+    },
+    {
+     "name_original": "Scattering",
+     "votes": 0
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 150
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 777
+  },
+  {
+   "municipality": "Medway",
+   "date": "2015-05-19",
+   "office_original": "PLANNING AND ECONOMIC BOARD",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Thomas Gay",
      "votes": 626
     },
     {
-     "name_original": "Robert Tucker",
-     "votes": 633
-    },
-    {
-     "name_original": "Scatterings",
-     "votes": 7
+     "name_original": "Scattering",
+     "votes": 1
     },
     {
      "name_original": "Blanks",
-     "votes": 528
+     "votes": 150
     }
    ],
    "provenance": "atr_section",
    "num_winners_source": "derived",
-   "printed_total": 1794
-  },
-  {
-   "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "REDEVELOPMENT AUTHORITY",
-   "district_original": "",
-   "num_winners": 4,
-   "stage": "General",
-   "type": "Regular",
-   "scope": "at_large",
-   "candidates": [
-    {
-     "name_original": "Douglas Downing",
-     "votes": 649
-    },
-    {
-     "name_original": "Michael Griffin",
-     "votes": 631
-    },
-    {
-     "name_original": "Ray Himmel",
-     "votes": 596
-    },
-    {
-     "name_original": "Andy Rodenhiser",
-     "votes": 584
-    },
-    {
-     "name_original": "Scatterings",
-     "votes": 11
-    },
-    {
-     "name_original": "Blanks",
-     "votes": 1117
-    }
-   ],
-   "provenance": "atr_section",
-   "num_winners_source": "derived",
-   "printed_total": 3588
-  },
-  {
-   "municipality": "Medway",
-   "date": "2014-05-20",
-   "office_original": "QUESTION1",
-   "district_original": "",
-   "num_winners": null,
-   "stage": "General",
-   "type": "Regular",
-   "scope": "at_large",
-   "candidates": [
-    {
-     "name_original": "yes",
-     "votes": 479
-    },
-    {
-     "name_original": "no",
-     "votes": 252
-    },
-    {
-     "name_original": "blanks",
-     "votes": 166
-    }
-   ],
-   "provenance": "atr_section",
-   "num_winners_source": null,
-   "printed_total": 897
+   "printed_total": 777
   }
  ],
- "_source_stem": "Medway2014",
+ "_source_stem": "Medway2015",
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
  "_gate_reasons": [],
  "_grounded": {
-  "names": "28/28",
-  "figures": "38/38"
+  "names": "18/18",
+  "figures": "28/28"
  }
 }

@@ -293,7 +293,7 @@
    "date": "2009-05-09",
    "office_original": "Question #1 Solid Waste Disposal Options",
    "district_original": "",
-   "num_winners": null,
+   "num_winners": 1,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -316,7 +316,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": null,
+   "num_winners_source": "derived",
    "printed_total": 1643
   }
  ],
@@ -326,7 +326,7 @@
  "_gate": "publish",
  "_gate_reasons": [],
  "_grounded": {
-  "figures": "41/41",
-  "names": "24/25"
+  "names": "24/25",
+  "figures": "41/41"
  }
 }
