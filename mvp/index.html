@@ -1581,7 +1581,13 @@ $('#foot').innerHTML =
   '<br><br>' + fmt(S.lines_matched) + ' of ' + fmt(S.cands) + ' candidate rows in ' +
   '2021–2026 (' + pctDown(S.lines_matched / S.cands, 1) + ') trace to a literal ' +
   'line of source text; ' + fmt(S.cands - S.lines_matched) + ' do not. ' +
-  'Data generated ' + esc(M.generated) + '. Method: <a href="README.md">README</a>. ' +
+  /* No link to mvp/README.md. It was labelled "Method" and was the only such
+     pointer a reader was offered, but GitHub Pages serves it as text/markdown --
+     so it arrived as raw source, hashes and code fences and all -- and it
+     described a 2024-2025 sample of 6,820 contests against the 19,647 this page
+     now holds. A stale developer document behind the word "Method" undermines
+     the page more than having no link does, and the page explains itself. */
+  'Data generated ' + esc(M.generated) + '. ' +
   '<a href="../coverage.html">Coverage</a> · <a href="../">All data</a>.';
 
 drawMap(); repaint(); drawTown(); drawMargins();
