@@ -114,18 +114,17 @@ const pct = (x, d) => x == null ? '—' : (x * 100).toFixed(d === undefined ? 1 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 const RANK = {high: 0, medium: 1, low: 2, note: 3};
-const count = {};
-Object.values(M.ty).forEach(r => {
-  new Set([...(r.qa || []), ...r.races.flatMap(x => x.qa || [])])
-    .forEach(q => count[q] = (count[q] || 0) + 1);
-});
+/* These two figures used to be counted here, by walking every race in the
+   corpus — which meant this page downloaded all 19,647 of them to print a table
+   of totals. The bundle now carries five fields per town-year and the races
+   travel per town, so the counting happens once, in build_mvp.py, and this page
+   reads the answer. Same definition on both sides: a town-year counts once for
+   each check that fires anywhere in it, at the record or in any of its races. */
+const count = M.qacount || {};
 const order = Object.keys(M.qadefs).sort((a, b) =>
   (RANK[M.qadefs[a].sev] - RANK[M.qadefs[b].sev]) || (count[b] || 0) - (count[a] || 0));
 
-const clean = Object.values(M.ty).filter(r =>
-  !(r.qa || []).some(q => M.qadefs[q] && RANK[M.qadefs[q].sev] <= 1) &&
-  !r.races.some(x => (x.qa || []).some(q => M.qadefs[q] && RANK[M.qadefs[q].sev] <= 1))
-).length;
+const clean = S.clean;
 
 $('#facts').innerHTML = [
   ['Town-years', fmt(S.town_years), '2021–2026'],

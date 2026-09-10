@@ -112,9 +112,16 @@ h2 .c{float:right;font-size:13px;font-weight:400;color:var(--ink-3);
   transition:transform .12s ease}
 #preToggle[aria-expanded="true"] .cv{transform:rotate(90deg)}
 .findbox{position:relative;flex:1;min-width:230px;max-width:340px}
-#q{width:100%;font:inherit;font-size:13.5px;padding:6px 10px;
+#q{width:100%;font:inherit;font-size:13.5px;padding:6px 31px 6px 10px;
   border:1px solid var(--rule);border-radius:5px;background:var(--bg)}
 #q:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:var(--accent)}
+/* The browser's own clear button lands exactly where the caret goes. */
+#q::-webkit-search-cancel-button{display:none}
+.qall{position:absolute;right:1px;top:1px;bottom:1px;width:28px;border:0;
+  background:none;color:var(--ink-2);cursor:pointer;font-size:14px;line-height:1;
+  border-radius:0 4px 4px 0;border-left:1px solid var(--rule)}
+.qall:hover{background:var(--bg-2);color:var(--ink)}
+#q[aria-expanded="true"]~.qall{color:var(--accent)}
 .hits{position:absolute;z-index:40;left:0;right:0;top:100%;margin-top:3px;
   background:var(--bg);border:1px solid var(--rule);border-radius:5px;
   box-shadow:0 6px 20px rgba(0,0,0,.1);max-height:290px;overflow:auto}
@@ -381,7 +388,10 @@ footer code{font-family:var(--mono);font-size:.92em}
       <div class="seg" id="segMetric"></div></div>
     <div class="grp findbox">
       <input type="search" id="q" placeholder="Find a town"
-             autocomplete="off" spellcheck="false" aria-label="Find a municipality">
+             autocomplete="off" spellcheck="false" aria-label="Find a municipality"
+             role="combobox" aria-controls="hits" aria-expanded="false">
+      <button class="qall" id="qall" title="Show all 351 municipalities"
+              aria-label="Show all 351 municipalities">&#9662;</button>
       <div class="hits" id="hits"></div>
     </div>
   </div>
@@ -471,6 +481,57 @@ const TMARGIN = k => isPre(k.split('|')[1])
 const COV = k => isPre(k.split('|')[1])
   ? (PRE && PRE.ty[k] ? 'official' : 'not_collected')
   : (M.cov[k] || 'no_source');
+
+/* =====================================================================
+   town detail, fetched for the town being read
+   `M.ty` ships five fields per town-year: enough to shade the map, fill the
+   readout and count the search list, and enough to keep `nothing found`,
+   `not collected` and `no election` apart. The candidate rows, the source
+   lines behind each figure and the provenance chain are ten megabytes across
+   351 towns, and they belong to whichever one the reader opened -- so they
+   arrive one town at a time.
+
+   A loaded record replaces its index record in `M.ty` in place, so every
+   reader downstream goes on saying `M.ty[k]` and none of them needs to know
+   this happened. `races` is the tell: an index record has none.
+   ===================================================================== */
+const SLUG = n => n.replace(/[^A-Za-z0-9]/g, '');
+const TOWN_STATE = {}, TOWN_WAIT = {};
+const thin = r => !!r && !r.races;
+window.MVP_TOWN = function (name, recs) {
+  Object.assign(M.ty, recs);
+  const s = SLUG(name);
+  TOWN_STATE[s] = 'done';
+  (TOWN_WAIT[s] || []).forEach(f => f(true));
+  delete TOWN_WAIT[s];
+};
+function needTown(name, then) {
+  const s = SLUG(name);
+  if (TOWN_STATE[s] === 'done')   { if (then) then(true);  return; }
+  // A town whose file will not load is not retried on every hover. It is
+  // reported once, where the election would have been.
+  if (TOWN_STATE[s] === 'failed') { if (then) then(false); return; }
+  if (then) (TOWN_WAIT[s] = TOWN_WAIT[s] || []).push(then);
+  if (TOWN_STATE[s] === 'loading') return;
+  TOWN_STATE[s] = 'loading';
+  fetchTown(s, 1);
+}
+/* One retry, then give up and say so. A reader moving around the map asks for
+   these files one at a time over a whole session, and a single dropped request
+   would otherwise leave that town unreadable until the page was reloaded. A
+   town that is genuinely not there fails twice and is not asked for again. */
+function fetchTown(s, tries) {
+  const el = document.createElement('script');
+  el.src = 'town/' + s + '.js';
+  el.onerror = () => {
+    el.remove();
+    if (tries > 0) return fetchTown(s, tries - 1);
+    TOWN_STATE[s] = 'failed';
+    (TOWN_WAIT[s] || []).forEach(f => f(false));
+    delete TOWN_WAIT[s];
+  };
+  document.head.appendChild(el);
+}
 
 function loadPre(then) {
   if (PRE) return then(true);
@@ -689,8 +750,14 @@ function showReadout(name) {
     '<span class="m" style="color:var(--ink-3)">' + esc(co || '') + ' County</span>';
 }
 
+/* Hovering is the reader saying which town they are about to open. Starting the
+   fetch there means the detail is usually already in hand by the time the click
+   lands, and the panel fills without a pause. It costs one file for a town the
+   reader was pointing at anyway. */
 $('#svg').addEventListener('mousemove', e => {
-  const p = e.target.closest('path'); if (p) showReadout(p.dataset.t);
+  const p = e.target.closest('path'); if (!p) return;
+  showReadout(p.dataset.t);
+  if (!isPre(YEAR) && thin(REC(KEY(p.dataset.t, YEAR)))) needTown(p.dataset.t);
 });
 $('#svg').addEventListener('mouseleave', () => showReadout(TOWN));
 $('#svg').addEventListener('click', e => {
@@ -806,23 +873,56 @@ function searchHits(q) {
   const mid = NAMES.filter(n => !n.toLowerCase().startsWith(s) && n.toLowerCase().includes(s));
   return pre.concat(mid).slice(0, 12);
 }
-function drawHits(q) {
-  $('#hits').innerHTML = searchHits(q).map(n => {
+/* THE LIST IS ALSO A LIST.
+   Searching only helps a reader who can already spell what they are after.
+   Somebody who half-remembers a town, or who wants to see which 351 there are,
+   had nothing to open. The caret shows all of them, typing narrows them, and
+   both arrive in the same panel so there is only ever one thing on screen. */
+function drawHits(names) {
+  $('#hits').innerHTML = names.map(n => {
     const k = KEY(n, YEAR), r = REC(k), c = COV(k);
     return '<button data-t="' + esc(n) + '"><span>' + esc(n) + '</span><span>' +
       (r ? r.n + ' contests' : c === 'no_election' ? 'no election'
          : c === 'not_collected' ? 'not collected' : 'no result') + '</span></button>';
   }).join('');
+  $('#q').setAttribute('aria-expanded', names.length ? 'true' : 'false');
 }
-$('#q').addEventListener('input', e => drawHits(e.target.value));
+function closeHits() { drawHits([]); }
+function openAll() {
+  drawHits(NAMES);
+  // Scroll the town being read into view in the list, so opening it says where
+  // you are as well as what there is.
+  const cur = $('#hits button[data-t="' + CSS.escape(TOWN) + '"]');
+  if (cur) cur.scrollIntoView({block: 'center'});
+}
+$('#q').addEventListener('input', e => {
+  const v = e.target.value;
+  drawHits(v.trim() ? searchHits(v) : []);
+});
 $('#q').addEventListener('keydown', e => {
+  if (e.key === 'Escape') { closeHits(); return; }
+  if (e.key === 'ArrowDown' && !$('#hits').innerHTML) { openAll(); return; }
   if (e.key !== 'Enter') return;
   const hit = searchHits(e.target.value)[0];
-  if (hit) { goTown(hit); e.target.value = ''; $('#hits').innerHTML = ''; }
+  if (hit) { goTown(hit); e.target.value = ''; closeHits(); }
+});
+$('#qall').addEventListener('click', () => {
+  if ($('#hits').innerHTML) { closeHits(); return; }
+  $('#q').value = ''; openAll(); $('#q').focus();
 });
 $('#hits').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
-  goTown(b.dataset.t); $('#q').value = ''; $('#hits').innerHTML = '';
+  goTown(b.dataset.t); $('#q').value = ''; closeHits();
+});
+// A list opened without typing needs a way to be dismissed without choosing.
+document.addEventListener('click', e => {
+  if (!e.target.closest('.findbox')) closeHits();
+});
+/* Pointing at a name in the list is the same signal as pointing at the town on
+   the map: start its file so the click has nothing left to wait for. */
+$('#hits').addEventListener('mouseover', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  if (!isPre(YEAR) && thin(REC(KEY(b.dataset.t, YEAR)))) needTown(b.dataset.t);
 });
 function goTown(name) {
   TOWN = name; repaint(); drawTown(); showReadout(name);
@@ -984,10 +1084,27 @@ function sourceBox(r) {
 function drawTown() {
   const name = TOWN, k = KEY(name, YEAR), r = REC(k);
   const meta = M.towns[name] || {};
-  let h = '<div class="th"><h3>' + esc(name) + ' <span class="yr">' + YEAR +
+  const head = '<div class="th"><h3>' + esc(name) + ' <span class="yr">' + YEAR +
           '</span></h3><span class="where">' + esc(meta.co || '') + ' County' +
-          (meta.form ? ' · ' + esc(meta.form) : '') + '</span></div>' +
-          '<p class="lede">' + ledeFor(name, r) + '</p>';
+          (meta.form ? ' · ' + esc(meta.form) : '') + '</span></div>';
+
+  /* The record is an index row until this town's detail arrives. Name the town
+     and say what is happening, rather than blanking the panel or showing a
+     lede built from figures that are not here yet. Redraw on arrival only if
+     the reader has not moved on in the meantime. */
+  if (thin(r)) {
+    needTown(name, ok => {
+      if (TOWN !== name) return;
+      if (ok) drawTown();
+      else $('#paper').innerHTML = head + '<p class="lede">The return for ' +
+        esc(name) + ' could not be loaded. The record exists; the file behind ' +
+        'it did not answer. Reloading the page is the first thing to try.</p>';
+    });
+    return void ($('#paper').innerHTML = head +
+      '<p class="lede">Opening the return…</p>');
+  }
+
+  let h = head + '<p class="lede">' + ledeFor(name, r) + '</p>';
 
   if (!r) { $('#paper').innerHTML = h; return; }
 
