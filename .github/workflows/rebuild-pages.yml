@@ -21,6 +21,7 @@ on:
     branches: [main]
     paths:
       - 'json/**'
+      - 'json_pre2021/**'
   workflow_dispatch:
 
 permissions:
@@ -70,6 +71,7 @@ jobs:
         env:
           COVERAGE_MASTER: .tools/pages/inventory/master_urls.csv
           COVERAGE_POPULATION: .tools/config/population.csv
+          COVERAGE_PRE2021: json_pre2021
           COVERAGE_OUT: coverage.html
         run: python work/coverage_report.py
 
