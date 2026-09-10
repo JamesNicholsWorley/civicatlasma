@@ -1,0 +1,217 @@
+{
+ "document": {
+  "heading_verbatim": "May 2, 2017",
+  "date_verbatim": "May 2, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": false,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Selectman (3 yr)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert P. Anthony",
+     "votes": 551
+    },
+    {
+     "name_original": "Gordon J. Siegel",
+     "votes": 213
+    },
+    {
+     "name_original": "Louise A. Venden",
+     "votes": 606
+    },
+    {
+     "name_original": "Blank",
+     "votes": 195
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 15
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Selectman (3 yr)",
+   "printed_total": 1580
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "School Committee (3 yr)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Elizabeth J. Lovati",
+     "votes": 651
+    },
+    {
+     "name_original": "Blank",
+     "votes": 138
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "School Committee (3 yr)",
+   "printed_total": 790
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Bd Library Trustees (3 yr)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stephen Killian Desroches",
+     "votes": 599
+    },
+    {
+     "name_original": "Joan E. Prugh",
+     "votes": 508
+    },
+    {
+     "name_original": "Blank",
+     "votes": 473
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Bd Library Trustees (3 yr)",
+   "printed_total": 1580
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Bd Library Trustees (1 yr)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 778
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 12
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Bd Library Trustees (1 yr)",
+   "printed_total": 790
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Charter Enforcement (3 yr)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 1550
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 30
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Charter Enforcement (3 yr)",
+   "printed_total": 1580
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Charter Enforcement (2 yr)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 783
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Charter Enforcement (2 yr)",
+   "printed_total": 790
+  },
+  {
+   "municipality": "Provincetown",
+   "date": "2017-05-02",
+   "office_original": "Charter Enforcement (1 yr)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 1570
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 10
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Charter Enforcement (1 yr)",
+   "printed_total": 1580
+  }
+ ],
+ "_source_stem": "Provincetown2017",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page did not name the town"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ],
+ "_grounded": {
+  "figures": "19/19",
+  "names": "6/6"
+ }
+}
