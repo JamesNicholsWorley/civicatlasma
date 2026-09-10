@@ -1,0 +1,203 @@
+{
+ "document": {
+  "heading_verbatim": "May 2, 2016",
+  "date_verbatim": "May 2, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 53
+    },
+    {
+     "name_original": "RICHARD L. MORIN SR.",
+     "votes": 393
+    },
+    {
+     "name_original": "Various",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 454
+  },
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "SELECTMEN",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 113
+    },
+    {
+     "name_original": "AUSTIN J. CYGANIEWICZ",
+     "votes": 338
+    },
+    {
+     "name_original": "AUDREY LABRIE",
+     "votes": 308
+    },
+    {
+     "name_original": "KEVIN J. MILLER",
+     "votes": 141
+    },
+    {
+     "name_original": "Various",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 908
+  },
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 116
+    },
+    {
+     "name_original": "DAWN M. HARRIS",
+     "votes": 330
+    },
+    {
+     "name_original": "Various",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 454
+  },
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 228
+    },
+    {
+     "name_original": "JANET R. CORBOSIERO",
+     "votes": 327
+    },
+    {
+     "name_original": "LAWRENCE A. MURPHY",
+     "votes": 348
+    },
+    {
+     "name_original": "Various",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 908
+  },
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 391
+    },
+    {
+     "name_original": "Ed Bond",
+     "votes": 21
+    },
+    {
+     "name_original": "Brittney Ellis",
+     "votes": 9
+    },
+    {
+     "name_original": "Richard Lucier",
+     "votes": 6
+    },
+    {
+     "name_original": "Various",
+     "votes": 27
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 454
+  },
+  {
+   "municipality": "Winchendon",
+   "date": "2016-05-02",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 54
+    },
+    {
+     "name_original": "VIRGINIA C. SIBLEY",
+     "votes": 399
+    },
+    {
+     "name_original": "Various",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 454
+  }
+ ],
+ "_source_stem": "Winchendon2016",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_grounded": {
+  "names": "17/17",
+  "figures": "23/23"
+ }
+}

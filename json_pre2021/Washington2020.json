@@ -1,0 +1,213 @@
+{
+ "document": {
+  "heading_verbatim": "SATURDAY, MAY 18, 2019",
+  "date_verbatim": "SATURDAY, MAY 18, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Washington",
+   "date": "2019-05-18",
+   "office_original": "AUDITOR (2 year unexpired term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Edward Bond",
+     "votes": 2
+    },
+    {
+     "name_original": "Glenn Grogan",
+     "votes": 1
+    },
+    {
+     "name_original": "Allison Mikaniewicz",
+     "votes": 1
+    },
+    {
+     "name_original": "Michael Burke",
+     "votes": 1
+    },
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 63
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Washington",
+   "date": "2019-05-18",
+   "office_original": "SELECTBOARD (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Patricia Drugmand, Incumbent",
+     "votes": 45
+    },
+    {
+     "name_original": "Kent Lew",
+     "votes": 6
+    },
+    {
+     "name_original": "David Fish",
+     "votes": 5
+    },
+    {
+     "name_original": "Rose Borgnis",
+     "votes": 1
+    },
+    {
+     "name_original": "Craig Willis",
+     "votes": 1
+    },
+    {
+     "name_original": "Eyal Shapira",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 10
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Washington",
+   "date": "2019-05-18",
+   "office_original": "FINANCE COMMITTEE (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kent Lew, Incumbent",
+     "votes": 58
+    },
+    {
+     "name_original": "Michael Burke",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Washington",
+   "date": "2019-05-18",
+   "office_original": "FINANCE COMMITTEE (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Debra Megas",
+     "votes": 26
+    },
+    {
+     "name_original": "Michael Burke",
+     "votes": 4
+    },
+    {
+     "name_original": "David Weissbrod",
+     "votes": 1
+    },
+    {
+     "name_original": "Richard Spencer",
+     "votes": 1
+    },
+    {
+     "name_original": "Sean Connors",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 36
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Washington",
+   "date": "2019-05-18",
+   "office_original": "PLANNING BOARD (5 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Craig Willis",
+     "votes": 16
+    },
+    {
+     "name_original": "Michael Case",
+     "votes": 2
+    },
+    {
+     "name_original": "Leslie Conklin-Lennon",
+     "votes": 2
+    },
+    {
+     "name_original": "Mathew Lawerence",
+     "votes": 1
+    },
+    {
+     "name_original": "Debra Megas",
+     "votes": 1
+    },
+    {
+     "name_original": "Steve Nelson",
+     "votes": 1
+    },
+    {
+     "name_original": "Edward Bond",
+     "votes": 1
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 45
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Washington2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 2019, the filename says 2020 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_grounded": {
+  "names": "25/25",
+  "figures": "30/30"
+ }
+}

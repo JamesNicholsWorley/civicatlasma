@@ -13,7 +13,7 @@
    "date": "2015-04-25",
    "office_original": "Selectman",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -137,7 +137,7 @@
    "date": "2015-04-25",
    "office_original": "Board of Public Health",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -160,7 +160,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "marked",
+   "num_winners_source": "derived",
    "printed_total": 2902
   },
   {
@@ -332,11 +332,9 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "38/38",
-  "names": "27/27"
+  "names": "27/27",
+  "figures": "38/38"
  }
 }

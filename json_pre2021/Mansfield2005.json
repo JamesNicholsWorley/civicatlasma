@@ -13,7 +13,7 @@
    "date": "2005-05-10",
    "office_original": "BOARD OF SELECTMEN (For Three Years)",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -44,7 +44,7 @@
    "date": "2005-05-10",
    "office_original": "SCHOOL COMMITTEE (For Three Years)",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -156,11 +156,9 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "17/17",
-  "names": "12/12"
+  "names": "12/12",
+  "figures": "17/17"
  }
 }

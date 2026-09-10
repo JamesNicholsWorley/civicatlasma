@@ -1,0 +1,226 @@
+{
+ "document": {
+  "heading_verbatim": "APRIL 6, 2010",
+  "date_verbatim": "APRIL 6, 2010",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "John J. Connolly",
+     "votes": 450
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 136
+    },
+    {
+     "name_original": "Others",
+     "votes": 4
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 590
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "BOARD OF ASSESSORS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "William C. Galvin",
+     "votes": 452
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 137
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 590
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert Schneiders",
+     "votes": 413
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 176
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 590
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Reuki B. Schutt",
+     "votes": 386
+    },
+    {
+     "name_original": "John Bonnanzio",
+     "votes": 392
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 401
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1180
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "George Jenkins",
+     "votes": 444
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 145
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 590
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kathleen Fox Alfano",
+     "votes": 399
+    },
+    {
+     "name_original": "Margaret E. Mead",
+     "votes": 390
+    },
+    {
+     "name_original": "Betty A. Chelmow",
+     "votes": 427
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 553
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1770
+  },
+  {
+   "municipality": "Canton",
+   "date": "2010-04-06",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ronald A. Grinnell",
+     "votes": 300
+    },
+    {
+     "name_original": "Jason Dupre",
+     "votes": 222
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 67
+    },
+    {
+     "name_original": "Others",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 590
+  }
+ ],
+ "_source_stem": "Canton2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_grounded": {
+  "names": "11/11",
+  "figures": "25/25"
+ }
+}

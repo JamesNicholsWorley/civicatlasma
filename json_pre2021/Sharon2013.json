@@ -1,0 +1,226 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 21, 2013",
+  "date_verbatim": "MAY 21, 2013",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "SELECTMEN FOR 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "William A. Heitin",
+     "votes": 1052
+    },
+    {
+     "name_original": "Steven E. Ross",
+     "votes": 452
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 44
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1551
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "ASSESSOR FOR 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ellen Wolfson Abelson",
+     "votes": 1046
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 9
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 496
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1551
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "SCHOOL COMMITTEE FOR 3 YEARS",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jeffery D. Cruzan",
+     "votes": 693
+    },
+    {
+     "name_original": "Emily Smith-Lee",
+     "votes": 736
+    },
+    {
+     "name_original": "Marcy L. Kaplan",
+     "votes": 1000
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 670
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 3102
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "PLANNING BOARD FOR 5 YRS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Benjamin M. Pinkowitz",
+     "votes": 1028
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 8
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 515
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1551
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "TRUSTEE OF PUBLIC LIBRARY FOR 3 YEARS",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Alyssa Weiner Rosenbaum",
+     "votes": 1031
+    },
+    {
+     "name_original": "Roberta Waterman Saphire",
+     "votes": 989
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1077
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 3102
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "TRUSTEE OF PUBLIC LIBRARY FOR 1 YEAR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jacqueline L. Modiste",
+     "votes": 1081
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 465
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1551
+  },
+  {
+   "municipality": "Sharon",
+   "date": "2013-05-21",
+   "office_original": "HOUSING AUTHORITY FOR 5 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Edwin S. Little",
+     "votes": 1083
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 12
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 456
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1551
+  }
+ ],
+ "_source_stem": "Sharon2013",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_grounded": {
+  "names": "11/11",
+  "figures": "25/25"
+ }
+}

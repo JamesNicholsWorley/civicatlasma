@@ -65,7 +65,7 @@
    "date": "2014-04-26",
    "office_original": "Selectman - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -173,7 +173,7 @@
    "date": "2014-04-26",
    "office_original": "School Committee - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -285,7 +285,7 @@
    "date": "2014-04-26",
    "office_original": "Park & Recreation Commissioner - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -311,7 +311,7 @@
    "date": "2014-04-26",
    "office_original": "Sewer Commissioner - For Three Years - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -367,7 +367,7 @@
    "date": "2014-04-26",
    "office_original": "Trustee of Veterans Memorial - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -393,7 +393,7 @@
    "date": "2014-04-26",
    "office_original": "Trustee of Public Library - For Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 3,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -475,11 +475,9 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "56/56",
-  "names": "22/22"
+  "names": "22/22",
+  "figures": "56/56"
  }
 }

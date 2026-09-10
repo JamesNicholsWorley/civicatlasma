@@ -13,7 +13,7 @@
    "date": "2015-04-14",
    "office_original": "Selectman - Three Years",
    "district_original": "",
-   "num_winners": 3,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -177,7 +177,7 @@
    "date": "2015-04-14",
    "office_original": "Trustee Of Free Public Library - Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -203,7 +203,7 @@
    "date": "2015-04-14",
    "office_original": "Landing Commissioner - Three Years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -307,11 +307,9 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "35/35",
-  "names": "24/24"
+  "names": "24/24",
+  "figures": "35/35"
  }
 }

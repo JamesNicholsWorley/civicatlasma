@@ -13,7 +13,7 @@
    "date": "2013-04-30",
    "office_original": "Board of Selectman-3 years",
    "district_original": "",
-   "num_winners": 3,
+   "num_winners": 1,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -326,7 +326,7 @@
    "date": "2013-04-30",
    "office_original": "Regional School Committee-Westminster -3 years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -357,7 +357,7 @@
    "date": "2013-04-30",
    "office_original": "Regional School Committee-Ashurnham -3 years",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -388,11 +388,9 @@
  "_provenance": "atr_section",
  "_bridge_problems": [],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "39/39",
-  "names": "19/19"
+  "names": "19/19",
+  "figures": "39/39"
  }
 }

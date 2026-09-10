@@ -1,0 +1,193 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 10, 2016",
+  "date_verbatim": "MAY 10, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 445
+    },
+    {
+     "name_original": "Freeman Condon",
+     "votes": 697
+    },
+    {
+     "name_original": "Gilbert Medeiros",
+     "votes": 607
+    },
+    {
+     "name_original": "Ronalee Ray-Parrott",
+     "votes": 773
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2528
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 318
+    },
+    {
+     "name_original": "Jerry V. Klima",
+     "votes": 934
+    },
+    {
+     "name_original": "Write-In",
+     "votes": 12
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1264
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "Triton-Newbury-3 Year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blank",
+     "votes": 572
+    },
+    {
+     "name_original": "Maureen Heffernan",
+     "votes": 690
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1264
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "Triton-Newbury-2 Year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 1089
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 161
+    },
+    {
+     "name_original": "WRITE-IN-Daniel Valianti",
+     "votes": 14
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1264
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "Triton-Rowley-3 Year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 632
+    },
+    {
+     "name_original": "Paul L. Lees",
+     "votes": 627
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1264
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2016-05-10",
+   "office_original": "Triton-Salisbury-3 year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 329
+    },
+    {
+     "name_original": "Deborah Choate",
+     "votes": 927
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1264
+  }
+ ],
+ "_source_stem": "Salisbury2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 2016, the filename says 2010 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_grounded": {
+  "names": "8/8",
+  "figures": "20/20"
+ }
+}

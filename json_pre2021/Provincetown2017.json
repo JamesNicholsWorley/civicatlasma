@@ -13,7 +13,7 @@
    "date": "2017-05-02",
    "office_original": "Selectman (3 yr)",
    "district_original": "",
-   "num_winners": 3,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -40,7 +40,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "printed",
+   "num_winners_source": "derived",
    "seats_quote": "Selectman (3 yr)",
    "printed_total": 1580
   },
@@ -49,7 +49,7 @@
    "date": "2017-05-02",
    "office_original": "School Committee (3 yr)",
    "district_original": "",
-   "num_winners": 3,
+   "num_winners": 1,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -68,7 +68,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "printed",
+   "num_winners_source": "derived",
    "seats_quote": "School Committee (3 yr)",
    "printed_total": 790
   },
@@ -133,7 +133,7 @@
    "date": "2017-05-02",
    "office_original": "Charter Enforcement (3 yr)",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -148,7 +148,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "printed",
+   "num_winners_source": "derived",
    "seats_quote": "Charter Enforcement (3 yr)",
    "printed_total": 1580
   },
@@ -181,7 +181,7 @@
    "date": "2017-05-02",
    "office_original": "Charter Enforcement (1 yr)",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -196,7 +196,7 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "printed",
+   "num_winners_source": "derived",
    "seats_quote": "Charter Enforcement (1 yr)",
    "printed_total": 1580
   }
@@ -207,11 +207,9 @@
   "the page did not name the town"
  ],
  "_gate": "publish",
- "_gate_reasons": [
-  "no two contests agree on a ballot count"
- ],
+ "_gate_reasons": [],
  "_grounded": {
-  "figures": "19/19",
-  "names": "6/6"
+  "names": "6/6",
+  "figures": "19/19"
  }
 }
