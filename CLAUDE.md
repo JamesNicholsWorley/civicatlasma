@@ -32,7 +32,8 @@ with the corpus it claims to represent — with nothing to say so.
 The **page shells are the exception, and they are the source of truth for
 themselves**: `index.html`, `mvp/index.html`, `QA/index.html` and `audit.html`
 are hand-authored here and no generator writes them. `build_mvp.py` emits
-`mvp/mvp-data.js` and `leads.csv` only; it has never written HTML. Edit the
+`mvp/mvp-data.js`, `mvp/town/*.js` and `leads.csv` only; it has never written
+HTML. Edit the
 shells here, in this repository, and nowhere else — the copies that used to
 sit in the owner's local tree are archived and replaced by redirects, because
 two editable copies of one page meant every edit risked reverting the other.
@@ -43,7 +44,24 @@ What is generated, and by what:
     coverage.html         .tools/pages/coverage_report.py   (CI)
     mvp/mvp-pre2021.js    .tools/pages/build_pre2021.py     (CI)
     mvp/mvp-data.js       build_mvp.py                      (owner's machine only)
+    mvp/town/*.js         build_mvp.py                      (owner's machine only)
     mvp/geo.js            build_geo.py                      (owner's machine only)
+
+**`mvp-data.js` and `mvp/town/` are one output in two halves and must be
+published together.** The bundle carries five fields per town-year — turnout,
+contests, contested, source kind, ballots — which is what the map, the readout
+and the search list read, and comes to 0.4 MB. The detail behind each figure,
+which is 10 MB of candidate rows, source lines and provenance, lives in one
+file per town under `town/`, fetched when a reader opens that town. Publishing
+a new bundle without its `town/` files leaves every election unreadable; the
+reverse leaves the map disagreeing with the returns behind it.
+
+The bundle also keeps a row in `ty` for **every** town-year that has one, and
+`cov` keeps the ones that have none. That is what lets the map go on telling
+*searched and nothing found* from *not collected yet* from *no election held*
+before any detail is fetched. Anything that trims `ty` further has to preserve
+that, because the three states look identical once they are collapsed and the
+distinction is the point of the project.
 
 The last two need the raw OCR, the extracted text and the source PDFs, which
 exist only in the working corpus. That is a known gap, not a hidden one.
