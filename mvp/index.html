@@ -533,12 +533,23 @@ function fetchTown(s, tries) {
   document.head.appendChild(el);
 }
 
+/* The callback is optional, because opening the rail warms this bundle without
+   waiting on it, and one request is shared by everyone who asks while it is in
+   flight -- otherwise a warm-up and a click a moment later fetch 4.5 MB twice. */
+let PRE_WAIT = null;
 function loadPre(then) {
+  then = then || function () {};
   if (PRE) return then(true);
+  if (PRE_WAIT) { PRE_WAIT.push(then); return; }
+  PRE_WAIT = [then];
+  const done = ok => {
+    const waiting = PRE_WAIT; PRE_WAIT = null;
+    waiting.forEach(f => f(ok));
+  };
   const s = document.createElement('script');
   s.src = 'mvp-pre2021.js';
-  s.onload = () => { PRE = window.MVP_PRE; then(!!PRE); };
-  s.onerror = () => then(false);
+  s.onload = () => { PRE = window.MVP_PRE; done(!!PRE); };
+  s.onerror = () => done(false);
   document.head.appendChild(s);
 }
 
@@ -613,8 +624,17 @@ const METRICS = {
   },
 };
 
+/* A shading with no figures for this year is not 351 towns that were each
+   searched and came up empty -- it is one absence, the same one everywhere. So
+   it shades as one state and the legend names it, rather than falling through
+   to per-town coverage and telling a town that HAS a published result that no
+   result was found. Whether a town has a result is the Source shading's
+   question, and it still answers it. */
+const metricBlank = m => isPre(YEAR) && !m.pre;
 function colorFor(name) {
   const k = KEY(name, YEAR), r = REC(k), m = METRICS[METRIC];
+  if (metricBlank(m))
+    return [COV(k) === 'no_election' ? NOELECT : UNCOLLECTED, null];
   const v = m.val(r, k);
   if (m.cat) {
     const c = m.cats.find(c => c[0] === v);
@@ -687,8 +707,9 @@ function drawEraNotice() {
     'town-years across <b>' + fmt(p.towns_with) + '</b> of the 351 ' +
     'municipalities' : 'a partial set') + ', against near-complete coverage ' +
     'from 2021 on. A town shaded pale has not been collected yet — it was not ' +
-    'searched and found wanting. No registered-voter counts were published for ' +
-    'these years, so turnout cannot be computed and is not offered.';
+    'searched and found wanting. No registered-voter count has been collected ' +
+    'for these years yet, so turnout has no denominator and the map shows none ' +
+    '— the other shadings work as they do for any year.';
 }
 
 function drawStatewide() {
@@ -721,17 +742,27 @@ function drawStatewide() {
 
 function drawLegend() {
   const m = METRICS[METRIC];
-  const rows = m.cat
+  const rows = metricBlank(m)
+    ? [[UNCOLLECTED, 'Not available for ' + YEAR], [NOELECT, 'No election held']]
+    : m.cat
     ? m.cats.map(c => [c[1], c[2]])
     : m.ramp.map((c, i) => [c, m.labels[i]])
         .concat(METRIC === 'turnout' ? [[ZERO, 'No counts published']] : [])
         .concat(isPre(YEAR) ? [[UNCOLLECTED, 'Not collected yet']]
                             : [[NODATA, 'No result found']])
         .concat([[NOELECT, 'No election held']]);
+  /* A shading with no figures for this year says so here, in its own legend,
+     rather than being taken off the control. `pre` marks the ones that have no
+     data before 2021 -- today that is turnout alone, and only because the
+     registered-voter series for those years has not been collected yet. */
+  const empty = metricBlank(m);
   $('#legend').innerHTML = '<h4>' + esc(m.legend) + '</h4>' +
     rows.map(([c, l]) => '<div class="row"><span class="sw" style="background:' + c +
       '"></span>' + esc(l) + '</div>').join('') +
-    '<p>' + esc(m.note) + '</p>';
+    '<p>' + esc(m.note) + '</p>' +
+    (empty ? '<p><b>Not available for ' + YEAR + '.</b> No registered-voter ' +
+      'counts were published for the years before 2021, so there is no ' +
+      'denominator to divide by. Collecting them is work in progress.</p>' : '');
 }
 
 function showReadout(name) {
@@ -741,10 +772,15 @@ function showReadout(name) {
   const cov = COV(k);
   $('#readout').innerHTML = '<b>' + esc(name) + '</b>' +
     '<span class="m">' + esc(m.legend) + ': ' +
-    (v == null ? (cov === 'no_election' ? 'no election held'
-                : cov === 'not_collected' ? 'not collected yet'
-                : 'no result found')
-               : esc(m.show(v))) + '</span>' +
+    (v != null ? esc(m.show(v))
+       // Distinct absences, said apart. A figure this year cannot carry, a town
+       // that held no election, a town not yet collected, a town searched and
+       // found wanting -- and a town with a published result whose figure for
+       // THIS measure was never printed, which is not the same as no result.
+       : metricBlank(m) ? 'not published for ' + YEAR
+       : cov === 'no_election' ? 'no election held'
+       : cov === 'not_collected' ? 'not collected yet'
+       : r ? 'not published' : 'no result found') + '</span>' +
     (r ? '<span class="m">' + r.n + ' contest' + (r.n === 1 ? '' : 's') +
          (r.peak ? ' · ' + fmt(r.peak) + ' ballots' : '') + '</span>' : '') +
     '<span class="m" style="color:var(--ink-3)">' + esc(co || '') + ' County</span>';
@@ -787,22 +823,54 @@ function yearItems() {
   const modern = M.years.map(y => [y, y]);
   return PRE_SHOWN ? PRE_YEARS.map(y => [y, y]).concat(modern) : modern;
 }
+/* The earlier years are a separate 4.5 MB bundle, and it is fetched on the first
+   year that actually needs it -- not when the rail opens. Opening the rail is a
+   glance at what exists, and a glance should not cost four and a half megabytes
+   before it will draw anything. */
 function setYear(v) {
+  if (isPre(v) && !PRE) {
+    YEAR = v; drawYearSeg();
+    const el = $('#eraNotice');
+    el.hidden = false;
+    el.innerHTML = '<b>Fetching ' + v + '.</b> The years before 2021 are a ' +
+      'separate set, loaded the first time one of them is opened.';
+    loadPre(ok => {
+      if (YEAR !== v) return;
+      // Nothing to show and no pretending otherwise: go back where we were.
+      if (!ok) {
+        el.innerHTML = '<b>The earlier years could not be loaded.</b> ' +
+          'Showing ' + (RETURN_YEAR || M.years[M.years.length - 1]) + ' instead.';
+        return applyYear(RETURN_YEAR || M.years[M.years.length - 1], true);
+      }
+      applyYear(v);
+    });
+    return;
+  }
+  applyYear(v);
+}
+function applyYear(v, keepNotice) {
   YEAR = v;
-  // Turnout does not exist before 2021. Rather than shade the whole map grey and
-  // let the reader work out why, fall to the metric that does exist and say so
-  // in the legend.
-  if (isPre(YEAR) && !METRICS[METRIC].pre) METRIC = 'contested';
-  // Re-rendered on every year change, not only when falling back: crossing back
-  // into 2021 has to put turnout back on the control it was taken off.
+  /* THE SHADING IS THE READER'S, AND THE PAGE DOES NOT TOUCH IT.
+     Turnout has no denominator before 2021 yet, and this used to drop the
+     control and switch the map to Contested on its own. Changing a year is not
+     asking for a different question to be answered: it moved the ground under
+     anyone stepping back one year, and stepping forward again did not undo it.
+     The map now shades what it was asked to shade and says where the figures
+     run out -- the legend has a band for it and the notice above the map gives
+     the reason. Registered-voter counts for the earlier years are being
+     collected; when they land, this view fills in and nothing here changes. */
   seg($('#segMetric'), metricItems(), METRIC, setMetric);
   drawYearSeg();
+  // repaint() redraws the era notice from the year. When we are here to report
+  // that the earlier years would not load, that message has to survive it.
+  const keep = keepNotice ? $('#eraNotice').innerHTML : null;
   repaint(); drawTown();
+  if (keep !== null) { $('#eraNotice').innerHTML = keep; $('#eraNotice').hidden = false; }
 }
 function metricItems() {
-  return Object.keys(METRICS)
-    .filter(k => !isPre(YEAR) || METRICS[k].pre)
-    .map(k => [k, METRICS[k].legend]);
+  // Every shading stays on offer in every year. One of them having no figures
+  // yet is something the map says, not something the control hides.
+  return Object.keys(METRICS).map(k => [k, METRICS[k].legend]);
 }
 function setMetric(v) { METRIC = v; repaint(); }
 /* Collapsed, the control is what it always was: one row of the years the corpus
@@ -852,15 +920,19 @@ $('#preToggle').onclick = function () {
     setYear(YEAR);
     return;
   }
+  /* OPENING THE RAIL IS NOT GOING ANYWHERE.
+     It used to fetch 4.5 MB, then land the reader on 2020 and swap the shading
+     off turnout, because turnout does not exist before 2021. So asking what
+     earlier years there are took a wait, moved you off the year you were
+     reading and changed what the map was showing you -- three things nobody
+     asked for. Now the rows simply appear: same year, same shading, no fetch.
+     The bundle is warmed in the background so the first earlier year the reader
+     actually picks is already there. */
   RETURN_YEAR = isPre(YEAR) ? RETURN_YEAR : YEAR;
-  btn.disabled = true; preLabel(btn, 'Loading…');
-  loadPre(ok => {
-    btn.disabled = false;
-    if (!ok) { preLabel(btn, 'Earlier years unavailable'); return; }
-    PRE_SHOWN = true; preLabel(btn, 'Earlier years');
-    btn.setAttribute('aria-expanded', 'true');
-    setYear(PRE.years[PRE.years.length - 1] || '2020');
-  });
+  PRE_SHOWN = true;
+  btn.setAttribute('aria-expanded', 'true');
+  drawYearSeg();
+  loadPre();
 };
 
 /* ---------------- search ---------------- */
