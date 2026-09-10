@@ -1,0 +1,180 @@
+{
+ "document": {
+  "heading_verbatim": "1/1/17",
+  "date_verbatim": "1/1/17",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Barnstable",
+   "date": "2017-01-01",
+   "office_original": "Member of the School Committee",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Margaret M. Walker",
+     "votes": 3219
+    },
+    {
+     "name_original": "Stephanie Ellis",
+     "votes": 2638
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1605
+    },
+    {
+     "name_original": "TOTAL",
+     "votes": 7462
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 7462
+  },
+  {
+   "municipality": "Barnstable",
+   "date": "2017-01-01",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ann K. Clark",
+     "votes": 2641
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 3119
+    },
+    {
+     "name_original": "TOTAL",
+     "votes": 5760
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 5760
+  },
+  {
+   "municipality": "Barnstable",
+   "date": "2017-01-01",
+   "office_original": "Member of the Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Michael Sweeney, Jr.",
+     "votes": 2272
+    },
+    {
+     "name_original": "Richard A. Gross, Jr.",
+     "votes": 2313
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1438
+    },
+    {
+     "name_original": "TOTAL",
+     "votes": 6338
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 6338
+  },
+  {
+   "municipality": "Barnstable",
+   "date": "2017-01-01",
+   "office_original": "Member of the Town Council Precinct 2",
+   "district_original": "Precinct 2",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "sub_town",
+   "candidates": [
+    {
+     "name_original": "Earl Sammis",
+     "votes": 154
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 116
+    },
+    {
+     "name_original": "Errors",
+     "votes": 4
+    },
+    {
+     "name_original": "Total",
+     "votes": 315
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 315
+  },
+  {
+   "municipality": "Barnstable",
+   "date": "2017-01-01",
+   "office_original": "Member of the Town Council Prec. 4",
+   "district_original": "Prec. 4",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "sub_town",
+   "candidates": [
+    {
+     "name_original": "Kris Mooneyhan",
+     "votes": 154
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 305
+    },
+    {
+     "name_original": "Errors",
+     "votes": 1
+    },
+    {
+     "name_original": "Brian Rosenstengel",
+     "votes": 5
+    },
+    {
+     "name_original": "Total",
+     "votes": 515
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 515
+  }
+ ],
+ "_source_stem": "Barnstable2018",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 2017, the filename says 2018 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ],
+ "_grounded": {
+  "names": "0/10",
+  "figures": "1/20"
+ }
+}
