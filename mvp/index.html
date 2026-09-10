@@ -675,14 +675,12 @@ const METRICS = {
     legend: 'Source',
     cats: [['official', '#3d5c46', 'Town’s own publication'],
            ['news', '#7a5a2c', 'News report only'],
-           ['thirdparty', '#5c6f8b', 'Republished by a third party'],
            ['other', '#8b8577', 'Source kind unrecorded'],
            ['no_source', NODATA, 'Searched, nothing found'],
            ['not_collected', UNCOLLECTED, 'Not collected yet'],
            ['no_election', NOELECT, 'No election held']],
     val: (r, k) => r ? (r.kind || 'other') : COV(k),
     show: v => ({official: 'Town’s own publication', news: 'News report only',
-                 thirdparty: 'Republished by a third party',
                  other: 'Source kind unrecorded', no_source: 'Nothing found',
                  not_collected: 'Not collected yet',
                  no_election: 'No election held'}[v] || v),
@@ -1204,8 +1202,8 @@ function sourceBox(r) {
      for one figure, this is for the document as a whole. */
   const who = r.pub || (r.kind === 'official' ? 'The municipality'
                       : r.kind === 'news' ? 'A news outlet' : 'Not recorded');
-  const kind = ({official: 'official', news: 'news report',
-                 thirdparty: 'republished'}[r.kind] || 'unclassified') +
+  const kind = ({official: 'official',
+                 news: 'news report'}[r.kind] || 'unclassified') +
                (r.era === 'pre2021' ? '' : ' · ' + (r.has_src ? 'text kept' : 'no text'));
   let link = '';
   if (r.url) {
