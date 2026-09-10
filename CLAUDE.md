@@ -116,7 +116,14 @@ without being told what it is:
 Prefer the most populous town-years with anomalies. A wrong figure in Quincy is
 read by more people than a wrong figure in Gosnold, and the work is the same.
 
-`mvp/README.md` documents the method behind the map.
+`mvp/README.md` documents the method behind the map, **but it is stale and no
+page links to it any more.** It is titled "The sample — 2024 & 2025" and
+describes 6,820 contests and 18,420 candidates in a `research/interface/mvp/`
+layout that is now redirect stubs; the map holds 19,647 contests and 53,529
+candidates across 2021–2026, and a further 956 town-years from 2000–2020. Read
+it for the reasoning behind the method, not for any figure or path in it. It was
+unlinked rather than rewritten because the page explains itself; rewriting or
+deleting it is an open decision.
 
 Two things to hold on to when reading these pages. A record shown here without a
 flag has not necessarily been verified — it may only be unchecked, and the two
