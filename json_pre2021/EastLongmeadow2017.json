@@ -1,0 +1,87 @@
+{
+ "document": {
+  "heading_verbatim": "June 6, 2017",
+  "date_verbatim": "June 6, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "East Longmeadow",
+   "date": "2017-06-06",
+   "office_original": "TOWN COUNCIL for 3 years",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 981
+    },
+    {
+     "name_original": "Michael J. Kane",
+     "votes": 1383
+    },
+    {
+     "name_original": "Joseph A. Ford",
+     "votes": 1338
+    },
+    {
+     "name_original": "Write Ins",
+     "votes": 150
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "TOWN COUNCIL for 3 years",
+   "printed_total": 3852
+  },
+  {
+   "municipality": "East Longmeadow",
+   "date": "2017-06-06",
+   "office_original": "SCHOOL COMMITTEE for 3 years",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 593
+    },
+    {
+     "name_original": "Jonathan J. Torcia",
+     "votes": 832
+    },
+    {
+     "name_original": "Richard L. Fuscero",
+     "votes": 1485
+    },
+    {
+     "name_original": "Gregory M. Thompson",
+     "votes": 93
+    },
+    {
+     "name_original": "Write Ins",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "SCHOOL COMMITTEE for 3 years",
+   "printed_total": 3852
+  }
+ ],
+ "_source_stem": "EastLongmeadow2017",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

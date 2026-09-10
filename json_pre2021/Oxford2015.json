@@ -1,0 +1,157 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 19, 2015",
+  "date_verbatim": "MAY 19, 2015",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Oxford",
+   "date": "2015-05-19",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 188
+    },
+    {
+     "name_original": "Dennis E. Lamarche",
+     "votes": 549
+    },
+    {
+     "name_original": "All Other Write-ins",
+     "votes": 16
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 753
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2015-05-19",
+   "office_original": "SCHOOL COMMITTEE (2)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 644
+    },
+    {
+     "name_original": "Daniel P. Coonan",
+     "votes": 450
+    },
+    {
+     "name_original": "Palmina E. Griffin",
+     "votes": 406
+    },
+    {
+     "name_original": "All Other Write-ins",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "SCHOOL COMMITTEE (2)",
+   "printed_total": 1506
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2015-05-19",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 189
+    },
+    {
+     "name_original": "John J. Bowes",
+     "votes": 558
+    },
+    {
+     "name_original": "All Other Write-ins",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 753
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2015-05-19",
+   "office_original": "SWCRVSD (Bay Path)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 233
+    },
+    {
+     "name_original": "Rene J. Hamel",
+     "votes": 518
+    },
+    {
+     "name_original": "All Other Write-ins",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 753
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2015-05-19",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 207
+    },
+    {
+     "name_original": "Patricia L. Ferdella",
+     "votes": 541
+    },
+    {
+     "name_original": "All Other Write-ins",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 753
+  }
+ ],
+ "_source_stem": "Oxford2015",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

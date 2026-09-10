@@ -1,0 +1,88 @@
+{
+ "document": {
+  "heading_verbatim": "November 3, 2009",
+  "date_verbatim": "November 3, 2009",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Templeton",
+   "date": "2009-11-03",
+   "office_original": "BOARD OF SELECTMEN 6 mo. unexp.",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert C. Mitchell",
+     "votes": 350
+    },
+    {
+     "name_original": "Christopher M. Stewart",
+     "votes": 470
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 7
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "6 mo. unexp.",
+   "printed_total": 827
+  },
+  {
+   "municipality": "Templeton",
+   "date": "2009-11-03",
+   "office_original": "CEMETERY COMMISSION 3 Yrs.",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "George C. Andrews",
+     "votes": 77
+    },
+    {
+     "name_original": "Michael G. Kirby",
+     "votes": 212
+    },
+    {
+     "name_original": "Michael P. Koziol",
+     "votes": 243
+    },
+    {
+     "name_original": "Robert-Bob M. Sans",
+     "votes": 277
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 18
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 827
+  }
+ ],
+ "_source_stem": "Templeton2009",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

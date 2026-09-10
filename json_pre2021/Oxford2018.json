@@ -1,0 +1,135 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 15, 2018",
+  "date_verbatim": "MAY 15, 2018",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Oxford",
+   "date": "2018-05-15",
+   "office_original": "SELECTMAN – 3 YRS (1)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 92
+    },
+    {
+     "name_original": "Dennis E. Lamarche",
+     "votes": 748
+    },
+    {
+     "name_original": "Andrew Joseph Marsh",
+     "votes": 624
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "3 YRS (1)",
+   "printed_total": 1471
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2018-05-15",
+   "office_original": "SCHOOL COMM – 3 Yrs (2)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 1097
+    },
+    {
+     "name_original": "Daniel P. Coonan",
+     "votes": 985
+    },
+    {
+     "name_original": "Palmina E. Griffin",
+     "votes": 835
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 25
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "3 Yrs (2)",
+   "printed_total": 2942
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2018-05-15",
+   "office_original": "LIBRARY TRUSTEE 3 Yrs",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 337
+    },
+    {
+     "name_original": "John J. Bowes",
+     "votes": 1126
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 8
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1471
+  },
+  {
+   "municipality": "Oxford",
+   "date": "2018-05-15",
+   "office_original": "SWCRY/SDC 3 Yrs",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Blanks",
+     "votes": 377
+    },
+    {
+     "name_original": "David H. Grenier",
+     "votes": 1083
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 11
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1471
+  }
+ ],
+ "_source_stem": "Oxford2018",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

@@ -1,0 +1,183 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 20, 2014",
+  "date_verbatim": "MAY 20, 2014",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "Library Trustee for three years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Alida L. Bryant",
+     "votes": 1093
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 263
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "Moderator for one year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Alan Wilson",
+     "votes": 1168
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 184
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 5
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "Planning Board for three years",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Loren G. Coons",
+     "votes": 1007
+    },
+    {
+     "name_original": "Andrea D. Fish",
+     "votes": 880
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 820
+    },
+    {
+     "name_original": "Write-ins (others)",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "School Committee for three years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Caroline C. Weld",
+     "votes": 1041
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 313
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "School Committee for two years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Shannon O. Erdmann",
+     "votes": 739
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 414
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Manchester",
+   "date": "2014-05-20",
+   "office_original": "Selectman for three years",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Paul M. Barclay",
+     "votes": 965
+    },
+    {
+     "name_original": "Margaret F. Driscoll",
+     "votes": 1021
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 719
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Manchester2014",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the printed name 'MANCHESTER-BY-THE-SEA, MASSACHUSETTS' matched nothing"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

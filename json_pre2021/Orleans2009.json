@@ -1,0 +1,236 @@
+{
+ "document": {
+  "heading_verbatim": "Tuesday, May 19, 2009",
+  "date_verbatim": "Tuesday, May 19, 2009",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": false,
+  "municipality_source": "filename"
+ },
+ "elections": [
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Duane P. Landreth",
+     "votes": 513
+    },
+    {
+     "name_original": "All others",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 120
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 638
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Margie Fulcher",
+     "votes": 454
+    },
+    {
+     "name_original": "All Others",
+     "votes": 15
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 169
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 638
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robin K. Davis",
+     "votes": 481
+    },
+    {
+     "name_original": "Job Taylor III",
+     "votes": 427
+    },
+    {
+     "name_original": "All others",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 362
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1276
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "ORLEANS HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "P.G. Redlund",
+     "votes": 10
+    },
+    {
+     "name_original": "John Holt",
+     "votes": 38
+    },
+    {
+     "name_original": "All others",
+     "votes": 16
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 574
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 638
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "NAUSET REGIONAL SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Paul O'Connor",
+     "votes": 67
+    },
+    {
+     "name_original": "Jean Souther",
+     "votes": 110
+    },
+    {
+     "name_original": "Cynthia Suonpera",
+     "votes": 105
+    },
+    {
+     "name_original": "All others",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 350
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 638
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "ORLEANS ELEMENTARY SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Joshua W. Stewart",
+     "votes": 471
+    },
+    {
+     "name_original": "Jean Souther",
+     "votes": 13
+    },
+    {
+     "name_original": "All others",
+     "votes": 10
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 144
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 638
+  },
+  {
+   "municipality": "Orleans",
+   "date": "2009-05-19",
+   "office_original": "TRUSTEE FOR SNOW LIBRARY",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Barbara Anne O'Connor",
+     "votes": 489
+    },
+    {
+     "name_original": "Timothy T. Traub",
+     "votes": 489
+    },
+    {
+     "name_original": "Barbara G. Natale",
+     "votes": 476
+    },
+    {
+     "name_original": "All others",
+     "votes": 256
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 204
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1914
+  }
+ ],
+ "_source_stem": "Orleans2009",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page did not name the town"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

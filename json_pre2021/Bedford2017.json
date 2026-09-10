@@ -1,0 +1,204 @@
+{
+ "document": {
+  "heading_verbatim": "March 11, 2017",
+  "date_verbatim": "March 11, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "SELECTMEN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "EDWARD PIERCE",
+     "votes": 551
+    },
+    {
+     "name_original": "MICHAEL A. ROSENBERG",
+     "votes": 555
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1112
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "ANNE GUAY",
+     "votes": 558
+    },
+    {
+     "name_original": "SARAH SCHOVILLE",
+     "votes": 543
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1103
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "ASSESSOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "ZOE PIERCE",
+     "votes": 556
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 556
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "BOARD OF HEALTH",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "MARY E SEYMOUR",
+     "votes": 524
+    },
+    {
+     "name_original": "ANN A KIESSLING",
+     "votes": 541
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 4
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1069
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "HOUSING AUTHORITY",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JANE PUFFER",
+     "votes": 553
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 555
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "PLANNING BOARD",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JACINDA BARBEHENN",
+     "votes": 518
+    },
+    {
+     "name_original": "TIMOTHY GRAY, JR.",
+     "votes": 511
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1035
+  },
+  {
+   "municipality": "Bedford",
+   "date": "2017-03-11",
+   "office_original": "LIBRARY TRUSTEE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "RACHEL FIELD",
+     "votes": 371
+    },
+    {
+     "name_original": "SARITA PILLAI",
+     "votes": 350
+    },
+    {
+     "name_original": "ROBIN GRACE SILBERT",
+     "votes": 388
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 1110
+  }
+ ],
+ "_source_stem": "Bedford2017",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

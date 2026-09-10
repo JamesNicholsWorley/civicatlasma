@@ -1,0 +1,137 @@
+{
+ "document": {
+  "heading_verbatim": "TUESDAY, MAY 9, 2017",
+  "date_verbatim": "TUESDAY, MAY 9, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Dennis",
+   "date": "2017-05-09",
+   "office_original": "Selectmen for Three Years – Vote for not more than TWO",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "*John W. Terrio",
+     "votes": 1143
+    },
+    {
+     "name_original": "Walter E. Hulse",
+     "votes": 527
+    },
+    {
+     "name_original": "*Robert G. Mezzadri",
+     "votes": 1089
+    },
+    {
+     "name_original": "All Others",
+     "votes": 7
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 662
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than TWO",
+   "printed_total": 3428
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2017-05-09",
+   "office_original": "Dennis-Yarmouth Regional School Committee for Three Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "*Brian F. Carey",
+     "votes": 1359
+    },
+    {
+     "name_original": "All Others",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 351
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 1714
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2017-05-09",
+   "office_original": "Old Kings Highway Regional Historic District Commissioner for Four Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "*Christopher Lambton",
+     "votes": 59
+    },
+    {
+     "name_original": "All Others",
+     "votes": 52
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1092
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 1203
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2017-05-09",
+   "office_original": "Water District Commissioner for 3 Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "*Paul F. Prue",
+     "votes": 1402
+    },
+    {
+     "name_original": "All Others",
+     "votes": 9
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 303
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 1714
+  }
+ ],
+ "_source_stem": "Dennis2017",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

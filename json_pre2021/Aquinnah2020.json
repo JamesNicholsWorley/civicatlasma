@@ -1,0 +1,113 @@
+{
+ "document": {
+  "heading_verbatim": "June 24, 2020",
+  "date_verbatim": "June 24, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Aquinnah",
+   "date": "2020-06-24",
+   "office_original": "Select Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Julianne Vanderhoop",
+     "votes": 61
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Aquinnah",
+   "date": "2020-06-24",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Marjorie Spitz",
+     "votes": 69
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Aquinnah",
+   "date": "2020-06-24",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "James Wallen",
+     "votes": 63
+    },
+    {
+     "name_original": "Thomas Murphy",
+     "votes": 58
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Aquinnah",
+   "date": "2020-06-24",
+   "office_original": "Town Clerk",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Gabriella Camillieri",
+     "votes": 71
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Aquinnah",
+   "date": "2020-06-24",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Sarah Saltonstall",
+     "votes": 56
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Aquinnah2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

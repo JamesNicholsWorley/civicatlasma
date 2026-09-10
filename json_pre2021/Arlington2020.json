@@ -1,0 +1,173 @@
+{
+ "document": {
+  "heading_verbatim": "June 6, 2020",
+  "date_verbatim": "June 6, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Arlington",
+   "date": "2020-06-06",
+   "office_original": "Select Board for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Lenard D. Diggins",
+     "votes": 6265
+    },
+    {
+     "name_original": "Diane M. Mahon",
+     "votes": 6680
+    },
+    {
+     "name_original": "Michaiah Healy",
+     "votes": 6190
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 23
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2020-06-06",
+   "office_original": "School Committee for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Elizabeth R. Exton",
+     "votes": 7591
+    },
+    {
+     "name_original": "Lynette Martyn",
+     "votes": 5634
+    },
+    {
+     "name_original": "Paul Schlichtman",
+     "votes": 6631
+    },
+    {
+     "name_original": "Bill Hayner",
+     "votes": 6611
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 39
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2020-06-06",
+   "office_original": "Assessor for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Errol Hashian",
+     "votes": 2090
+    },
+    {
+     "name_original": "Winstanley O'Connor",
+     "votes": 5701
+    },
+    {
+     "name_original": "Gordon Jamieson",
+     "votes": 2040
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2020-06-06",
+   "office_original": "Town Clerk for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Juliana H. Brazile",
+     "votes": 4042
+    },
+    {
+     "name_original": "Janice A. Weber",
+     "votes": 3057
+    },
+    {
+     "name_original": "Patti J Sawtelle",
+     "votes": 3201
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 11
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2020-06-06",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Joseph S. Daly",
+     "votes": 3355
+    },
+    {
+     "name_original": "Jo Anne Preston",
+     "votes": 6859
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 20
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Arlington2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

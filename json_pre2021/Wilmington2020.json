@@ -1,0 +1,109 @@
+{
+ "document": {
+  "heading_verbatim": "June 20, 2020",
+  "date_verbatim": "June 20, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Wilmington",
+   "date": "2020-06-20",
+   "office_original": "BOARD OF SELECTMEN for three years (vote for two)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jomarie O'Mahony",
+     "votes": 473
+    },
+    {
+     "name_original": "Gary DePalma",
+     "votes": 458
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 148
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 31
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for two",
+   "printed_total": 1110
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2020-06-20",
+   "office_original": "SCHOOL COMMITTEE for three years (vote for two)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stephen Bjork",
+     "votes": 493
+    },
+    {
+     "name_original": "Jennifer Bryson",
+     "votes": 484
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 124
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 9
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for two",
+   "printed_total": 1110
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2020-06-20",
+   "office_original": "HOUSING AUTHORITY for five years (vote for one)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Audrey Reed",
+     "votes": 510
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 43
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 2
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for one",
+   "printed_total": 555
+  }
+ ],
+ "_source_stem": "Wilmington2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

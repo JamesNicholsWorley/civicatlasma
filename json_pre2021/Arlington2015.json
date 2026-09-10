@@ -1,0 +1,150 @@
+{
+ "document": {
+  "heading_verbatim": "March 28, 2015",
+  "date_verbatim": "March 28, 2015",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Arlington",
+   "date": "2015-03-28",
+   "office_original": "Selectmen for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Steven M. Byrne",
+     "votes": 1807
+    },
+    {
+     "name_original": "Joseph A. Curro, Jr.",
+     "votes": 1907
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 58
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Selectmen for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2015-03-28",
+   "office_original": "Assessor for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kevin P. Feeley",
+     "votes": 1554
+    },
+    {
+     "name_original": "Stephen T. Harrington",
+     "votes": 844
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 7
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Assessor for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2015-03-28",
+   "office_original": "Assessor for One Year (1)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert E. Greeley",
+     "votes": 1850
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 32
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Assessor for One Year (1)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2015-03-28",
+   "office_original": "School Committee for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jeffrey D. Thielman",
+     "votes": 1564
+    },
+    {
+     "name_original": "Cindy Starks",
+     "votes": 1693
+    },
+    {
+     "name_original": "Alexis G. Moisand",
+     "votes": 986
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 22
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "School Committee for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2015-03-28",
+   "office_original": "Housing Authority for Five Years (5)",
+   "district_original": "",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Joseph S. Daly",
+     "votes": 1838
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 23
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Housing Authority for Five Years (5)"
+  }
+ ],
+ "_source_stem": "Arlington2015",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

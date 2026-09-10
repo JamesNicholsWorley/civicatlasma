@@ -1,0 +1,104 @@
+{
+ "document": {
+  "heading_verbatim": "December 27, 1999",
+  "date_verbatim": "December 27, 1999",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Milton",
+   "date": "1999-12-27",
+   "office_original": "Precinct Six Town Meeting Members",
+   "district_original": "Precinct Six",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "sub_town",
+   "candidates": [
+    {
+     "name_original": "Kathleen Newman Bakis, 119 Cabot Street",
+     "votes": 3
+    },
+    {
+     "name_original": "*Brian P. Linehan, 92 Waldeck Road",
+     "votes": 7
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 10
+  },
+  {
+   "municipality": "Milton",
+   "date": "1999-12-27",
+   "office_original": "Precinct Eight Town Meeting Members",
+   "district_original": "Precinct Eight",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "sub_town",
+   "candidates": [
+    {
+     "name_original": "Gregory M. Casey, 39 Sears Road",
+     "votes": 8
+    },
+    {
+     "name_original": "Joyce M. Tobin, 8 Conway Road",
+     "votes": 0
+    },
+    {
+     "name_original": "*Ann M. Walsh, 99 Patricia Drive",
+     "votes": 9
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 17
+  },
+  {
+   "municipality": "Milton",
+   "date": "1999-12-27",
+   "office_original": "Precinct Two Town Meeting Members",
+   "district_original": "Precinct Two",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "sub_town",
+   "candidates": [
+    {
+     "name_original": "*Debra Moir Budde, 2 Norway Road",
+     "votes": 11
+    },
+    {
+     "name_original": "Gary F. Szymczuk, 203 Brook Road",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 17
+  }
+ ],
+ "_source_stem": "Milton2000",
+ "_provenance": "atr_section",
+ "_bridge_problems": [
+  "the page dates this 1999, the filename says 2000 -- the page wins"
+ ],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

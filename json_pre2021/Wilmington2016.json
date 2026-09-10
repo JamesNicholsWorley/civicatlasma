@@ -1,0 +1,152 @@
+{
+ "document": {
+  "heading_verbatim": "April 23, 2016",
+  "date_verbatim": "April 23, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Wilmington",
+   "date": "2016-04-23",
+   "office_original": "BOARD OF SELECTMEN for three years (vote for two)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Gregory B. Bendel",
+     "votes": 1374
+    },
+    {
+     "name_original": "Kevin A. Caira",
+     "votes": 1419
+    },
+    {
+     "name_original": "Joseph Lavino",
+     "votes": 231
+    },
+    {
+     "name_original": "Thomas Miller",
+     "votes": 567
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 9
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 414
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for two",
+   "printed_total": 4014
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2016-04-23",
+   "office_original": "SCHOOL COMMITTEE for three years (vote for three)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Julia Broussard",
+     "votes": 1365
+    },
+    {
+     "name_original": "Margaret A. Kane",
+     "votes": 1434
+    },
+    {
+     "name_original": "Thomas Talbot",
+     "votes": 1256
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 16
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1950
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for three",
+   "printed_total": 6021
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2016-04-23",
+   "office_original": "HOUSING AUTHORITY for five years (Write in Candidate)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ioannis (John) Alefantis",
+     "votes": 53
+    },
+    {
+     "name_original": "John Goggin",
+     "votes": 35
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 7
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1827
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 2007
+  },
+  {
+   "municipality": "Wilmington",
+   "date": "2016-04-23",
+   "office_original": "REGIONAL VOC. TECH. SCHOOL COMMITTEE for three years (vote for one)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Robert G. Peterson",
+     "votes": 1645
+    },
+    {
+     "name_original": "Write-in",
+     "votes": 8
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 354
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for one",
+   "printed_total": 2007
+  }
+ ],
+ "_source_stem": "Wilmington2016",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

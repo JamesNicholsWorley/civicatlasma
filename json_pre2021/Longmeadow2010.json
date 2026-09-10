@@ -1,0 +1,120 @@
+{
+ "document": {
+  "heading_verbatim": "JUNE 08, 2010",
+  "date_verbatim": "JUNE 08, 2010",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Longmeadow",
+   "date": "2010-06-08",
+   "office_original": "SELECT BOARD- FOR 3 YEARS",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Mark P. Gold",
+     "votes": 3006
+    },
+    {
+     "name_original": "Michael Clark",
+     "votes": 2370
+    },
+    {
+     "name_original": "David D. Gustafson",
+     "votes": 2363
+    },
+    {
+     "name_original": "Christine L. Swanson",
+     "votes": 2723
+    },
+    {
+     "name_original": "All Others",
+     "votes": 36
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2546
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 13044
+  },
+  {
+   "municipality": "Longmeadow",
+   "date": "2010-06-08",
+   "office_original": "SCHOOL COMMITTEE-FOR 3 YRS",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Thomas Brunette",
+     "votes": 2927
+    },
+    {
+     "name_original": "Tracy E. Demarco",
+     "votes": 1242
+    },
+    {
+     "name_original": "Jennifer Allan Jester",
+     "votes": 2947
+    },
+    {
+     "name_original": "All Others",
+     "votes": 55
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 4236
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 13044
+  },
+  {
+   "municipality": "Longmeadow",
+   "date": "2010-06-08",
+   "office_original": "PLANNING BOARD - 5 YEAR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kenneth E. Taylor",
+     "votes": 4058
+    },
+    {
+     "name_original": "All others",
+     "votes": 79
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2385
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 6522
+  }
+ ],
+ "_source_stem": "Longmeadow2010",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

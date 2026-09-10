@@ -1,0 +1,161 @@
+{
+ "document": {
+  "heading_verbatim": "April 30, 2002",
+  "date_verbatim": "April 30, 2002",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Moderator",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Martin C. Goldman",
+     "votes": 1940
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1940
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Selectmen",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Reid J. Cassidy",
+     "votes": 1352
+    },
+    {
+     "name_original": "Marc Paster",
+     "votes": 1346
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Board of Assessors",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Vera C. Harrington",
+     "votes": 1927
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1927
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "School Committee",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Dan Yaeger",
+     "votes": 1901
+    },
+    {
+     "name_original": "Shelley A. Sackett",
+     "votes": 1490
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Board of Health",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Martha B. Pitman MD",
+     "votes": 1991
+    },
+    {
+     "name_original": "Lawrence S. Block MD",
+     "votes": 2018
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Planning Board",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jeffrey S. Blonder",
+     "votes": 1808
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1808
+  },
+  {
+   "municipality": "Swampscott",
+   "date": "2002-04-30",
+   "office_original": "Library Trustee",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Carl Reardon",
+     "votes": 1839
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1839
+  }
+ ],
+ "_source_stem": "Swampscott2002",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

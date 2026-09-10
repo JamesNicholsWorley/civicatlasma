@@ -1,0 +1,137 @@
+{
+ "document": {
+  "heading_verbatim": "May 5, 2016",
+  "date_verbatim": "May 5, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Sandwich",
+   "date": "2016-05-05",
+   "office_original": "Selectmen - 1 for 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "David Sampson",
+     "votes": 1946
+    },
+    {
+     "name_original": "Ralph Vitacco",
+     "votes": 1598
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 14
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 496
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "1 for 3 Years",
+   "printed_total": 4054
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2016-05-05",
+   "office_original": "School Committee - 1 for 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kerri Ames",
+     "votes": 2192
+    },
+    {
+     "name_original": "Nancy Crossman",
+     "votes": 1298
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 20
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 544
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "1 for 3 Years",
+   "printed_total": 4054
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2016-05-05",
+   "office_original": "Planning Board - 1 for 5 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Matthew Cubetus",
+     "votes": 2597
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1451
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "1 for 5 Years",
+   "printed_total": 4054
+  },
+  {
+   "municipality": "Sandwich",
+   "date": "2016-05-05",
+   "office_original": "Sandwich Housing Authority - 1 for 5 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Christine Ernst",
+     "votes": 2596
+    },
+    {
+     "name_original": "Write-Ins",
+     "votes": 8
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1450
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "1 for 5 Years",
+   "printed_total": 4054
+  }
+ ],
+ "_source_stem": "Sandwich2016",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

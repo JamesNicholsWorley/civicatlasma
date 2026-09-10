@@ -1,0 +1,151 @@
+{
+ "document": {
+  "heading_verbatim": "APRIL 2, 2016",
+  "date_verbatim": "APRIL 2, 2016",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Arlington",
+   "date": "2016-04-02",
+   "office_original": "Moderator for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "John D. Leone",
+     "votes": 3616
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 36
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)",
+   "printed_total": 3652
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2016-04-02",
+   "office_original": "Selectman for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Maria A. Romano",
+     "votes": 1442
+    },
+    {
+     "name_original": "Kevin F. Greeley",
+     "votes": 3054
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 12
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)",
+   "printed_total": 4508
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2016-04-02",
+   "office_original": "Assessor for One Year (1)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert E. Greeley",
+     "votes": 3246
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 40
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(1)",
+   "printed_total": 3286
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2016-04-02",
+   "office_original": "School Committee for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "James F. Doherty",
+     "votes": 1382
+    },
+    {
+     "name_original": "Leonard J. Kardon",
+     "votes": 3006
+    },
+    {
+     "name_original": "Kristi C. Allison-Ampe",
+     "votes": 3175
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 37
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(3)",
+   "printed_total": 7600
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2016-04-02",
+   "office_original": "Housing Authority for Five Years (5)",
+   "district_original": "",
+   "num_winners": 5,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Nicholas Metropoulos",
+     "votes": 3244
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 32
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(5)",
+   "printed_total": 3276
+  }
+ ],
+ "_source_stem": "Arlington2016",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

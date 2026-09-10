@@ -1,0 +1,149 @@
+{
+ "document": {
+  "heading_verbatim": "Tuesday, June 30, 2020",
+  "date_verbatim": "Tuesday, June 30, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Dennis",
+   "date": "2020-06-30",
+   "office_original": "Selectmen for Three Years – Vote for not more than TWO",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert Mezzadri",
+     "votes": 1222
+    },
+    {
+     "name_original": "*John Terrio",
+     "votes": 1499
+    },
+    {
+     "name_original": "*Paul R. McCormick",
+     "votes": 1596
+    },
+    {
+     "name_original": "All Others",
+     "votes": 20
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 661
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than TWO",
+   "printed_total": 4998
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2020-06-30",
+   "office_original": "Dennis-Yarmouth Regional School Committee for Three Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "*Brian Carey",
+     "votes": 52
+    },
+    {
+     "name_original": "Dustin Pineau",
+     "votes": 6
+    },
+    {
+     "name_original": "William Carmichael",
+     "votes": 13
+    },
+    {
+     "name_original": "Wayne Bergeron",
+     "votes": 6
+    },
+    {
+     "name_original": "All Others",
+     "votes": 199
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 2223
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 2499
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2020-06-30",
+   "office_original": "Old Kings Highway Regional Historic District Commissioner for Four Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "*William Bohlin",
+     "votes": 1196
+    },
+    {
+     "name_original": "All Others",
+     "votes": 13
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 479
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 1688
+  },
+  {
+   "municipality": "Dennis",
+   "date": "2020-06-30",
+   "office_original": "Water District Commissioner for 3 Years – Vote for not more than ONE",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "*Paul F. Prue",
+     "votes": 1977
+    },
+    {
+     "name_original": "All Others",
+     "votes": 11
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 511
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Vote for not more than ONE",
+   "printed_total": 2499
+  }
+ ],
+ "_source_stem": "Dennis2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

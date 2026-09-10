@@ -1,0 +1,80 @@
+{
+ "document": {
+  "heading_verbatim": "MONDAY, APRIL 2, 2001",
+  "date_verbatim": "MONDAY, APRIL 2, 2001",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Plainville",
+   "date": "2001-04-02",
+   "office_original": "REGISTER OF DEEDS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "PAUL D. HAROLD",
+     "votes": 0
+    },
+    {
+     "name_original": "BRUCE OLSEN",
+     "votes": 1
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 0
+    },
+    {
+     "name_original": "WRITE-INS",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1
+  },
+  {
+   "municipality": "Plainville",
+   "date": "2001-04-02",
+   "office_original": "COUNTY COMMISSIONER - (Vote Two)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JOHN M. GILLIS",
+     "votes": 1
+    },
+    {
+     "name_original": "WILLIAM P. O'DONNELL",
+     "votes": 1
+    },
+    {
+     "name_original": "BLANKS",
+     "votes": 0
+    },
+    {
+     "name_original": "WRITE-INS",
+     "votes": 0
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "(Vote Two)",
+   "printed_total": 2
+  }
+ ],
+ "_source_stem": "Plainville2001",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

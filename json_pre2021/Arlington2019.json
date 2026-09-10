@@ -1,0 +1,141 @@
+{
+ "document": {
+  "heading_verbatim": "APRIL 6, 2019",
+  "date_verbatim": "APRIL 6, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Arlington",
+   "date": "2019-04-06",
+   "office_original": "Town Moderator for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "John D. Leone",
+     "votes": 4872
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 45
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2019-04-06",
+   "office_original": "Assessor for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Robert E. Greeley",
+     "votes": 4526
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 80
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2019-04-06",
+   "office_original": "Selectmen for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stephen W. DeCourcey",
+     "votes": 3554
+    },
+    {
+     "name_original": "Robert L. Tosi, Jr.",
+     "votes": 2468
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 13
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2019-04-06",
+   "office_original": "School Committee for Three Years (3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Leonard Kardon",
+     "votes": 4121
+    },
+    {
+     "name_original": "Kirsi Allison-Ampe",
+     "votes": 4223
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 51
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "for Three Years (3)"
+  },
+  {
+   "municipality": "Arlington",
+   "date": "2019-04-06",
+   "office_original": "Housing Authority",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Gaar Talanian",
+     "votes": 4184
+    },
+    {
+     "name_original": "Write-in Votes",
+     "votes": 47
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked"
+  }
+ ],
+ "_source_stem": "Arlington2019",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "document": {
+  "heading_verbatim": "June 16, 2020",
+  "date_verbatim": "June 16, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2020-06-16",
+   "office_original": "Selectman",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Wilma McDonald",
+     "votes": 226
+    },
+    {
+     "name_original": "Write Ins",
+     "votes": 6
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 14
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 246
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2020-06-16",
+   "office_original": "Triton Regional School Committee-Newbury (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Paul Myette (Write In)",
+     "votes": 9
+    },
+    {
+     "name_original": "Other Write Ins",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 235
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 246
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2020-06-16",
+   "office_original": "Triton Regional School Committee-Rowley (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Constantina Tsortzis (Write In)",
+     "votes": 9
+    },
+    {
+     "name_original": "Other Write Ins",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 233
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 246
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2020-06-16",
+   "office_original": "Triton Regional School Committee-Salisbury (3 year term)",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Caitlin Hunter",
+     "votes": 216
+    },
+    {
+     "name_original": "Write Ins",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 25
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 246
+  }
+ ],
+ "_source_stem": "Salisbury2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

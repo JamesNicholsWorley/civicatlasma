@@ -1,0 +1,226 @@
+{
+ "document": {
+  "heading_verbatim": "MAY 15, 2001",
+  "date_verbatim": "MAY 15, 2001",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "MODERATOR – One Year Term",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "George Higgins",
+     "votes": 833
+    },
+    {
+     "name_original": "Write ins",
+     "votes": 24
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 153
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "One Year Term",
+   "printed_total": 1010
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "SELECTMAN — Three Year Term 2 Elected",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Thomas Newton",
+     "votes": 658
+    },
+    {
+     "name_original": "Henry Curtis",
+     "votes": 525
+    },
+    {
+     "name_original": "Toni Stoker",
+     "votes": 485
+    },
+    {
+     "name_original": "Scott White",
+     "votes": 201
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 151
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "2 Elected",
+   "printed_total": 2020
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "ELEMENTARY SCHOOL COMMITTEE — Three Year Term 2 Elected",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Marcia Nickerson",
+     "votes": 864
+    },
+    {
+     "name_original": "Elizabeth Putnam (Write in)",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 142
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "2 Elected",
+   "printed_total": 1010
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "HOUSING AUTHORITY — Five Year Term",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Doreen Cahill",
+     "votes": 842
+    },
+    {
+     "name_original": "Write ins",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 163
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Five Year Term",
+   "printed_total": 1010
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "LIBRARY TRUSTEE — Three Year Term",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ian Aitchison",
+     "votes": 842
+    },
+    {
+     "name_original": "Write ins",
+     "votes": 4
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 164
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "Three Year Term",
+   "printed_total": 1010
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "REGIONAL SCHOOL COMMITTEE EASTHAM",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Lucille Schoenburger (Write in)",
+     "votes": 7
+    },
+    {
+     "name_original": "Write ins",
+     "votes": 15
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 998
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1020
+  },
+  {
+   "municipality": "Eastham",
+   "date": "2001-05-15",
+   "office_original": "REGIONAL SCHOOL COMMITTEE WELLFLEET",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "James Chudomel - Eastham Votes",
+     "votes": 618
+    },
+    {
+     "name_original": "Wellfleet Votes",
+     "votes": 816
+    },
+    {
+     "name_original": "Total",
+     "votes": 1434
+    },
+    {
+     "name_original": "Write ins",
+     "votes": 5
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 387
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived"
+  }
+ ],
+ "_source_stem": "Eastham2001",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

@@ -1,0 +1,134 @@
+{
+ "document": {
+  "heading_verbatim": "May 13, 2000",
+  "date_verbatim": "May 13, 2000",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Plymouth",
+   "date": "2000-05-13",
+   "office_original": "BOARD OF SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Times counted",
+     "votes": 4775
+    },
+    {
+     "name_original": "Unused Votes",
+     "votes": 15
+    },
+    {
+     "name_original": "KENNETH TAVARES",
+     "votes": 2047
+    },
+    {
+     "name_original": "JAMES BENNETT",
+     "votes": 1263
+    },
+    {
+     "name_original": "STEPHEN LUCZYNIAK",
+     "votes": 736
+    },
+    {
+     "name_original": "Tamy Foisy",
+     "votes": 1
+    },
+    {
+     "name_original": "Mayor",
+     "votes": 2
+    },
+    {
+     "name_original": "Brian Losl",
+     "votes": 1
+    },
+    {
+     "name_original": "Russell Shivley",
+     "votes": 1
+    },
+    {
+     "name_original": "Laurien Enros",
+     "votes": 1
+    },
+    {
+     "name_original": "Eugenie Lane",
+     "votes": 1
+    },
+    {
+     "name_original": "Richard Gibbons Jr.",
+     "votes": 1
+    },
+    {
+     "name_original": "Snowy Gurnitch",
+     "votes": 1
+    },
+    {
+     "name_original": "Blank",
+     "votes": 3
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 4775
+  },
+  {
+   "municipality": "Plymouth",
+   "date": "2000-05-13",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Times counted",
+     "votes": 12525
+    },
+    {
+     "name_original": "Unused Votes",
+     "votes": 5098
+    },
+    {
+     "name_original": "MARGARET C BURGESS",
+     "votes": 2447
+    },
+    {
+     "name_original": "RICHARD BREEN JR",
+     "votes": 2517
+    },
+    {
+     "name_original": "NANCY J SCHEUGER",
+     "votes": 2420
+    },
+    {
+     "name_original": "Adele Marneff",
+     "votes": 2
+    },
+    {
+     "name_original": "Sheryl Holmes",
+     "votes": 1
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "3 School Committee, 3 years",
+   "printed_total": 12525
+  }
+ ],
+ "_source_stem": "Plymouth2000",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

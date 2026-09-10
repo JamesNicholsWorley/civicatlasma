@@ -1,0 +1,137 @@
+{
+ "document": {
+  "heading_verbatim": "MARCH 27, 2001",
+  "date_verbatim": "MARCH 27, 2001",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Andover",
+   "date": "2001-03-27",
+   "office_original": "MODERATOR",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JAMES D DOHERTY",
+     "votes": 1605
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 328
+    },
+    {
+     "name_original": "Misc. Others",
+     "votes": 46
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1979
+  },
+  {
+   "municipality": "Andover",
+   "date": "2001-03-27",
+   "office_original": "BOARD OF SELECTMEN",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "JOHN P HESS",
+     "votes": 1216
+    },
+    {
+     "name_original": "RAYMOND D HENDLER",
+     "votes": 1296
+    },
+    {
+     "name_original": "TIMOTHY M McCARRON",
+     "votes": 878
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 547
+    },
+    {
+     "name_original": "Misc. Others",
+     "votes": 21
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 3958
+  },
+  {
+   "municipality": "Andover",
+   "date": "2001-03-27",
+   "office_original": "SCHOOL COMMITTEE",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "RICHARD J COLLINS",
+     "votes": 1546
+    },
+    {
+     "name_original": "TINA GIRDWOOD",
+     "votes": 1489
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 898
+    },
+    {
+     "name_original": "Misc. Others",
+     "votes": 25
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 3958
+  },
+  {
+   "municipality": "Andover",
+   "date": "2001-03-27",
+   "office_original": "ANDOVER HOUSING",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "RONALD C HAJI",
+     "votes": 1559
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 407
+    },
+    {
+     "name_original": "Misc. Others",
+     "votes": 13
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1979
+  }
+ ],
+ "_source_stem": "Andover2001",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

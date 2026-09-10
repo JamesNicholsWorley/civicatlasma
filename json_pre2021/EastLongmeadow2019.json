@@ -1,0 +1,85 @@
+{
+ "document": {
+  "heading_verbatim": "June 4, 2019",
+  "date_verbatim": "June 4, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "East Longmeadow",
+   "date": "2019-06-04",
+   "office_original": "For Town Council (vote for3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kathleen G. Hill",
+     "votes": 489
+    },
+    {
+     "name_original": "R. Patrick Henry",
+     "votes": 422
+    },
+    {
+     "name_original": "Ralph E. Page",
+     "votes": 452
+    },
+    {
+     "name_original": "(write-ins)",
+     "votes": 246
+    },
+    {
+     "name_original": "(Blanks)",
+     "votes": 602
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for3",
+   "printed_total": 2211
+  },
+  {
+   "municipality": "East Longmeadow",
+   "date": "2019-06-04",
+   "office_original": "For School Committee (vote for 2)",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "William H. Fonseca",
+     "votes": 461
+    },
+    {
+     "name_original": "Antoniella Raschilla",
+     "votes": 581
+    },
+    {
+     "name_original": "(write-ins)",
+     "votes": 18
+    },
+    {
+     "name_original": "(Blanks)",
+     "votes": 414
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "vote for 2",
+   "printed_total": 1474
+  }
+ ],
+ "_source_stem": "EastLongmeadow2019",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

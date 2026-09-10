@@ -1,0 +1,85 @@
+{
+ "document": {
+  "heading_verbatim": "May 13, 2008",
+  "date_verbatim": "May 13, 2008",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Salisbury",
+   "date": "2008-05-13",
+   "office_original": "SELECTMAN",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "BLANK",
+     "votes": 14
+    },
+    {
+     "name_original": "Fred Knowles",
+     "votes": 259
+    },
+    {
+     "name_original": "WRITE-IN",
+     "votes": 6
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 279
+  },
+  {
+   "municipality": "Salisbury",
+   "date": "2008-05-13",
+   "office_original": "TRITON REGIONAL SCHOOL COMMITTEE MEMBERS – THREE MEMBERS FOR 3 YEAR TERMS – ONE MEMBER FROM EACH TOWN",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Triton-Rowley BLANK",
+     "votes": 1204
+    },
+    {
+     "name_original": "Lane Bourn",
+     "votes": 1469
+    },
+    {
+     "name_original": "Triton-Rowley WRITE-IN",
+     "votes": 33
+    },
+    {
+     "name_original": "Triton-Salisbury BLANK",
+     "votes": 1189
+    },
+    {
+     "name_original": "Holly Beth Janvrin",
+     "votes": 1507
+    },
+    {
+     "name_original": "Triton-Salisbury WRITE-IN",
+     "votes": 10
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "printed",
+   "seats_quote": "THREE MEMBERS FOR 3 YEAR TERMS"
+  }
+ ],
+ "_source_stem": "Salisbury2008",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": [
+  "no two contests agree on a ballot count"
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "document": {
+  "heading_verbatim": "APRIL 1, 2017",
+  "date_verbatim": "APRIL 1, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "North Attleborough",
+   "date": "2017-04-01",
+   "office_original": "1 Board of Selectmen",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Paul B Pisciottano",
+     "votes": 1708
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1128
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 2836
+  },
+  {
+   "municipality": "North Attleborough",
+   "date": "2017-04-01",
+   "office_original": "1 Board of Health",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jonathan D Kaehn",
+     "votes": 1664
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1172
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 2836
+  },
+  {
+   "municipality": "North Attleborough",
+   "date": "2017-04-01",
+   "office_original": "1 Board of Public Works",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "David Corona",
+     "votes": 1622
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1214
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 2836
+  },
+  {
+   "municipality": "North Attleborough",
+   "date": "2017-04-01",
+   "office_original": "1 Housing Authority Per",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Greg C Parise",
+     "votes": 1631
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 1205
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "marked",
+   "printed_total": 2836
+  }
+ ],
+ "_source_stem": "NorthAttleborough2017",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}

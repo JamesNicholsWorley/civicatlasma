@@ -1,0 +1,110 @@
+{
+ "document": {
+  "heading_verbatim": "June 1, 2020",
+  "date_verbatim": "June 1, 2020",
+  "election_type": "Regular",
+  "election_type_evidence": "pre-2021 ATR section; type not stated",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "elections": [
+  {
+   "municipality": "Orange",
+   "date": "2020-06-01",
+   "office_original": "Selectman, 3 Years",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jane Peirce",
+     "votes": 486
+    },
+    {
+     "name_original": "John Avila",
+     "votes": 41
+    },
+    {
+     "name_original": "Donna Dufour",
+     "votes": 148
+    },
+    {
+     "name_original": "Richard Sheridan",
+     "votes": 258
+    },
+    {
+     "name_original": "Thomas Smith",
+     "votes": 545
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 3
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 109
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 1590
+  },
+  {
+   "municipality": "Orange",
+   "date": "2020-06-01",
+   "office_original": "Selectman, 2 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Patrick Davis",
+     "votes": 346
+    },
+    {
+     "name_original": "Patricia Lussier",
+     "votes": 398
+    },
+    {
+     "name_original": "Write-ins",
+     "votes": 2
+    },
+    {
+     "name_original": "Blanks",
+     "votes": 49
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 795
+  },
+  {
+   "municipality": "Orange",
+   "date": "2020-06-01",
+   "office_original": "Selectman, 1 year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Alexandre Schwanz",
+     "votes": 399
+    }
+   ],
+   "provenance": "atr_section",
+   "num_winners_source": "derived",
+   "printed_total": 399
+  }
+ ],
+ "_source_stem": "Orange2020",
+ "_provenance": "atr_section",
+ "_bridge_problems": [],
+ "_gate": "publish",
+ "_gate_reasons": []
+}
