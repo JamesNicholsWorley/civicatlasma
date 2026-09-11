@@ -670,9 +670,11 @@ const METRICS = {
     val: r => r && r.turnout,
     show: v => v === 0 ? 'no counts published' : pct(v),
     note: 'Ballots cast, over registered voters at the election date.',
-    // No registered-voter series was published for the pre-2021 years in this
-    // corpus, so there is no denominator and no rate is computed.
-    pre: false,
+    // Before 2021 the denominator comes from the Secretary of the
+    // Commonwealth's Public Document 43, which this project has read for the
+    // EVEN years 2000-2018 so far. `pre` is no longer a yes-or-no about the
+    // era: the year decides, and it decides by looking.
+    pre: true,
   },
   contested: {
     legend: 'Contested',
@@ -719,7 +721,26 @@ const METRICS = {
    to per-town coverage and telling a town that HAS a published result that no
    result was found. Whether a town has a result is the Source shading's
    question, and it still answers it. */
-const metricBlank = m => isPre(YEAR) && !m.pre;
+/* A metric is blank for a year when NO town has a figure for it that year --
+   asked of the data rather than declared per era. Turnout before 2021 exists
+   for the even years 2000-2018, out of Public Document 43, and not for the odd
+   ones or 2020; a flag on the metric could not say that, and would have to be
+   edited again every time another volume is read. Memoised per metric-year:
+   this runs once per repaint, not once per town. */
+const _blankMemo = {};
+function metricBlank(m) {
+  if (!isPre(YEAR)) return false;
+  if (!m.pre) return true;
+  const memo = m.legend + '|' + YEAR;
+  if (memo in _blankMemo) return _blankMemo[memo];
+  const towns = Object.keys(M.towns);
+  let any = false;
+  for (let i = 0; i < towns.length && !any; i++) {
+    const v = m.val(REC(KEY(towns[i], YEAR)), KEY(towns[i], YEAR));
+    if (v != null) any = true;
+  }
+  return (_blankMemo[memo] = !any);
+}
 function colorFor(name) {
   const k = KEY(name, YEAR), r = REC(k), m = METRICS[METRIC];
   if (metricBlank(m))
@@ -849,9 +870,14 @@ function drawLegend() {
     rows.map(([c, l]) => '<div class="row"><span class="sw" style="background:' + c +
       '"></span>' + esc(l) + '</div>').join('') +
     '<p>' + esc(m.note) + '</p>' +
-    (empty ? '<p><b>Not available for ' + YEAR + '.</b> No registered-voter ' +
-      'counts were published for the years before 2021, so there is no ' +
-      'denominator to divide by. Collecting them is work in progress.</p>' : '');
+    (empty ? '<p><b>Not available for ' + YEAR + '.</b> The registered-voter ' +
+      'counts for this year have not been read yet, so there is no ' +
+      'denominator to divide by. Before 2021 they come from Public Document ' +
+      '43, published by the Secretary of the Commonwealth, one volume a year. ' +
+      'The even years from 2000 to 2018 are done so far.</p>' : '') +
+    (!empty && isPre(YEAR) ? '<p>Registered voters for this year are read from ' +
+      'Public Document 43. A town with no shading is one that volume has not ' +
+      'been read for &mdash; not a town that held no election.</p>' : '');
 }
 
 function showReadout(name) {
@@ -1273,13 +1299,21 @@ function drawTown() {
   if (!r) { $('#paper').innerHTML = h; return; }
 
   h += '<div class="facts">' + [
-    ['Ballots cast', r.peak ? fmt(r.peak) : '—',
-     r.peak_from_doc ? 'stated by the document'
+    /* Before 2021 the ballot total and the denominator both come from
+       Public Document 43 where it has been read, and from nowhere where
+       it has not. Neither row keys off the era any more: the era says
+       which volume, the record says whether we have it. */
+    ['Ballots cast', r.cast_official ? fmt(r.cast_official)
+       : r.peak ? fmt(r.peak) : '—',
+     r.cast_official ? 'stated by Public Document 43'
+       : r.peak_from_doc ? 'stated by the document'
        : r.era === 'pre2021' ? 'busiest contest; no total was printed'
        : r.peak ? 'busiest contest' : 'none published'],
-    ['Turnout', r.era === 'pre2021' ? 'n/a'
-       : r.nocount ? 'n/a' : r.turnout == null ? '—' : pct(r.turnout),
-     r.era === 'pre2021' ? 'no registered-voter count for these years'
+    ['Turnout', r.turnout != null ? pct(r.turnout)
+       : r.era === 'pre2021' ? 'n/a'
+       : r.nocount ? 'n/a' : '—',
+     r.turnout != null && r.reg ? 'of ' + fmt(r.reg) + ' registered'
+       : r.era === 'pre2021' ? 'no registered-voter count read for this year yet'
        : r.nocount ? ({floor: 'no ballot was cast', preballot: 'sample ballot only'}
                       [r.nocount_why] || 'no counts published')
        : r.reg ? 'of ' + fmt(r.reg) + ' registered' : 'no denominator'],
