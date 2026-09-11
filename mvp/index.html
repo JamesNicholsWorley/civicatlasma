@@ -527,6 +527,19 @@ let PRE = null, PRE_SHOWN = false;
 // The modern year the rail was opened from, so closing it returns there.
 let RETURN_YEAR = null;
 
+/* MOVING THE READER IS A MOVEMENT, not a cut. Opening a town from the map, the
+   search or the margins table jumped the page to the election with no sense of
+   travel, so it was not obvious that the page had scrolled rather than
+   replaced itself. `prefers-reduced-motion` is honoured: a reader who has asked
+   the system for no animation gets the jump, which for them is the correct
+   behaviour and not a lesser one. */
+const CALM = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)');
+function glideTo(el, block) {
+  if (!el) return;
+  el.scrollIntoView({block: block || 'start',
+                     behavior: (CALM && CALM.matches) ? 'auto' : 'smooth'});
+}
+
 const isPre = y => y < '2021';
 const REC = k => isPre(k.split('|')[1]) ? (PRE && PRE.ty[k]) || null : M.ty[k] || null;
 const TMARGIN = k => isPre(k.split('|')[1])
@@ -864,7 +877,7 @@ $('#svg').addEventListener('mouseleave', () => showReadout(TOWN));
 $('#svg').addEventListener('click', e => {
   const p = e.target.closest('path'); if (!p) return;
   TOWN = p.dataset.t; repaint(); drawTown();
-  $('#town').scrollIntoView({block: 'start'});
+  glideTo($('#town'));
 });
 
 /* ---------------- segmented controls ---------------- */
@@ -1066,7 +1079,7 @@ function goTown(name) {
   const p = $('#svg path[data-t="' + CSS.escape(name) + '"]');
   if (p) { p.classList.add('flash'); setTimeout(() => p.classList.remove('flash'), 1200); }
   $('#town').focus({preventScroll: true});
-  $('#town').scrollIntoView({block: 'start'});
+  glideTo($('#town'));
 }
 
 /* =====================================================================
@@ -1600,7 +1613,7 @@ function drawMargins() {
        and left a keyboard reader still down in the table. `tabindex="-1"` makes
        the section a focus target without adding it to the tab sequence. */
     $('#town').focus({preventScroll: true});
-    $('#town').scrollIntoView({block: 'start'});
+    glideTo($('#town'));
   });
 }
 
