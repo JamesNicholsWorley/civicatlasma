@@ -239,7 +239,7 @@ svg.map path.flash{stroke:var(--accent);stroke-width:3px}
   justify-content:space-between;align-items:baseline;gap:14px;flex-wrap:wrap}
 .contest h4 .meta{font-size:12.5px;font-weight:400;color:var(--ink-3);
   white-space:nowrap}
-.contest h4 .scope{font-weight:400;color:var(--ink-2);font-size:13.5px}
+.contest h4 .seat{font-weight:400;color:var(--ink-2);font-size:13.5px}
 /* The vote and share columns may narrow. Fixed at 82 and 62 they could not,
    so at 1.75x zoom the 164px they insisted on left 31px for a name and the row
    pushed the whole page sideways. Ranges shrink when the room is not there and
@@ -1211,7 +1211,7 @@ function contestBlock(race, ri, r) {
   else if (race.cands.length <= sN) notes.push('no more candidates than seats');
   // The precinct or ward, where the office string carried one. Two contests
   // called `Town Meeting Member` in the same town are only distinguishable by it.
-  const scope = race.scope ? ' <span class="scope">' + esc(race.scope) + '</span>' : '';
+  const scope = race.seat ? ' <span class="seat">' + esc(race.seat) + '</span>' : '';
   return '<div class="contest"><h4><span>' + esc(race.office) + scope +
     '</span><span class="meta">' + seatnote + '</span></h4>' + rows + tally +
     (notes.length ? '<div class="cnote">' + notes.join(' · ') + '</div>' : '') +
@@ -1321,7 +1321,7 @@ function drawTown() {
       tmm.map(([race, ri]) => {
         const w = winners(race);
         return '<details><summary><span>' + esc(race.office) +
-          (race.scope ? ' — ' + esc(race.scope) : '') + '</span>' +
+          (race.seat ? ' — ' + esc(race.seat) : '') + '</span>' +
           '<span class="meta">' + seatsOf(race) + ' seats · ' +
           race.cands.length + ' stood</span></summary>' +
           '<div class="inner">' + contestBlock(race, ri, r) + '</div></details>';
@@ -1380,7 +1380,7 @@ function openProv(name, year, ri, cname) {
   const won = winners(race).has(cname);
 
   $('#dkick').textContent = name + ' ' + year + ' · ' + race.office +
-    (race.scope ? ' — ' + race.scope : '');
+    (race.seat ? ' — ' + race.seat : '');
   $('#dname').textContent = cname;
   const share2 = race.cast && c[1] > 0 ? c[1] / race.cast : null;
   $('#dsub').textContent = (won ? 'Elected. ' : '') +
