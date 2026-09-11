@@ -637,8 +637,19 @@ function loadPre(then) {
    not counts and are never printed as numbers. */
 const isWin = v => v < 0;
 const seatsOf = r => r.eseats || r.seats;
-const voteCell = (v, nc) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
-  : (nc && v === 0) ? 'not published' : fmt(v);
+/* A ZERO THAT IS NOT IN THE DOCUMENT IS NOT A COUNT OF ZERO.
+   `g` is where the figure came from: 1 printed on the source line, 2 the same
+   figure with a character the scanner misread, 3 the document names the person
+   and prints no figure at all, 0 the name is on the line and the figure is not.
+   A printed 0 is a real result -- a write-in the clerk listed and tallied at
+   none -- and is shown. A 0 standing in for a figure the document never gave is
+   not, because printing it tells the reader this candidate drew no votes, which
+   the source nowhere says. */
+const voteCell = (v, nc, g) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
+  : v !== 0 ? fmt(v)
+  : (nc || g === 3) ? 'not published'
+  : g === 0 ? '\u2014'
+  : fmt(v);
 
 /* =====================================================================
    Scales. Turnout keeps the breaks of the printed map this is modelled on
@@ -1178,7 +1189,7 @@ function contestBlock(race, ri, r) {
          : c[3] === 3 ? 'The document names this candidate and prints no '
            + 'figure beside them'
          : c[3] === 0 ? 'The name is on the source line; this figure is not' : '') +
-        '">' + (c[5] != null ? esc(String(c[5])) : voteCell(c[1], race.nocounts)) + '</span>' +
+        '">' + (c[5] != null ? esc(String(c[5])) : voteCell(c[1], race.nocounts, c[3])) + '</span>' +
       '<span class="p">' + (share == null ? '' : pct(share, 1)) + '</span></div>';
   }).join('');
   const tally = race.extras.map(e =>
