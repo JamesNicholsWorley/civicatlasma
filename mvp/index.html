@@ -1298,6 +1298,36 @@ function drawTown() {
 
   if (!r) { $('#paper').innerHTML = h; return; }
 
+  /* A TOWN-YEAR WE HOLD THE TURNOUT FOR AND NOTHING ELSE.
+     Public Document 43 covers far more town-years than this collection has
+     read results for. The rate is real and is shown; there are no contests
+     to list, and saying so is the point. Everything below this expects a
+     contest list, so it stops here rather than printing `undefined
+     contests` under a figure that is perfectly good. */
+  if (r.kind === 'turnout_only') {
+    $('#paper').innerHTML = head +
+      '<p class="lede">' + fmt(r.cast_official) + ' ballots were cast in ' +
+      esc(name) + ' in ' + YEAR + ', out of ' + fmt(r.reg) +
+      ' registered voters &mdash; a turnout of <b>' + pct(r.turnout) +
+      '</b>. Who stood ' +
+      'and who won is not in this collection: no result document for ' +
+      esc(name) + ' in ' + YEAR + ' has been read.</p>' +
+      '<div class="facts">' + [
+        ['Ballots cast', fmt(r.cast_official), 'stated by Public Document 43'],
+        ['Turnout', pct(r.turnout), 'of ' + fmt(r.reg) + ' registered'],
+        ['Contests', '—', 'no result document read'],
+        ['Seats filled', '—', ''],
+      ].map(([a, b, c]) => '<div><div class="k">' + a + '</div><div class="v">' +
+        b + '</div><div class="nn">' + c + '</div></div>').join('') +
+      '<div class="src"><div class="k">Source</div><div class="v">' +
+      esc(r.basis || 'Massachusetts Public Document 43') + '</div>' +
+      '<div class="nn">Registered voters and ballots cast, printed for the ' +
+      'same election day. ' + esc(r.turnout_read_by === 'both readers'
+        ? 'Read twice, by two methods that agree.'
+        : 'A single reading.') + '</div></div></div>';
+    return;
+  }
+
   h += '<div class="facts">' + [
     /* Before 2021 the ballot total and the denominator both come from
        Public Document 43 where it has been read, and from nowhere where
