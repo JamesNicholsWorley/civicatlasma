@@ -829,33 +829,58 @@ function drawEraNotice() {
     'town-years across <b>' + fmt(p.towns_with) + '</b> of the 351 ' +
     'municipalities' : 'a partial set') + ', against near-complete coverage ' +
     'from 2021 on. A town shaded pale has not been collected yet — it was not ' +
-    'searched and found wanting. No registered-voter count has been collected ' +
-    'for these years yet, so turnout has no denominator and the map shows none ' +
-    '— the other shadings work as they do for any year.';
+    'searched and found wanting. Turnout for the EVEN years comes from ' +
+    'Massachusetts Public Document 43, which prints the registered-voter count ' +
+    'and the ballots cast; it is published for even years only, so the odd ' +
+    'years carry results without a turnout. Massachusetts cities elect in ' +
+    'odd-numbered years, so in an even year they are marked as holding no ' +
+    'election rather than as uncollected.';
 }
 
+/* THREE COUNTS THAT ARE NOT THE SAME COUNT.
+   This used to count every pre-2021 ROW for the year and call the total
+   `municipalities with a published result`. Since the turnout join and the
+   even-year pass, a row can be a result, a turnout figure with no result, or a
+   city recorded as holding no election at all -- so 2014 read as 347 published
+   results out of 351 municipalities, more than could have voted. The three are
+   kept apart now: `held` is the municipalities not recorded as holding no
+   election, `towns` those a turnout has been read for, `results` those whose
+   contests have been read. `towns` can never exceed `held`.
+
+   And a statewide rate IS now given for the even years, because there is a
+   denominator for one. `Too few for a statewide figure` was written when no
+   registered-voter count had been collected for these years; Public Document 43
+   has since supplied 1.3 to 2.2 million registered voters a year. What is true
+   is narrower and is said instead: PD43 is published for EVEN years only, so
+   the odd years have no denominator rather than too small a one. */
 function drawStatewide() {
-  const w = !isPre(YEAR) && (M.statewide || {})[YEAR];
-  if (!w) {
-    // The pre-2021 corpus covers too few towns for a statewide rate to mean
-    // anything: an average over 208 of 351 is not a statewide average.
-    $('#statewide').innerHTML = isPre(YEAR) && PRE
-      ? '<div class="k">Collected for ' + YEAR + '</div><div class="big">' +
-        fmt(Object.keys(PRE.ty).filter(k => k.endsWith('|' + YEAR)).length) +
-        '</div><p>municipalities with a published result this year. Too few ' +
-        'for a statewide figure, so none is given.</p>'
-      : '';
+  const w = isPre(YEAR) ? (PRE && (PRE.statewide || {})[YEAR])
+                        : (M.statewide || {})[YEAR];
+  if (!w) { $('#statewide').innerHTML = ''; return; }
+  if (!w.registered) {
+    $('#statewide').innerHTML = '<div class="k">Collected for ' + YEAR + '</div>' +
+      '<div class="big">' + fmt(w.results || 0) + '</div>' +
+      '<p>municipalities whose contests have been read. ' + (+YEAR % 2
+        ? 'Public Document 43 is published for even years only, so ' + YEAR +
+          ' has no registered-voter count behind it'
+        : 'The Public Document 43 series collected so far ends at 2018, so ' +
+          YEAR + ' has no registered-voter count behind it yet') +
+      ' and no turnout can be given for it.</p>';
     return;
   }
   $('#statewide').innerHTML =
     '<div class="k">Turnout, all of ' + YEAR + '</div>' +
     '<div class="big">' + pct(w.ballots / w.registered) + '</div>' +
     '<p><b>' + fmt(w.ballots) + '</b> ballots cast against <b>' + fmt(w.registered) +
-    '</b> registered voters, across the ' + fmt(w.towns) + ' municipalities with a ' +
-    'published result. ' + (w.held > w.towns
-      ? fmt(w.held - w.towns) + ' more held an election and published nothing; they are ' +
+    '</b> registered voters, across the ' + fmt(w.towns) + ' municipalities a ' +
+    'turnout has been read for. ' + (w.held > w.towns
+      ? fmt(w.held - w.towns) + ' more held an election and published no count; they are ' +
         'in neither figure.'
-      : 'Every municipality that held one published a result.') + '</p>' +
+      : 'Every municipality that held one published a count.') +
+    (isPre(YEAR) && w.results != null
+      ? ' The contests themselves have been read for <b>' + fmt(w.results) +
+        '</b> of them.'
+      : '') + '</p>' +
     '<div class="k" style="margin-top:12px">The average town</div>' +
     '<div class="big">' + pct(w.mean) + '</div>' +
     '<p>Mean turnout with each municipality counted once, not each voter. Median ' +
