@@ -44,7 +44,7 @@
    "date": "2002-05-14",
    "office_original": "School Committee",
    "district_original": "",
-   "num_winners": 1,
+   "num_winners": 2,
    "stage": "General",
    "type": "Regular",
    "scope": "at_large",
@@ -63,8 +63,9 @@
     }
    ],
    "provenance": "atr_section",
-   "num_winners_source": "derived",
-   "printed_total": 1884
+   "num_winners_source": "ballot arithmetic",
+   "printed_total": 1884,
+   "_note": "Two seats, not 2. This contest holds 1884 marks and the town cast 942 ballots at that election, as printed in Massachusetts Public Document 43 -- exactly two marks per ballot, which is what two seats take and one seat cannot."
   },
   {
    "municipality": "Mansfield",
