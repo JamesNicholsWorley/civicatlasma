@@ -548,8 +548,20 @@ const TMARGIN = k => isPre(k.split('|')[1])
 /* A town with no pre-2021 record was not searched and found wanting: it has not
    been collected yet. Saying `nothing found` there would assert a search that
    never happened, which is the one thing the coverage shading exists to avoid. */
+/* A CITY IN AN EVEN YEAR HELD NO ELECTION, and that is not a gap in the sweep.
+   Massachusetts cities elect in odd years. The modern era has said so since it
+   was built -- 55 municipalities carry `no_election` for 2022, 2024 and 2026 --
+   but before 2021 every one of them shaded the same grey as a town nobody had
+   collected yet, so Boston 2010 read as work outstanding rather than as a year
+   with nothing in it to collect.
+   The pre-2021 bundle now carries those rows with `kind: 'no_election'`, built
+   from the SAME 55 municipalities the modern `cov` map names, so the two eras
+   cannot disagree about which places are cities. Anything else with a row is
+   `official` and anything with no row is still `not_collected`. */
 const COV = k => isPre(k.split('|')[1])
-  ? (PRE && PRE.ty[k] ? 'official' : 'not_collected')
+  ? (PRE && PRE.ty[k]
+      ? (PRE.ty[k].kind === 'no_election' ? 'no_election' : 'official')
+      : 'not_collected')
   : (M.cov[k] || 'no_source');
 
 /* =====================================================================
@@ -1069,7 +1081,8 @@ function drawHits(names) {
   $('#hits').innerHTML = names.map(n => {
     const k = KEY(n, YEAR), r = REC(k), c = COV(k);
     return '<button data-t="' + esc(n) + '"><span>' + esc(n) + '</span><span>' +
-      (r ? r.n + ' contests' : c === 'no_election' ? 'no election'
+      (c === 'no_election' ? 'no election'
+         : r && r.n != null ? r.n + ' contests'
          : c === 'not_collected' ? 'not collected' : 'no result') + '</span></button>';
   }).join('');
   $('#q').setAttribute('aria-expanded', names.length ? 'true' : 'false');
@@ -1297,6 +1310,25 @@ function drawTown() {
   let h = head + '<p class="lede">' + ledeFor(name, r) + '</p>';
 
   if (!r) { $('#paper').innerHTML = h; return; }
+
+  /* A CITY IN AN EVEN YEAR. There was no municipal election to collect, so
+     this is not a hole in the sweep and must not be described as one. The row
+     carries no contests and no turnout by design: it exists to say that the
+     absence is the calendar rather than the collection. Everything below
+     expects a contest list, so it stops here. */
+  if (r.kind === 'no_election') {
+    $('#paper').innerHTML = head +
+      '<p class="lede">' + esc(name) + ' held no municipal election in ' +
+      YEAR + '. Massachusetts cities elect in odd-numbered years, so there ' +
+      'is nothing to collect for this year rather than something not yet ' +
+      'collected.</p>' +
+      '<div class="facts">' + [
+        ['Contests', '—', 'no election held'],
+        ['Turnout', '—', 'no election held'],
+      ].map(([a, b, c]) => '<div><div class="k">' + a + '</div><div class="v">' +
+        b + '</div><div class="nn">' + c + '</div></div>').join('') + '</div>';
+    return;
+  }
 
   /* A TOWN-YEAR WE HOLD THE TURNOUT FOR AND NOTHING ELSE.
      Public Document 43 covers far more town-years than this collection has
