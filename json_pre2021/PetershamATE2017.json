@@ -1,0 +1,220 @@
+{
+ "document": {
+  "heading_verbatim": "March 6, 2017 Annual Town Election Results",
+  "date_verbatim": "March 6, 2017",
+  "election_type": "Regular",
+  "election_type_evidence": "the document heads itself an annual town election",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "_source_stem": "PetershamATE2017",
+ "_source_url": "https://townofpetersham.weebly.com/uploads/2/7/5/3/27531945/result_2017-03-06_2.pdf",
+ "_source_index_page": "https://townofpetersham.weebly.com/past-elections-information.html",
+ "_provenance": "town_clerk_results_page",
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_bridge_problems": [],
+ "_grounded": {
+  "names": "every office word and every name checked against the document's own text",
+  "figures": "as printed"
+ },
+ "ballots_cast": 186,
+ "turnout_stated": 0.19,
+ "turnout_quote": "186 votes cast / 19% Turnout",
+ "turnout_basis": "The town clerk's posted results document",
+ "elections": [
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Moderator 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Bart R. Wendell",
+     "votes": 151
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Board of Selectmen 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Fredrik A. Marsh",
+     "votes": 146
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Treasurer 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Dana C. Robinson",
+     "votes": 148
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Board of Health 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Stephen Loring",
+     "votes": 154
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Board of Assessors 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Ellen H. Anderson",
+     "votes": 143
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Petersham School Committee 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Angela Danielson",
+     "votes": 43
+    },
+    {
+     "name_original": "Christopher Harrington",
+     "votes": 41
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Planning Board 3 Years",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "John R. Lawson",
+     "votes": 150
+    },
+    {
+     "name_original": "D. Fraser Sinclair",
+     "votes": 152
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "arithmetic"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Trustees of Public Library 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Kent Byron",
+     "votes": 69
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Trustees of Public Library 1 Year",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Fifi Scoufopoulos",
+     "votes": 153
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2017-03-06",
+   "office_original": "Shall the Town of Petersham be allowed to exempt ... Proposition Two and One-half",
+   "district_original": "",
+   "num_winners": null,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "YES",
+     "votes": 132
+    },
+    {
+     "name_original": "NO",
+     "votes": 46
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": null,
+   "question_verbatim": "Shall the Town of Petersham be allowed to exempt from the provisions of Proposition Two and One-half, so-called, the amount required to pay for the bonds to be issued in order to finance the abatement and removal of asbestos and other hazardous materials from all buildings except the garage on the Town-owned property known as the former Nichewaug Inn and Maria Assumpta Academy located at 25 Common Street, as voted for under Article 6 of the warrant for the Special Town Meeting held on December 12, 2016?"
+  }
+ ]
+}

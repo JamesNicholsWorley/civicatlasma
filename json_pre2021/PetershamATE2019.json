@@ -1,0 +1,178 @@
+{
+ "document": {
+  "heading_verbatim": "ANNUAL TOWN ELECTION MARCH 4, 2019",
+  "date_verbatim": "MARCH 4, 2019",
+  "election_type": "Regular",
+  "election_type_evidence": "the document heads itself an annual town election",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "_source_stem": "PetershamATE2019",
+ "_source_url": "https://townofpetersham.weebly.com/uploads/2/7/5/3/27531945/ate_results_3-4-2019_2.pdf",
+ "_source_index_page": "https://townofpetersham.weebly.com/past-elections-information.html",
+ "_provenance": "town_clerk_results_page",
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_bridge_problems": [
+  "MAHAR REGIONAL SCHOOL COMMITTEE is printed as a heading with no candidate and no figure under it; the office is recorded as having been on the ballot with no result printed"
+ ],
+ "_grounded": {
+  "names": "every office word and every name checked against the document's own text",
+  "figures": "as printed"
+ },
+ "registered_voters": 952,
+ "ballots_cast": 65,
+ "turnout_quote": "65 voters voted out of 952 / 6% voter turnout",
+ "turnout_basis": "The town clerk's posted results document",
+ "elections": [
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "BOARD OF SELECTMEN ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Nancy S. Allen",
+     "votes": 53
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "BOARD OF ASSESSORS ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jean W. Robinson",
+     "votes": 60
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "BOARD OF HEALTH ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Fifi Scoufopoulos",
+     "votes": 57
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "CONSTABLE ‐ 3 YEARS ‐ 3 POSITIONS",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Richard N. Bartus",
+     "votes": 60
+    },
+    {
+     "name_original": "Denis N. Legare",
+     "votes": 61
+    },
+    {
+     "name_original": "Larry A. Robinson",
+     "votes": 61
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "printed",
+   "seats_quote": "CONSTABLE ‐ 3 YEARS ‐ 3 POSITIONS"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "MAHAR REGIONAL SCHOOL COMMITTEE ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "PETERSHAM SCHOOL COMMITTEE ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Lynn Jones‐Peredina",
+     "votes": 61
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "PLANNING BOARD ‐ 3 YEARS ‐ VOTE FOR TWO",
+   "district_original": "",
+   "num_winners": 2,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Donna K. Byron",
+     "votes": 58
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "printed",
+   "seats_quote": "PLANNING BOARD ‐ 3 YEARS ‐ VOTE FOR TWO"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2019-03-04",
+   "office_original": "TRUSTEES OF PUBLIC LIBRARY ‐ 3 YEARS",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Hilary L. Loring",
+     "votes": 58
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  }
+ ]
+}

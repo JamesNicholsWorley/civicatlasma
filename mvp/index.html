@@ -1401,7 +1401,9 @@ function drawTown() {
        which volume, the record says whether we have it. */
     ['Ballots cast', r.cast_official ? fmt(r.cast_official)
        : r.peak ? fmt(r.peak) : '—',
-     r.cast_official ? 'stated by Public Document 43'
+     r.cast_official ? (r.turnout_src === 'document'
+         ? 'stated by the town&rsquo;s own results document'
+         : 'stated by Public Document 43')
        : r.peak_from_doc ? 'stated by the document'
        : r.era === 'pre2021' ? 'busiest contest; no total was printed'
        : r.peak ? 'busiest contest' : 'none published'],
@@ -1409,6 +1411,8 @@ function drawTown() {
        : r.era === 'pre2021' ? 'n/a'
        : r.nocount ? 'n/a' : '—',
      r.turnout != null && r.reg ? 'of ' + fmt(r.reg) + ' registered'
+       : r.turnout_src === 'document'
+         ? 'as the town printed it; it states no registered-voter count'
        : r.era === 'pre2021' ? 'no registered-voter count read for this year yet'
        : r.nocount ? ({floor: 'no ballot was cast', preballot: 'sample ballot only'}
                       [r.nocount_why] || 'no counts published')

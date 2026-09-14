@@ -1,0 +1,198 @@
+{
+ "document": {
+  "heading_verbatim": "Annual Town Election March 4, 2013",
+  "date_verbatim": "March 4, 2013",
+  "election_type": "Regular",
+  "election_type_evidence": "the document heads itself an annual town election",
+  "municipality_printed": true,
+  "municipality_source": "printed"
+ },
+ "_source_stem": "PetershamATE2013",
+ "_source_url": "https://townofpetersham.weebly.com/uploads/2/7/5/3/27531945/election-results-2013-03-04_1.pdf",
+ "_source_index_page": "https://townofpetersham.weebly.com/past-elections-information.html",
+ "_provenance": "town_clerk_results_page",
+ "_gate": "publish",
+ "_gate_reasons": [],
+ "_bridge_problems": [],
+ "_grounded": {
+  "names": "every office word and every name checked against the document's own text",
+  "figures": "as printed"
+ },
+ "registered_voters": 963,
+ "ballots_cast": 210,
+ "turnout_quote": "963 voters / 210 voted / 21% turnout",
+ "turnout_basis": "The town clerk's posted results document",
+ "elections": [
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Board of Selectmen – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Timothy M. Clark",
+     "votes": 111
+    },
+    {
+     "name_original": "Nancy Allen",
+     "votes": 82,
+     "annotation_original": "Write-In"
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Board of Assessors – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Jean W. Robinson",
+     "votes": 169
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Board of Health – 3 years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Fifi Scoufopoulos",
+     "votes": 184
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Constables – 3 Years (vote for 3)",
+   "district_original": "",
+   "num_winners": 3,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Denis N. Legare",
+     "votes": 166
+    },
+    {
+     "name_original": "Richard N. Bartus",
+     "votes": 169
+    },
+    {
+     "name_original": "Larry A. Robinson",
+     "votes": 172
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "printed",
+   "seats_quote": "Constables – 3 Years (vote for 3)"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Mahar Regional School Committee – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "regional_district",
+   "candidates": [
+    {
+     "name_original": "Lynn Peredina",
+     "votes": 61,
+     "annotation_original": "Write In"
+    },
+    {
+     "name_original": "Heidi Shortis",
+     "votes": 62,
+     "annotation_original": "Write In"
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Petersham School Committee – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Lynn Peredina",
+     "votes": 83,
+     "annotation_original": "Write In"
+    },
+    {
+     "name_original": "Heidi Shortis",
+     "votes": 65,
+     "annotation_original": "Write In"
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Planning Board – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Donna Byron",
+     "votes": 156
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  },
+  {
+   "municipality": "Petersham",
+   "date": "2013-03-04",
+   "office_original": "Trustees of Public Library – 3 Years",
+   "district_original": "",
+   "num_winners": 1,
+   "stage": "General",
+   "type": "Regular",
+   "scope": "at_large",
+   "candidates": [
+    {
+     "name_original": "Richard Carfagna",
+     "votes": 83,
+     "annotation_original": "Write In"
+    }
+   ],
+   "provenance": "town_clerk_results_page",
+   "num_winners_source": "inferred"
+  }
+ ]
+}
