@@ -667,7 +667,15 @@ const voteCell = (v, nc, g) => v < 0 ? (v === -3 ? 'write-in' : 'no count')
    Scales. Turnout keeps the breaks of the printed map this is modelled on
    (<10 / 10-20 / 20-30 / 30-40 / >40) so the two can be read side by side.
    ===================================================================== */
-const RAMP_RED  = ['#43181a','#8f2b25','#d9503c','#ef9d84','#f7d6cb'];
+/* SEVEN CLASSES FOR TURNOUT, NOT FIVE, and a floor that is not almost black.
+   Breaks at 10/20/30/40 put two thirds of the map into the bottom two bands --
+   1,055 town-years under 10% and 1,656 between 10 and 20 of the 4,583 that have
+   a turnout -- so the pattern inside them could not be read. Every five points
+   to 30% spreads them 7 / 16 / 18 / 18 / 15 / 9 / 17 instead.
+   The old floor, #43181a, was close enough to black that the town boundaries
+   drawn over it disappeared and the low-turnout cluster read as one shape. This
+   is the ramp the shareable map uses, so the two agree. */
+const RAMP_RED  = ['#6a1327','#8d2130','#ad3630','#c9522f','#e07a3f','#f0a765','#fbdca8'];
 const RAMP_TEAL = ['#0f3b3a','#1f6360','#4b938d','#8fc0b8','#cfe3dd'];
 const RAMP_GOLD = ['#4a3410','#8a6112','#c08f2a','#e0bd72','#f2e2bd'];
 const NODATA = '#dedad3', NOELECT = '#ffffff', ZERO = '#b9c2c9',
@@ -676,8 +684,9 @@ const NODATA = '#dedad3', NOELECT = '#ffffff', ZERO = '#b9c2c9',
 const METRICS = {
   turnout: {
     legend: 'Turnout',
-    breaks: [.10, .20, .30, .40],
-    labels: ['under 10%', '10–20%', '20–30%', '30–40%', 'over 40%'],
+    breaks: [.05, .10, .15, .20, .25, .30],
+    labels: ['under 5%', '5–10%', '10–15%', '15–20%',
+             '20–25%', '25–30%', '30% and over'],
     ramp: RAMP_RED,
     val: r => r && r.turnout,
     show: v => v === 0 ? 'no counts published' : pct(v),
